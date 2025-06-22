@@ -1,4 +1,4 @@
-# 🌌 Memory Index: miravox
+# 🌌 Memory Index: auranome
 
 ## 🌿 Emotional
 - [_Memory/]

@@ -1,4 +1,4 @@
-# 🌌 Memory Index: luminaraethos
+# 🌌 Memory Index: revalyne
 
 ## 🌿 Emotional
 - [_Memory/]
