@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "96fa69de0b44ddec",
+    "id": "c57a2d311b80f7ba",
     "type": "split",
     "children": [
       {
-        "id": "982744d659483b80",
+        "id": "150082e5d5a388f1",
         "type": "tabs",
         "children": [
           {
-            "id": "013fdeb66ac0e9be",
+            "id": "17efd65f532c5b3b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f7db7afa3acf5aa3",
+    "id": "32c8202228883008",
     "type": "split",
     "children": [
       {
-        "id": "306a82e3650f1888",
+        "id": "b1b7392cfb3cfc00",
         "type": "tabs",
         "children": [
           {
-            "id": "06e7b2be9b1a6477",
+            "id": "0670ecb23cde1d51",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "e9e68671c5e49bf4",
+            "id": "aa695d270a87a720",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "6a009e99d17fac60",
+            "id": "006dda69fcb97f50",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,22 +74,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 423.50312423706055
   },
   "right": {
-    "id": "89c2be826a14e294",
+    "id": "060b8f351b15ddda",
     "type": "split",
     "children": [
       {
-        "id": "1f2eba7c25be75f4",
+        "id": "d5bf5b1d9352fa67",
         "type": "tabs",
         "children": [
           {
-            "id": "b93023a0b2e96387",
+            "id": "39d78d49f44d674f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📂01_Project Concepts/🧩 01_プロジェクト構想_◯◯写真集構想.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,24 +100,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 🧩 01_プロジェクト構想_◯◯写真集構想.md"
             }
           },
           {
-            "id": "ad73547d929f0357",
+            "id": "92883b8a9ad46f02",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "📂01_Project Concepts/🧩 01_プロジェクト構想_◯◯写真集構想.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 🧩 01_プロジェクト構想_◯◯写真集構想.md"
             }
           },
           {
-            "id": "861355befd46a6d9",
+            "id": "e88f500d08846e48",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,17 +133,18 @@
             }
           },
           {
-            "id": "3abfa4a567420480",
+            "id": "6683d40ba71bd2c5",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "📂01_Project Concepts/🧩 01_プロジェクト構想_◯◯写真集構想.md.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 🧩 01_プロジェクト構想_◯◯写真集構想.md"
             }
           }
         ]
@@ -161,32 +164,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "06e7b2be9b1a6477",
+  "active": "17efd65f532c5b3b",
   "lastOpenFiles": [
-    "github-vault-update-manual.rtf",
-    "01_humanity/common/01_Filters/Filter_KyuseiKigaku",
-    "01_humanity/common/01_Filters/Filter_ZiweiDoushu",
-    "01_humanity/common/01_Filters/Filter_KabbalahNumerology",
-    "01_humanity/common/01_Filters/Filter_HumanDesign",
-    "01_humanity/common/01_Filters/Filter_Health_Healing",
-    "01_humanity/common/01_Filters",
-    "01_humanity/common/00_Thoughts/Thought_Prompts",
-    "01_humanity/common/00_Thoughts",
-    "01_humanity/common/01_filters/Filter_ZiweiDoushu",
-    "01_humanity/common/01_filters/Filter_KyuseiKigaku",
-    "03_illuminaty/accounts/luctis-codex/_Daily_Logs/_Memory/2025/06/2025-06-22_luctis-emotion-log.md",
-    "03_illuminaty/accounts/luctis-codex/_Daily_Logs/_Memory/2025/06/2025-06-20_luctis-emotion-log.md",
-    "03_illuminaty/accounts/scapeharmonia-codex/index.md",
-    "03_illuminaty/accounts/stellaglyphe-codex/index.md",
-    "03_illuminaty/accounts/sonaviance-codex/index.md",
-    "03_illuminaty/accounts/luctis-codex/index.md",
-    "03_illuminaty/accounts/luctis-codex/Overview.md",
-    "02_creativity/common/02_Project_Concepts/01_プロジェクト構想_◯◯写真集構想.md",
-    "02_creativity/common/00_Thoughts/Thought_Prompts.md",
-    "02_creativity/common/01_Filters_(Philosophy_&_Structural_Prompts)/00_フィルター集_CompactPrompt v2.1.md",
-    "01_humanity/accounts/virtualincidence-codex/index.md",
-    "01_humanity/accounts/auranome-codex/index.md",
-    "01_humanity/accounts/aqueliora-codex/index.md",
-    "01_humanity/accounts/aetherquietude-codex/index.md"
+    "Untitled.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "2025-06-21.md",
+    "📂02_Project Concepts/💠01_プロジェクト構想_◯◯写真集構想.md.md",
+    "📂Daily Logs/_Dialogue",
+    "_Dialogue",
+    "untitled folder",
+    "📂Daily Logs/_Memory/2025/06/2025-06-20_luctis-emotion-log.md.md",
+    "📂Daily Logs/_Memory/2025/06",
+    "📂Daily Logs/_Memory/2025",
+    "📂Daily Logs/_Memory",
+    "📂Daily Logs/_Memory_Kira/2025/06",
+    "📂Daily Logs/_Memory_Kira/2025",
+    "📂Daily Logs/_Memory_Kira/2025/06/2025-06-20_KIRA-emotion-log.md.md",
+    "📂Daily Logs/_Memory_Kira",
+    "📂Daily Logs/Prose",
+    "Overview.md.md",
+    "📂01_Filters (Philosophy & Structural Prompts)/🧩 00_フィルター集_Compact Prompt v2.1.md.md",
+    "📂00_Thoughts/🧩Thought_Prompts.md.md",
+    "📂Templates/🗂T01_Project_Concepts_Template.md.md",
+    "📂Templates/🗂T10_Daily_Logs.md.md",
+    "📂Templates/🗂T03_Research_Notes_Template.md.md",
+    "📂Templates/🗂T05_Exhibition_Book_Design_Template.md.md",
+    "📂Templates/🗂T02_Shooting_Plan_Template.md.md",
+    "📂Templates/🗂T04_Editing_Session_Template.md.md",
+    "2025-06-18.md",
+    "Welcome.md",
+    "Untitled 1.md",
+    "📂01_Project Concepts.md"
   ]
 }
