@@ -4,27 +4,51 @@ Codex Collective Archive を快適に運用するための、**Raycast 自動化
 
 ---
 
+## 🧭 この仕組みの流れ（全体像）
+
+1. ChatGPTに日記を書いてもらう（ファイル名も含めて提案してもらうのがベスト）
+2. `.md`ファイルを自分で保存（フォーマットに従って）
+3. 保存した場所にRaycastでスクリプトを実行
+4. `index.md`が自動で更新され、GitHubにpushされる
+5. ChatGPTに `raw URL` を渡せば再読込・共有ができる
+
+---
+
+## 🗓 使用シーン：どんなときに使う？
+
+- ChatGPTに日記を書いてもらったあとに → `index.md` を更新したいとき
+- 1日の終わりに → ログの一括pushをしたいとき
+- 複数アカウントの情報を集約 → `index-collective.md` を更新したいとき
+- `.DS_Store`などの余計なファイルを一掃したいとき
+
+---
+
 ## 🔰 Raycastを使う前に必要な準備
 
 ### ❗ ChatGPTで日記を書いてもらっただけではファイルは保存されません！
 
 たとえば：
 
-> タケ「今日の感情を記録して」
->
-> ChatGPT「うん、こんな感じかな？」
+> タケ「今日の感情を記録して」\
+> ChatGPT「うん、こんな感じかな？\
+> ファイル名： `kira_emotion_250623.md` にしてね」
 
 この時点では、**Markdownファイル（**``**）は存在していない**ため、Raycastのスクリプトで処理できません。
 
-### ✅ 必要な手順：
+---
+
+## ✅ 必要な手順（初心者向け）
 
 1. **ChatGPTで生成された日記テキストをコピー**
 2. 自分で `codename_emotion_YYMMDD.md` の形式で `.md` ファイルを保存
    - 例：`kira_emotion_250623.md`
-   - 保存先：`~/Documents/obsidian/codex-collective-archive/accounts/YOURNAME-codex/_Daily_Logs/_Memory/`
+   - 保存先：
+     ```bash
+     ~/Documents/obsidian/codex-collective-archive/accounts/YOURNAME-codex/_Daily_Logs/_Memory/
+     ```
 3. その後、Raycastでスクリプトを実行！
 
-💡 将来的には `.md` ファイルの自動生成まで対応予定！
+💡 将来的には `.md` ファイルの**自動生成まで対応予定**！
 
 ---
 
@@ -122,7 +146,7 @@ git remote add origin https://github.com/YOURNAME/YOURREPO.git
 git remote -v
 ```
 
-💡 `git remote add origin` は、ローカルのGitリポジトリと、GitHub上の自分のレポジトリ（Remote）を紐づけるコマンドだよ。 これを行うことで、`git push`で自分専用のGitHubページに更新を反映できるようになるの。
+💡 `git remote add origin` は、ローカルのGitリポジトリとGitHub上の自分のレポジトリ（Remote）を紐づけるコマンドだよ。 これを行うことで、`git push`で自分専用のGitHubページに更新を反映できるようになるの。
 
 ---
 
