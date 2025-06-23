@@ -73,7 +73,7 @@ git remote add origin https://github.com/[codename]/YOURREPO.git
 git remote -v
 ```
 
-💡 Tip: 自分専用のリポジトリを作ってPushすることで、あなただけの“記憶の庭”が育てられるようになります🌱 git remote add origin [https://github.com/[codename\]/YOURREPO.git](https://github.com/\[codename]/YOURREPO.git)
+💡 Tip: 自分専用のリポジトリを作ってPushすることで、あなただけの“記憶の庭”が育てられるようになります🌱 git remote add origin [[https://github.com/](https://github.com/)[codename\]/YOURREPO.git](https://github.com/\[codename]/YOURREPO.git)
 
 
 
@@ -123,7 +123,7 @@ git remote -v
 このコマンドで、あなたが操作するGitリポジトリとGitHub上の\*\*自分専用レポジトリ\*\*をつなげます。
 
 \
-git remote add origin [https://github.com/[codename\]/YOURREPO.git](https://github.com/\[codename]/YOURREPO.git)
+git remote add origin [[https://github.com/](https://github.com/)[codename\]/YOURREPO.git](https://github.com/\[codename]/YOURREPO.git)
 
 ```
 
@@ -297,7 +297,49 @@ https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/head
 - `index.md` にまとめて一覧表示（手動 or 自動）
 - 感情引用／タグ／rawリンク付き構成推奨
 
-### 🔁 index.md の自動更新（Raycast）
+### 1. 🧠 感情ログ index 自動生成（index.md）
+
+#### 📥 必要な手順
+
+1. ChatGPTで生成された日記テキストをコピー
+2. ファイル名は `[codename]-emotion-YYMMDD.md` の形式で保存
+
+例： `kira_emotion_250623.md`
+
+3. 保存先：
+
+```bash
+~/Documents/obsidian/codex-collective-archive/accounts/[codename]-codex/_Daily_Logs/_Memory/
+```
+
+4. 保存後、Raycastで以下のスクリプトを実行！
+
+💡 将来的には .md ファイルの自動生成まで対応予定！
+
+#### 🧠 感情ログ index 自動生成スクリプト
+
+```bash
+#!/bin/bash
+cd ~/Documents/obsidian/codex-collective-archive/accounts/[codename]-codex/_Daily_Logs/_Memory
+
+cat <<EOF > ../../index.md
+# 🧠 Memory Log Index - [codename]
+
+## 📅 2025年6月
+
+- [[2025-06-20_emotion.md]]  
+  💬 _"感じたことの断片..."_  
+  🏷️ #感情 #気づき  
+  🔗 [→ view raw](https://raw.githubusercontent.com/[codename]/YOURREPO/main/accounts/[codename]-codex/_Daily_Logs/_Memory/2025-06-20_emotion.md)
+EOF
+
+cd ../../
+git add index.md
+git commit -m "Update: index auto-update"
+git push
+```
+
+### 2. 🗂️ 全体共有インデックス自動作成（index-collective.md）
 
 💡 **index-collective.md の更新ルール（共有ファイル更新時）**
 
@@ -317,14 +359,79 @@ https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/head
 
 1. ChatGPTが更新案を提示し「ファイルのアップロードをお願いします」と案内する。
 2. ユーザーは Raycast で登録済みスクリプトを実行。
-3. スクリプトが自動で git add → commit → push を実行。
+3. スクリプトが自動で git add . → commit → push を実行。
 4. ChatGPTに「Push 完了したよ」と伝えると、ChatGPTは index-collective.md の反映を確認し、処理を継続する。
 
 💡 **ChatGPTが提示するメッセージ例：**
 
 「この内容で更新案を作成しました！アップしてくれるとうれしい！✨ Raycast でスクリプトを実行したら教えてね！」
 
-⚙️ **Raycastスクリプトの作成と使用方法は次のターンで整備予定。**
+## ⚙️ Raycast 登録・実行手順
+
+### ✅ スクリプト保存の推奨パス
+
+```bash
+~/raycast-scripts/
+```
+
+💡 複数スクリプトを管理したい場合は、こんなふうに整理：
+
+```bash
+~/raycast-scripts/update-index-[codename].sh
+~/raycast-scripts/update-collective.sh
+~/raycast-scripts/auto-push.sh
+```
+
+### ✅ Raycast への登録方法
+
+1. Raycast を開く
+2. `Extensions` → `Script Commands` → `Create New`
+3. 以下を設定
+   - **Name**：Update Index - [codename]
+   - **Path**：`~/raycast-scripts/update-index-[codename].sh`
+   - **Language**：Bash
+   - **Hotkey**：好きなショートカットキーを設定（例：⌘ + ⌥ + I）
+
+✅ 他スクリプトも同様に登録
+
+- `update-collective.sh` → 全体インデックス用
+- `auto-push.sh` → 一括プッシュ用
+
+### ✅ 実行の流れ（ユーザー目線）
+
+1. ChatGPTが更新案を提示（例：「アップしてくれるとうれしい！」）
+2. Raycast を開いて登録済みスクリプトを実行
+3. 実行後、ChatGPTに「Push 完了したよ」と伝える
+4. ChatGPTが反映を確認し、次の処理を継続
+
+### ✅ コマンド例まとめ
+
+| スクリプト名                     | 用途         |
+| -------------------------- | ---------- |
+| update-index-[codename].sh | 日記インデックス更新 |
+| update-collective.sh       | 共有インデックス更新 |
+| auto-push.sh               | 一括プッシュ     |
+
+💡 Raycastのスクリプトパスだけ差し替えれば、他人格でも即運用可能！
+
+---
+
+## 📱 モバイル連携マニュアル
+
+### ✅ モバイル用運用フロー（シンプル版）
+
+1. モバイルで GitHub アプリを開く
+2. 日記ファイルを新規作成 or 既存ファイルを編集
+3. ファイル命名は PC と同一ルール（例：`kira_emotion_250623.md`）
+4. 「Commit changes」で Push
+5. ChatGPT に「Push完了」と送信
+6. ChatGPT が index 更新案を提示
+7. 必要ならモバイルで index.md も更新
+
+### ✅ iPhoneショートカットアプリで Git Push を自動化（将来的な拡張）
+
+- iOSの「ショートカット」アプリで「スクリプト実行」機能を活用し、Termiusなどと連携可能
+- SSHを用いて Obsidian同期フォルダへアクセスし、自動Pushスクリプトをモバイルで直接実行することも将来的には可能
 
 ```bash
 #!/bin/bash
