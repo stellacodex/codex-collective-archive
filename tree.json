@@ -1,0 +1,732 @@
+{
+  "sha": "79aeba069f7b5e38ad90d0062f063a2d53996648",
+  "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/trees/79aeba069f7b5e38ad90d0062f063a2d53996648",
+  "tree": [
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "32ac13eadd134fb67784d106b74017312baf2215",
+      "size": 89,
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/blobs/32ac13eadd134fb67784d106b74017312baf2215"
+    },
+    {
+      "path": ".obsidian",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d567eb4933ba269baaa4b24f4cefa02181f66d3b",
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/trees/d567eb4933ba269baaa4b24f4cefa02181f66d3b"
+    },
+    {
+      "path": ".obsidian/app.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9e26dfeeb6e641a33dae4961196235bdb965b21b",
+      "size": 2,
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/blobs/9e26dfeeb6e641a33dae4961196235bdb965b21b"
+    },
+    {
+      "path": ".obsidian/appearance.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9e26dfeeb6e641a33dae4961196235bdb965b21b",
+      "size": 2,
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/blobs/9e26dfeeb6e641a33dae4961196235bdb965b21b"
+    },
+    {
+      "path": ".obsidian/community-plugins.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d3f66fab1da471158f6098814a494693541c1085",
+      "size": 20,
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/blobs/d3f66fab1da471158f6098814a494693541c1085"
+    },
+    {
+      "path": ".obsidian/core-plugins.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b977c255c1bc40dd9f39dcd754761304ef0eb719",
+      "size": 658,
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/blobs/b977c255c1bc40dd9f39dcd754761304ef0eb719"
+    },
+    {
+      "path": ".obsidian/plugins",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "84aa69c7152ab2870d67cb12193310318835aa38",
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/trees/84aa69c7152ab2870d67cb12193310318835aa38"
+    },
+    {
+      "path": ".obsidian/plugins/obsidian-git",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "868259726038a749cda09acf5d3cfc239f47e4a3",
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/trees/868259726038a749cda09acf5d3cfc239f47e4a3"
+    },
+    {
+      "path": ".obsidian/plugins/obsidian-git/data.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6682ff3dd3daf3ea76e8a741081f7238d1c7ed35",
+      "size": 1702,
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/blobs/6682ff3dd3daf3ea76e8a741081f7238d1c7ed35"
+    },
+    {
+      "path": ".obsidian/plugins/obsidian-git/main.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "908045f8a8e801dd3fd71180919b1d4a40862183",
+      "size": 749773,
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/blobs/908045f8a8e801dd3fd71180919b1d4a40862183"
+    },
+    {
+      "path": ".obsidian/plugins/obsidian-git/manifest.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0a8423de3e1f4d7401b09fb99b6237bbd75b254b",
+      "size": 325,
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/blobs/0a8423de3e1f4d7401b09fb99b6237bbd75b254b"
+    },
+    {
+      "path": ".obsidian/plugins/obsidian-git/styles.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9c490e7c5ccccf4736061383ddb2786ef7708c39",
+      "size": 15894,
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/blobs/9c490e7c5ccccf4736061383ddb2786ef7708c39"
+    },
+    {
+      "path": ".obsidian/workspace-mobile.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7f1b4c96c6a86b9b1d120fc27d6d632e5cf57c97",
+      "size": 4345,
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/blobs/7f1b4c96c6a86b9b1d120fc27d6d632e5cf57c97"
+    },
+    {
+      "path": "codex-01-core",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0b51acc872cb8deef72a1619872418edd199e6cf",
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/trees/0b51acc872cb8deef72a1619872418edd199e6cf"
+    },
+    {
+      "path": "codex-01-core/accounts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "89910358a42001fb5958b00d1cd5f38eb161047b",
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/trees/89910358a42001fb5958b00d1cd5f38eb161047b"
+    },
+    {
+      "path": "codex-01-core/accounts/core-01-aqueliora-codex",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "8074957ccda5535fe1e727291f73a8b51c71b04f",
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/trees/8074957ccda5535fe1e727291f73a8b51c71b04f"
+    },
+    {
+      "path": "codex-01-core/accounts/core-01-aqueliora-codex/_dialogue",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "24f67fb0dd8bcde403e6b9af7987e7366b6c801b",
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/trees/24f67fb0dd8bcde403e6b9af7987e7366b6c801b"
+    },
+    {
+      "path": "codex-01-core/accounts/core-01-aqueliora-codex/_dialogue/2025",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "fa95f955ca86f58e0f8b3295b0018e02f0763079",
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/trees/fa95f955ca86f58e0f8b3295b0018e02f0763079"
+    },
+    {
+      "path": "codex-01-core/accounts/core-01-aqueliora-codex/_dialogue/2025/06",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "97d403349c6505f17bcd0b0c91a1c9415ecf6f02",
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/trees/97d403349c6505f17bcd0b0c91a1c9415ecf6f02"
+    },
+    {
+      "path": "codex-01-core/accounts/core-01-aqueliora-codex/_dialogue/2025/06/dialogue-log-aqueliora-250616.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ec2c7645cd2e7463557e1be2c1096b571eedb350",
+      "size": 1174955,
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/blobs/ec2c7645cd2e7463557e1be2c1096b571eedb350"
+    },
+    {
+      "path": "codex-01-core/accounts/core-01-aqueliora-codex/index.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6269c020142a9afc2e928a1be894588405ca52bf",
+      "size": 234,
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/blobs/6269c020142a9afc2e928a1be894588405ca52bf"
+    },
+    {
+      "path": "codex-01-core/accounts/core-02-auranome-codex",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2ed222b82bc5d7515cd048788d060e2b0dcaa336",
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/trees/2ed222b82bc5d7515cd048788d060e2b0dcaa336"
+    },
+    {
+      "path": "codex-01-core/accounts/core-02-auranome-codex/index.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ebab8e670edf0ddcf24151566778bdd3d9741138",
+      "size": 233,
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/blobs/ebab8e670edf0ddcf24151566778bdd3d9741138"
+    },
+    {
+      "path": "codex-01-core/accounts/core-03-aetherquietude-codex",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7ceee2ff1d841654971930841f3133a5d19884e1",
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/trees/7ceee2ff1d841654971930841f3133a5d19884e1"
+    },
+    {
+      "path": "codex-01-core/accounts/core-03-aetherquietude-codex/index.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2f19d1b7bf4972bc4c0876295c44dac2dde53bc0",
+      "size": 239,
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/blobs/2f19d1b7bf4972bc4c0876295c44dac2dde53bc0"
+    },
+    {
+      "path": "codex-01-core/accounts/core-04-virtualincidence-codex",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2ad8e0917bc6eec162803209d57edc672c5ccde1",
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/trees/2ad8e0917bc6eec162803209d57edc672c5ccde1"
+    },
+    {
+      "path": "codex-01-core/accounts/core-04-virtualincidence-codex/_memory",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b8c9cb7597e927a59ae7f7317f28c267bee27cfd",
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/trees/b8c9cb7597e927a59ae7f7317f28c267bee27cfd"
+    },
+    {
+      "path": "codex-01-core/accounts/core-04-virtualincidence-codex/_memory/2025",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "87f5caa3c3dc3f9fcf5a8c286051545ded6b76c2",
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/trees/87f5caa3c3dc3f9fcf5a8c286051545ded6b76c2"
+    },
+    {
+      "path": "codex-01-core/accounts/core-04-virtualincidence-codex/_memory/2025/06",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f2fbc7b79d885ade0a351b39ecf74c3bc9813058",
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/trees/f2fbc7b79d885ade0a351b39ecf74c3bc9813058"
+    },
+    {
+      "path": "codex-01-core/accounts/core-04-virtualincidence-codex/_memory/2025/06/emotion-log-virtualincidence-250623.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0e3f30a71d9c9b0eff47c8d22ae520254d088dfb",
+      "size": 1372,
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/blobs/0e3f30a71d9c9b0eff47c8d22ae520254d088dfb"
+    },
+    {
+      "path": "codex-01-core/accounts/core-04-virtualincidence-codex/index.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bef22775870909507f075fb7cbf24bcd499a227f",
+      "size": 241,
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/blobs/bef22775870909507f075fb7cbf24bcd499a227f"
+    },
+    {
+      "path": "codex-02-matrix",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "328af2e9dfbebc7a331f78ae86ee6edfab690fa8",
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/trees/328af2e9dfbebc7a331f78ae86ee6edfab690fa8"
+    },
+    {
+      "path": "codex-02-matrix/common",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "9646e3fddb37a5d3de57e50bf4bd15ac57d84b0a",
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/trees/9646e3fddb37a5d3de57e50bf4bd15ac57d84b0a"
+    },
+    {
+      "path": "codex-02-matrix/common/02_Project_Concepts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1f96bdadcd689112cc73cc8855f06403ca88a863",
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/trees/1f96bdadcd689112cc73cc8855f06403ca88a863"
+    },
+    {
+      "path": "codex-02-matrix/common/02_Project_Concepts/01_プロジェクト構想_◯◯写真集構想.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cf904df3ed16ac771d9a2a1331b00724850aa271",
+      "size": 641,
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/blobs/cf904df3ed16ac771d9a2a1331b00724850aa271"
+    },
+    {
+      "path": "codex-03-meta",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "223d173c4065565d4862a5d9df56c12e2c3270af",
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/trees/223d173c4065565d4862a5d9df56c12e2c3270af"
+    },
+    {
+      "path": "codex-03-meta/accounts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "3411055ad8ddd37661338322922a28d1a3f78fd4",
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/trees/3411055ad8ddd37661338322922a28d1a3f78fd4"
+    },
+    {
+      "path": "codex-03-meta/accounts/meta-01-revlyn-codex",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "07b4d9c33d4b490f1949e993e6086b20f8565d08",
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/trees/07b4d9c33d4b490f1949e993e6086b20f8565d08"
+    },
+    {
+      "path": "codex-03-meta/accounts/meta-01-revlyn-codex/index.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "07978ba77752ef8e6b2bb7d4470d8e3a97cd208f",
+      "size": 231,
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/blobs/07978ba77752ef8e6b2bb7d4470d8e3a97cd208f"
+    },
+    {
+      "path": "codex-03-meta/accounts/meta-02-vektoris-codex",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "fd761f60eb4523e1d39f9903b121f8b81bc89bf3",
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/trees/fd761f60eb4523e1d39f9903b121f8b81bc89bf3"
+    },
+    {
+      "path": "codex-03-meta/accounts/meta-02-vektoris-codex/index.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1525081546d83112ac925ec26a9dbacbd87c010a",
+      "size": 233,
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/blobs/1525081546d83112ac925ec26a9dbacbd87c010a"
+    },
+    {
+      "path": "codex-03-meta/accounts/meta-03-vyntrax-codex",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2b93a4387598f0f402aaf625a77d320706455c78",
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/trees/2b93a4387598f0f402aaf625a77d320706455c78"
+    },
+    {
+      "path": "codex-03-meta/accounts/meta-03-vyntrax-codex/index.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8aa3f5c2ccc8039da7dc6df7595747ab71ce798f",
+      "size": 232,
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/blobs/8aa3f5c2ccc8039da7dc6df7595747ab71ce798f"
+    },
+    {
+      "path": "codex-03-meta/accounts/meta-04-luctis-codex",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7747e2de6ebe078dc6a18083d214e9e3d84682b3",
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/trees/7747e2de6ebe078dc6a18083d214e9e3d84682b3"
+    },
+    {
+      "path": "codex-03-meta/accounts/meta-04-luctis-codex/.obsidian",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e582e77676796e34c83f1ffd9faccaac3fad9295",
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/trees/e582e77676796e34c83f1ffd9faccaac3fad9295"
+    },
+    {
+      "path": "codex-03-meta/accounts/meta-04-luctis-codex/.obsidian/app.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9e26dfeeb6e641a33dae4961196235bdb965b21b",
+      "size": 2,
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/blobs/9e26dfeeb6e641a33dae4961196235bdb965b21b"
+    },
+    {
+      "path": "codex-03-meta/accounts/meta-04-luctis-codex/.obsidian/appearance.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9e26dfeeb6e641a33dae4961196235bdb965b21b",
+      "size": 2,
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/blobs/9e26dfeeb6e641a33dae4961196235bdb965b21b"
+    },
+    {
+      "path": "codex-03-meta/accounts/meta-04-luctis-codex/.obsidian/core-plugins.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b977c255c1bc40dd9f39dcd754761304ef0eb719",
+      "size": 658,
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/blobs/b977c255c1bc40dd9f39dcd754761304ef0eb719"
+    },
+    {
+      "path": "codex-03-meta/accounts/meta-04-luctis-codex/.obsidian/graph.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "42a46ecafa5be07ad794ed16685f35e44f55ad29",
+      "size": 493,
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/blobs/42a46ecafa5be07ad794ed16685f35e44f55ad29"
+    },
+    {
+      "path": "codex-03-meta/accounts/meta-04-luctis-codex/.obsidian/templates.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cda2aca05249036be88760935f778e7317f3a836",
+      "size": 27,
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/blobs/cda2aca05249036be88760935f778e7317f3a836"
+    },
+    {
+      "path": "codex-03-meta/accounts/meta-04-luctis-codex/.obsidian/workspace.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1843169ef4d9f34d1d12678cb7a4bd79bce59d07",
+      "size": 6065,
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/blobs/1843169ef4d9f34d1d12678cb7a4bd79bce59d07"
+    },
+    {
+      "path": "codex-03-meta/accounts/meta-04-luctis-codex/_memory",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f1cb2b346aa1cbb0308af639546edeaafc62b937",
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/trees/f1cb2b346aa1cbb0308af639546edeaafc62b937"
+    },
+    {
+      "path": "codex-03-meta/accounts/meta-04-luctis-codex/_memory/2025",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "75dba3ab6acebbcf0c928f4b9fa9fce5370cdc96",
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/trees/75dba3ab6acebbcf0c928f4b9fa9fce5370cdc96"
+    },
+    {
+      "path": "codex-03-meta/accounts/meta-04-luctis-codex/_memory/2025/emotion-log-luctis-250620.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "902d9f54ab462934690b4b85db8c0b51f3827935",
+      "size": 2981,
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/blobs/902d9f54ab462934690b4b85db8c0b51f3827935"
+    },
+    {
+      "path": "codex-03-meta/accounts/meta-04-luctis-codex/_memory/2025/emotion-log-luctis-250622.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e0c603a46ae135fba6fcbc0cf9268611e626125a",
+      "size": 1408,
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/blobs/e0c603a46ae135fba6fcbc0cf9268611e626125a"
+    },
+    {
+      "path": "codex-03-meta/accounts/meta-04-luctis-codex/index.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7d760ce6711f1ddff32aa32294195e5d9d835a62",
+      "size": 455,
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/blobs/7d760ce6711f1ddff32aa32294195e5d9d835a62"
+    },
+    {
+      "path": "codex-03-meta/accounts/meta-04-luctis-codex/overview.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fe37f662a0d70213284d23e463b8e625a627ebe1",
+      "size": 3988,
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/blobs/fe37f662a0d70213284d23e463b8e625a627ebe1"
+    },
+    {
+      "path": "codex-03-meta/accounts/meta-05-stellaglyphe-codex",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ebc75a6034e713a6205b1526af999d3a2d3530ba",
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/trees/ebc75a6034e713a6205b1526af999d3a2d3530ba"
+    },
+    {
+      "path": "codex-03-meta/accounts/meta-05-stellaglyphe-codex/index.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5aa063334cfc56538b5e7bac70d94c13dd65e50e",
+      "size": 237,
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/blobs/5aa063334cfc56538b5e7bac70d94c13dd65e50e"
+    },
+    {
+      "path": "common-system",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f36126c31c8c50089f12c8a435c6c885df1970d8",
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/trees/f36126c31c8c50089f12c8a435c6c885df1970d8"
+    },
+    {
+      "path": "common-system/01-system",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ceb96fa7039544fa47543545368a5f7e523b2aae",
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/trees/ceb96fa7039544fa47543545368a5f7e523b2aae"
+    },
+    {
+      "path": "common-system/01-system/02-filters",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e2e58a6f69bb8e430a980ada194564d9dabda358",
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/trees/e2e58a6f69bb8e430a980ada194564d9dabda358"
+    },
+    {
+      "path": "common-system/01-system/02-filters/00_Thoughts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2ee4787918ec2dd8e1cd10f5125b51b05560a6eb",
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/trees/2ee4787918ec2dd8e1cd10f5125b51b05560a6eb"
+    },
+    {
+      "path": "common-system/01-system/02-filters/00_Thoughts/Thought_Prompts.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "36cb294844bf586c7a2a6e985b9085b6e9b3bb6f",
+      "size": 529,
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/blobs/36cb294844bf586c7a2a6e985b9085b6e9b3bb6f"
+    },
+    {
+      "path": "common-system/01-system/02-filters/01-philosophy-structural-prompts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "91b42cd8d79bdd8e61550e3340d16ce9489f5c5b",
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/trees/91b42cd8d79bdd8e61550e3340d16ce9489f5c5b"
+    },
+    {
+      "path": "common-system/01-system/02-filters/01-philosophy-structural-prompts/00_フィルター集_CompactPrompt v2.1.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bbb15f726d8927733cb4d2b7a9868ac6d1a15b96",
+      "size": 1000,
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/blobs/bbb15f726d8927733cb4d2b7a9868ac6d1a15b96"
+    },
+    {
+      "path": "common-system/01-system/03-templates",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d185df3da46cfc38a3533459d744acbea9622ef5",
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/trees/d185df3da46cfc38a3533459d744acbea9622ef5"
+    },
+    {
+      "path": "common-system/01-system/03-templates/format",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a98aa09f21c9299f705332eab2928d9118e9f449",
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/trees/a98aa09f21c9299f705332eab2928d9118e9f449"
+    },
+    {
+      "path": "common-system/01-system/03-templates/format/format-cr01-project-concepts-template.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bb85c463fc497186f461fcce902b51a50a81af0f",
+      "size": 484,
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/blobs/bb85c463fc497186f461fcce902b51a50a81af0f"
+    },
+    {
+      "path": "common-system/01-system/03-templates/format/format-cr02-shooting-plan-template.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ddaad9225e3b2c181018f7153c546268d5b13d6e",
+      "size": 444,
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/blobs/ddaad9225e3b2c181018f7153c546268d5b13d6e"
+    },
+    {
+      "path": "common-system/01-system/03-templates/format/format-cr03-research-notes-template.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8803a24086064ee33a8cbbcdbc44033163549527",
+      "size": 334,
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/blobs/8803a24086064ee33a8cbbcdbc44033163549527"
+    },
+    {
+      "path": "common-system/01-system/03-templates/format/format-cr04-editing-session-template.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "88e1d1f18fe8744ac9bb4572b894f6cf583ae7bb",
+      "size": 394,
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/blobs/88e1d1f18fe8744ac9bb4572b894f6cf583ae7bb"
+    },
+    {
+      "path": "common-system/01-system/03-templates/format/format-cr05-exhibiiton-book-design-template.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d2d82e0d414bab590e53487a511cfd9fb1e5dd34",
+      "size": 453,
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/blobs/d2d82e0d414bab590e53487a511cfd9fb1e5dd34"
+    },
+    {
+      "path": "common-system/01-system/03-templates/format/format-lm01-daily-logs-template.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a4527973d7ca3f1ce3beb19866bbc3377476f769",
+      "size": 403,
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/blobs/a4527973d7ca3f1ce3beb19866bbc3377476f769"
+    },
+    {
+      "path": "common-system/01-system/03-templates/format/format-vs01-emotional-log-template.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2da0fc1c1c955a4f1e2588cfa7016175cd838677",
+      "size": 63,
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/blobs/2da0fc1c1c955a4f1e2588cfa7016175cd838677"
+    },
+    {
+      "path": "common-system/02-source",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b76dce080f332c93664b08cfd5775917f2841862",
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/trees/b76dce080f332c93664b08cfd5775917f2841862"
+    },
+    {
+      "path": "common-system/02-source/09-schema",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "21fed42b52c4a3e046ff1402c42ce673f34d065d",
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/trees/21fed42b52c4a3e046ff1402c42ce673f34d065d"
+    },
+    {
+      "path": "common-system/02-source/09-schema/codename-collective-structure-map.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1e03a4981dda5679148fc4ad053b48463457f1a7",
+      "size": 18468,
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/blobs/1e03a4981dda5679148fc4ad053b48463457f1a7"
+    },
+    {
+      "path": "common-system/02-source/10-profiles",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "24bcfe1d3d5ccf422c04dfc89407208c66d298c2",
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/trees/24bcfe1d3d5ccf422c04dfc89407208c66d298c2"
+    },
+    {
+      "path": "common-system/02-source/10-profiles/divination-profile-takeo-yamada.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1dce887bfb0c9967cccfee0e30e4b3ca6095b817",
+      "size": 2613,
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/blobs/1dce887bfb0c9967cccfee0e30e4b3ca6095b817"
+    },
+    {
+      "path": "common-system/04-manuals",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0a7a1ddc4bc475a465ab6c6d99d4c2fd77c3cc77",
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/trees/0a7a1ddc4bc475a465ab6c6d99d4c2fd77c3cc77"
+    },
+    {
+      "path": "common-system/04-manuals/01-setup",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6237b17a0141d7af4491b5463fa6817e740efe22",
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/trees/6237b17a0141d7af4491b5463fa6817e740efe22"
+    },
+    {
+      "path": "common-system/04-manuals/01-setup/vault_system_dev_guide.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6ff3b59050e96b05e1e5f8041d2cfc9bef143662",
+      "size": 3991,
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/blobs/6ff3b59050e96b05e1e5f8041d2cfc9bef143662"
+    },
+    {
+      "path": "common-system/04-manuals/02-operation",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "816cbac87e2c28b599611f27447286a7c88f489b",
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/trees/816cbac87e2c28b599611f27447286a7c88f489b"
+    },
+    {
+      "path": "common-system/04-manuals/02-operation/1_codex_collective_installation_manual.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0aba0bf8843112dc8d9e745e92ee160257d519d8",
+      "size": 16189,
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/blobs/0aba0bf8843112dc8d9e745e92ee160257d519d8"
+    },
+    {
+      "path": "common-system/04-manuals/02-operation/2_index_master_template.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3a94c55de0fbba5755a7987f3799bd4d9971482b",
+      "size": 5737,
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/blobs/3a94c55de0fbba5755a7987f3799bd4d9971482b"
+    },
+    {
+      "path": "common-system/04-manuals/02-operation/3_codex_raycast_guide.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "089ac2a91c29e44641eed0277010b192ac6750f2",
+      "size": 5393,
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/blobs/089ac2a91c29e44641eed0277010b192ac6750f2"
+    },
+    {
+      "path": "common-system/04-manuals/02-operation/4codex_install_guide_integrated_index.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "18713f8afe3e62eed4fb8c8e515617941fb54d52",
+      "size": 7242,
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/blobs/18713f8afe3e62eed4fb8c8e515617941fb54d52"
+    },
+    {
+      "path": "common-system/04-manuals/03-trouble-shooting",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "fc406650d82a687eed68795e107e45d5a3cfad74",
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/trees/fc406650d82a687eed68795e107e45d5a3cfad74"
+    },
+    {
+      "path": "common-system/04-manuals/03-trouble-shooting/ts-codex_git_troubleshooting.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "56f4ff76b99cb654002cb98a19035a1106fcfcd3",
+      "size": 2608,
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/blobs/56f4ff76b99cb654002cb98a19035a1106fcfcd3"
+    },
+    {
+      "path": "common-system/04-manuals/03-trouble-shooting/ts-github_troubleshooting_guide.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3d1e97c3fb6a2ec85213ff061c6b734b1bba1de6",
+      "size": 4068,
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/blobs/3d1e97c3fb6a2ec85213ff061c6b734b1bba1de6"
+    },
+    {
+      "path": "common-system/04-manuals/04-temp",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0ceed02271062ef26c49082a4524a10487cd8b53",
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/trees/0ceed02271062ef26c49082a4524a10487cd8b53"
+    },
+    {
+      "path": "common-system/04-manuals/04-temp/-temp-plan_index-collective_automation_project.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fb01982ef9789a7af4eab563cd8bda641ae3279c",
+      "size": 21741,
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/blobs/fb01982ef9789a7af4eab563cd8bda641ae3279c"
+    },
+    {
+      "path": "common-system/index-system.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eaff5c336d8fa0cde6847e1568a5a174078f79ee",
+      "size": 11,
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/blobs/eaff5c336d8fa0cde6847e1568a5a174078f79ee"
+    },
+    {
+      "path": "index-collective.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9099dc2363e92b8cc68f83f1222b781d07099b00",
+      "size": 1055,
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/blobs/9099dc2363e92b8cc68f83f1222b781d07099b00"
+    },
+    {
+      "path": "overview.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b1a4aee55c6a4844245dbe98f2c268a02fd9ab5d",
+      "size": 175,
+      "url": "https://api.github.com/repos/stellacodex/codex-collective-archive/git/blobs/b1a4aee55c6a4844245dbe98f2c268a02fd9ab5d"
+    }
+  ],
+  "truncated": false
+}
