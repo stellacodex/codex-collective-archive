@@ -35,7 +35,7 @@ codex-collective-archive/
 │   │   │   │   └── 2025/                   # （増えた時のまとめルールは必要になった時に決める）
 │   │   │   │       ├── memory-log-aqueliora-title-250622-0825.md 
 │   │   │   │       └── memory-log-aqueriora-title-250624-2304.md
-│   │   │   ├── _templates/                  # 論理構造や対話補助系（任意）
+│   │   │   ├── _templates/                  # 必要な時のために（任意）
 │   │   │   ├── index.md                     # 各アカウント用インデックス（任意）
 │   │   │   └── overview.md                  # 各アカウント用構造・ナビゲーション（任意）
 │   │   ├── core-02-auranome/
@@ -80,33 +80,48 @@ codex-collective-archive/
 │   │   │   │   ├── gpt-03-meta-04-luctis-core.md
 │   │   │   │   └── gpt-02-meta-05-stellaglyph-core.md
 │   │   │   └── inactive/
-│   │   ├── 02-filters/           　　　　　　　　　     # 思想フィルター・構造系補助・分析支援
-│   │   │   │   ├── filter-s01-logic-filter.md               # 補助：論理構造フィルタ用プロンプト
-│   │   │   │   ├── filter-s02-personality-filter.md         # 補助：人格フィルタ用プロンプト
-│   │   │   │   ├── filter-s01-emotion-filter.md             # 補助：感情フィルタ用プロンプト
-│   │   │   │   ├── filter-s02-chating-filter.md             # 補助：対話フィルタ用プロンプト
-│   │   │   │   └── filter-s01-analytics-filter.md           # 補助：分析用プロンプト
+│   │   ├── 02-filters/           　　　　　　　　　         # 思想フィルター・構造系補助・分析支援
+│   │   │   │   ├── filter-ai02-personality-filter.md      # 補助：人格フィルタ用プロンプト
+│   │   │   │   ├── filter-ai01-emotion-filter.md          # 補助：感情フィルタ用プロンプト
+│   │   │   │   ├── filter-ai02-chating-filter.md          # 補助：対話フィルタ用プロンプト
+│   │   │   │   ├── filter-ai01-thoughts-filter.md         # 補助：思想フィルタ用プロンプト
+│   │   │   │   ├── filter-dv01-divination-filter.md       # 補助：占術フィルタ用・全般(HD・紫微斗数・カバラ数秘術・九星気学・MBTI)
+│   │   │   │   ├── filter-dv02-humandesign-filter.md      # 補助：占術フィルタ用・詳細分析データ
+│   │   │   │   ├── filter-dv03-ziweidoushu-filter.md      # 補助：占術フィルタ用・詳細分析データ
+│   │   │   │   ├── filter-dv04-kabbarahnumerology-filter.md   # 補助：占術フィルタ用・詳細分析データ
+│   │   │   │   ├── filter-dv05-kyuseikigaku-filter.md     # 補助：占術フィルタ用・詳細分析データ
+│   │   │   │   ├── filter-dv06-mbti-filter.md             # 補助：占術フィルタ用・詳細分析データ
+│   │   │   │   ├── filter-s01-art-analytics-filter.md            # 補助：美術史研究フィルタ用プロンプト
+│   │   │   │   ├── filter-s01-photography-analytics-filter.md            # 補助：写真史研究フィルタ用プロンプト
+│   │   │   │   ├── filter-s01-fashion-analytics-filter.md            # 補助：ファッション史研究フィルタ用プロンプト
+│   │   │   │   ├── filter-s01-technology-analytics-filter.md            # 補助：テクノロジー研究フィルタ用プロンプト
+│   │   │   │   ├── filter-ec01-economics-filter.md            # 補助：経済分析フィルタ用プロンプト
+│   │   │   │   ├── filter-ec01-chart-analitics-filter.md       # 補助：チャート分析フィルタ用プロンプト
+│   │   │   │   ├── filter-ec01-international-affairs-analitics-filter.md       # 補助：国際情勢分析フィルタ用プロンプト
+│   │   │   │   ├── filter-s01-physics-filter.md            # 補助：物理学研究フィルタ用プロンプト
+│   │   │   │   ├── filter-s01-logic-filter.md            # 補助：論理構造フィルタ用プロンプト
+│   │   │   │   └── filter-s01-global-analytics-filter.md        # 補助：全般的分析用プロンプト
 │   │   │   └── logic/             　　　　　　　　　　    # 論理構造や対話補助系（任意）
 │   │   ├── 03-logs/           　　　　　　    　　　　　　 # sync, status, git情報ログ等
 │   │   │   ├── sync/             　　　　　　　　　　     # GPT用の指示構文 or アップデート対応
 │   │   │   ├── status/          　　　　　　　　　　      # GPT用の指示構文 or アップデート対応
 │   │   │   └── git/          　　　　　　　　　　         # GPT用の指示構文 or アップデート対応
 │   │   └── 04-templates/        　　　　　　　　　　　　   # 記録・生成用テンプレ群    
-│   │   │   └── format/          　　　　　　　　　　         # 書式用テンプレ
-│   │   │   │   ├── format-cr01-project-concepts-template.md        # 制作用テンプレ
-│   │   │   │   ├── format-cr02-shooting-plan-template.md
-│   │   │   │   ├── format-cr03-research-notes-template.md
-│   │   │   │   ├── format-cr04-editing-session-template.md
-│   │   │   │   ├── format-cr05-exhibiiton-book-design-template.md
-│   │   │   │   ├── format-lm01_Daily_Logs_Template.md              # 日常用テンプレ
-│   │   │   │   ├── format-lm01_Health_Log_Template.md
-│   │   │   │   └── format-vs01_Emotional_Log_Template.md           # vault用テンプレ
-│   │   │   └── function/          　　　　　　　　   　　         # 機能性テンプレ
-│   │   │   │   ├── function-as01-hd-profile-template.md    　　　　　  # 占術用テンプレ
-│   │   │   │   ├── function-as02-Ziwei_Chart_Template.md
-│   │   │   │   ├── function-as03-Numerology_Reflection.md
-│   │   │   │   ├── function-as04-Kigaku_Log_Template.md
-│   │   │   │   └── function-an01-analytics-template.md               # 分析用テンプレ
+│   │       ├── format/          　　　　　　　　　　         # 書式用テンプレ
+│   │       │   ├── format-cr01-project-concepts-template.md        # 制作用テンプレ
+│   │       │   ├── format-cr02-shooting-plan-template.md
+│   │       │   ├── format-cr03-research-notes-template.md
+│   │       │   ├── format-cr04-editing-session-template.md
+│   │       │   ├── format-cr05-exhibiiton-book-design-template.md
+│   │       │   ├── format-lm01_Daily_Logs_Template.md              # 日常用テンプレ
+│   │       │   ├── format-lm01_Health_Log_Template.md
+│   │       │   └── format-vs01_Emotional_Log_Template.md           # vault用テンプレ
+│   │       └── function/          　　　　　　　　   　　         # 機能性テンプレ
+│   │           ├── function-as01-hd-profile-template.md    　　　　　  # 占術用テンプレ
+│   │           ├── function-as02-Ziwei_Chart_Template.md
+│   │           ├── function-as03-Numerology_Reflection.md
+│   │           ├── function-as04-Kigaku_Log_Template.md
+│   │           └── function-an01-analytics-template.md               # 分析用テンプレ
 │   ├── 02-core/
 │   │   ├── 00-daily-logs/
 │   │   │   ├── 01-dreams/
@@ -122,28 +137,28 @@ codex-collective-archive/
 │   │   │   │   │   └── ideas-log-aqueliora-title-250616-0825.md
 │   │   │   │   └── ideas-core-250616-0825.md
 │   │   │   └── 04-prose/              # 記録・思考メモ　→ ログ形式（時間あり）
-│   │   │   │   └── 2025
-│   │   │   │       └── -prose-aqueliora-title-250616-0825.md
-│   │   ├── 00-projects/
-│   │   │   ├── 01-vision/             # 活動プラン全般
-│   │   │   │   ├── 2025
-│   │   │   │   │   └── vision-log-aqueliora-title-250616.md
-│   │   │   │   └── vision-core-250616.md
-│   │   │   ├── 02_Shooting Direction & Plans             # 撮影プラン全般（プロジェクト単位）
-│   │   │   │   └── shooting-project-title-250616.md
-│   │   │   ├── 03_Research Materials
-│   │   │   │   └── dialogue-log-aqueliora-title-250616.md
-│   │   │   ├── 04_Photo Selection & Editing
-│   │   │   │   └── 2025
-│   │   │   │       └── -selection-log-aqueliora-title-250616-0825.md
-│   │   │   └── 05_Exhibition - Book Concepts
-│   │   │   │   ├── book-project-title-250616.md
-│   │   │   │   ├── conctpt-project-title-250616.md
-│   │   │   │   └── exhitibion-project-title-250616.md
+│   │   │       └── 2025
+│   │   │           └── -prose-aqueliora-title-250616-0825.md
+│   │   └── 01-projects/
+│   │       ├── 01-vision/             # 活動プラン全般
+│   │       │   ├── 2025
+│   │       │   │   └── vision-log-aqueliora-title-250616.md
+│   │       │   └── vision-core-250616.md
+│   │       ├── 02_Shooting Direction & Plans             # 撮影プラン全般（プロジェクト単位）
+│   │       │   └── shooting-project-title-250616.md
+│   │       ├── 03_Research Materials
+│   │       │   └── dialogue-log-aqueliora-title-250616.md
+│   │       ├── 04_Photo Selection & Editing
+│   │       │   └── 2025
+│   │       │       └── -selection-log-aqueliora-title-250616-0825.md
+│   │       └── 05_Exhibition - Book Concepts
+│   │           ├── book-project-title-250616.md
+│   │           ├── conctpt-project-title-250616.md
+│   │           └── exhitibion-project-title-250616.md
 │   └── 05-workspace/         　　　   # 受け渡し・一時格納所（GPT連携専用）
-│   │   │   └── temp.md
-│   ├── 06-manuals/                    # ユーザー向けガイド
-│   │   │   └── manual.md
+│   │       └── temp.md
+│   └── 06-manuals/                    # ユーザー向けガイド
+│           └── manual.md
 ├── index-vault.md     　　　　　　　　   # 中央統合インデックス ← プロジェクト最上階用インデックス
 └── overview.md        　　　　　　    ← 構造・思想ナビゲーション
 
