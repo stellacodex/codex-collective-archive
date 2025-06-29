@@ -62,11 +62,22 @@ git status
 ### ✅ `git commit -m` の使い分け（メッセージ例）
 
 ```bash
+# Vaultの初期構造を追加する初期セットアップ
 git commit -m "feat: initial codexvault structure"
+
+# ローカル状態を強制反映して同期修正
 git commit -m "fix: hard overwrite to sync from local"
+
+# ローカルに合わせるため強制上書き更新
 git commit -m "chore: force overwrite to match local state"
+
+# 隠しファイルを整理して完全同期する修正
 git commit -m "fix: cleanup hidden files and sync fully"
+
+# バックアップ前に.DS_Storeを削除する整理
 git commit -m "chore: remove .DS_Store from backup-before-force"
+
+# 古いファイルを削除しローカルと同期整備
 git commit -m "chore: sync with local state (remove obsolete files)"
 ```
 
