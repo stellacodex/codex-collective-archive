@@ -2,10 +2,20 @@
 
 ## 🚀 Quick Fix チートシート
 
-0. **ディレクトリ変更→状況確認**
+0. **ディレクトリ変更→状況確認（常用push推奨）**
+**一発コマンド（ワンライナー）**
+``` bash
+git add -A && git commit -m "chore: sync local changes" && git pull --rebase && git push
+```
+
+**上記コマンド（詳細）**
 ``` bash
 cd ~/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/codex-collective-archive
 git status
+git add -A
+git commit -m "chore: sync local changes"
+git pull --rebase
+git push
 ```
 
 1. **最新を取り込んでPush**
@@ -62,6 +72,12 @@ git status
 ### ✅ `git commit -m` の使い分け（メッセージ例）
 
 ```bash
+# 必ず自分でわかるメッセージを残す（将来、履歴確認やロールバックするときに超重要）
+git commit -m "chore: sync local changes"
+
+# マージ時の競合を解消して整理する作業
+git commit -m "chore: resolve merge conflicts"
+
 # Vaultの初期構造を追加する初期セットアップ
 git commit -m "feat: initial codexvault structure"
 
