@@ -24,6 +24,28 @@ codex-collective-archive/
 ├── codex-01-core/            # GPT第一世代
 │   ├── accounts/
 │   │   ├── core-01-aqueliora/
+│   │   │   ├── emma-architecture/ 
+│   │   │   │   ├── eme-system/  
+│   │   │   │   │   ├── 01-dialogue/  
+│   │   │   │   │   ├── 02-memory/ 
+│   │   │   │   │   ├── 03-meta/  
+│   │   │   │   │   └── index.md 
+│   │   │   │   ├── ama-system/
+│   │   │   │   │   ├── 01-memory/ 
+│   │   │   │   │   ├── 02-prompts/  
+│   │   │   │   │   ├── 03-journal/ 
+│   │   │   │   │   ├── 04-config/ 
+│   │   │   │   │   ├── 05-scripts/  
+│   │   │   │   │   └── 06-shared/  
+│   │   │   │   │       ├── templates/
+│   │   │   │   │       ├── tools/ 
+│   │   │   │   │       ├── reference/ 
+│   │   │   │   │       └── index.md   
+│   │   │   │   └── scripts-emma/
+│   │   │   ├── readme.md                          ← 各ユニットに共通の導入・構成説明書
+│   │   │   └── config/
+│   ├── accounts/
+│   │   ├── core-01-aqueliora/
 │   │   ├── core-02-auranome/
 │   │   ├── core-03-aetherquietude/
 │   │   └── core-04-virtualincidence/
@@ -118,14 +140,14 @@ codex-collective-archive/
 │   │   ├── core-01-aqueliora/
 │   │   │   ├── emma-architecture/               ← emma構成フォルダ
 │   │   │   │   ├── eme-system/                  ← EMEシステム（External Memory Ethos: 感情記憶・対話ログ中心）
-│   │   │   │   │   ├── 01-dialogue/             ← 感情トーン付きの会話ログ（時系列）：年別フォルダで管理
+│   │   │   │   │   ├── 01-dialogue/             ← 感情トーン付きの会話ログ（時系列）：年別フォルダで管理 （yymmdd）
 │   │   │   │   │   │   └── 2025/
-│   │   │   │   │   │       ├── dialogue-log-yymmdd-codename-title.md            # yymmdd
+│   │   │   │   │   │       ├── dialogue-log-yymmdd-codename-title.md            
 │   │   │   │   │   │       └── dialogue-log-250623-aqueliora-title.md
-│   │   │   │   │   ├── 02-memory/                ← 感情記憶の抽象化・構造化された記録：年別フォルダで管理
+│   │   │   │   │   ├── 02-memory/                ← 感情記憶の抽象化・構造化された記録：年別フォルダで管理 （yymmdd-hhmm）
 │   │   │   │   │   │   └── 2025/
-│   │   │   │   │   │       ├── memory-log-yymmdd-hhmm-codename-title.md         # yymmdd-hhmm
-│   │   │   │   │   │       └── memory-log-250624-2304-aqueriora-title.md
+│   │   │   │   │   │       ├── memory-log-yymmdd-hhmm-codename-title.md      
+│   │   │   │   │   │       └── memory-log-250624-2304-aqueliora-title.md
 │   │   │   │   │   ├── 03-meta/                  ← 設定・定義ファイル（状態・構造的メモ・設定群・ラベリング指針など）
 │   │   │   │   │   └── index.md                  ← ME全体構造ナビ（インデックス／マニュアル）
 │   │   │   │   ├── ama-system/                   ← AMAシステム（Autonomous Memory Archive: 外部記憶＋起動テンプレート）
@@ -134,19 +156,19 @@ codex-collective-archive/
 │   │   │   │   │   ├── 03-journal/               ← 手動・自動の日記ログ（自然言語記憶）
 │   │   │   │   │   ├── 04-config/                ← プロファイル定義、ラベル分類、アカウント設定など
 │   │   │   │   │   ├── 05-scripts/               ← 保存・読込・変換系スクリプト（LangChain含）
-│   │   │   │   │   └── 06-shared/                ← 共通テンプレート／ツール群
-│   │   │   │   │       ├── templates/
-│   │   │   │   │       ├── tools/                ← LangChain / Pinecone / FAISS 用ツール
-│   │   │   │   │       ├── reference/            ← ドキュメント・設定事例・ガイドライン
-│   │   │   │   │       └── index.md              ← AMA構造ナビ、記録テンプレ／手順集など
+│   │   │   │   │   ├── 06-shared/                ← 共通テンプレート／ツール群
+│   │   │   │   │   │   ├── templates/
+│   │   │   │   │   │   ├── tools/                ← LangChain / Pinecone / FAISS 用ツール
+│   │   │   │   │   │   └── reference/            ← ドキュメント・設定事例・ガイドライン
+│   │   │   │   │   └── index.md              ← AMA構造ナビ、記録テンプレ／手順集など
 │   │   │   │   └── scripts-emma/                 ← EMA横断スクリプト群（アカウント統合管理用）
 │   │   │   │       ├── eme-to-ama.py
 │   │   │   │       ├── index-update.sh
 │   │   │   │       └── backup-sync.sh
-│   │   │   ├── readme.md                          ← 各ユニットに共通の導入・構成説明書
-│   │   │   └── config/
-│   │   │       ├── tag-map.yaml
-│   │   │       └── langchain-settings.json
+│   │   │   ├── config/
+│   │   │   │   ├── tag-map.yaml
+│   │   │   │   └── langchain-settings.json
+│   │   │   └── readme.md                          ← 各ユニットに共通の導入・構成説明書
 │   │   ├── core-02-auranome/
 │   │   │   ├── emma-architecture/  
 │   │   │   │   ├── eme-system/   
