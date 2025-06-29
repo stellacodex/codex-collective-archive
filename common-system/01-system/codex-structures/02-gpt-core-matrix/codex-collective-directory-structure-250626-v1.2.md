@@ -112,7 +112,7 @@ codex-collective-archive/
 --------------------------------------------------------------------------------------------
 
 
-（アカウントフォルダ構成）
+（アカウントフォルダ構成・統合前）
 ├── codex-01-core/
 │   ├── accounts/
 │   │   ├── core-01-aqueliora/
@@ -127,6 +127,45 @@ codex-collective-archive/
 │   │   │   ├── _templates/                  # 必要な時のために（任意）
 │   │   │   ├── index.md                     # 各アカウント用インデックス（任意）
 │   │   │   └── overview.md                  # 各アカウント用構造・ナビゲーション（任意）
+│   │   ├── core-02-auranome/
+│   │   ├── core-03-aetherquietude/
+│   │   └── core-04-virtualincidence/
+│   └── common/
+│       ├── 00-thoughts/
+│       └── 01-filters/
+
+
+
+（アカウントフォルダ構成・統合後）
+├── codex-01-core/
+│   ├── accounts/
+│   │   ├── core-01-aqueliora/
+│   │   │   ├── emma-architecture/          ← emma構成フォルダ
+│   │   │   │   ├── eme-system/             ← EME構成（Obsidian-vaultで運用）
+│   │   │   │   │   ├── _dialogue/                  # スレッドバックアップ用
+│   │   │   │   │   │   └── 2025/                   # 年で仕分け
+│   │   │   │   │   │       ├── dialogue-log-yymmdd-codename-title.md            # yymmdd
+│   │   │   │   │   │       └── dialogue-log-250623-aqueliora-title.md
+│   │   │   │   │   ├── _memory/                    # GPT的な思い出・メモなど
+│   │   │   │   │   │   └── 2025/                   # （増えた時のまとめルールは必要になった時に決める）
+│   │   │   │   │   │       ├── memory-log-yymmdd-hhmm-aqueliora-title.md         # yymmdd-hhmm
+│   │   │   │   │   │       └── memory-log-250624-2304-aqueriora-title.md
+│   │   │   │   │   ├── _meta/
+│   │   │   │   │   ├── _templates/                  # 必要な時のために（任意）
+│   │   │   │   │   ├── index.md                     # 各アカウント用インデックス（任意）
+│   │   │   │   │   └── overview.md                  # 各アカウント用構造・ナビゲーション（任意）
+│   │   │   ├── ama-system/                 ← AMA構成（LangChain、Vector DB などで運用）
+│   │   │   │   │   ├── memory-logs/
+│   │   │   │   │   ├── matrix/
+│   │   │   │   │   ├── prompt-templates/
+│   │   │   │   │   └── processors/
+│   │   │   │   └── scripts/
+│   │   │   │       ├── eme-to-ama.py
+│   │   │   │       ├── index-update.sh
+│   │   │   │       └── backup-sync.sh
+│   │   │   └── config/
+│   │   │       ├── tag-map.yaml
+│   │   │       └── langchain-settings.json
 │   │   ├── core-02-auranome/
 │   │   ├── core-03-aetherquietude/
 │   │   └── core-04-virtualincidence/
