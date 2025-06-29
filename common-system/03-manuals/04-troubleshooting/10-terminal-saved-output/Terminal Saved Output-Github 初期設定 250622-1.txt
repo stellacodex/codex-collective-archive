@@ -1,0 +1,159 @@
+Last login: Sat Jun 21 13:20:32 on ttys000
+takeoyamada@Pascal ~ % git --version
+
+git version 2.39.5 (Apple Git-154)
+takeoyamada@Pascal ~ % gh --version
+
+zsh: command not found: gh
+takeoyamada@Pascal ~ % brew install gh
+
+==> Auto-updating Homebrew...
+Adjust how often this is run with HOMEBREW_AUTO_UPDATE_SECS or disable with
+HOMEBREW_NO_AUTO_UPDATE. Hide these hints with HOMEBREW_NO_ENV_HINTS (see `man brew`).
+==> Downloading https://ghcr.io/v2/homebrew/portable-ruby/portable-ruby/blobs/sha256:45cea656cc5b5f5b53a9d4fc9e6c88d3a29b3aac862d1a55f1c70df534df5636
+######################################################################### 100.0%
+==> Pouring portable-ruby-3.4.4.el_capitan.bottle.tar.gz
+==> Auto-updated Homebrew!
+Updated 2 taps (homebrew/core and homebrew/cask).
+==> New Formulae
+abpoa                                    lzsa
+act_runner                               mcp-inspector
+addons-linter                            mermaid-cli
+alejandra                                miniprot
+arp-scan-rs                              mongo-c-driver@1
+autocycler                               moodle-dl
+aws-lc                                   mpremote
+benchi                                   nova
+blueprint-compiler                       nx
+boa                                      osx-trash
+breseq                                   oterm
+bsc                                      ovsx
+btcli                                    oxen
+chawan                                   pangene
+clang-include-graph                      pdtm
+claude-squad                             perbase
+concurrentqueue                          plutovg
+cornelis                                 polaris
+cram                                     polypolish
+crd2pulumi                               pulumictl
+credo                                    qnm
+desed                                    qrkey
+diagram                                  rasusa
+dvisvgm                                  readsb
+eask-cli                                 reckoner
+elf2uf2-rs                               rna-star
+erlang@27                                rnp
+execline                                 ropebwt3
+fastga                                   s6-rc
+fastk                                    samply
+flip-link                                shamrock
+flye                                     sherif
+foxglove-cli                             skalibs
+gcc@14                                   skani
+gcli                                     spice-server
+gerust                                   sprocket
+ghalint                                  sqruff
+go-rice                                  stringtie
+goshs                                    style-dictionary
+htmlhint                                 swift-section
+hyper-mcp                                sylph
+jwt-hack                                 tabixpp
+kargo                                    tfmcp
+kbt                                      tiledb
+kingfisher                               tldx
+kraken2                                  toml-bombadil
+ktop                                     trimal
+ldcli                                    tsnet-serve
+libbsc                                   tun2proxy
+libpq@16                                 urx
+lima-additional-guestagents              webdav
+lolcrab                                  zsh-history-enquirer
+==> New Casks
+accordance@13                            fruit-screensaver
+agentkube                                gg
+alienator88-sentinel                     jetdrive-toolbox
+alifix                                   langflow
+alisma                                   linqpad
+aloha-browser                            little-snitch@nightly
+appexindexer                             lobehub
+azookey                                  longbridge-pro
+brilliant                                macsyzones
+cmpxat                                   moves
+container                                mozilla-vpn
+eufymake-studio                          music-presence
+firezone                                 onlook
+font-annotation-mono                     pale-moon
+font-bitcount-grid-double                passepartout
+font-bitcount-grid-single                peninsula
+font-bitcount-prop-double                revisionist
+font-bitcount-prop-single                simpledemviewer
+font-bitcount-single                     slideshower
+font-charis                              sparsity
+font-formudpgothic                       tartelet
+font-gentium                             textgrabber2
+font-gentium-book                        thebrowsercompany-dia
+font-juisee                              tiny-shield
+font-juisee-nf                           tourbox-console
+font-lxgw-marker-gothic                  versatility
+font-manufacturing-consent               vibemeter
+font-matangi                             voicenotes
+font-menbere                             warsaw
+font-noto-sans-sunuwar                   yuanbao
+font-parastoo                            zoho-cliq
+font-simple-icons                        zoo-design-studio
+font-uoqmunthenkhung
+
+You have 27 outdated formulae installed.
+
+==> Downloading https://ghcr.io/v2/homebrew/core/gh/manifests/2.74.2
+######################################################################### 100.0%
+==> Fetching gh
+==> Downloading https://ghcr.io/v2/homebrew/core/gh/blobs/sha256:f3f8a873387da7e
+######################################################################### 100.0%
+==> Pouring gh--2.74.2.sonoma.bottle.tar.gz
+🍺  /usr/local/Cellar/gh/2.74.2: 214 files, 36.6MB
+==> Running `brew cleanup gh`...
+Disable this behaviour by setting HOMEBREW_NO_INSTALL_CLEANUP.
+Hide these hints with HOMEBREW_NO_ENV_HINTS (see `man brew`).
+==> `brew cleanup` has not been run in the last 30 days, running now...
+Disable this behaviour by setting HOMEBREW_NO_INSTALL_CLEANUP.
+Hide these hints with HOMEBREW_NO_ENV_HINTS (see `man brew`).
+Removing: /usr/local/Cellar/ca-certificates/2024-12-31... (4 files, 233.9KB)
+Removing: /usr/local/Cellar/flac/1.4.3... (285 files, 6.9MB)
+Removing: /usr/local/Cellar/gettext/0.23.1... (2,052 files, 21MB)
+Removing: /usr/local/Cellar/libidn2/2.3.7... (81 files, 1MB)
+Removing: /usr/local/Cellar/libnghttp2/1.64.0... (14 files, 746.0KB)
+Removing: /usr/local/Cellar/libsndfile/1.2.2... (55 files, 1.6MB)
+Removing: /usr/local/Cellar/libx11/1.8.11... (1,043 files, 6.8MB)
+Removing: /usr/local/Cellar/mpdecimal/4.0.0... (22 files, 615.8KB)
+Removing: /usr/local/Cellar/openssl@3/3.4.1... (7,236 files, 33.8MB)
+Removing: /usr/local/Cellar/pcre2/10.44... (237 files, 6.4MB)
+Removing: /usr/local/Cellar/svt-av1/2.3.0_1... (19 files, 5.6MB)
+Removing: /usr/local/Cellar/xz/5.6.4... (96 files, 1.8MB)
+Removing: /usr/local/Cellar/zstd/1.5.6... (32 files, 2.3MB)
+Removing: /Users/takeoyamada/Library/Caches/Homebrew/bootsnap/d366432e1c0f14b5e76157e191efc2c944c77823d1f41651596fa44d1fece001... (553 files, 4.6MB)
+Removing: /Users/takeoyamada/Library/Logs/Homebrew/python@3.13... (2 files, 2KB)
+Removing: /Users/takeoyamada/Library/Logs/Homebrew/glib... (64B)
+Removing: /Users/takeoyamada/Library/Logs/Homebrew/fontconfig... (70.1KB)
+Removing: /Users/takeoyamada/Library/Logs/Homebrew/openssl@3... (64B)
+Removing: /Users/takeoyamada/Library/Logs/Homebrew/ca-certificates... (64B)
+Removing: /Users/takeoyamada/Library/Logs/Homebrew/unbound... (64B)
+Removing: /Users/takeoyamada/Library/Logs/Homebrew/gnutls... (64B)
+Pruned 0 symbolic links and 2 directories from /usr/local
+==> Caveats
+zsh completions have been installed to:
+  /usr/local/share/zsh/site-functions
+takeoyamada@Pascal ~ % gh auth login
+
+? Where do you use GitHub? GitHub.com
+? What is your preferred protocol for Git operations on this host? HTTPS
+? Authenticate Git with your GitHub credentials? Yes
+? How would you like to authenticate GitHub CLI? Login with a web browser
+
+! First copy your one-time code: F6C2-5F86
+Press Enter to open https://github.com/login/device in your browser... 
+✓ Authentication complete.
+- gh config set -h github.com git_protocol https
+✓ Configured git protocol
+✓ Logged in as stellacodex
+takeoyamada@Pascal ~ % 

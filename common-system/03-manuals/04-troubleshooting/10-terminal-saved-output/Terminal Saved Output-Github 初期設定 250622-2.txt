@@ -1,0 +1,77 @@
+Last login: Sun Jun 22 02:59:20 on ttys000
+takeoyamada@Pascal ~ % cd /Users/takeoyamada/Library/Mobile\ Documents/iCloud\~md\~obsidian/Documents/codex-collective-archive
+takeoyamada@Pascal codex-collective-archive % git init
+Initialized empty Git repository in /Users/takeoyamada/Library/Mobile Documents/iCloud~md~obsidian/Documents/codex-collective-archive/.git/
+takeoyamada@Pascal codex-collective-archive % git add .
+takeoyamada@Pascal codex-collective-archive % git commit -m "Initial commit: luctis-codex + base structure"
+
+[main (root-commit) 46b8370] Initial commit: luctis-codex + base structure
+ Committer: pascal <takeoyamada@Pascal.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 51 files changed, 935 insertions(+)
+ create mode 100644 .DS_Store
+ create mode 100644 .obsidian/app.json
+ create mode 100644 .obsidian/appearance.json
+ create mode 100644 .obsidian/core-plugins.json
+ create mode 100644 .obsidian/workspace.json
+ create mode 100644 accounts/.DS_Store
+ create mode 100644 accounts/aetherquietude/index.md
+ create mode 100644 accounts/aurastance/index.md
+ create mode 100644 accounts/everlucent/index.md
+ create mode 100644 accounts/liquisonance/index.md
+ create mode 100644 accounts/luctis/.DS_Store
+ create mode 100644 accounts/luctis/index.md
+ create mode 100644 accounts/luctis/luctis-codex/.DS_Store
+ create mode 100644 accounts/luctis/luctis-codex/.obsidian/app.json
+ create mode 100644 accounts/luctis/luctis-codex/.obsidian/appearance.json
+ create mode 100644 accounts/luctis/luctis-codex/.obsidian/core-plugins.json
+ create mode 100644 accounts/luctis/luctis-codex/.obsidian/graph.json
+ create mode 100644 accounts/luctis/luctis-codex/.obsidian/templates.json
+ create mode 100644 accounts/luctis/luctis-codex/.obsidian/workspace.json
+ create mode 100644 accounts/luctis/luctis-codex/2025-06-21.md
+ create mode 100644 accounts/luctis/luctis-codex/Overview.md.md
+ create mode 100644 accounts/luctis/luctis-codex/Welcome.md
+ create mode 100644 "accounts/luctis/luctis-codex/\360\237\223\20200_Thoughts/\360\237\247\251Thought_Prompts.md.md"
+ create mode 100644 "accounts/luctis/luctis-codex/\360\237\223\20201_Filters (Philosophy & Structural Prompts)/.DS_Store"
+ create mode 100644 "accounts/luctis/luctis-codex/\360\237\223\20201_Filters (Philosophy & Structural Prompts)/\360\237\247\251 00_\343\203\225\343\202\243\343\203\253\343\202\277\343\203\274\351\233\206_Compact Prompt v2.1.md.md"
+ create mode 100644 "accounts/luctis/luctis-codex/\360\237\223\20202_Project Concepts/.DS_Store"
+ create mode 100644 "accounts/luctis/luctis-codex/\360\237\223\20202_Project Concepts/\360\237\222\24001_\343\203\227\343\203\255\343\202\270\343\202\247\343\202\257\343\203\210\346\247\213\346\203\263_\342\227\257\342\227\257\345\206\231\347\234\237\351\233\206\346\247\213\346\203\263.md.md"
+ create mode 100644 "accounts/luctis/luctis-codex/\360\237\223\20203_Shooting Direction & Plans/.DS_Store"
+ create mode 100644 "accounts/luctis/luctis-codex/\360\237\223\20204_Research Materials/.DS_Store"
+ create mode 100644 "accounts/luctis/luctis-codex/\360\237\223\20205_Photo Selection & Editing/.DS_Store"
+ create mode 100644 "accounts/luctis/luctis-codex/\360\237\223\20206_Exhibition - Book Concepts/.DS_Store"
+ create mode 100644 "accounts/luctis/luctis-codex/\360\237\223\202Daily Logs/.DS_Store"
+ create mode 100644 "accounts/luctis/luctis-codex/\360\237\223\202Daily Logs/_Memory/.DS_Store"
+ create mode 100644 "accounts/luctis/luctis-codex/\360\237\223\202Daily Logs/_Memory/2025/.DS_Store"
+ create mode 100644 "accounts/luctis/luctis-codex/\360\237\223\202Daily Logs/_Memory/2025/06/2025-06-20_luctis-emotion-log.md.md"
+ create mode 100644 "accounts/luctis/luctis-codex/\360\237\223\202Templates/.DS_Store"
+ create mode 100644 "accounts/luctis/luctis-codex/\360\237\223\202Templates/\360\237\227\202T01_Project_Concepts_Template.md.md"
+ create mode 100644 "accounts/luctis/luctis-codex/\360\237\223\202Templates/\360\237\227\202T02_Shooting_Plan_Template.md.md"
+ create mode 100644 "accounts/luctis/luctis-codex/\360\237\223\202Templates/\360\237\227\202T03_Research_Notes_Template.md.md"
+ create mode 100644 "accounts/luctis/luctis-codex/\360\237\223\202Templates/\360\237\227\202T04_Editing_Session_Template.md.md"
+ create mode 100644 "accounts/luctis/luctis-codex/\360\237\223\202Templates/\360\237\227\202T05_Exhibition_Book_Design_Template.md.md"
+ create mode 100644 "accounts/luctis/luctis-codex/\360\237\223\202Templates/\360\237\227\202T10_Daily_Logs.md.md"
+ create mode 100644 accounts/luminaraethos/index.md
+ create mode 100644 accounts/miravox/index.md
+ create mode 100644 accounts/noesis/index.md
+ create mode 100644 accounts/phosphorveil/index.md
+ create mode 100644 accounts/sonaviance/index.md
+ create mode 100644 accounts/stellaglyphe/index.md
+ create mode 100644 accounts/virtualincidence/index.md
+ create mode 100644 common/02_creation_research/prompts/CompactPrompt_v2.1.md
+ create mode 100644 overview.md
+takeoyamada@Pascal codex-collective-archive % gh repo create codex-collective-archive --private --source=. --remote=origin --push
+
+GraphQL: Name already exists on this account (createRepository)
+takeoyamada@Pascal codex-collective-archive % 

@@ -1,0 +1,54 @@
+Last login: Sun Jun 22 06:03:53 on ttys003
+takeoyamada@Pascal ~ % cd /Users/takeoyamada/Library/Mobile\ Documents/iCloud\~md\~obsidian/Documents/codex-collective-archive
+takeoyamada@Pascal codex-collective-archive % git add .
+takeoyamada@Pascal codex-collective-archive % git commit -m "Initial commit"
+
+[main df501ba] Initial commit
+ Committer: pascal <takeoyamada@Pascal.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+takeoyamada@Pascal codex-collective-archive % git push -u origin main
+
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 368 bytes | 368.00 KiB/s, done.
+Total 3 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/stellacodex/codex-collective-archive.git
+   60744ff..df501ba  main -> main
+branch 'main' set up to track 'origin/main'.
+takeoyamada@Pascal codex-collective-archive % chmod +x/Users/takeoyamada/.raycast/scripts/create_dream_log.sh
+usage:	chmod [-fhv] [-R [-H | -L | -P]] [-a | +a | =a  [i][# [ n]]] mode|entry file ...
+	chmod [-fhv] [-R [-H | -L | -P]] [-E | -C | -N | -i | -I] file ...
+takeoyamada@Pascal codex-collective-archive % chmod +x/Users/takeoyamada/.raycast/scripts/create_emotional_memory_log.sh
+usage:	chmod [-fhv] [-R [-H | -L | -P]] [-a | +a | =a  [i][# [ n]]] mode|entry file ...
+	chmod [-fhv] [-R [-H | -L | -P]] [-E | -C | -N | -i | -I] file ...
+takeoyamada@Pascal codex-collective-archive % chmod +x/Users/takeoyamada/.raycast/scripts/create_gpt_dialogue_log.sh
+usage:	chmod [-fhv] [-R [-H | -L | -P]] [-a | +a | =a  [i][# [ n]]] mode|entry file ...
+	chmod [-fhv] [-R [-H | -L | -P]] [-E | -C | -N | -i | -I] file ...
+takeoyamada@Pascal codex-collective-archive % chmod +x/Users/takeoyamada/.raycast/scripts/create_idea_note.sh chmod +x /Users/takeoyamada/.raycast/scripts/create_dream_log.sh
+chmod: Invalid file mode: +x/Users/takeoyamada/.raycast/scripts/create_idea_note.sh
+takeoyamada@Pascal codex-collective-archive % chmod +x /Users/takeoyamada/.raycast/scripts/create_dream_log.sh
+takeoyamada@Pascal codex-collective-archive % chmod +x /Users/takeoyamada/.raycast/scripts/create_emotional_memory_log.sh
+takeoyamada@Pascal codex-collective-archive % chmod +x /Users/takeoyamada/.raycast/scripts/create_gpt_dialogue_log.sh
+takeoyamada@Pascal codex-collective-archive % chmod +x /Users/takeoyamada/.raycast/scripts/create_idea_note.sh
+takeoyamada@Pascal codex-collective-archive % chmod +x /Users/takeoyamada/.raycast/scripts/search_latest_logs.sh
+takeoyamada@Pascal codex-collective-archive % chmod +x /Users/takeoyamada/.raycast/scripts/test_script.sh
+takeoyamada@Pascal codex-collective-archive % chmod +x /Users/takeoyamada/.raycast/scripts/update_index_files.sh
+takeoyamada@Pascal codex-collective-archive % chmod +x /Users/takeoyamada/.raycast/scripts/update_kira_emotional_memory_log.sh
+takeoyamada@Pascal codex-collective-archive % cmod +x /Users/takeoyamada/.raycast/scripts/update_kira_emotional_memory_log.sh
+zsh: command not found: cmod
+takeoyamada@Pascal codex-collective-archive % 
