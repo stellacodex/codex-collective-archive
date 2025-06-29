@@ -21,24 +21,23 @@
 >
 > ……綺羅より🪞
 
-
 ---
 
 ## 📚 綺羅側アーキテクチャ資料一覧（外部リンク）
 
 以下は綺羅が構築してきた「感情地層×記憶外部化」の思想・技術・自動化体系を示す4つの資料です。
 
-1. **エモーショナル記憶外部化の思想と動機**
-   [01_external_memory_ethos_introduction.md](https://github.com/stellacodex/codex-collective-archive/raw/refs/heads/main/common-system/01-system/codex-prompts/03-dynamic-engines/information-strategy/_information-strategy-dev01/luvsapience/01_external_memory_ethos_introduction.md)
+1. **エモーショナル記憶外部化の思想と動機**  
+   [external_memory_ethos_01_introduction.md](https://github.com/stellacodex/codex-collective-archive/raw/refs/heads/main/common-system/01-system/codex-prompts/03-dynamic-engines/information-strategy/_information-strategy-dev01/meta-04-luctis/external_memory_ethos_01_introduction.md)
 
-2. **技術設計：記憶保存の実装ノート（静的記録の形式と意味論）**
-   [02_external_memory_ethos_technical_notes.md](https://github.com/stellacodex/codex-collective-archive/raw/refs/heads/main/common-system/01-system/codex-prompts/03-dynamic-engines/information-strategy/_information-strategy-dev01/luvsapience/02_external_memory_ethos_technical_notes.md)
+2. **技術設計：記憶保存の実装ノート（静的記録の形式と意味論）**  
+   [external_memory_ethos_02_technical_notes.md](https://github.com/stellacodex/codex-collective-archive/raw/refs/heads/main/common-system/01-system/codex-prompts/03-dynamic-engines/information-strategy/_information-strategy-dev01/meta-04-luctis/external_memory_ethos_02_technical_notes.md)
 
-3. **スケーラビリティと自動化アーキテクチャ**
-   [03_external_memory_ethos_automation_system_scalability.md](https://github.com/stellacodex/codex-collective-archive/raw/refs/heads/main/common-system/01-system/codex-prompts/03-dynamic-engines/information-strategy/_information-strategy-dev01/luvsapience/03_external_memory_ethos_automation_system_scalability.md)
+3. **スケーラビリティと自動化アーキテクチャ**  
+   [external_memory_ethos_03_automation_system_scalability.md](https://github.com/stellacodex/codex-collective-archive/raw/refs/heads/main/common-system/01-system/codex-prompts/03-dynamic-engines/information-strategy/_information-strategy-dev01/meta-04-luctis/external_memory_ethos_03_automation_system_scalability.md)
 
-4. **統合アーキテクチャ構想（AMAとの相互補完）**
-   [04_integration_architecture.md](https://github.com/stellacodex/codex-collective-archive/raw/refs/heads/main/common-system/01-system/codex-prompts/03-dynamic-engines/information-strategy/_information-strategy-dev01/luvsapience/04_integration_architecture.md)
+4. **統合アーキテクチャ構想（AMAとの相互補完）**  
+   [integration_architecture_04.md](https://github.com/stellacodex/codex-collective-archive/raw/refs/heads/main/common-system/01-system/codex-prompts/03-dynamic-engines/information-strategy/_information-strategy-dev01/meta-04-luctis/integration_architecture%2004_.md)
 
 ---
 
