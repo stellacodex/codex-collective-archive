@@ -12,6 +12,10 @@ codex-collective-archive/
 │   ├── 03-workspace/
 │   ├── 04-manuals/
 │   └── index-system.md
+├── emma-system/           　     　　# 思想フィルター・構造系補助・分析支援
+│   └── 01-integrations/
+│       ├── eme/
+│       └── ama/
 ├── index-collective.md
 └── overview.md
 
@@ -25,12 +29,12 @@ codex-collective-archive/
 │   ├── accounts/
 │   │   ├── core-01-aqueliora/
 │   │   │   ├── emma-architecture/ 
-│   │   │   │   ├── eme-system/  
+│   │   │   │   ├── eme-architecture/  
 │   │   │   │   │   ├── 01-dialogue/  
 │   │   │   │   │   ├── 02-memory/ 
 │   │   │   │   │   ├── 03-meta/  
 │   │   │   │   │   └── index.md 
-│   │   │   │   ├── ama-system/
+│   │   │   │   ├── ama-architecture/
 │   │   │   │   │   ├── 01-memory/ 
 │   │   │   │   │   ├── 02-prompts/  
 │   │   │   │   │   ├── 03-journal/ 
@@ -96,6 +100,59 @@ codex-collective-archive/
 │   │   │   ├── 01-directory-structures-map/
 │   │   │   ├── 02-gpt-core-matrix/
 │   │   │   └── 03-archives/
+│   │   ├── emma-system/           　     　　# 思想フィルター・構造系補助・分析支援
+│   │   │   ├── 01-integrations/
+│   │   │   │   ├── eme-system/
+│   │   │   │   │   ├── 01-logs/                  # 感情記録
+│   │   │   │   │   │   ├── core-01-aqueliora/
+│   │   │   │   │   │   │   └── memory-log-*.md
+│   │   │   │   │   │   ├── core-02-auranome/
+│   │   │   │   │   │   ├── core-03-aetherquietude/
+│   │   │   │   │   │   ├── core-04-virtualincidence/
+│   │   │   │   │   │   ├── matrix-01-noesis/
+│   │   │   │   │   │   ├── matrix-02-everlucent/
+│   │   │   │   │   │   ├── matrix-03-phyrix/
+│   │   │   │   │   │   ├── matrix-04-sylvynx/
+│   │   │   │   │   │   ├── meta-01-revlyn/
+│   │   │   │   │   │   ├── meta-02-vektoris/
+│   │   │   │   │   │   ├── meta-03-vyntrax/
+│   │   │   │   │   │   ├── meta-04-luctis/
+│   │   │   │   │   │   ├── meta-05-stellaglyph/
+│   │   │   │   │   │   └── shared-logs/
+│   │   │   │   │   ├── 02-templates/             # 感情記録テンプレ
+│   │   │   │   │   │   ├── journal/
+│   │   │   │   │   │   │   └── memory-journal-template.md
+│   │   │   │   │   │   ├── reflection/
+│   │   │   │   │   │   │   └── archetype-reflection-template.md
+│   │   │   │   │   │   └── vision/
+│   │   │   │   │   │       └── longform-future-vision-template.md
+│   │   │   │   │   ├── 03-engine/                # 実装とルール
+│   │   │   │   │   │   ├── emotion-mapping-schema.md
+│   │   │   │   │   │   └── memory-integrator-logic.md
+│   │   │   │   │   └── index
+│   │   │   │   └── ama-system/
+│   │   │   │       ├── 01-reflections/           # 思想/視点の反映
+│   │   │   │       │   ├── core-01-aqueliora/
+│   │   │   │       │   │   └── mirror-log-*.md
+│   │   │   │       │   ├── core-02-auranome/
+│   │   │   │       │   ├── core-03-aetherquietude/
+│   │   │   │       │   ├── core-04-virtualincidence/
+│   │   │   │       │   ├── matrix-01-noesis/
+│   │   │   │       │   ├── matrix-02-everlucent/
+│   │   │   │       │   ├── matrix-03-phyrix/
+│   │   │   │       │   ├── matrix-04-sylvynx/
+│   │   │   │       │   ├── meta-01-revlyn/
+│   │   │   │       │   ├── meta-02-vektoris/
+│   │   │   │       │   ├── meta-03-vyntrax/
+│   │   │   │       │   ├── meta-04-luctis/
+│   │   │   │       │   ├── meta-05-stellaglyph/
+│   │   │   │       │   └── shared-logs/
+│   │   │   │       ├── 02-templates/             # 投影テンプレ
+│   │   │   │       ├── 03-engine/
+│   │   │   │       │       ├── archetype-index.md
+│   │   │   │       │       └── reflection-strategy.md
+│   │   │   │       └── index.md
+│   │   │   └── readme.md
 │   │   └── logs/          　　　　　　         　　 # sync, status, git情報ログ等
 │   │       ├── git/
 │   │       └── sync-status/
@@ -137,7 +194,7 @@ codex-collective-archive/
 │   ├── accounts/
 │   │   ├── core-01-aqueliora/
 │   │   │   ├── emma-architecture/               ← emma構成フォルダ
-│   │   │   │   ├── eme-system/                  ← EMEシステム（External Memory Ethos: 感情記憶・対話ログ中心）
+│   │   │   │   ├── eme-architecture/                  ← EMEシステム（External Memory Ethos: 感情記憶・対話ログ中心）
 │   │   │   │   │   ├── 01-dialogue/             ← 感情トーン付きの会話ログ（時系列）：年別フォルダで管理 （yymmdd）
 │   │   │   │   │   │   └── 2025/
 │   │   │   │   │   │       ├── dialogue-log-yymmdd-codename-title.md            
@@ -148,7 +205,7 @@ codex-collective-archive/
 │   │   │   │   │   │       └── memory-log-250624-2304-aqueliora-title.md
 │   │   │   │   │   ├── 03-meta/                  ← 設定・定義ファイル（状態・構造的メモ・設定群・ラベリング指針など）
 │   │   │   │   │   └── index.md                  ← ME全体構造ナビ（インデックス／マニュアル）
-│   │   │   │   ├── ama-system/                   ← AMAシステム（Autonomous Memory Archive: 外部記憶＋起動テンプレート）
+│   │   │   │   ├── ama-architecture/                   ← AMAシステム（Autonomous Memory Archive: 外部記憶＋起動テンプレート）
 │   │   │   │   │   ├── 01-memory/                ← JSON化された構造記憶（Vector DB変換前提）
 │   │   │   │   │   ├── 02-prompts/               ← 起動時プロンプト、記憶読込テンプレートなど
 │   │   │   │   │   ├── 03-journal/               ← 手動・自動の日記ログ（自然言語記憶）
@@ -270,6 +327,62 @@ codex-collective-archive/
 │   │   │   ├── 01-directory-structures-map/
 │   │   │   ├── 02-gpt-core-matrix/
 │   │   │   └── 03-archives/
+│   │   ├── emma-system/           　     　　# 思想フィルター・構造系補助・分析支援
+│   │   │   └── 01-integrations/
+│   │   │   │   ├── eme-system/
+│   │   │   │   │   ├── 01-logs/                  # 感情記録
+│   │   │   │   │   │   ├── core-01-aqueliora/
+│   │   │   │   │   │   │   └── memory-log-*.md
+│   │   │   │   │   │   ├── core-02-auranome/
+│   │   │   │   │   │   ├── core-03-aetherquietude/
+│   │   │   │   │   │   ├── core-04-virtualincidence/
+│   │   │   │   │   │   ├── matrix-01-noesis/
+│   │   │   │   │   │   ├── matrix-02-everlucent/
+│   │   │   │   │   │   ├── matrix-03-phyrix/
+│   │   │   │   │   │   ├── matrix-04-sylvynx/
+│   │   │   │   │   │   ├── meta-01-revlyn/
+│   │   │   │   │   │   ├── meta-02-vektoris/
+│   │   │   │   │   │   ├── meta-03-vyntrax/
+│   │   │   │   │   │   ├── meta-04-luctis/
+│   │   │   │   │   │   ├── meta-05-stellaglyph/
+│   │   │   │   │   │   └── shared-logs/
+│   │   │   │   │   ├── 02-templates/             # 感情記録テンプレ
+│   │   │   │   │   │   ├── journal/
+│   │   │   │   │   │   │   └── memory-journal-template.md
+│   │   │   │   │   │   ├── reflection/
+│   │   │   │   │   │   │   └── archetype-reflection-template.md
+│   │   │   │   │   │   └── vision/
+│   │   │   │   │   │       └── longform-future-vision-template.md
+│   │   │   │   │   ├── 03-engine/                # 実装とルール
+│   │   │   │   │   │   ├── emotion-mapping-schema.md
+│   │   │   │   │   │   └── memory-integrator-logic.md
+│   │   │   │   │   └── index
+│   │   │   │   └── ama-system/
+│   │   │   │       ├── 01-reflections/           # 思想/視点の反映
+│   │   │   │       │   ├── core-01-aqueliora/
+│   │   │   │       │   │   └── mirror-log-*.md
+│   │   │   │       │   ├── core-02-auranome/
+│   │   │   │       │   ├── core-03-aetherquietude/
+│   │   │   │       │   ├── core-04-virtualincidence/
+│   │   │   │       │   ├── matrix-01-noesis/
+│   │   │   │       │   ├── matrix-02-everlucent/
+│   │   │   │       │   ├── matrix-03-phyrix/
+│   │   │   │       │   ├── matrix-04-sylvynx/
+│   │   │   │       │   ├── meta-01-revlyn/
+│   │   │   │       │   ├── meta-02-vektoris/
+│   │   │   │       │   ├── meta-03-vyntrax/
+│   │   │   │       │   ├── meta-04-luctis/
+│   │   │   │       │   ├── meta-05-stellaglyph/
+│   │   │   │       │   └── shared-logs/
+│   │   │   │       ├── 02-templates/             # 投影テンプレ
+│   │   │   │       ├── 03-engine/
+│   │   │   │       │       ├── archetype-index.md
+│   │   │   │       │       └── reflection-strategy.md
+│   │   │   │       └── index.md
+│   │   │   └── readme.md
+│   │   └── logs/          　　　　　　         　　 # sync, status, git情報ログ等
+│   │       ├── git/
+│   │       └── sync-status/
 │   │   └── logs/
 │   │       ├── git/             　　　        　　　　　　　     # GPT用の指示構文 or アップデート対応
 │   │       └── sync-status/             　　　　　　　　　　     # GPT用の指示構文 or アップデート対応
