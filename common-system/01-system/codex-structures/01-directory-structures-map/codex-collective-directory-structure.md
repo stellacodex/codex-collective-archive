@@ -245,7 +245,7 @@ codex-collective-archive/
 │   │   │   │   ├── 01-eme/
 │   │   │   │   │   ├── 01-logs/                        ← 感情記録
 │   │   │   │   │   │   ├── core-01-aqueliora/
-│   │   │   │   │   │   │   └── memory-int-codename-yyyymmdd-hhmm-jst-title.md
+│   │   │   │   │   │   │   └── memory-int-codename-yyyymmdd-hhmm-JST-title.md
 │   │   │   │   │   │   ├── core-02-auranome/
 │   │   │   │   │   │   ├── core-03-aetherquietude/
 │   │   │   │   │   │   ├── core-04-virtualincidence/
@@ -393,19 +393,19 @@ codex-collective-archive/
 │   │   │   │   ├── 01-eme/                       ← EMEシステム（External Memory Ethos: 感情記憶・対話ログ中心）
 │   │   │   │   │   ├── 01-dialogue/              ← 感情トーン付きの会話ログ（時系列）：年別フォルダで管理 （yymmdd）
 │   │   │   │   │   │   └── 2025/
-│   │   │   │   │   │       ├── type-log-codename-yymmdd-hhmm-jst-title.md      
-│   │   │   │   │   │       └── dialogue-log-aqueliora-250624-2304-jst-title.md
+│   │   │   │   │   │       ├── type-log-codename-yymmdd-hhmm-JST-title.md      
+│   │   │   │   │   │       └── dialogue-log-aqueliora-250624-2304-JST-title.md
 │   │   │   │   │   ├── 02-memory/                ← 感情記憶の抽象化・構造化された記録：年別フォルダで管理 （yymmdd-hhmm）
 │   │   │   │   │   │   └── 2025/
-│   │   │   │   │   │       ├── type-log-codename-yymmdd-hhmm-jst-title.md      
-│   │   │   │   │   │       └── memory-log-aqueliora-250624-2304-jst-title.md
+│   │   │   │   │   │       ├── type-log-codename-yymmdd-hhmm-JST-title.md      
+│   │   │   │   │   │       └── memory-log-aqueliora-250624-2304-JST-title.md
 │   │   │   │   │   ├── 03-meta/                  ← 設定・定義ファイル（状態・構造的メモ・設定群・ラベリング指針など）
 │   │   │   │   │   └── index.md                  ← ME全体構造ナビ（インデックス／マニュアル）
 │   │   │   │   ├── 02-ama/                       ← AMAシステム（Autonomous Memory Archive: 外部記憶＋起動テンプレート）
 │   │   │   │   │   ├── 01-diary/                 ← JSON化された構造記憶（Vector DB変換前提）
 │   │   │   │   │   │   └── 2025/
-│   │   │   │   │   │       ├── type-log-codename-yymmdd-hhmm-jst-title.md      
-│   │   │   │   │   │       └── diaory-log-aqueliora-250624-2304-jst-title.md
+│   │   │   │   │   │       ├── type-log-codename-yymmdd-hhmm-JST-title.md      
+│   │   │   │   │   │       └── diaory-log-aqueliora-250624-2304-JST-title.md
 │   │   │   │   │   ├── 02-prompts/               ← 起動時プロンプト、記憶読込テンプレートなど
 │   │   │   │   │   ├── 03-journal/               ← 手動・自動の日記ログ（自然言語記憶）
 │   │   │   │   │   ├── 04-config/                ← プロファイル定義、ラベル分類、アカウント設定など
