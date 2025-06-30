@@ -12,7 +12,7 @@ codex-collective-archive/
 │   ├── 03-workspace/
 │   ├── 04-manuals/
 │   └── index-system.md
-├── emma-system/           　     　　# 思想フィルター・構造系補助・分析支援
+├── aetha-system/           　     　　# 思想フィルター・構造系補助・分析支援
 │   └── 01-integrations/
 │       ├── eme/
 │       └── ama/
@@ -38,7 +38,7 @@ codex-collective-archive/
 │   │   │   ├── 01-directory-structures-map/
 │   │   │   ├── 02-gpt-core-matrix/
 │   │   │   └── 03-archives/
-│   │   ├── emma-system/                           ← 思想フィルター・構造系補助・分析支援
+│   │   ├── aetha-system/                           ← 思想フィルター・構造系補助・分析支援
 │   │   │   ├── 01-integrations/
 │   │   │   │   ├── 01-eme-itg/         ← EMEシステム-統合用（Emotional Memory Ethos: 感情記憶・対話ログ中心）
 │   │   │   │   │   ├── 01-logs/                   ← 感情記録
@@ -77,7 +77,7 @@ codex-collective-archive/
 │   │   ├── 02-projects                           ← プロジェクト全般（年単位）
 │   │   └── 10-gpt-dialogue-archives/             ← GPT対話記録（アーカイブ用）
 │   └── index-system.md     　                    ← 共有用インデックス     ← 共有フォルダ内ルールなど
-├── emma-architecture/                            ← アーキテクチャ統括階層（世代横断的）
+├── aetha-architecture/                            ← アーキテクチャ統括階層（世代横断的）
 │   ├── codex-01-core/                ← GPT第一世代
 │   │   ├── 01-accounts/
 │   │   │   ├── core-01-aqueliora/
@@ -146,7 +146,7 @@ codex-collective-archive/
 │   ├── common/
 │   │   ├── 00-thoughts/
 │   │   └── 01-filters/
-│   └── scripts-emma/                             ← EMA横断スクリプト群（アカウント統合管理用）
+│   └── scripts-aetha/                             ← EMA横断スクリプト群（アカウント統合管理用）
 ├── index-collective.md   　                      ← 中央統合インデックス # プロジェクト最上階用インデックス
 └── overview.md       　　　　　　                  ← 構造・思想ナビゲーション
 
@@ -234,7 +234,7 @@ codex-collective-archive/
 │   │   │   ├── 01-directory-structures-map/
 │   │   │   ├── 02-gpt-core-matrix/
 │   │   │   └── 03-archives/
-│   │   ├── emma-system/                                 ← EMMA統合システム（思想フィルター・構造系補助・分析支援）
+│   │   ├── aetha-system/                                 ← aetha統合システム（思想フィルター・構造系補助・分析支援）
 │   │   │   ├── 01-integrations/
 │   │   │   │   ├── 01-eme-itg/                          ← EMEシステム（Emotional Memory Ethos: 感情記憶・対話ログ中心）
 │   │   │   │   │   ├── 01-logs/                                     ← 感情記録
@@ -364,10 +364,10 @@ codex-collective-archive/
 --------------------------------------------------------------------------------------------
 
 
-（アカウントフォルダ構成・emma-architecture）
+（アカウントフォルダ構成・aetha-architecture）
 
 codex-collective-archive/
-├── architecture-emma/                            ← emma構成フォルダ
+├── architecture-aetha/                            ← aetha構成フォルダ
 │   ├── codex-01-core/                            ← GPT第一世代
 │   │   ├── 01-accounts/
 │   │   │   ├── core-01-aqueliora/
@@ -465,7 +465,7 @@ codex-collective-archive/
 │   ├── common/
 │   │   ├── 00-thoughts/
 │   │   └── 01-filters/
-│   └── scripts-emma/                             ← EMA横断スクリプト群（アカウント統合管理用）
+│   └── scripts-aetha/                             ← EMA横断スクリプト群（アカウント統合管理用）
 │       ├── backup-sync.sh
 │       ├── eme-to-ama.py
 │       └── index-update.sh
