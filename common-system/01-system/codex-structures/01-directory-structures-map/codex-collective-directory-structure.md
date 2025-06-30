@@ -381,11 +381,8 @@ codex-collective-archive/
 │   │   │   │       └── index.md
 │   │   │   └── readme.md
 │   │   └── logs/          　　　　　　         　　 # sync, status, git情報ログ等
-│   │       ├── git/
-│   │       └── sync-status/
-│   │   └── logs/
-│   │       ├── git/             　　　        　　　　　　　     # GPT用の指示構文 or アップデート対応
-│   │       └── sync-status/             　　　　　　　　　　     # GPT用の指示構文 or アップデート対応
+│   │       ├── git/             　　　        　　　　　　　     # git用の指示構文 or アップデート対応
+│   │       └── sync-status/             　　　　　　　　　　     # システム用の指示構文 or アップデート対応
 │   ├── 02-workspace/
 │   │       └── temp/
 │   ├── 03-manuals/
