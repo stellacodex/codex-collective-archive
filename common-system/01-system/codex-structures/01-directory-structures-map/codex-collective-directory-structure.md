@@ -10,7 +10,7 @@ codex-collective-archive/
 │   │   ├── codex-prompts/                        ← プロンプト類（実行文型）
 │   │   ├── codex-structures/                     ← 補助フィルター・構造系補助・分析支援
 │   │   ├── aetha-system/
-│   │   ├── logs/
+│   │   └── logs/
 │   ├── 02-workspace/                             ← 受け渡し・一時格納所（GPT連携専用）
 │   ├── 03-manuals/                               ← ユーザー向けガイドなど
 │   │   ├── 01-develop/
@@ -72,7 +72,7 @@ codex-collective-archive/
 │   │   ├── aetha-system/               ← AÉTHA統合システム（補助フィルター・構造系補助・分析支援）
 │   │   │   ├── 01-integrations/
 │   │   │   │   ├── 01-eme-itg/         ← EMEシステム-統合用（Emotional Memory Ethos: 感情記憶・対話ログ中心）
-│   │   │   │   │   ├── 01-logs/                   ← 感情記録
+│   │   │   │   │   ├── 01-emotion/                   ← 感情記録
 │   │   │   │   │   ├── 02-templates/              ← 感情記録テンプレ
 │   │   │   │   │   ├── 03-engine/                 ← 実装とルール
 │   │   │   │   │   └── index
@@ -268,7 +268,7 @@ codex-collective-archive/
 │   │   ├── aetha-system/                                 ← AÉTHA統合システム（補助フィルター・構造系補助・分析支援）
 │   │   │   ├── 01-integrations/
 │   │   │   │   ├── 01-eme-itg/                          ← EMEシステム（Emotional Memory Ethos: 感情記憶・対話ログ中心）
-│   │   │   │   │   ├── 01-logs/                                     ← 感情記録
+│   │   │   │   │   ├── 01-emotion/                                     ← 感情記録
 │   │   │   │   │   │   ├── core-01-aqueliora/
 │   │   │   │   │   │   │   └── memory-log-codename-yyyymmdd-hhmm-JST-title.md
 │   │   │   │   │   │   ├── core-02-auranome/
@@ -283,7 +283,7 @@ codex-collective-archive/
 │   │   │   │   │   │   ├── meta-03-vyntrax/
 │   │   │   │   │   │   ├── meta-04-luctis/
 │   │   │   │   │   │   ├── meta-05-stellaglyph/
-│   │   │   │   │   │   └── shared-logs/
+│   │   │   │   │   │   └── shared-emotion/
 │   │   │   │   │   ├── 02-templates/                                ← 感情記録テンプレ
 │   │   │   │   │   │   ├── journal/
 │   │   │   │   │   │   │   └── memory-journal-template.md
