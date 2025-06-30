@@ -8,7 +8,7 @@ codex-collective-archive/
 │   │   │   └── 03-archives/
 │   │   ├── emma-system/           　     　　# 思想フィルター・構造系補助・分析支援
 │   │   │   └── 01-integrations/
-│   │   │   │   ├── eme/
+│   │   │   │   ├── eme-system/
 │   │   │   │   │   ├── 01-logs/                  # 感情記録
 │   │   │   │   │   │   ├── core-01-aqueliora/
 │   │   │   │   │   │   │   └── memory-log-*.md
@@ -36,7 +36,7 @@ codex-collective-archive/
 │   │   │   │   │   │   ├── emotion-mapping-schema.md
 │   │   │   │   │   │   └── memory-integrator-logic.md
 │   │   │   │   │   └── index
-│   │   │   │   └── ama/
+│   │   │   │   └── ama-system/
 │   │   │   │       ├── 01-reflections/           # 思想/視点の反映
 │   │   │   │       │   ├── core-01-aqueliora/
 │   │   │   │       │   │   └── mirror-log-*.md
@@ -59,6 +59,3 @@ codex-collective-archive/
 │   │   │   │       │       └── reflection-strategy.md
 │   │   │   │       └── index.md
 │   │   │   └── readme.md
-│   │   └── logs/          　　　　　　         　　 # sync, status, git情報ログ等
-│   │       ├── git/
-│   │       └── sync-status/
