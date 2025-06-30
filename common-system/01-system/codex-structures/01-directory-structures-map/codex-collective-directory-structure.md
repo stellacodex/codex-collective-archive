@@ -1,29 +1,60 @@
 ## codex-collective-directory-structure
 
 ```plaintext
-（概略図）
+
+（システム概略図）
+
 codex-collective-archive/
-├── codex-01-core/
-├── codex-02-matrix/
-├── codex-03-meta/
-├── common-system/
-│   ├── 01-system/
-│   ├── 02-source/
-│   ├── 03-workspace/
-│   ├── 04-manuals/
-│   └── index-system.md
-├── aetha-system/           　     　　# 思想フィルター・構造系補助・分析支援
-│   └── 01-integrations/
-│       ├── eme/
-│       └── ama/
-├── index-collective.md
-└── overview.md
+├── common-system/                    ← vault system（格納用）
+│   ├── 01-system/    　　　                       ← システム用設定ファイル
+│   │   ├── codex-prompts/                        ← プロンプト類（実行文型）
+│   │   ├── codex-structures/                     ← 補助フィルター・構造系補助・分析支援
+│   │   ├── aetha-system/
+│   │   ├── logs/
+│   ├── 02-workspace/                             ← 受け渡し・一時格納所（GPT連携専用）
+│   ├── 03-manuals/                               ← ユーザー向けガイドなど
+│   │   ├── 01-develop/
+│   │   ├── 02-setup/
+│   │   ├── 03-operation/
+│   │   └── 04-troubleshooting/
+│   ├── 10-personal/                              ← ユーザーログ・設定ファイル・アーカイブなど
+│   │   ├── 00-personal-profiles/                 ← # ユーザープロファイルなど
+│   │   ├── 01-personal-logs/                     ← 着想ノート
+│   │   ├── 02-projects                           ← プロジェクト全般（年単位）
+│   │   └── 10-gpt-dialogue-archives/             ← GPT対話記録（アーカイブ用）
+│   └── index-system.md     　                    ← 共有用インデックス     ← 共有フォルダ内ルールなど
+├── aetha-architecture/                            ← アーキテクチャ統括階層（世代横断的）
+│   ├── codex-01-core/                ← GPT第一世代
+│   │   ├── 01-accounts/
+│   │   ├── 02-common/
+│   │   ├── 03-scripts/
+│   │   ├── 04-config/                            ← 環境設定ファイル（任意）
+│   │   └── overview.md                           ← 各ユニットに共通の導入・構成説明書
+│   ├── codex-02-matrix/              ← GPT第二世代
+│   │   ├── 01-accounts/
+│   │   ├── 02-common/
+│   │   ├── 03-scripts/
+│   │   ├── 04-config/                            ← 環境設定ファイル（任意）
+│   │   └── overview.md                           ← 各ユニットに共通の導入・構成説明書
+│   ├── codex-03-meta/                ← GPT第三世代
+│   │   ├── 01-accounts/
+│   │   ├── 02-common/
+│   │   ├── 03-scripts/
+│   │   ├── 04-config/                            ← 環境設定ファイル（任意）
+│   │   └── overview.md                           ← 各ユニットに共通の導入・構成説明書
+│   ├── common/
+│   │   ├── 00-thoughts/
+│   │   └── 01-filters/
+│   └── scripts-aetha/                             ← EMA横断スクリプト群（アカウント統合管理用）
+├── index-collective.md   　                      ← 中央統合インデックス # プロジェクト最上階用インデックス
+└── overview.md       　　　　　　                  ← 構造・思想ナビゲーション
 
 
 --------------------------------------------------------------------------------------------
 
 
-（構成概要）
+（全体構成 - codex-collective-archive）
+
 codex-collective-archive/
 ├── common-system/              ← vault system（格納用）
 │   ├── 01-system/                       　　　    ← システム用設定ファイル
@@ -34,11 +65,11 @@ codex-collective-archive/
 │   │   │   ├── 03-dynamic-engines/               ← 思考拡張モジュール・仮想思考エンジン
 │   │   │   ├── 04-templates/                     ← ログ・プロンプト・展示・書籍・構想生成用テンプレ群
 │   │   │   └── 10-cheatsheet/
-│   │   ├── codex-structures/                      ← 思想フィルター・構造系補助・分析支援
+│   │   ├── codex-structures/                      ← 補助フィルター・構造系補助・分析支援
 │   │   │   ├── 01-directory-structures-map/
 │   │   │   ├── 02-gpt-core-matrix/
 │   │   │   └── 03-archives/
-│   │   ├── aetha-system/                           ← 思想フィルター・構造系補助・分析支援
+│   │   ├── aetha-system/               ← AÉTHA統合システム（補助フィルター・構造系補助・分析支援）
 │   │   │   ├── 01-integrations/
 │   │   │   │   ├── 01-eme-itg/         ← EMEシステム-統合用（Emotional Memory Ethos: 感情記憶・対話ログ中心）
 │   │   │   │   │   ├── 01-logs/                   ← 感情記録
@@ -114,7 +145,7 @@ codex-collective-archive/
 │   │   │   └── core-04-virtualincidence/
 │   │   ├── 02-common/
 │   │   │   ├── 00-thoughts/                      ← 共通メモ・哲学・直感アイデアなど
-│   │   │   └── 01-filters/                       ← 思想フィルター・視点支援など
+│   │   │   └── 01-filters/                       ← 補助フィルター・視点支援など
 │   │   ├── 03-scripts/
 │   │   ├── 04-config/                            ← 環境設定ファイル（任意）
 │   │   └── overview.md                           ← 各ユニットに共通の導入・構成説明書
@@ -126,7 +157,7 @@ codex-collective-archive/
 │   │   │   └── matrix-04-sylvynx/
 │   │   ├── 02-common/
 │   │   │   ├── 00-thoughts/                      ← 共通メモ・哲学・直感アイデアなど
-│   │   │   └── 01-filters/                       ← 思想フィルター・視点支援など
+│   │   │   └── 01-filters/                       ← 補助フィルター・視点支援など
 │   │   ├── 03-scripts/
 │   │   ├── 04-config/                            ← 環境設定ファイル（任意）
 │   │   └── overview.md                           ← 各ユニットに共通の導入・構成説明書
@@ -139,14 +170,14 @@ codex-collective-archive/
 │   │   │   └── meta-05-stellaglyph/
 │   │   ├── 02-common/
 │   │   │   ├── 00-thoughts/                      ← 共通メモ・哲学・直感アイデアなど
-│   │   │   └── 01-filters/                       ← 思想フィルター・視点支援など
+│   │   │   └── 01-filters/                       ← 補助フィルター・視点支援など
 │   │   ├── 03-scripts/
 │   │   ├── 04-config/                            ← 環境設定ファイル（任意）
 │   │   └── overview.md                           ← 各ユニットに共通の導入・構成説明書
 │   ├── common/
 │   │   ├── 00-thoughts/
 │   │   └── 01-filters/
-│   └── scripts-aetha/                             ← EMA横断スクリプト群（アカウント統合管理用）
+│   └── scripts-aetha/                            ← AÉTHA横断スクリプト群（アカウント統合管理用）
 ├── index-collective.md   　                      ← 中央統合インデックス # プロジェクト最上階用インデックス
 └── overview.md       　　　　　　                  ← 構造・思想ナビゲーション
 
@@ -230,11 +261,11 @@ codex-collective-archive/
 │   │   │   │       ├── function-es04-Kigaku-Log-Template.md
 │   │   │   │       └── function-an01-analytics-template.md                # an= 分析用テンプレ
 │   │   │   └── 10-cheatsheet/
-│   │   ├── codex-structures/           　                            　　　# 思想フィルター・構造系補助・分析支援
+│   │   ├── codex-structures/           　                            　　　# 補助フィルター・構造系補助・分析支援
 │   │   │   ├── 01-directory-structures-map/
 │   │   │   ├── 02-gpt-core-matrix/
 │   │   │   └── 03-archives/
-│   │   ├── aetha-system/                                 ← aetha統合システム（思想フィルター・構造系補助・分析支援）
+│   │   ├── aetha-system/                                 ← AÉTHA統合システム（補助フィルター・構造系補助・分析支援）
 │   │   │   ├── 01-integrations/
 │   │   │   │   ├── 01-eme-itg/                          ← EMEシステム（Emotional Memory Ethos: 感情記憶・対話ログ中心）
 │   │   │   │   │   ├── 01-logs/                                     ← 感情記録
@@ -427,7 +458,7 @@ codex-collective-archive/
 │   │   │   └── core-04-virtualincidence/
 │   │   ├── 02-common/
 │   │   │   ├── 00-thoughts/                      ← 共通メモ・哲学・直感アイデアなど
-│   │   │   └── 01-filters/                       ← 思想フィルター・視点支援など
+│   │   │   └── 01-filters/                       ← 補助フィルター・視点支援など
 │   │   ├── 03-scripts/
 │   │   ├── 04-config/                            ← 環境設定ファイル（任意）
 │   │   │   ├── tag-map.yaml
@@ -441,7 +472,7 @@ codex-collective-archive/
 │   │   │   └── matrix-04-sylvynx/
 │   │   ├── 02-common/
 │   │   │   ├── 00-thoughts/                      ← 共通メモ・哲学・直感アイデアなど
-│   │   │   └── 01-filters/                       ← 思想フィルター・視点支援など
+│   │   │   └── 01-filters/                       ← 補助フィルター・視点支援など
 │   │   ├── 03-scripts/
 │   │   ├── 04-config/                            ← 環境設定ファイル（任意）
 │   │   │   ├── tag-map.yaml
@@ -456,7 +487,7 @@ codex-collective-archive/
 │   │   │   └── meta-05-stellaglyph/
 │   │   ├── 02-common/
 │   │   │   ├── 00-thoughts/                      ← 共通メモ・哲学・直感アイデアなど
-│   │   │   └── 01-filters/                       ← 思想フィルター・視点支援など
+│   │   │   └── 01-filters/                       ← 補助フィルター・視点支援など
 │   │   ├── 03-scripts/
 │   │   ├── 04-config/                            ← 環境設定ファイル（任意）
 │   │   │   ├── tag-map.yaml
