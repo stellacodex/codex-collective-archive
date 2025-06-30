@@ -1,4 +1,4 @@
-## codex-collective-directory-structure-250626
+## codex-collective-directory-structure
 
 ```plaintext
 （概略図）
@@ -44,8 +44,6 @@ codex-collective-archive/
 │   │   │   │   └── scripts-emma/
 │   │   │   ├── readme.md                          ← 各ユニットに共通の導入・構成説明書
 │   │   │   └── config/
-│   ├── accounts/
-│   │   ├── core-01-aqueliora/
 │   │   ├── core-02-auranome/
 │   │   ├── core-03-aetherquietude/
 │   │   └── core-04-virtualincidence/
