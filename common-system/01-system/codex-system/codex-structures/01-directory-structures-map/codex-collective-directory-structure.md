@@ -31,7 +31,7 @@ codex-collective-archive/
 │   │   ├── 02-projects                           ← プロジェクト全般（年単位）
 │   │   └── 10-gpt-dialogue-archives/             ← GPT対話記録（アーカイブ用）
 │   └── index-common-system.md     　              ← 共有フォルダ内ルールなど（全体）
-├── index-collective.md         ← 中央統合インデックス # プロジェクト最上階用インデックス
+├── index-collective.md   　    ← 中央統合インデックス（プロジェクト最上階用インデックス）
 └── overview.md                 ← 構造・思想ナビゲーション
 
 
@@ -190,7 +190,7 @@ codex-collective-archive/
 │   │   └── 01-filters/
 │   ├── scripts-aetha/                            ← Aétha（イーサ）横断スクリプト群（アカウント統合管理用）
 │   └── index-codex-architecture.md               ← アーキテクチャ内インデックス
-├── index-collective.md   　                      ← 中央統合インデックス # プロジェクト最上階用インデックス
+├── index-collective.md 　　　　　  　              ← 中央統合インデックス（プロジェクト最上階用インデックス）
 └── overview.md       　　　　　　                  ← 構造・思想ナビゲーション
 
 
@@ -304,7 +304,7 @@ codex-collective-archive/
 │       ├── backup-sync.sh
 │       ├── eme-to-ama.py
 │       └── index-update.sh
-├── index-collective.md   　              # 中央統合インデックス ← プロジェクト最上階用インデックス
+├── index-collective.md   　              ← 中央統合インデックス（プロジェクト最上階用インデックス）
 └── overview.md       　　　　　　          ← 構造・思想ナビゲーション
 
 
