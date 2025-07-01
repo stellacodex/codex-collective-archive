@@ -62,7 +62,8 @@ codex-collective-archive/
 │   ├── common/
 │   │   ├── 00-thoughts/
 │   │   └── 01-filters/
-│   └── scripts-aetha/                             ← Aétha（イーサ）システム横断スクリプト群（アカウント統合管理用）
+│   ├── scripts-aetha/                            ← Aétha（イーサ）横断スクリプト群（アカウント統合管理用）
+│   └── index-codex-architecture.md               ← アーキテクチャ内インデックス
 ├── common-system/                       ← Codex中核システム格納用
 │   ├── 01-system/                       　　　    ← システム用設定ファイル
 │   │   ├── codex-system/                 ← Codexの構造・起動指令・思想中枢
@@ -185,7 +186,8 @@ codex-collective-archive/
 │   ├── common/
 │   │   ├── 00-thoughts/
 │   │   └── 01-filters/
-│   └── scripts-aetha/                            ← Aétha（イーサ）横断スクリプト群（アカウント統合管理用）
+│   ├── scripts-aetha/                            ← Aétha（イーサ）横断スクリプト群（アカウント統合管理用）
+│   └── index-codex-architecture.md               ← アーキテクチャ内インデックス
 ├── index-collective.md   　                      ← 中央統合インデックス # プロジェクト最上階用インデックス
 └── overview.md       　　　　　　                  ← 構造・思想ナビゲーション
 
