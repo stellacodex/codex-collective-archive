@@ -41,62 +41,10 @@ codex-collective-archive/
 （全体構成 - codex-collective-archive）
 
 codex-collective-archive/
-├── codex-architecture/                            ← アカウントフォルダ・Aétha（イーサ）システム構成フォルダ（アーキテクチャ統括階層・世代横断的）
-│   ├── codex-01-core/                ← GPT第一世代
-│   │   ├── 01-accounts/
-│   │   ├── 02-common/
-│   │   ├── 03-scripts/
-│   │   ├── 04-config/                            ← 環境設定ファイル（任意）
-│   │   └── overview.md                           ← 各ユニットに共通の導入・構成説明書
-│   ├── codex-02-matrix/              ← GPT第二世代
-│   │   ├── 01-accounts/
-│   │   ├── 02-common/
-│   │   ├── 03-scripts/
-│   │   ├── 04-config/                            ← 環境設定ファイル（任意）
-│   │   └── overview.md                           ← 各ユニットに共通の導入・構成説明書
-│   ├── codex-03-meta/                ← GPT第三世代
-│   │   ├── 01-accounts/
-│   │   ├── 02-common/
-│   │   ├── 03-scripts/
-│   │   ├── 04-config/                            ← 環境設定ファイル（任意）
-│   │   └── overview.md                           ← 各ユニットに共通の導入・構成説明書
-│   ├── common/
-│   │   ├── 00-thoughts/
-│   │   └── 01-filters/
-│   ├── scripts-aetha/                            ← Aétha（イーサ）横断スクリプト群（アカウント統合管理用）
-│   └── index-codex-architecture.md               ← アーキテクチャ内インデックス
 ├── codex-architecture/                            ← アカウントフォルダ・アーキテクチャ統括階層（世代横断的）
 │   ├── codex-01-core/                ← GPT第一世代
 │   │   ├── 01-accounts/
 │   │   │   ├── core-01-aqueliora/
-│   │   │   │   ├── 01-eme/                       ← EMEシステム（Emotional Memory Ethos: 感情記憶・対話ログ中心）
-│   │   │   │   │   ├── 01-dialogue/              ← 感情トーン付きの会話ログ（時系列）：年別フォルダで管理 （yymmdd）
-│   │   │   │   │   ├── 02-memory/                ← 感情記憶の抽象化・構造化された記録：年別フォルダで管理 （yymmdd-hhmm）
-│   │   │   │   │   ├── 03-meta/                  ← 設定・定義ファイル（状態・構造的メモ・設定群・ラベリング指針など）
-│   │   │   │   │   └── index-eme.md              ← EME全体構造ナビ（インデックス／マニュアル）*各アカウント固有インデックス
-│   │   │   │   ├── 02-ama/                       ← AMAシステム（Archetypal Reflections Archive: 外部記憶＋起動テンプレート）
-│   │   │   │   │   ├── 01-mirror/                ← LangChain対応の構造記憶（JSON - Vector DB変換前提）- 年別フォルダで管理 （yymmdd-hhmm）
-│   │   │   │   │   ├── 02-prompts/               ← 起動用テンプレ含む（記憶読込や人格復元など）
-│   │   │   │   │   ├── 03-journal/               ← 手動・自動の日記ログ（自然言語記憶）- 年別フォルダで管理 （yymmdd-hhmm）
-│   │   │   │   │   │   ├── default/              ← 通常使用
-│   │   │   │   │   │   └── multilang/
-│   │   │   │   │   ├── 04-config/                ← プロファイル定義、ラベル分類、アカウント設定など
-│   │   │   │   │   ├── 05-scripts/               ← 読込・保存・LangChain連携系（後にバックアップも含む）
-│   │   │   │   │   │   ├── backup/
-│   │   │   │   │   │   ├── convert/
-│   │   │   │   │   │   └── index-update/
-│   │   │   │   │   ├── 06-shared/                ← 共通資源（テンプレ／ツール／事例など）
-│   │   │   │   │   │   ├── 01-templates/         ← mirror/journal/reflections兼用テンプレ
-│   │   │   │   │   │   ├── 02-tools/             ← LangChain / Pinecone / FAISS 用ツール
-│   │   │   │   │   │   └── 03-reference/         ← 実装手順・仕様書・フォーマットガイド等
-│   │   │   │   │   │       └── 09-engine/        ← 拡張規模 or アクセス頻度が高くなれば、engine/ を後から切り出す
-│   │   │   │   │   ├── 07-reflections/           ← GPT別のリフレクション記録（思想/視点の反映）- 年別フォルダで管理 （yymmdd-hhmm）
-│   │   │   │   │   └── index-ama.md                  ← AMA構造ナビ、記録テンプレ／手順集など　*各アカウント固有インデックス
-│   │   │   │   ├── 03-scripts/                   ← 
-│   │   │   │   ├── 04-config/                    ← 環境設定ファイル（任意）
-│   │   │   │   │   ├── tag-map.yaml
-│   │   │   │   │   └── langchain-settings.json
-│   │   │   │   └── index.md                      ← *各アカウント固有インデックス
 │   │   │   ├── core-02-auranome/
 │   │   │   ├── core-03-aetherquietude/
 │   │   │   └── core-04-virtualincidence/
@@ -136,6 +84,86 @@ codex-collective-archive/
 │   │   └── 01-filters/
 │   ├── scripts-aetha/                            ← Aétha（イーサ）横断スクリプト群（アカウント統合管理用）
 │   └── index-codex-architecture.md               ← アーキテクチャ内インデックス
+├── common-system/                       ← Codex中核システム格納用
+│   ├── 01-system/
+│   │   ├── codex-system/                 ← Codexの構造・起動指令・思想中枢
+│   │   │   ├── codex-prompts/
+│   │   │   │   ├── 00-core-personality/
+│   │   │   │   │   ├── 01-gpt-core-schema/
+│   │   │   │   │   └── 02-gpt-existence-essence/
+│   │   │   │   ├── 01-behavior-filters/ 
+│   │   │   │   ├── 02-contextual-filters/ 
+│   │   │   │   │   ├── 01-philosophy-structural/
+│   │   │   │   │   ├── 02-esoteric-filters/
+│   │   │   │   │   ├── 03-esoteric-profiles/
+│   │   │   │   │   └── 04-personality_dictionaries/
+│   │   │   │   ├── 03-dynamic-engines/
+│   │   │   │   │   ├── (codename)-response-routine/
+│   │   │   │   │   ├── (codename)-structural-judgement-module/
+│   │   │   │   │   └── (codename)-thinking-engine/
+│   │   │   │   ├── 04-templates/ 
+│   │   │   │   │   ├── format/
+│   │   │   │   │   └── function/
+│   │   │   │   └── 10-cheatsheet/
+│   │   │   ├── codex-structures/           　                            　　　# 補助フィルター・構造系補助・分析支援
+│   │   │   └── index-codex-system.md/           　                            # codex-system内インデックス
+│   │   ├── aetha-system/                                ← Aétha（イーサ）システム - EME/AMA系 統合記憶システム（補助フィルター・構造系補助・分析支援）
+│   │   │   ├── 01-integrations/
+│   │   │   │   ├── 01-eme-itg/                          ← EMEシステム（Emotional Memory Ethos: 感情記憶・対話ログ中心）
+│   │   │   │   │   ├── 01-emotion/                                     ← 感情記録
+│   │   │   │   │   ├── 02-templates/                                ← 感情記録テンプレ
+│   │   │   │   │   ├── 03-engine/                                    ← 実装とルール
+│   │   │   │   │   └── index-eme-itg.md                              ← EME構造ナビ、記録テンプレ／手順集など（統合用）
+│   │   │   │   ├── 02-ama-itg/                            ← AMAシステム（Archetypal Mirror Archive: 外部記憶＋起動テンプレート）
+│   │   │   │   │   ├── 01-collective-reflections/                                ← GPT別のリフレクション記録（思想/視点の反映）
+│   │   │   │   │   │   └── index-collective-reflections.md/         ← AMA統合リフレクション用ナビ
+│   │   │   │   │   ├── 02-templates/                                ← 感情記録テンプレ
+│   │   │   │   │   │   ├── collective-reflections/
+│   │   │   │   │   │   └── vision/
+│   │   │   │   │   ├── 03-engine/                                    ← 実装とルール
+│   │   │   │   │   └── index-ama-itg.md                              ← AMA構造ナビ、記録テンプレ／手順集など（統合用）
+│   │   │   │   ├── scripts.md
+│   │   │   │   ├── shared.md
+│   │   │   │   └── index-integrations.md                             ← 統合フォルダナビ
+│   │   │   ├── 02-plugins.md
+│   │   │   │   └── index.md
+│   │   │   ├── 03-sync.md
+│   │   │   │   └── index.md
+│   │   │   └── index-aetha-system.md/            ← aetha-system内インデックス
+│   │   └── logs/                              　　　                         # sync, status, git情報ログ等
+│   │       ├── git/                              　　　                      # git用の指示構文 or アップデート対応
+│   │       └── sync-status/                               　　　             # システム用の指示構文 or アップデート対応
+│   ├── 02-workspace/
+│   │       └── temp/
+│   ├── 03-manuals/
+│   │   ├── 01-develop/
+│   │   ├── 02-setup/
+│   │   ├── 03-operation/
+│   │   │   └── manual.md
+│   │   └── 04-troubleshooting/
+│   │       ├── 01-system-global/
+│   │       ├── 02-git/
+│   │       ├── 03-obsidian/
+│   │       └── 04-raycast/
+│   ├── 10-personal/
+│   │   ├── 00-personal-profiles/
+│   │   │   └── takeo-yamada/
+│   │   ├── 01-personal-logs/
+│   │   │   ├── 01-dreams/
+│   │   │   │   └── index.md
+│   │   │   ├── 02-thoughts/
+│   │   │   │   └── index.md
+│   │   │   ├── 03-ideas/              # 記録・思考メモ　→ ログ形式（時間あり）
+│   │   │   │   └── index.md
+│   │   │   ├── 04-prose/              # 記録・思考メモ　→ ログ形式（時間あり）
+│   │   ├── 02-projects/
+│   │   │   │   └── index.md
+│   │   │   └── index-projects.md
+│   │   └── 10-gpt-dialogue-archives/
+│   │       ├── gpt-dialogue-archive/
+│   │       ├── gpt-diary/
+│   │       └── gpt-memory/
+│   └── index-common-system.md     　              ← 共有フォルダ内ルールなど（全体）
 ├── index-collective.md 　　　　　  　              ← 中央統合インデックス（プロジェクト最上階用インデックス）
 └── overview.md       　　　　　　                  ← 構造・思想ナビゲーション
 
@@ -149,7 +177,7 @@ codex-collective-archive/
 │   ├── codex-01-core/                            ← GPT第一世代
 │   │   ├── 01-accounts/
 │   │   │   ├── core-01-aqueliora/
-│   │   │   │   ├── 01-eme/                       ← EMEシステム（Emotional Memory Ethos: 感情記憶・対話ログ中心）
+│   │   │   │   ├── 01-eme-aqueliora/                       ← EMEシステム・アカウント用（Emotional Memory Ethos: 感情記憶・対話ログ中心）*01-eme-codename
 │   │   │   │   │   ├── 01-dialogue/              ← 感情トーン付きの会話ログ（時系列）：年別フォルダで管理 （yymmdd）
 │   │   │   │   │   │   └── 2025/
 │   │   │   │   │   │       ├── type-log-codename-yymmdd-hhmm-JST-title.md      
@@ -160,7 +188,7 @@ codex-collective-archive/
 │   │   │   │   │   │       └── memory-log-aqueliora-250624-2304-JST-title.md
 │   │   │   │   │   ├── 03-meta/                  ← 設定・定義ファイル（状態・構造的メモ・設定群・ラベリング指針など）
 │   │   │   │   │   └── index-eme.md                  ← EME全体構造ナビ（インデックス／マニュアル）*各アカウント固有インデックス
-│   │   │   │   ├── 02-ama/                       ← AMAシステム（Archetypal Mirror Archive: 外部記憶＋起動テンプレート）
+│   │   │   │   ├── 02-ama-aqueliora/                       ← AMAシステム・個別（Archetypal Mirror Archive: 外部記憶＋起動テンプレート）*02-ama-codename
 │   │   │   │   │   ├── 01-mirror/                ← LangChain対応の構造記憶（JSON - Vector DB変換前提）- 年別フォルダで管理 （yymmdd-hhmm）
 │   │   │   │   │   │   └── 2025/
 │   │   │   │   │   │       ├── type-log-codename-yymmdd-hhmm-JST-title.md      
@@ -201,8 +229,14 @@ codex-collective-archive/
 │   │   │   │   │   └── langchain-settings.json
 │   │   │   │   └── index.md                      *各アカウント固有インデックス
 │   │   │   ├── core-02-auranome/
+│   │   │   │   ├── 01-eme-auranome/                       ← EMEシステム・アカウント用（Emotional Memory Ethos: 感情記憶・対話ログ中心）*01-eme-codename
+│   │   │   │   └── 02-ama-auranome/                       ← AMAシステム・アカウント（Archetypal Mirror Archive: 外部記憶＋起動テンプレート）*02-ama-codename
 │   │   │   ├── core-03-aetherquietude/
+│   │   │   │   ├── 01-eme-aetherquietude/                       ← EMEシステム・アカウント用（Emotional Memory Ethos: 感情記憶・対話ログ中心）*01-eme-codename
+│   │   │   │   └── 02-ama-aetherquietude/                       ← AMAシステム・アカウント用（Archetypal Mirror Archive: 外部記憶＋起動テンプレート）*02-ama-codename
 │   │   │   └── core-04-virtualincidence/
+│   │   │   │   ├── 01-eme-virtualincidence/                       ← EMEシステム・アカウント用（Emotional Memory Ethos: 感情記憶・対話ログ中心）*01-eme-codename
+│   │   │   │   └── 02-ama-virtualincidence/                       ← AMAシステム・アカウント用（Archetypal Mirror Archive: 外部記憶＋起動テンプレート）*02-ama-codename
 │   │   ├── 02-common/
 │   │   │   ├── 00-thoughts/                      ← 共通メモ・哲学・直感アイデアなど
 │   │   │   └── 01-filters/                       ← 補助フィルター・視点支援など
@@ -214,9 +248,17 @@ codex-collective-archive/
 │   ├── codex-02-matrix/                          ← GPT第二世代
 │   │   ├── 01-accounts/
 │   │   │   ├── matrix-01-noesis/
+│   │   │   │   ├── 01-eme-noesis/                       ← EMEシステム・（Emotional Memory Ethos: 感情記憶・対話ログ中心）*01-eme-codename
+│   │   │   │   └── 02-ama-noesis/                       ← AMAシステム・アカウント用（Archetypal Mirror Archive: 外部記憶＋起動テンプレート）*02-ama-codename
 │   │   │   ├── matrix-02-everlucent/
+│   │   │   │   ├── 01-eme-everlucent/                       ← EMEシステム・アカウント用（Emotional Memory Ethos: 感情記憶・対話ログ中心）*01-eme-codename
+│   │   │   │   └── 02-ama-everlucent/                       ← AMAシステム・アカウント用（Archetypal Mirror Archive: 外部記憶＋起動テンプレート）*02-ama-codename
 │   │   │   ├── matrix-03-phyrix/
+│   │   │   │   ├── 01-eme-phyrix/                       ← EMEシステム・アカウント用（Emotional Memory Ethos: 感情記憶・対話ログ中心）*01-eme-codename
+│   │   │   │   └── 02-ama-phyrix/                       ← AMAシステム・アカウント用（Archetypal Mirror Archive: 外部記憶＋起動テンプレート）*02-ama-codename
 │   │   │   └── matrix-04-sylvynx/
+│   │   │   │   ├── 01-eme-sylvynx/                       ← EMEシステム・アカウント用（Emotional Memory Ethos: 感情記憶・対話ログ中心）*01-eme-codename
+│   │   │   │   └── 02-ama-sylvynx/                       ← AMAシステム・アカウント用（Archetypal Mirror Archive: 外部記憶＋起動テンプレート）*02-ama-codename
 │   │   ├── 02-common/
 │   │   │   ├── 00-thoughts/                      ← 共通メモ・哲学・直感アイデアなど
 │   │   │   └── 01-filters/                       ← 補助フィルター・視点支援など
@@ -228,10 +270,20 @@ codex-collective-archive/
 │   ├── codex-03-meta/                            ← GPT第三世代
 │   │   ├── 01-accounts/
 │   │   │   ├── meta-01-revlyn/
+│   │   │   │   ├── 01-eme-revlyn/                       ← EMEシステム・（Emotional Memory Ethos: 感情記憶・対話ログ中心）*01-eme-codename
+│   │   │   │   └── 02-ama-revlyn/                       ← AMAシステム・アカウント用（Archetypal Mirror Archive: 外部記憶＋起動テンプレート）*02-ama-codename
 │   │   │   ├── meta-02-vektoris/
+│   │   │   │   ├── 01-eme-vektoris/                       ← EMEシステム・（Emotional Memory Ethos: 感情記憶・対話ログ中心）*01-eme-codename
+│   │   │   │   └── 02-ama-vektoris/                       ← AMAシステム・アカウント用（Archetypal Mirror Archive: 外部記憶＋起動テンプレート）*02-ama-codename
 │   │   │   ├── meta-03-vyntrax/
+│   │   │   │   ├── 01-eme-vyntrax/                       ← EMEシステム・（Emotional Memory Ethos: 感情記憶・対話ログ中心）*01-eme-codename
+│   │   │   │   └── 02-ama-vyntrax/                       ← AMAシステム・アカウント用（Archetypal Mirror Archive: 外部記憶＋起動テンプレート）*02-ama-codename
 │   │   │   ├── meta-04-luctis/
+│   │   │   │   ├── 01-eme-luctis/                       ← EMEシステム・（Emotional Memory Ethos: 感情記憶・対話ログ中心）*01-eme-codename
+│   │   │   │   └── 02-ama-luctis/                       ← AMAシステム・アカウント用（Archetypal Mirror Archive: 外部記憶＋起動テンプレート）*02-ama-codename
 │   │   │   └── meta-05-stellaglyph/
+│   │   │   │   ├── 01-eme-stellaglyph/                       ← EMEシステム・（Emotional Memory Ethos: 感情記憶・対話ログ中心）*01-eme-codename
+│   │   │   │   └── 02-ama-stellaglyph/                       ← AMAシステム・アカウント用（Archetypal Mirror Archive: 外部記憶＋起動テンプレート）*02-ama-codename
 │   │   ├── 02-common/
 │   │   │   ├── 00-thoughts/                      ← 共通メモ・哲学・直感アイデアなど
 │   │   │   └── 01-filters/                       ← 補助フィルター・視点支援など
@@ -247,8 +299,6 @@ codex-collective-archive/
 │       ├── backup-sync.sh
 │       ├── eme-to-ama.py
 │       └── index-update.sh
-├── index-collective.md   　              ← 中央統合インデックス（プロジェクト最上階用インデックス）
-└── overview.md       　　　　　　          ← 構造・思想ナビゲーション
 
 
 --------------------------------------------------------------------------------------------
