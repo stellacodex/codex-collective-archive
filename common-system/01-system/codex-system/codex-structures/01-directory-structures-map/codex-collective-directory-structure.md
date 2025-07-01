@@ -65,60 +65,6 @@ codex-collective-archive/
 │   │   └── 01-filters/
 │   ├── scripts-aetha/                            ← Aétha（イーサ）横断スクリプト群（アカウント統合管理用）
 │   └── index-codex-architecture.md               ← アーキテクチャ内インデックス
-├── common-system/                       ← Codex中核システム格納用
-│   ├── 01-system/                       　　　    ← システム用設定ファイル
-│   │   ├── codex-system/                 ← Codexの構造・起動指令・思想中枢
-│   │   │   ├── codex-prompts/                        ← プロンプト類（実行文型）
-│   │   │   │   ├── 00-core-personality/              ← 中核人格定義（system prompt レベル）：GPTの人格核としてsystem promptに組み込む。性格・口調・思考原理を定義
-│   │   │   │   ├── 01-behavior-filters/   　         ← 出力トーンや口調調整：スタイル切り替え用。甘口／理論的／詩的モードなど、感情や文体に関与
-│   │   │   │   ├── 02-contextual-filters/            ← 思想・占術・語彙パターンなどの補助構
-│   │   │   │   ├── 03-dynamic-engines/               ← 思考拡張モジュール・仮想思考エンジン
-│   │   │   │   ├── 04-templates/                     ← ログ・プロンプト・展示・書籍・構想生成用テンプレ群
-│   │   │   │   └── 10-cheatsheet/
-│   │   │   ├── codex-structures/                     ← 補助フィルター・構造系補助・分析支援
-│   │   │   │   ├── 01-directory-structures-map/
-│   │   │   │   ├── 02-gpt-core-matrix/
-│   │   │   │   └── 03-archives/
-│   │   │   └── index-codex-system.md/                 ← codex-system内インデックス
-│   │   ├── aetha-system/               ← Aétha（イーサ）システム - EME/AMA系 統合記憶システム（補助フィルター・構造系補助・分析支援）
-│   │   │   ├── 01-integrations/
-│   │   │   │   ├── 01-eme-itg/         ← EMEシステム-統合用（Emotional Memory Ethos: 感情記憶・対話ログ中心）
-│   │   │   │   │   ├── 01-emotion/                   ← 感情記録
-│   │   │   │   │   ├── 02-templates/                 ← 感情記録テンプレ
-│   │   │   │   │   ├── 03-engine/                    ← 実装とルール
-│   │   │   │   │   └── index.md
-│   │   │   │   ├── 02-ama-itg/         ← AMAシステム-統合用（Archetypal Mirror Archive: 外部記憶＋起動テンプレート）
-│   │   │   │   │   ├── 01-collective-reflections     ← GPT別のリフレクション記録（思想/視点の反映）
-│   │   │   │   │   ├── 02-templates/                 ← 感情記録テンプレ
-│   │   │   │   │   ├── 03-engine/                    ← 実装とルール
-│   │   │   │   │   └── index.md                      ← AMA構造ナビ、記録テンプレ／手順集など
-│   │   │   │   ├── scripts.md
-│   │   │   │   ├── shared.md
-│   │   │   │   └── index.md
-│   │   │   ├── 02-plugins.md
-│   │   │   │   └── index.md
-│   │   │   ├── 03-sync.md
-│   │   │   │   └── index.md
-│   │   │   └── index-aetha-system.md/            ← aetha-system内インデックス（統合用）
-│   │   ├── logs/                                 ← sync, status, git情報ログ等
-│   │   │   ├── git/                              ← git用の指示構文 or アップデート対応
-│   │   │   ├── sync-status/                      ← システム用の指示構文 or アップデート対応
-│   │   │   └── index.md
-│   │   ├── index-system.md     　                 ← 共有フォルダ内ルールなど（システムフォルダ）
-│   │   └── overview.md
-│   ├── 02-workspace/　                           ← 受け渡し・一時格納所（GPT連携専用）
-│   │       └── temp/
-│   ├── 03-manuals/                               ← ユーザー向けガイドなど
-│   │   ├── 01-develop/
-│   │   ├── 02-setup/
-│   │   ├── 03-operation/
-│   │   └── 04-troubleshooting/
-│   ├── 10-personal/                              ← ユーザーログ・設定ファイル・アーカイブなど
-│   │   ├── 00-personal-profiles/                 ← # ユーザープロファイルなど
-│   │   ├── 01-personal-logs/                     ← 着想ノート
-│   │   ├── 02-projects                           ← プロジェクト全般（年単位）
-│   │   └── 10-gpt-dialogue-archives/             ← GPT対話記録（アーカイブ用）
-│   └── index-common-system.md     　              ← 共有フォルダ内ルールなど（全体）
 ├── codex-architecture/                            ← アカウントフォルダ・アーキテクチャ統括階層（世代横断的）
 │   ├── codex-01-core/                ← GPT第一世代
 │   │   ├── 01-accounts/
@@ -192,9 +138,6 @@ codex-collective-archive/
 │   └── index-codex-architecture.md               ← アーキテクチャ内インデックス
 ├── index-collective.md 　　　　　  　              ← 中央統合インデックス（プロジェクト最上階用インデックス）
 └── overview.md       　　　　　　                  ← 構造・思想ナビゲーション
-
-
-
 
 --------------------------------------------------------------------------------------------
 
