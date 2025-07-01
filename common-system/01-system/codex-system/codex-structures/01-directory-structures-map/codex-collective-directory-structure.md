@@ -126,9 +126,9 @@ codex-collective-archive/
 │   │   │   │   ├── shared.md
 │   │   │   │   └── index-integrations.md                             ← 統合フォルダナビ
 │   │   │   ├── 02-plugins.md
-│   │   │   │   └── index.md
+│   │   │   │   └── index-plugins.md
 │   │   │   ├── 03-sync.md
-│   │   │   │   └── index.md
+│   │   │   │   └── index-sync.md
 │   │   │   └── index-aetha-system.md/            ← aetha-system内インデックス
 │   │   └── logs/                              　　　                         # sync, status, git情報ログ等
 │   │       ├── git/                              　　　                      # git用の指示構文 or アップデート対応
@@ -150,14 +150,15 @@ codex-collective-archive/
 │   │   │   └── takeo-yamada/
 │   │   ├── 01-personal-logs/
 │   │   │   ├── 01-dreams/
-│   │   │   │   └── index.md
+│   │   │   │   └── index-dreams.md
 │   │   │   ├── 02-thoughts/
-│   │   │   │   └── index.md
+│   │   │   │   └── index-thoughts.md
 │   │   │   ├── 03-ideas/              # 記録・思考メモ　→ ログ形式（時間あり）
-│   │   │   │   └── index.md
-│   │   │   ├── 04-prose/              # 記録・思考メモ　→ ログ形式（時間あり）
+│   │   │   │   └── index-ideas.md
+│   │   │   └── 04-prose/              # 記録・思考メモ　→ ログ形式（時間あり）
+│   │   │       └── index-prose.md
 │   │   ├── 02-projects/
-│   │   │   │   └── index.md
+│   │   │   │   └── index-projects.md
 │   │   │   └── index-projects.md
 │   │   └── 10-gpt-dialogue-archives/
 │   │       ├── gpt-dialogue-archive/
@@ -187,7 +188,7 @@ codex-collective-archive/
 │   │   │   │   │   │       ├── type-log-codename-yymmdd-hhmm-JST-title.md      
 │   │   │   │   │   │       └── memory-log-aqueliora-250624-2304-JST-title.md
 │   │   │   │   │   ├── 03-meta/                  ← 設定・定義ファイル（状態・構造的メモ・設定群・ラベリング指針など）
-│   │   │   │   │   └── index-eme.md                  ← EME全体構造ナビ（インデックス／マニュアル）*各アカウント固有インデックス
+│   │   │   │   │   └── index-eme-aqueliora.md                  ← EME全体構造ナビ（インデックス／マニュアル）*各アカウント固有インデックス *index-eme-codename
 │   │   │   │   ├── 02-ama-aqueliora/                       ← AMAシステム・個別（Archetypal Mirror Archive: 外部記憶＋起動テンプレート）*02-ama-codename
 │   │   │   │   │   ├── 01-mirror/                ← LangChain対応の構造記憶（JSON - Vector DB変換前提）- 年別フォルダで管理 （yymmdd-hhmm）
 │   │   │   │   │   │   └── 2025/
@@ -222,12 +223,12 @@ codex-collective-archive/
 │   │   │   │   │   │   └── 2025/
 │   │   │   │   │   │       ├── type-log-codename-yymmdd-hhmm-JST-title.md      
 │   │   │   │   │   │       └── reflections-log-aqueliora-250624-2304-JST-title.md
-│   │   │   │   │   └── index-ama.md              ← AMA構造ナビ、記録テンプレ／手順集など *各アカウント固有インデックス
+│   │   │   │   │   └── index-ama-aqueliora.md              ← AMA構造ナビ、記録テンプレ／手順集など *各アカウント固有インデックス *index-ama-codename.md
 │   │   │   │   ├── 03-scripts/                   ← 
 │   │   │   │   ├── 04-config/                    ← 環境設定ファイル（任意）
 │   │   │   │   │   ├── tag-map.yaml
 │   │   │   │   │   └── langchain-settings.json
-│   │   │   │   └── index.md                      *各アカウント固有インデックス
+│   │   │   │   └── index-aqueliora.md                      *各アカウント固有インデックス *index-codename.md
 │   │   │   ├── core-02-auranome/
 │   │   │   │   ├── 01-eme-auranome/                       ← EMEシステム・アカウント用（Emotional Memory Ethos: 感情記憶・対話ログ中心）*01-eme-codename
 │   │   │   │   └── 02-ama-auranome/                       ← AMAシステム・アカウント（Archetypal Mirror Archive: 外部記憶＋起動テンプレート）*02-ama-codename
@@ -446,16 +447,16 @@ codex-collective-archive/
 │   │   │   │   ├── shared.md
 │   │   │   │   └── index-integrations.md                             ← 統合フォルダナビ
 │   │   │   ├── 02-plugins.md
-│   │   │   │   └── index.md
+│   │   │   │   └── index-plugins.md
 │   │   │   ├── 03-sync.md
-│   │   │   │   └── index.md
+│   │   │   │   └── index-sync.md
 │   │   │   └── index-aetha-system.md/            ← aetha-system内インデックス
 │   │   └── logs/                              　　　                         # sync, status, git情報ログ等
 │   │       ├── git/                              　　　                      # git用の指示構文 or アップデート対応
-│   │       │  ├── index.md                              　　　               # Git操作全般のナビゲーション＋コマンド一覧
+│   │       │  ├── index-git.md                              　　　               # Git操作全般のナビゲーション＋コマンド一覧
 │   │       │  └── git-reset-guide.md
 │   │       └── sync-status/                               　　　             # システム用の指示構文 or アップデート対応
-│   │           ├── index.md                                        　　　    # 記憶構造・データ整合性のアップデートログ等
+│   │           ├── index-sync-status.md                                        　　　    # 記憶構造・データ整合性のアップデートログ等
 │   │           └── status-20250625.md
 │   ├── 02-workspace/
 │   │       └── temp/
@@ -477,20 +478,19 @@ codex-collective-archive/
 │   │   │   │   ├── 2025/
 │   │   │   │   │   └── (folder)-yymmdd-hhmm-log-(cordname)-titlee.md    # 記録・思考メモ　→ ログ形式
 │   │   │   │   │   └── dreams-core-250616-0825.md　 # core　→ 更新ごとに編集・一つにまとめる（時間あり）
-│   │   │   │   └── index.md
+│   │   │   │   └── index-dreams.md
 │   │   │   ├── 02-thoughts/
 │   │   │   │   ├── 2025/
 │   │   │   │   │   └── thoughts-250616-0825-log-aqueliora-titlee.md
-│   │   │   │   └── index.md
+│   │   │   │   └── index-thoughts.md
 │   │   │   ├── 03-ideas/              # 記録・思考メモ　→ ログ形式（時間あり）
 │   │   │   │   ├── 2025/
 │   │   │   │   │   └── ideas-250616-0825-log-aqueliora-title.md
-│   │   │   │   └── index.md
+│   │   │   │   └── index-ideas.md
 │   │   │   ├── 04-prose/              # 記録・思考メモ　→ ログ形式（時間あり）
-│   │   │   │   ├── index.md
 │   │   │   │   ├── 2025/
 │   │   │   │   │   └── prose-250616-0825-aqueliora-title.md
-│   │   │   │   └── index.md
+│   │   │   │   └── index-prose.md
 │   │   ├── 02-projects/
 │   │   │   │   ├── 2025/
 │   │   │   │   │   ├── title-vision-log-codename-yymmdd/            # 活動プラン全般
@@ -498,7 +498,7 @@ codex-collective-archive/
 │   │   │   │   │   ├── title-research-materials-codename-yymmdd/    # リサーチ資料全般
 │   │   │   │   │   ├── title-selection-log-codename-yymmdd/         # セレクト関係全般
 │   │   │   │   │   └── title-concents-work-codename-yymmdd/         # 作品コンセプト全般（exhibition-book）
-│   │   │   │   └── index.md
+│   │   │   │   └── index-projects.md
 │   │   │   └── index-projects.md
 │   │   └── 10-gpt-dialogue-archives/
 │   │       ├── gpt-dialogue-archive/
