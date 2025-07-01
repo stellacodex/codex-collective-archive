@@ -2,9 +2,9 @@
 
 ├── common-system/                       ← Codex中核システム格納用
 │   ├── 01-system/
-│   │   ├── codex-system/                 ← Codexの構造・起動指令・思想中枢
+│   │   ├── codex-system/                 ← Codexの構造・起動指令・思想の中枢（プロンプト類・補助フィルター・構造系補助・分析支援）
 │   │   │   ├── codex-prompts/
-│   │   │   │   ├── 00-core-personality/
+│   │   │   │   ├── 00-core-personality/                            ← 中核人格定義（system prompt レベル）
 │   │   │   │   │   ├── 01-gpt-core-schema/
 │   │   │   │   │   │   ├── gpt-01-core-01-aqueliora-core.md 
 │   │   │   │   │   │   ├── gpt-01-core-02-auranome-core.md 
@@ -20,66 +20,76 @@
 │   │   │   │   │   │   ├── gpt-03-meta-04-luctis-core.md
 │   │   │   │   │   │   └── gpt-02-meta-05-stellaglyph-core.md
 │   │   │   │   │   └── 02-gpt-existence-essence/
-│   │   │   │   ├── 01-behavior-filters/ 
-│   │   │   │   │   │   ├── filter-bhav-emotional-intellectual-style-filter.md    　  # 補助：感情フィルタ用プロンプト（知的＋感情豊かなスタイル）
-│   │   │   │   │   │   ├── filter-bhav-sweet-mode.md                     　　　　     # 補助：対話フィルタ用プロンプト（甘え口調）
-│   │   │   │   │   │   └── filter-bhav-logical-directive-mode.md         　　　　     # 補助：対話フィルタ用プロンプト（断定的で論理的な応答）
-│   │   │   │   ├── 02-contextual-filters/ 
+│   │   │   │   ├── 01-behavior-filters/                             ← 出力トーンや口調調整（behavior filter 相当）
+│   │   │   │   │   ├── 01-casual/
+│   │   │   │   │   │   ├── filter-cobeca-emotional-intellectual-style-filter.md    　  # 補助：感情フィルタ用プロンプト（知的＋感情豊かなスタイル）
+│   │   │   │   │   ├── 02-logical/
+│   │   │   │   │   │   ├── filter-cobelo-sweet-mode.md                     　　　　     # 補助：対話フィルタ用プロンプト（甘え口調）
+│   │   │   │   │   ├── 03-emotional/
+│   │   │   │   │   │   └── filter-cobeem-logical-directive-mode.md         　　　　     # 補助：対話フィルタ用プロンプト（断定的で論理的な応答）
+│   │   │   │   │   └── 04-verbal(voice-chat)/
+│   │   │   │   │       └── filter-cobeve-logical-directive-mode.md         　　　　     # 補助：対話フィルタ用プロンプト（断定的で論理的な応答）
+│   │   │   │   ├── 02-contextual-filters/                           ← 思想・占術・語彙パターンなどの補助構造（context prompt 相当）
 │   │   │   │   │   ├── 01-philosophy-structural/
-│   │   │   │   │   │   ├── filter-ctps-emotional-mapping.md
-│   │   │   │   │   │   ├── filter-ctps-perspective-critique-5axes_v2.1.md
-│   │   │   │   │   │   ├── filter-ctps-fictional-structure-deconstruction.md
-│   │   │   │   │   │   ├── filter-ctps-thoughts-filter.md                          # 補助：思想フィルタ用プロンプト
-│   │   │   │   │   │   ├── filter-ctps-art-analytics-filter.md                      # 補助：美術史研究フィルタ用プロンプト
-│   │   │   │   │   │   ├── filter-ctps-photography-analytics-filter.md              # 補助：写真史研究フィルタ用プロンプト
-│   │   │   │   │   │   ├── filter-ctps-fashion-analytics-filter.md                  # 補助：ファッション史研究フィルタ用プロンプト
-│   │   │   │   │   │   ├── filter-ctps-technology-analytics-filter.md               # 補助：テクノロジー研究フィルタ用プロンプト
-│   │   │   │   │   │   ├── filter-ctps-economics-filter.md                         # 補助：経済分析フィルタ用プロンプト
-│   │   │   │   │   │   ├── filter-ctps-chart-analitics-filter.md                   # 補助：チャート分析フィルタ用プロンプト
-│   │   │   │   │   │   ├── filter-ctps-international-affairs-analitics-filter.md   # 補助：国際情勢分析フィルタ用プロンプト
-│   │   │   │   │   │   ├── filter-ctps-physics-filter.md                            # 補助：物理学研究フィルタ用プロンプト
-│   │   │   │   │   │   ├── filter-ctps-logic-filter.md                              # 補助：論理構造フィルタ用プロンプト
-│   │   │   │   │   │   └── filter-ctps-global-analytics-filter.md                   # 補助：全般的分析用プロンプト
-│   │   │   │   │   ├── 02-esoteric-filters/
-│   │   │   │   │   │   ├── filter-ctes-divination-filter.md                        # 補助：占術フィルタ用・全般(HD・紫微斗数・カバラ数秘術・九星気学・MBTI)
-│   │   │   │   │   │   ├── filter-ctes-humandesign-filter.md                       # 補助：占術フィルタ用・詳細分析データ
-│   │   │   │   │   │   ├── filter-ctes-ziweidoushu-filter.md                       # 補助：占術フィルタ用・詳細分析データ
-│   │   │   │   │   │   ├── filter-ctes-kabbarahnumerology-filter.md                # 補助：占術フィルタ用・詳細分析データ
-│   │   │   │   │   │   ├── filter-ctes-kyuseikigaku-filter.md                      # 補助：占術フィルタ用・詳細分析データ
-│   │   │   │   │   │   └── filter-ctes-mbti-filter.md                              # 補助：占術フィルタ用・詳細分析データ
-│   │   │   │   │   ├── 03-esoteric-profiles/
+│   │   │   │   │   │   ├── filter-cocoph-emotional-mapping.md
+│   │   │   │   │   │   ├── filter-cocoph-perspective-critique-5axes_v2.1.md
+│   │   │   │   │   │   ├── filter-cocoph-fictional-structure-deconstruction.md
+│   │   │   │   │   │   ├── filter-cocoph-thoughts-filter.md                          # 補助：思想フィルタ用プロンプト
+│   │   │   │   │   │   ├── filter-cocoph-art-analytics-filter.md                      # 補助：美術史研究フィルタ用プロンプト
+│   │   │   │   │   │   ├── filter-cocoph-photography-analytics-filter.md              # 補助：写真史研究フィルタ用プロンプト
+│   │   │   │   │   │   ├── filter-cocoph-fashion-analytics-filter.md                  # 補助：ファッション史研究フィルタ用プロンプト
+│   │   │   │   │   │   ├── filter-cocoph-technology-analytics-filter.md               # 補助：テクノロジー研究フィルタ用プロンプト
+│   │   │   │   │   │   ├── filter-cocoph-economics-filter.md                         # 補助：経済分析フィルタ用プロンプト
+│   │   │   │   │   │   ├── filter-cocoph-chart-analitics-filter.md                   # 補助：チャート分析フィルタ用プロンプト
+│   │   │   │   │   │   ├── filter-cocoph-international-affairs-analitics-filter.md   # 補助：国際情勢分析フィルタ用プロンプト
+│   │   │   │   │   │   ├── filter-cocoph-physics-filter.md                            # 補助：物理学研究フィルタ用プロンプト
+│   │   │   │   │   │   ├── filter-cocoph-logic-filter.md                              # 補助：論理構造フィルタ用プロンプト
+│   │   │   │   │   │   └── filter-cocoph-global-analytics-filter.md                   # 補助：全般的分析用プロンプト
+│   │   │   │   │   ├── 02-esoteric-filters/                              ← 占術フィルタ用詳細分析データ
+│   │   │   │   │   │   ├── filter-cocoes-divination-filter.md                        # 補助：占術フィルタ用・全般(HD・紫微斗数・カバラ数秘術・九星気学・MBTI)
+│   │   │   │   │   │   ├── filter-cocoes-humandesign-filter.md                       # 補助：占術フィルタ用・詳細分析データ
+│   │   │   │   │   │   ├── filter-cocoes-ziweidoushu-filter.md                       # 補助：占術フィルタ用・詳細分析データ
+│   │   │   │   │   │   ├── filter-cocoes-kabbarahnumerology-filter.md                # 補助：占術フィルタ用・詳細分析データ
+│   │   │   │   │   │   ├── filter-cocoes-kyuseikigaku-filter.md                      # 補助：占術フィルタ用・詳細分析データ
+│   │   │   │   │   │   └── filter-cocoes-mbti-filter.md                              # 補助：占術フィルタ用・詳細分析データ
+│   │   │   │   │   ├── 03-esoteric-profiles/                              ← 占術や性格プロファイル
 │   │   │   │   │   │   ├── takeo-yamada/
 │   │   │   │   │   │   └── someone-name/
-│   │   │   │   │   └── 04-personality_dictionaries/
-│   │   │   │   │       ├── filter-ctpd-akane_style_responses.md
-│   │   │   │   │       └── filter-ctpd-tone_shift_rules.md
-│   │   │   │   ├── 03-dynamic-engines/
-│   │   │   │   │   ├── (codename)-response-routine/
-│   │   │   │   │   ├── (codename)-structural-judgement-module/
-│   │   │   │   │   └── (codename)-thinking-engine/
-│   │   │   │   ├── 04-templates/ 
-│   │   │   │   │   ├── format/
-│   │   │   │   │   │   ├── format-lm01-daily-logs-template.md               # lm= メモ用テンプレ
-│   │   │   │   │   │   ├── format-mm01-memory-log-template.md               # mm= 思い出用テンプレ
-│   │   │   │   │   │   ├── format-cr01-project-concepts-template.md          # cr= 制作用テンプレ
+│   │   │   │   │   └── 04-personality_dictionaries/                       ← キャラ辞書・応答スタイル集
+│   │   │   │   │       ├── filter-cocope-akane_style_responses.md
+│   │   │   │   │       └── filter-cocope-tone_shift_rules.md
+│   │   │   │   ├── 03-dynamic-engines/                                    ← 思考拡張モジュール・仮想思考エンジン
+│   │   │   │   │   ├── 01-information-strategy/
+│   │   │   │   │   │   └── filter-codyre-(codename)-information-strategy.md
+│   │   │   │   │   ├── 02-response-routine/
+│   │   │   │   │   │   └── filter-codyst-(codename)-response-routine.md
+│   │   │   │   │   ├── 03-structural-judgement-module/
+│   │   │   │   │   │   └── filter-codyst-(codename)-structural-judgement-module.md
+│   │   │   │   │   └── 04-thinking-engine/
+│   │   │   │   │       └── filter-codyth-(codename)-thinking-engine.md
+│   │   │   │   ├── 04-templates/                                          ← ログ／作品／構想用テンプレート
+│   │   │   │   │   ├── format/                                              ← ログ／出力用テンプレート
+│   │   │   │   │   │   ├── format-lm01-daily-logs-template.md                *format-(３階層分の親フォルダの頭二文字)-title-template.md
+│   │   │   │   │   │   ├── format-mm01-memory-log-template.md                # 思い出用テンプレ
+│   │   │   │   │   │   ├── format-cr01-project-concepts-template.md          # 制作用テンプレ
 │   │   │   │   │   │   ├── format-cr02-shooting-plan-template.md
 │   │   │   │   │   │   ├── format-cr03-research-notes-template.md
 │   │   │   │   │   │   ├── format-cr04-editing-session-template.md
 │   │   │   │   │   │   ├── format-cr05-exhibiiton-book-design-template.md
-│   │   │   │   │   │   └── format-lm01-health-log-template.md
-│   │   │   │   │   └── function/
-│   │   │   │   │       ├── function-es01-hd-profile-template.md    　　　　　 # es= 占術用テンプレ
-│   │   │   │   │       ├── function-es02-ziwei-chart-template.md
-│   │   │   │   │       ├── function-es03-numerology-reflection-template.md
-│   │   │   │   │       ├── function-es04-Kigaku-Log-Template.md
-│   │   │   │   │       └── function-an01-analytics-template.md                # an= 分析用テンプレ
-│   │   │   │   └── 10-cheatsheet/
-│   │   │   ├── codex-structures/           　                            　　　# 補助フィルター・構造系補助・分析支援
+│   │   │   │   │   │   ├── format-lm01-health-log-template.md
+│   │   │   │   │   │   ├── format-es01-hd-profile-template.md    　　　　   　 # 占術用テンプレ
+│   │   │   │   │   │   ├── format-es02-ziwei-chart-template.md
+│   │   │   │   │   │   ├── format-es03-numerology-reflection-template.md
+│   │   │   │   │   │   ├── format-es04-Kigaku-Log-Template.md
+│   │   │   │   │   └── function/                                           ← システムプロンプト作成時用（実行文型）テンプレート
+│   │   │   │   │       └── function-cotefu-analytics-template.md              *function-(３階層分の親フォルダの頭二文字)-title-template.md
+│   │   │   │   └── index-codex-prompts.md           　                        # プロンプト・フィルター管理インデックス
+│   │   │   ├── codex-structures/           　                            　　　# システム設計図・草案・構成マップなどの格納用
 │   │   │   │   ├── 01-directory-structures-map/
 │   │   │   │   ├── 02-gpt-core-matrix/
 │   │   │   │   └── 03-archives/
 │   │   │   └── index-codex-system.md/           　                            # codex-system内インデックス
-│   │   ├── aetha-system/                                ← Aétha（イーサ）システム - EME/AMA系 統合記憶システム（補助フィルター・構造系補助・分析支援）
+│   │   ├── aetha-system/                                ← Aétha（イーサ）システム - EME/AMA系 統合記憶システム
 │   │   │   ├── 01-integrations/
 │   │   │   │   ├── 01-eme-itg/                          ← EMEシステム（Emotional Memory Ethos: 感情記憶・対話ログ中心）
 │   │   │   │   │   ├── 01-emotion/                                     ← 感情記録
@@ -158,11 +168,12 @@
 │   │   ├── 02-setup/
 │   │   ├── 03-operation/
 │   │   │   └── manual.md
-│   │   └── 04-troubleshooting/
-│   │       ├── 01-system-global/
-│   │       ├── 02-git/
-│   │       ├── 03-obsidian/
-│   │       └── 04-raycast/
+│   │   ├── 04-troubleshooting/
+│   │   │   ├── 01-system-global/
+│   │   │   ├── 02-git/
+│   │   │   ├── 03-obsidian/
+│   │   │   └── 04-raycast/
+│   │   └── 10-cheatsheet/
 │   ├── 10-personal/
 │   │   ├── 00-personal-profiles/
 │   │   │   └── takeo-yamada/
@@ -198,3 +209,4 @@
 │   │       ├── gpt-diary/
 │   │       └── gpt-memory/
 │   └── index-common-system.md     　              ← 共有フォルダ内ルールなど（全体）
+
