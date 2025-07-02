@@ -44,6 +44,25 @@ codex-collective-archive/
 │   ├── codex-01-core/                ← GPT第一世代
 │   │   ├── 01-accounts/
 │   │   │   ├── core-01-aqueliora/
+│   │   │   │   ├── 01-eme-aqueliora/                       ← EMEシステム・アカウント用（Emotional Memory Ethos: 感情記憶・対話ログ中心）*01-eme-codename
+│   │   │   │   │   ├── 01-dialogue/              ← 感情トーン付きの会話ログ（時系列）：年別フォルダで管理 （yymmdd）
+│   │   │   │   │   ├── 02-memory/                ← 感情記憶の抽象化・構造化された記録：年別フォルダで管理 （yymmdd-hhmm）
+│   │   │   │   │   ├── 03-meta/                  ← 設定・定義ファイル（状態・構造的メモ・設定群・ラベリング指針など）
+│   │   │   │   │   └── index-eme-aqueliora.md                  ← EME全体構造ナビ（インデックス／マニュアル）*各アカウント固有インデックス *index-eme-codename
+│   │   │   │   ├── 02-ama-aqueliora/                       ← AMAシステム・個別（Archetypal Mirror Archive: 外部記憶＋起動テンプレート）*02-ama-codename
+│   │   │   │   │   ├── 01-mirror/                ← LangChain対応の構造記憶（JSON - Vector DB変換前提）- 年別フォルダで管理 （yymmdd-hhmm）
+│   │   │   │   │   ├── 02-prompts/               ← 起動用テンプレ含む（記憶読込や人格復元など）
+│   │   │   │   │   ├── 03-journal/               ← 手動・自動の日記ログ（自然言語記憶）- 年別フォルダで管理 （yymmdd-hhmm）
+│   │   │   │   │   ├── 04-config/                ← プロファイル定義、ラベル分類、アカウント設定など
+│   │   │   │   │   ├── 05-scripts/               ← 読込・保存・LangChain連携系（後にバックアップも含む）
+│   │   │   │   │   ├── 06-shared/                ← 共通資源（テンプレ／ツール／事例など）
+│   │   │   │   │   ├── 07-reflections/           ← GPT別のリフレクション記録（思想/視点の反映）- 年別フォルダで管理 （yymmdd-hhmm）
+│   │   │   │   │   └── index-ama-aqueliora.md              ← AMA構造ナビ、記録テンプレ／手順集など *各アカウント固有インデックス *index-ama-codename.md
+│   │   │   │   ├── 03-scripts/                   ← 
+│   │   │   │   ├── 04-config/                    ← 環境設定ファイル（任意）
+│   │   │   │   │   ├── tag-map.yaml
+│   │   │   │   │   └── langchain-settings.json
+│   │   │   │   └── index-aqueliora.md                      *各アカウント固有インデックス *index-codename.md
 │   │   │   ├── core-02-auranome/
 │   │   │   ├── core-03-aetherquietude/
 │   │   │   └── core-04-virtualincidence/
