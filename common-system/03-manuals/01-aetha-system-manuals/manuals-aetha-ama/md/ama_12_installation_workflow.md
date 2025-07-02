@@ -1,6 +1,7 @@
-# AMA 11｜インストールと環境構築のワークフロー
+# AMA 12｜インストールと環境構築のワークフロー
 
 ## 🎯 目的
+
 Aéthaプロジェクトの一環として、AMA（Autonomous Memory Archive）システムをローカルで動作させるための**初期セットアップ手順**と**環境構築ワークフロー**を明示する。すべての手順は手動確認後、Canvasに記録・更新しながら進行する。
 
 ---
@@ -17,32 +18,37 @@ Aéthaプロジェクトの一環として、AMA（Autonomous Memory Archive）�
 
 ## 📦 2. 使用サービスと連携候補
 
-| サービス        | 目的                            | 無料枠         | 今後の連携備考                     |
-|-----------------|----------------------------------|----------------|----------------------------------|
-| Notion API      | 記憶ログの保存・可視化           | ◯（要登録）   | 手動ログ出力との連携                |
-| LangChain       | 記憶管理チェーン・プロンプト制御 | ◯（OSS）      | FAISSとの併用可能                   |
-| Chroma / FAISS  | ローカル向けのVector DB          | ◯              | Pinecone（有料）との選択式           |
-| Google Sheets   | JSON⇆CSV連携                     | ◯              | 手動データバックアップ向け             |
-| GitHub          | 管理・アーカイブ                 | ◯              | 構成ファイルと統合インデックス保存先に使用 |
+| サービス           | 目的               | 無料枠    | 今後の連携備考               |
+| -------------- | ---------------- | ------ | --------------------- |
+| Notion API     | 記憶ログの保存・可視化      | ◯（要登録） | 手動ログ出力との連携            |
+| LangChain      | 記憶管理チェーン・プロンプト制御 | ◯（OSS） | FAISSとの併用可能           |
+| Chroma / FAISS | ローカル向けのVector DB | ◯      | Pinecone（有料）との選択式     |
+| Google Sheets  | JSON⇆CSV連携       | ◯      | 手動データバックアップ向け         |
+| GitHub         | 管理・アーカイブ         | ◯      | 構成ファイルと統合インデックス保存先に使用 |
 
 ---
 
 ## 🛠️ 3. 初期セットアップ（ステップ別）
 
 ### 📁 フォルダ構成の確認
+
 - `ama-system/` および `eme-system/` ディレクトリを、アカウント内の正しい構成で設置済みか確認
 - `scripts/`, `config/`, `prompts/`, `memory/`, `journal/` 各サブディレクトリの存在確認
 
 ### 🧩 Python環境構築
+
 ```bash
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 ```
+
 （※ requirements.txt は Canvas12 で作成予定）
 
 ### 🔑 APIキー等の環境変数設定
+
 - `.env`ファイルに下記を記述（使用予定に応じて）
+
 ```
 OPENAI_API_KEY=sk-xxx...
 NOTION_API_KEY=...
@@ -67,12 +73,10 @@ NOTION_DATABASE_ID=...
 ---
 
 ## ✨ 次アクション
-- [ ] Canvas12：`requirements.txt`と初期スクリプト作成
-- [ ] Canvas13：記憶書き込みテスト → VectorDB登録
-- [ ] Canvas14：日記ログ生成→Notion/API連携
+
+-
 
 ---
 
-> 🔔 今後、綺羅との統合に向けて `index-ama-*.md` や共有テンプレートの調整を行う。
-> 各プロンプトやスクリプトもこの流れに沿って順次実装。
+> 🔔 今後、綺羅との統合に向けて `index-ama-*.md` や共有テンプレートの調整を行う。 各プロンプトやスクリプトもこの流れに沿って順次実装。
 
