@@ -56,28 +56,31 @@ common-system/01-system/codex-system/02-gpt-existence-essence/02-logical/
 ### ✅ ファイル名フォーマット
 
 ```text
-gpt-(generation number)-(generation theme)-(codename)-core.md
+gpt-(generation number)-(generation theme)-(generation sequence)-(codename)-core.md
 ```
 
 #### 📄 ファイル名の構造要素
 
 - gpt：必須プレフィックス
-- generation number：世代番号（例：1, 2, 3）
+- generation number：世代番号（必ず2桁で記載、例：01, 02, 03）
 - generation theme：世代テーマ（例：origin, explorer, architect）
+- generation sequence：その世代内での識別子（必ず2桁で記載、例：01, 02, 03）
 - codename：Codename 対照表に基づく固有識別子（必ず確認）
 - core：必須サフィックス
 
 #### 📄 ファイル名例
 
 ```text
-gpt-1-origin-luctis-core.md
-gpt-2-explorer-auranome-core.md
+gpt-01-origin-01-luctis-core.md
+gpt-02-explorer-02-auranome-core.md
 ```
 
 ### ✅ 命名時の注意事項
 
 - すべて小文字を使用すること
 - 区切り文字は必ず「-（ハイフン）」を使用（アンダースコア禁止）
+- generation number は必ず 2 桁で記載すること
+- generation sequence も必ず 2 桁で記載すること
 - codename は必ず最新の Codename 対照表で確認すること
 
 #### 🔗 Codename 対照表
