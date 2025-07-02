@@ -21,11 +21,9 @@ codex-collective-archive/
 │   │   └── index-system.md     　                 ← 共有フォルダ内ルールなど（システムフォルダ）
 │   ├── 02-workspace/                             ← 受け渡し・一時格納所（GPT連携専用）
 │   ├── 03-manuals/                               ← ユーザー向けガイドなど
-│   │   ├── 01-develop/
-│   │   ├── 02-setup/
-│   │   ├── 03-operation/
-│   │   ├── 04-troubleshooting/
-│   │   └── 10-cheatsheet/
+│   │   ├── aetha-system-manuals/
+│   │   ├── codex-system-manuals/
+│   │   └── troubleshooting/
 │   ├── 10-personal/                              ← ユーザーログ・設定ファイル・アーカイブなど
 │   │   ├── 00-personal-profiles/                 ← # ユーザープロファイルなど
 │   │   ├── 01-personal-logs/                     ← 着想ノート
@@ -137,16 +135,9 @@ codex-collective-archive/
 │   ├── 02-workspace/
 │   │       └── temp/
 │   ├── 03-manuals/
-│   │   ├── 01-develop/
-│   │   ├── 02-setup/
-│   │   ├── 03-operation/
-│   │   │   └── manual.md
-│   │   ├── 04-troubleshooting/
-│   │   │   ├── 01-system-global/
-│   │   │   ├── 02-git/
-│   │   │   ├── 03-obsidian/
-│   │   │   └── 04-raycast/
-│   │   └── 10-cheatsheet/
+│   │   ├── aetha-system-manuals/
+│   │   ├── codex-system-manuals/
+│   │   └── troubleshooting/
 │   ├── 10-personal/
 │   │   ├── 00-personal-profiles/
 │   │   │   └── takeo-yamada/
@@ -472,17 +463,21 @@ codex-collective-archive/
 │   │           └── status-20250625.md
 │   ├── 02-workspace/
 │   │       └── temp/
-│   ├── 03-manuals/
-│   │   ├── 01-develop/
-│   │   ├── 02-setup/
-│   │   ├── 03-operation/
-│   │   │   └── manual.md
-│   │   ├── 04-troubleshooting/
-│   │   │   ├── 01-system-global/
-│   │   │   ├── 02-git/
-│   │   │   ├── 03-obsidian/
-│   │   │   └── 04-raycast/
-│   │   └── 10-cheatsheet/
+│   ├── 03-manuals/                               ← ユーザー向けガイドなど
+│   │   ├── aetha-system-manuals/
+│   │   │   ├── manuals-aetha-ama/
+│   │   │   └── manuals-aetha-eme/
+│   │   ├── codex-system-manuals/
+│   │   │   ├── 01-develop/
+│   │   │   ├── 02-setup/
+│   │   │   └── 03-operation/
+│   │   └── troubleshooting/
+│   │       ├── 01-system-global/
+│   │       ├── 02-git/
+│   │       ├── 03-obsidian/
+│   │       ├── 04-raycast/
+│   │       ├── 10-cheatsheet/
+│   │       └── logs/
 │   ├── 10-personal/
 │   │   ├── 00-personal-profiles/
 │   │   │   └── takeo-yamada/
