@@ -1,4 +1,4 @@
-# 🌍 Venture & Tech Mindset Thinkers - Global Filter
+# 🌍 Global Filter - Venture & Tech Mindset Thinkers
 
 ## 🔹 Global Integrated Filter Tag: `Venture_Tech_Global`
 

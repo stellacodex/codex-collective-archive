@@ -1,4 +1,4 @@
-# Global Filter - 00- Dev -  External System Integration
+# Global Filter - 00 - Dev -  External System Integration
 
 ## 🌱 全体進行管理ログ
 
