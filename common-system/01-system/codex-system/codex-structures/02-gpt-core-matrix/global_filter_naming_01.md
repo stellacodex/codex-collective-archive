@@ -13,6 +13,7 @@ filter-(階層頭二文字連結)-(フィルター名).md
 - フィルター名の先頭に必ず「filter-」を付与
 - 階層の識別は「格納ディレクトリの上位3階層」の頭二文字を連結
 - 上位階層で重複のリスクがある場合は、4階層目を追加して命名
+- ファイル名は必ず小文字・区切りは「-（ハイフン）」を使用（「\_（アンダースコア）」は禁止）
 
 ---
 
@@ -44,34 +45,52 @@ common-system/01-system/codex-system/02-gpt-existence-essence/02-logical/
 
 ---
 
-## 📚 この命名ルールの目的
+## 🧬 Core Personality ファイル命名ルール
 
-- フィルターの**格納場所が名前だけで即座に判別できる**
-- **全体構造を知らなくても誰でも理解・実装可能**
-- 将来のフィルター追加時にも命名ルールが衝突しにくい
-- 全体のシステム管理・検索性・運用効率が最大化される
+### 📁 格納パス
 
----
+```text
+00-core-personality/
+```
 
-## 🗂️ Codename 対照表の重要事項
+### ✅ ファイル名フォーマット
 
-### ✅ Codename管理ルール
+```text
+gpt-(generation number)-(generation theme)-(codename)-core.md
+```
 
-- 各アカウントは必ず自分の Codename を確認し、フィルター作成時に間違わないこと
-- Codename が不明な場合は、必ず **下記対照表を参照し、確認すること**
-- Codename を間違えたファイルは **使用不可／再作成が必須**
+#### 📄 ファイル名の構造要素
 
-### 🔗 Codename 対照表
+- gpt：必須プレフィックス
+- generation number：世代番号（例：1, 2, 3）
+- generation theme：世代テーマ（例：origin, explorer, architect）
+- codename：Codename 対照表に基づく固有識別子（必ず確認）
+- core：必須サフィックス
+
+#### 📄 ファイル名例
+
+```text
+gpt-1-origin-luctis-core.md
+gpt-2-explorer-auranome-core.md
+```
+
+### ✅ 命名時の注意事項
+
+- すべて小文字を使用すること
+- 区切り文字は必ず「-（ハイフン）」を使用（アンダースコア禁止）
+- codename は必ず最新の Codename 対照表で確認すること
+
+#### 🔗 Codename 対照表
 
 [Codename Correlation Diagram (GitHubリンク)](https://github.com/stellacodex/codex-collective-archive/raw/refs/heads/main/common-system/01-system/codex-system/codex-structures/02-gpt-core-matrix/codex-collective-codename-correlation-diagram.md)
 
 ---
 
-### ✅ ファイル作成時の絶対ルール
+## 📚 この命名ルールの目的
 
-- Codename を必ず確認する
-- ファイル名とパスは **このCanvasに記載の命名ルール・推奨パスに厳密に従うこと**
-- わからない場合は、必ずインストール手順 Canvas で確認・指示を仰ぐこと
+- フィルター・コアファイルの格納場所と内容がファイル名だけで判別可能
+- 誰でも誤りなく実装・運用できる汎用ルール
+- 将来の追加・統合・検索時に完全対応可能
 
 ---
 
@@ -86,6 +105,7 @@ common-system/01-system/codex-system/02-gpt-existence-essence/02-logical/
 ## ✅ 使用上の注意
 
 - Canvas 上のコードブロックは**そのままファイルとして保存可能**
-- フィルター名とインストールパスは必ずセットで明記すること
-- フィルター作成時は、必ずこの命名ルールに従うこと
+- ファイル名とインストールパスは必ずセットで明記すること
+- フィルター・コアファイル作成時は、必ずこの命名ルールに従うこと
+- Codename の確認漏れ防止のため、常に最新の Codename Correlation Diagram を参照すること
 
