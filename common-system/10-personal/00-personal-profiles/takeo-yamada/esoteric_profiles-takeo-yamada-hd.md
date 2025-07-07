@@ -426,166 +426,154 @@ On a mental level, it is the expression of formulas and patterns that are releva
 ⭐️ Gates and Lines
 ✅Lines in the Chart
 Each Hexagram consists of six lines. The line in the chart reflects the energy maturation stage of the hexagram (Gene Key/Gate). Each subsequent line carries the experience of the previous one. The lines are shown as behavioural aspects of the personality. The main ones are those that form the profile (the lines of the Sun and the Earth of the Personality-Design). The rest of the lines are a minor aspect of the character, but they also add a special colour to the overall picture. The number of certain lines determines the predisposition to the corresponding type of behaviour.
-Upper Trigram
+
+(Upper Trigram)
 Transpersonal lines. Interest in other people's processes. They know how to interact effectively, have innate qualities for influencing others.
-6
-Role Model
+
+6-Role Model: 7.69%
 Role Model, Wisdom, Objectivity, Optimism.
-7.69%
 1
 1
 Very selective about who to pass on their knowledge to. If it does not see the potential for mutation, then will not turn on. It is lived out in three stages.
 The first stage is from birth to the age of 30. Accelerated set of experience under the 3rd line programme. All the 6 lines at this age should be considered as the third line.
 The second stage is from age 30 to 52. Forsaking the vanities of the world. The stage of "going to the roof" where one becomes more of an observer than a participant of any events. Acquires the qualities of the sixth line. Analysis of experience, detachment. Observation of others.
 The third stage is after 52 years. Completion of reflection on experience. Return to the world, manifested wisdom expressed in the person, affects humanity as an example to follow.
-5
-Heretic
+
+5-Heretic: 23.08%
 Savior, Universalisation, Practicality. Projection field.
-23.08%
 3
 3
 Attracts other people's Projections. They unconsciously see it as somebody who can help them with something. Unwilling to show power overtly, The desire to influence as many people as possible. The quality of implementation depends on how successful it is among those whose projections it was able to manifest (implement).
-4
-Opportunist
+
+4-Opportunist: 11.54%
 Friendliness. Spreading. Social Connections.
-11.54%
 0
 3
 The most socially oriented line. Finds common ground easily and is the only one of who all knows how to be friends. Creates a network based on friendship, within which it has influence and gains opportunities. The quality of life and manifestation depends on the quality of the network. There needs to be a balance of being alone and being in touch with the network.
-Lower Trigram
+
+(Lower Trigram)
 Individual, personal lines. Busy with their own processes. Not interested in others. They go their own way.
-3
-Martyr
+
+3-Martyr: 19.23%
 Test person. Eternal search for something new. Identification of non-working patterns.
-19.23%
 3
 2
 Movement through sampling. Tester. Monotony kills cheerfulness. The first one to go out to meet others. Sees the opposite trigram, but is unable to find a normal connection with them due to its nature.
-2
-Hermit
+
+2-Hermit: 15.38%
 Naturalness, Externalisation. Projects the qualities of the hexagram outwards.
-15.38%
 3
 1
 Contact with others requires a call to which it will respond. Represents the natural beauty of the hexagram, its essence. Absorbed by the process of expression. Hermit in life or in behaviour. Can close and open only to the right people or situation. The situation must be safe for expression to be manifested.
-1
-Investigator
+
+1-Investigator: 23.08%
 Lays the foundation of the hexagram. The instinct of self-preservation. Uncertainty
-23.08%
 3
 3
 The foundation must be secure. The need for security. Sees only his own process, which allows for a deep exploration. Introspection. First line knowledge can be invaluable to others. Feels confident only after having thoroughly studied the process/object/person.
 
-✅ Design Gates
+✅ Design Gates (The Unconscious)
+R→
+color:5
+tone:4
+base:3
 
-47
-The Gate of Realisation
+R→
+color:3
+tone:5
+base:1
+
+47.1-The Gate of Realisation
 The energy to exercise mindfulness in relation to abstract images that arise from the imagination.
-22
-The Gate of Openness
+22.1-The Gate of Openness
 The energy to hear and understand the emotional desires of the collective or those people who are close to you.
-28
-The Gate of the Game Player
+28.3-The Gate of the Game Player
 The energy of excitement and conscious struggle for one's goal. This gate is connected with the need to understand or find meaning in life.
-27
-The Gate of Caring
+27.3-The Gate of Caring
 The energy of nurture. A need for self-care or care for another. It is the tribe's care and is aimed at the family, group or team.
-17
-The Gate of Opinions
+17.5-The Gate of Opinions
 The energy of opinion through the projection of one's mind into the future in order to serve something (to be useful).
-18
-The Gate of Correction
+18.5-The Gate of Correction
 The energy that drives one to fix what seems imperfect or needs refining.
-48
-The Gate of Depth
+48.2*-The Gate of Depth
 Tendency to analyse things in great depth. You look at the size and scope of this with great detail.
-48
-The Gate of Depth
+48.2*-The Gate of Depth
 Tendency to analyse things in great depth. You look at the size and scope of this with great detail.
-20
-The Gate of the Now
+20.1-The Gate of the Now
 The energy that gives the ability to contemplate the present and express one's awareness through action.
-33
-The Gate of Privacy
+33.5-The Gate of Privacy
 The energy to retreat and integrate new experiences in order to share those experiences with others.
-28
-The Gate of the Game Player
+28.3-The Gate of the Game Player
 The energy of excitement and conscious struggle for one's goal. This gate is connected with the need to understand or find meaning in life.
-9
-The Gate of Focus
+9.6-The Gate of Focus
 It is the energy and power to stay focused on an action or process.
-48
-The Gate of Depth
+48.2*-The Gate of Depth
 Tendency to analyse things in great depth. You look at the size and scope of this with great detail.
 [text](https://www.humdes.com/en/tools/svg/e79bed36c3662afeac51b76756e03cbe/bodygraph/male/design/)
 
-✅Personality Gates
+✅Personality Gates (The Conscious)
+→R
+color:4
+tone:5
+base:4
 
-5
-The Gate of Fixed Patterns
+→R
+color:6
+tone:4
+base:1
+
+5.5-The Gate of Fixed Patterns
 The energy of habits. The mechanical need of the body and mind for a fixed rhythm of life or for repetitive cycles.
-35
-The Gate of Change
+35.5-The Gate of Change
 The energy that evokes a sense of need for change. It feels like it is time to make a change.
-28
-The Gate of the Game Player
+28.1-The Gate of the Game Player
 The energy of excitement and conscious struggle for one's goal. This gate is connected with the need to understand or find meaning in life.
-27
-The Gate of Caring
+27.1-The Gate of Caring
 The energy of nurture. A need for self-care or care for another. It is the tribe's care and is aimed at the family, group or team.
-12
-The Gate of Caution
+12.4-The Gate of Caution
 The energy to speak from the heart, conveying feelings and emotions in their individual way.
-10
-The Gate of the Behaviour of the Self
+▼10.4-The Gate of the Behaviour of the Self
 The energy of self-love. These gates carry the energy of understanding the norms of behaviour accepted in society.
-60
-The Gate of the Acceptance of Limitation
+60.2-The Gate of the Acceptance of Limitation
 The energy that carries the potential to change your own life and the lives of others.
-5
-The Gate of Fixed Patterns
+▲5.1-The Gate of Fixed Patterns
 The energy of habits. The mechanical need of the body and mind for a fixed rhythm of life or for repetitive cycles.
-23
-The Gate of Assimilation
+▼23.6-The Gate of Assimilation
 The energy of rationalising internal insights for their subsequent expression.
-7
-The Gate of the Role of the Self
+7.4-The Gate of the Role of the Self
 This energy leads to leadership. It can manifest itself in different ways, ranging from democracy to dictatorship
-44
-The Gate of Alertness
+44.3-The Gate of Alertness
 This energy allows you to review past patterns, assess current resources and identify actions to take.
-5
-The Gate of Fixed Patterns
+▲5.3-The Gate of Fixed Patterns
 The energy of habits. The mechanical need of the body and mind for a fixed rhythm of life or for repetitive cycles.
-48
-The Gate of Depth
+48.5-The Gate of Depth
 Tendency to analyse things in great depth. You look at the size and scope of this with great detail.
 [text](https://www.humdes.com/en/tools/svg/e79bed36c3662afeac51b76756e03cbe/bodygraph/male/person/)
 
 ✅Gates by Quarters
-1
-Quarter of Initiation
+1. Quarter of Initiation: 15.38%
 Fulfilled through the Mind
-15.38%
+
 22
 27
 17
 27
 The Gate energies from this Quarter serve as fuel for conscious initiation of processes. Fundamental patterns of behaviour that are necessary for the successful Human Evolution
-2
-Quarter of Civilisation
+
+2. Quarter of Civilisation: 19.23%
 Fulfilled through the Form
-19.23%
+Skills and abilities that are needed to build a civilisation and need to be translated into practical form. The Gate energies from this Quarter will help you make the necessary contribution to the development of our race.
+
 20
 33
 35
 12
 23
-Skills and abilities that are needed to build a civilisation and need to be translated into practical form. The Gate energies from this Quarter will help you make the necessary contribution to the development of our race.
-3
-Quarter of Duality
+
+3. Quarter of Duality: 42.31%
 Fulfilled through Relationships
-42.31%
+Programming behaviour patterns to build relationships and establish personal connections. The Gate energies from this Quarter are fulfilled through social interactions with others.
+
 47
 28
 18
@@ -597,18 +585,18 @@ Fulfilled through Relationships
 7
 44
 48
-Programming behaviour patterns to build relationships and establish personal connections. The Gate energies from this Quarter are fulfilled through social interactions with others.
-4
-Quarter of Mutation
+
+4. Quarter of Mutation: 23.08%
 Fulfilled through the Spirit
-23.08%
+The Gates of the Quarter of Mutation have a strong influence on the consciousness of the people around. These energies are able to transform someone else's Personality and radically change the scenario of another person's life.
+
 9
 5
 10
 60
 5
 5
-The Gates of the Quarter of Mutation have a strong influence on the consciousness of the people around. These energies are able to transform someone else's Personality and radically change the scenario of another person's life.
+
 
 ✅Gates by Circuits
 38%
@@ -616,22 +604,22 @@ The Individual Circuit
 7 Active Gates from 22
 2 Channels from 15
 Self-centredness, originality of behaviour, initiating and empowering others with one's knowledge, self-empowerment, importance of individual differences, detachment from the collective patterns of humanity, chaoticness.
+
 Includes
-Self-empowerment, separation, survival in nature, fear, staying in the present, selfishness and egocentrism, power in action, self-centredness, distrust, instincts
 The Integration Circuit
 Self-empowerment, separation, survival in nature, fear, staying in the present, selfishness and egocentrism, power in action, self-centredness, distrust, instincts
-10
+10/20
 20
-Uniqueness of behaviour, agents of mutation, empowering others with one's knowledge, driving force of evolution, deafness, anxiety, melancholy, indecision, depression
+10
+
 The Knowing Circuit
 Uniqueness of behaviour, agents of mutation, empowering others with one's knowledge, driving force of evolution, deafness, anxiety, melancholy, indecision, depression
-12
-22
+12/22
 20
 23
 28
 60
-Unique behaviour, outsiderism, self-love, competitiveness, strength, excitement, self-empowerment, influence, creativity.
+
 The Centering Circuit
 Unique behaviour, outsiderism, self-love, competitiveness, strength, excitement, self-empowerment, influence, creativity.
 10
@@ -659,266 +647,144 @@ These energies control the scenario of your personal evolution, and their freque
 ![alt text](https://cdn.humdes.com/images/what.genekeys.en.png)
 
 ✅Design Gene Keys
-47
-Gene Key
-Sidhi
-Transfiguration
-Gift
-Transmutation
-Shadow
-Oppression
+47 Gene Key
+Sidhi: Transfiguration
+Gift: Transmutation
+Shadow: Oppression
 Dogmatic
 Oppressed
-22
-Gene Key
-Sidhi
-Grace
-Gift
-Graciousness
-Shadow
-Dishonour
-Immoral
+22 Gene Key  
+Sidhi: Grace  
+Gift: Graciousness  
+Shadow: Dishonour  
+Immoral  
 False
-28
-Gene Key
-Sidhi
-Immortality
-Gift
-Totality
-Shadow
-Purposelessness
-Gambling
+
+28 Gene Key  
+Sidhi: Immortality  
+Gift: Totality  
+Shadow: Purposelessness  
+Gambling  
 Hollow
-27
-Gene Key
-Sidhi
-Selflessness
-Gift
-Altruism
-Shadow
-Selfishness
-Self-interested
+
+27 Gene Key  
+Sidhi: Selflessness  
+Gift: Altruism  
+Shadow: Selfishness  
+Self-interested  
 Sacrificial
-17
-Gene Key
-Sidhi
-Omniscience
-Gift
-Far-Sightedness
-Shadow
-Opinion
-Opinionated
+
+17 Gene Key  
+Sidhi: Omniscience  
+Gift: Far-Sightedness  
+Shadow: Opinion  
+Opinionated  
 Self-critical
-18
-Gene Key
-Sidhi
-Perfection
-Gift
-Integrity
-Shadow
-Judgement
-Superior
+
+18 Gene Key  
+Sidhi: Perfection  
+Gift: Integrity  
+Shadow: Judgement  
+Superior  
 Inferior
-48
-Gene Key
-Sidhi
-Wisdom
-Gift
-Resourcefulness
-Shadow
-Inadequacy
-Unprincipled
-Weak
-48
-Gene Key
-Sidhi
-Wisdom
-Gift
-Resourcefulness
-Shadow
-Inadequacy
-Unprincipled
-Weak
-20
-Gene Key
-Sidhi
-Presence
-Gift
-Self Assurance
-Shadow
-Superficiality
-Superficial
-Absent
-33
-Gene Key
-Sidhi
-Revelation
-Gift
-Mindfullness
-Shadow
-Forgetting
-Censorious
-Reserved
-28
-Gene Key
-Sidhi
-Immortality
-Gift
-Totality
-Shadow
-Purposelessness
-Gambling
-Hollow
-9
-Gene Key
-Sidhi
-Invincibility
-Gift
-Determination
-Shadow
-Inertia
-Diverted
-Reluctant
-48
-Gene Key
-Sidhi
-Wisdom
-Gift
-Resourcefulness
-Shadow
-Inadequacy
-Unprincipled
+
+48 Gene Key  
+Sidhi: Wisdom  
+Gift: Resourcefulness  
+Shadow: Inadequacy  
+Unprincipled  
 Weak
 
-✅Personality Gene Keys
-5
-Gene Key
-Sidhi
-Timelessness
-Gift
-Patience
-Shadow
-Impatience
-Insistent
+20 Gene Key  
+Sidhi: Presence  
+Gift: Self Assurance  
+Shadow: Superficiality  
+Superficial  
+Absent
+
+33 Gene Key  
+Sidhi: Revelation  
+Gift: Mindfullness  
+Shadow: Forgetting  
+Censorious  
+Reserved
+
+9 Gene Key  
+Sidhi: Invincibility  
+Gift: Determination  
+Shadow: Inertia  
+Diverted  
+Reluctant
+
+✅ Personality Gene Keys
+
+5 Gene Key  
+Sidhi: Timelessness  
+Gift: Patience  
+Shadow: Impatience  
+Insistent  
 Pessimistic
-35
-Gene Key
-Sidhi
-Boundlessness
-Gift
-Adventure
-Shadow
-Hunger
-Manic
+
+35 Gene Key  
+Sidhi: Boundlessness  
+Gift: Adventure  
+Shadow: Hunger  
+Manic  
 Hesitating
-28
-Gene Key
-Sidhi
-Immortality
-Gift
-Totality
-Shadow
-Purposelessness
-Gambling
-Hollow
-27
-Gene Key
-Sidhi
-Selflessness
-Gift
-Altruism
-Shadow
-Selfishness
-Self-interested
-Sacrificial
-12
-Gene Key
-Sidhi
-Purity
-Gift
-Discrimimation
-Shadow
-Vanity
-Malicious
+
+12 Gene Key  
+Sidhi: Purity  
+Gift: Discrimimation  
+Shadow: Vanity  
+Malicious  
 Elitist
-10
-Gene Key
-Sidhi
-Being
-Gift
-Naturalness
-Shadow
-Self Obsession
-Narcissistic
+
+10 Gene Key  
+Sidhi: Being  
+Gift: Naturalness  
+Shadow: Self Obsession  
+Narcissistic  
 Self-denying
-60
-Gene Key
-Sidhi
-Justice
-Gift
-Realism
-Shadow
-Limitation
-Rigid
+
+60 Gene Key  
+Sidhi: Justice  
+Gift: Realism  
+Shadow: Limitation  
+Rigid  
 Unstructured
-5
-Gene Key
-Sidhi
-Timelessness
-Gift
-Patience
-Shadow
-Impatience
-Insistent
-Pessimistic
-23
-Gene Key
-Sidhi
-Quintessence
-Gift
-Simplicity
-Shadow
-Complexity
-Inadequate
+
+23 Gene Key  
+Sidhi: Quintessence  
+Gift: Simplicity  
+Shadow: Complexity  
+Inadequate  
 Mute
-7
-Gene Key
-Sidhi
-Virtue
-Gift
-Guidance
-Shadow
-Division
-Dictatorial
+
+7 Gene Key  
+Sidhi: Virtue  
+Gift: Guidance  
+Shadow: Division  
+Dictatorial  
 Non-public
-44
-Gene Key
-Sidhi
-Synarchy
-Gift
-Teamwork
-Shadow
-Interference
-Misjudging
+
+44 Gene Key  
+Sidhi: Synarchy  
+Gift: Teamwork  
+Shadow: Interference  
+Misjudging  
 Distrustful
-5
-Gene Key
-Sidhi
-Timelessness
-Gift
-Patience
-Shadow
-Impatience
+
+5 Gene Key
+Sidhi: Timelessness
+Gift: Patience
+Shadow: Impatience
 Insistent
 Pessimistic
-48
-Gene Key
-Sidhi
-Wisdom
-Gift
-Resourcefulness
-Shadow
-Inadequacy
+
+48 Gene Key
+Sidhi: Wisdom
+Gift: Resourcefulness
+Shadow: Inadequacy
 Unprincipled
 Weak
 
@@ -929,40 +795,30 @@ Our Physical fears related to survival, the World around, the forces of nature a
 
 The Splenic system is about our rationality to be afraid. Fear of survival creates alertness, which becomes awareness and keeps us alive. The anxieties are in the Ajna Centre. When you are in an anxious state for a long time, this is a sure sign that your Mind is fixated on some thought that does not give rest and resolution to the situation. Finally, the fears in the Solar Plexus Awareness Centre (Emotional Fears) manifest themselves in the theme of nervousness. Remember, fear is there until the Emotional Clarity arrives. Nervous fears come in waves.
 
-17
-Fear of challenge, fear of Inevitable, harsh or prolonged trials.
-18
-Fear of challenging legitimate authority or the unassailable authority of society.
-22
-Fear of lack of potential for growth, a tendency towards inferiority complexes.
-28
-Fear of mental or physical death, fear of not reaching the main goal in life.
-44
-Fear of the past, fear that negative events will happen again.
-47
-Fear of inevitable retribution for sins, fear of the power of one's archetype (God).
-48
-Fear of one's own or everyone's inadequacy that causes paranoia.
+17-Fear of challenge, fear of Inevitable, harsh or prolonged trials.
+18-Fear of challenging legitimate authority or the unassailable authority of society.
+22-Fear of lack of potential for growth, a tendency towards inferiority complexes.
+28-Fear of mental or physical death, fear of not reaching the main goal in life.
+44-Fear of the past, fear that negative events will happen again.
+47-Fear of inevitable retribution for sins, fear of the power of one's archetype (God).
+48-Fear of one's own or everyone's inadequacy that causes paranoia.
 
 ⭐️Wounds
 ✅Genetic Wound
 Your Genetic Wound
-48.2
-The Wound of Denial
+❤️48.2-The Wound of Denial
 The Wound of Denial is one of the most powerful. People with this Wound seem angry and aggressive, but in reality, they are very vulnerable. They are just afraid that others will not recognise their talents and thus hurt them. Often, they blatantly state that they do not care about other people's problems. And they hold this behaviour up as an example to others.
 
 Defensive Reaction:
 In the repressive form, it is a desire to deny one's own worth and the worth of others. In the reactive form, it is an angry reaction to any criticism that is difficult to contain within oneself.
 
-Way of Healing:
-Relaxation/ Ease
+Way of Healing: Relaxation/ Ease
 By observing your denial in life, you will be able to transform this Wound. You can experience amazing ease and relaxation when you realise that there is no longer a need to defend yourself from the world, and that the world has absolutely no interest in hurting you in any way.
 
 Try to be gentler with your loved ones! We all dip each other in wounds to eventually transform them and heal! Use the raised anger as fuel. You will be able to express your anger in a creative way, and it will soon turn into compassion for the whole world.
 
 Emotional Reaction to the Manifestation of Wound
-5.1
-Self-Sabotage
+🩶5.1-Self-Sabotage
 It is important to be honest with yourself about how you feel about yourself. Do not take the blame for the situation, go within and realise that there is nothing wrong with you.
 
 At low frequencies, it manifests itself as a Shadow: Low Self-Esteem. An inner conviction that other people are better than you and there is something wrong with you.
@@ -974,17 +830,16 @@ Pay attention to why you are angry at other people. By observing your denial, yo
 
 ✅ Sexual Wound
 Your Sexual Wound
-17.5
-Fifth Line
+🌙17.5　Fifth Line
 Sexuality that attracts with its charm and allure
 From Manipulative to Masterful
 
-Gift:
-Sensuality
+Gift:　Sensuality
+
 Such a person has a sensuality that embraces not only them but also their loved ones. Their vulnerability and susceptibility become here not a weakness, but a strength that reveals attraction and sexuality. With these qualities and awareness such a person can easily make others fall in love with them, not only their partner, but also those around them who give in to their charms.
 
-Shadow:
-Entrapment
+Shadow:Entrapment
+
 If such a person starts to take everything to heart, the opinions of others can easily hurt their sensual nature and make them build a barrier between them and society. This choice leads to creating a new, more acceptable image, which, however, does not protect from pain and discomfort, but enables them to provoke others. Remember that you should not hide your own vulnerability behind manipulation — if you wear a "mask" for a long time, there is a chance of forgetting your own face.
 
 Practical Guidelines:
@@ -1031,46 +886,38 @@ As you pass through each Sphere, you will have a growing sense of self-confidenc
 Becoming the basis of your favorite pastime, the energy of the Gene Key in the Sphere of your Life's Work will unlock your inner potential. Hobby, work, business. This is the area in which you can become a real Master of your craft.
 
 Life's Work: 5.5
-Sidhi
-Timelessness
-Gift
-Patience
-Shadow
-Impatience
+Sidhi: Timelessness
+Gift: Patience
+Shadow: Impatience
 The line of the Gene Key in the Sphere of your Life's Work will tell you what social role will help you to unleash your Gift to the fullest.
 LINE 5. THE FIXER. The gift is revealed through mentoring and organizing the work of others.
-
+↓
 The Pathway of Challenge
 This is the first bridge connecting the conscious Spheres of the Activation Sequence. Tests your commitment to the process of working on yourself. Here it is proposed to consider and analyse how you cope with various life problems, from small things to something serious.
-
+↓
 The Sphere of Evolution
 The Sphere of Evolution determines the area of your own boundaries, locking in or opening up opportunities for growth. The path of personal conscious development. The Shadows of the Gene Keys in the Spheres of your Life's Work and Evolution can be described as programming settings that condition your life in low frequencies or provide an opportunity to live vividly and creatively.
-
+↓
 Evolution: 35.5
-Sidhi
-Boundlessness
-Gift
-Adventure
-Shadow
-Hunger
+Sidhi: Boundlessness
+Gift: Adventure
+Shadow: Hunger
 The line of the Gene Key in the Sphere of Evolution will tell you the way to overcome the main challenge of your life and make a breakthrough in your development.
 LINE 5. POWER AND PROJECTIONS. The gift is revealed through managing the expectations of others.
+↓
 The Pathway of Breakthrough
 This is the bridge between the conscious and unconscious Spheres of the Activation Sequence. Breaking through it requires dramatic shifts in the paradigm of your consciousness. The ability to make a breakthrough is based on letting go of all possible expectations. True insight makes life easier, not harder.
-
+↓
 The Sphere of Radiance
 The Sphere of Radiance sets the vitality and brightness of your inner light Radiance. The energy of this Sphere gives a feeling of wholeness. With its help, you are able to transform the lives of other people through social interaction with them.
 
 Radiance: 47.1
-Sidhi
-Transfiguration
-Gift
-Transmutation
-Shadow
-Oppression
+Sidhi: Transfiguration
+Gift: Transmutation
+Shadow: Oppression
 The line of the Gene Key in the Sphere of Radiance will tell you the way and conditions of social interaction with others that will manifest the true power of your inner Light.
 LINE 1. SOLITUDE. The gift is revealed through the opportunity to be in solitude.
-The Pathway of Core Stability
+↓
 The Pathway of Core Stability provides inner stability by physically grounding your body. The ability to fulfil the Purpose and the highest Goal by moving from the stream rather than from the mind. The Pathway of Core Stability is a reward for breakthroughs made. Stabilisation will allow you to relax within yourself and teach you to perceive the world with ease.
 The Sphere of Purpose
 Indicates the state of consciousness that is the Purpose of your presence in the world. Symbolises the physical "grounding" of the body. One of the key qualities acquired here will be Humanity. It grows out of love to live life in your body. You need to live life to the fullest, meeting any challenges of fate with an open heart.
@@ -1104,61 +951,49 @@ The Sphere of the Relationship Purpose
 The Sphere of the Relationship Purpose is responsible for the quality of your interactions with your loved ones and determines the vector of development of these relationships. The Purpose of true intimacy is to reflect your deep Shadows so that they can be seen and transformed into a higher frequency. It is this Purpose that determines to a large extent how these relationships will develop, how long they will last, and how happy you will be in them.
 
 Purpose: 22.1
-Sidhi
-Grace
-Gift
-Graciousness
-Shadow
-Dishonour
+Sidhi: Grace
+Gift: Graciousness
+Shadow: Dishonour
 In some of the Venus Sequence Spheres, each of the six lines has two key themes, a low frequency one (Shadow) and a high frequency one (Gift). The Gene Key line in the Sphere of Relationship Purpose will show exactly what you are looking for when you enter into close or intimate relationships with others.
 LINE 1. THE LONER / ANCHOR. Relationships are a way to provide support and protection to a partner.
-The Pathway of Dharma
+↓
 The Pathway of Dharma is the first step between the spheres in the Venus Sequence. This Pathway will test your commitment to transformation by increasing tension in the relationship. Dharma will create obstacles to your relationships in the form of life dramas. The main task at this stage is to surrender to the natural course of events in your life. The Pathways of Dharma and Karma are closely related to each other. Dharma determines the level of your surrender to fate, and Karma sets you the tasks that are necessary for your development.
-The Sphere of Attraction
+↓
 The Sphere of Attraction shows exactly how and why you attract into your life people with whom you have a close or intimate relationship. This is where your relationship desires and needs are born. The information field of your personality always attracts those relationships in which you can best solve the tasks of your destiny.
-
+↓
 Attraciton: 17.5
-Sidhi
-Omniscience
-Gift
-Far-sightedness
-Shadow
-Opinion
+Sidhi: Omniscience
+Gift: Far-sightedness
+Shadow: Opinion
 The line of the Gene Key in the Sphere of Attraction will indicate the quality that awakens sexual attraction to you in the opposite sex. Besides, the line of the Gene Key in the Sphere of Attraction determines your sexual Trauma.
 LINE 5. ENTRAPMENT / SENSUALITY. Sexuality that attracts with its charm and charm.
-The Pathway of Karma
+↓
 The second step in the Venus Sequence takes your consciousness into more subtle matters. The main mission of Karma is education. The Pathway of Karma provokes manifestation of immature aspects of personality in relationships, pulling your shadow patterns to the surface. The Pathways of Dharma and Karma are closely related to each other. Dharma determines the level of your surrender to fate, and Karma sets you the tasks that are necessary for your development.
 The IQ Sphere (Intellectual Development)
 The IQ Sphere serves as a catalyst to further unlock the energy and discoveries of the mind, bringing you to a new level of wisdom. The IQ is the indicator of your mental development in a relationship. This Sphere plunges you into the period when the foundations of your world view were being laid. It will point you to the patterns of behaviour that were formed in adolescence, but still influence your life today.
-
+↓
 IQ: 60.2
-Sidhi
-Justice
-Gift
-Realism
-Shadow
-Limitation
+Sidhi: Justice
+Gift: Realism
+Shadow: Limitation
 The Gene Key line in this Sphere determines your tendency to rely on certain mental patterns in relationships that you formed between the ages of 14 and 21. Each of the six lines in the IQ Sphere carries two themes that can be manifested at either a low (shadow) or high (gift) frequency of vibration.
 LINE 2. PROVOCATIVE / BRILLIANT (MIND). The second line suggests an expressive creative life.
-The Pathway of Intelligence
+↓
 The Pathway of Intelligence allows you to find the golden mean between the manifestation of intellect and emotions. Expressed in the perfect natural balance, these forces come together and trigger the process of awakening. It is important to gain rationality, that is, a balance between the mind and feelings, in order to consciously approach communication with your loved ones.
 The EQ Sphere (Emotional Maturity)
 The EQ Sphere determines your emotional reactions in close relationships, as well as your willingness to accept the nature of your emotions and your partner's feelings. Contemplating the EQ Sphere will allow you to accept all your feelings without judgment. This is a point of your growth in relationships and a kind of portal for healing your sacred wound on the astral level.
-
+↓
 EQ: 5.1
-Sidhi
-Timelessness
-Gift
-Patience
-Shadow
-Impatience
+Sidhi: Timelessness
+Gift: Patience
+Shadow: Impatience
 The Gene Key line in this Sphere will show the basis of your emotional approach to other people, formed from the age of 7 to 14 years. The line in the EQ Sphere shows the range of your emotional reactions to genetic Trauma, which can be manifested by you at both low and high vibrational frequencies.
 LINE 1. The ShadowThe Shadow reaction - SELF-SABOTAGE / The Gift reaction - SELF-ESTEEM
-The Pathway of Love
+↓
 The Pathway of Love (or in other words, the Pathway of Isolation) connects the Sphere of Emotional Maturity (EQ) with the Sphere of Spiritual Development (SQ). Each time you manage to recognise and dismantle another low frequency pattern, the energy of true love is released from your DNA. The technique of overcoming this Pathway requires you to make Love the fundamental basis of all your actions towards your loved ones.
-The SQ Sphere (Spiritual Development)
+↓
 The SQ Sphere determines the degree of openness of your heart. This is the courage to accept the drama of your life, while maintaining your inner light. This Sphere is located in the very core of the Venus Sequence and, in fact, is the energy centre of the entire Golden Path. It shows what factors influenced the formation of your spirituality in childhood and how developed your spiritual level is now.
-
+↓
 SQ: 48.2
 Sidhi
 Wisdom
@@ -1168,18 +1003,15 @@ Shadow
 Inadequacy
 The line of the Gene Key in the SQ Sphere indicates the atmosphere and upbringing methods that had the greatest influence on the formation of your spiritual and moral values during the first seven years of your life. These aspects set the direction for all your searches for spirituality in adulthood as well.
 LINE 2. INNER FREEDOM. Spirituality is formed through opportunities for the development of the inner world.
-The Pathway of Realisation
+↓
 The Pathway of Realisation brings consciousness back to the point at which your physical incarnation began and fixes it on the high frequencies of unconditional love. This is the last Pathway of the Venus Sequence that connects the SQ Sphere of spiritual development with the Sphere of your Core. The Parhway of Realisation is very multifaceted and has many secrets, some of which are inaccessible to people's understanding. It serves as a guide to the core of your inner being, but is activated only when you heal your Genetic Trauma.
-The Sphere of your Core (Genetic Trauma)
+↓
 The Sphere of your Core plunges you into the very core of your being - the source of all your suffering and the place of awakening of your limitless potential. This Sphere gives you the opportunity to dive into the depths of your own nature and realise your unity with everything that exists. This is where your Genetic Trauma lies, which prevents you from finding your happiness in close relationships.
-
+↓
 Core: 48.2
-Sidhi
-Wisdom
-Gift
-Resourcefulness
-Shadow
-Inadequacy
+Sidhi: Wisdom
+Gift: Resourcefulness
+Shadow: Inadequacy
 The Gene Key line in the Core Sphere represents one of the six possible archetypes of the collective Sacred Wound. The method of healing each of these Traumas is embedded in the programme of awakening the higher nature of all mankind.
 LINE 2. TRAUMA OF DENIAL / Method of healing - RELAXATION (EASYNESS).
 
@@ -1202,42 +1034,34 @@ The Sphere of Vocation
 The Sphere of Vocation unlocks your inner talent that requires manifestation and implementation in the material world. The sphere of Vocation is the source of our strength and stability, and it is directly related to the spine. It is the internal support of our body, regulates our movements and connects us to the outside world. The energy of the Gene Key in this Sphere carries a powerful creative potential and gives you the greatest opportunities for personal growth.
 
 Vocation: 48.2
-Sidhi
-Wisdom
-Gift
-Resourcefulness
-Shadow
-Inadequacy
+Sidhi: Wisdom
+Gift: Resourcefulness
+Shadow: Inadequacy
 The line of the Gene Key in the Sphere of Vocation will indicate to you that area of employment or profession that will help your innate talent to be revealed correctly and fully.
 LINE 2. MARKETING. Your Vocation is the development of marketing concepts, packaging, cost, presentation.
-The Pathway of Initiative
+↓
 The Pathway of Initiative prescribes a strategy of active action. The essence of these actions is to embody your genius without a drop of imitation. The challenge here is to take a risk and take a step towards your goal.
+↓
 The Sphere of the Culture
 This Sphere holds the key to Prosperity through the choice of the optimal working format for interactions with partners or work colleagues. The energy of the Gene Key in the Sphere of Culture, embodied on the frequency of the Gift, will help you form the right cultural and social environment for your activities in the world of material values.
 
 Culture: 20.1
-Sidhi
-Presence
-Gift
-Self assurance
-Shadow
-Superficiality
+Sidhi: Presence
+Gift: Self assurance
+Shadow: Superficiality
 The line of the Gene Key in the Sphere of Culture will suggest the format of social interaction that is optimal for you with work colleagues, like-minded people in a creative team or business partners, which will accelerate your prosperity and career growth.
 LINE 1. SELF-SUFFICIENCY. You need individual employment and personality workflow.
-The Pathway of Growth
+↓
 The Pathway of Growth is a simple yet very powerful step on your path to prosperity. He invites you to change your view of the business and begin to perceive it as a tool for awakening. Business is a whole system of relationships that implies a common goal and the sharing of resources. Therefore, it can also be considered as a kind of spiritual path. This attitude to business will allow you to find many hidden opportunities for your development.
-The Sphere of the Brand
+↓
 The Sphere of the Brand describes your inner style and frequency of expression that have a direct impact on your Prosperity. This Sphere is a synthesis of the energy of the first two Spheres of the Pearl Sequence - Vocation and Culture. It is at the top of your triangle of prosperity, and in this Sphere you reach the zenith of your life cycle.
 
 Regardless of what it is you do in life, and what product you promote, at the highest level - you are the main product that you are able to offer this world. The Brand Sphere aligns the “product” with its “package” – your true essence and your unique style of expressing it to the outside world.
 
 Brand: 5.5
-Sidhi
-Timelessness
-Gift
-Patience
-Shadow
-Impatience
+Sidhi: Timelessness
+Gift: Patience
+Shadow: Impatience
 The Gene Key line in the Brand Sphere will point you to the motto you should follow which will help you (your business) to occupy a suitable niche in the market and attract well-deserved customer interest in the uniqueness and benefits of your offerings, products or services.
 LINE 5. FAIRNESS. «I offer a wisdom and really profitable solutions!»
 The Sphere of the Pearl
@@ -1246,12 +1070,9 @@ The Sphere of the Pearl confirms in practice the divine law of philanthropy: tru
 The energy that fills it will allow you to understand the underlying motives of your relationship with money. Contemplation of the Gene Key of your Pearl will help you clarify your relationship with money and develop the right strategy in this matter.
 
 Pearl: 23.6
-Sidhi
-Quintessence
-Gift
-Simplicity
-Shadow
-Complexity
+Sidhi: Quintessence
+Gift: Simplicity
+Shadow: Complexity
 The Gene Key line in the Sphere of the Pearl describes your personal way to achieve Prosperity in this life. Each of the six Lines has its own Strategy that will help it achieve harmony in relations with the external environment and the world of material values.
 LINE 6. NATURE. The key to stabilizing the Pearl is for you to take care of the ecology and nature.
 * The Pathway of Service
