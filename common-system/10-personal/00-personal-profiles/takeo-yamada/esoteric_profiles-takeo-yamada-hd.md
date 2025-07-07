@@ -650,71 +650,71 @@ These energies control the scenario of your personal evolution, and their freque
 Sidhi: Transfiguration
 Gift: Transmutation
 Shadow: Oppression
-Dogmatic
-Oppressed
+- Dogmatic
+- Oppressed
 
 [Design] 22 Gene Key  
 Sidhi: Grace  
 Gift: Graciousness  
 Shadow: Dishonour  
-Immoral  
-False
+- Immoral  
+- False
 
 [Design] 28 Gene Key  
 Sidhi: Immortality  
 Gift: Totality  
 Shadow: Purposelessness  
-Gambling  
-Hollow
+- Gambling  
+- Hollow
 
 [Design] 27 Gene Key  
 Sidhi: Selflessness  
 Gift: Altruism  
 Shadow: Selfishness  
-Self-interested  
-Sacrificial
+- Self-interested  
+- Sacrificial
 
 [Design] 17 Gene Key  
 Sidhi: Omniscience  
 Gift: Far-Sightedness  
 Shadow: Opinion  
-Opinionated  
-Self-critical
+- Opinionated  
+- Self-critical
 
 [Design] 18 Gene Key  
 Sidhi: Perfection  
 Gift: Integrity  
 Shadow: Judgement  
-Superior  
-Inferior
+- Superior  
+- Inferior
 
 [Design] 48 Gene Key  
 Sidhi: Wisdom  
 Gift: Resourcefulness  
 Shadow: Inadequacy  
-Unprincipled  
-Weak
+- Unprincipled  
+- Weak
 
 [Design] 20 Gene Key  
 Sidhi: Presence  
 Gift: Self Assurance  
 Shadow: Superficiality  
-Superficial  
-Absent
+- Superficial  
+- Absent
 
 [Design] 33 Gene Key  
 Sidhi: Revelation  
 Gift: Mindfullness  
 Shadow: Forgetting  
-Censorious  
-Reserved
+- Censorious  
+- Reserved
 
 [Design] 9 Gene Key  
 Sidhi: Invincibility  
 Gift: Determination  
 Shadow: Inertia  
-Diverted  
-Reluctant
+- Diverted  
+- Reluctant
 
 #  Personality Gene Keys
 
@@ -722,71 +722,71 @@ Reluctant
 Sidhi: Timelessness  
 Gift: Patience  
 Shadow: Impatience  
-Insistent  
-Pessimistic
+- Insistent  
+- Pessimistic
 
 [Personality]35 Gene Key  
 Sidhi: Boundlessness  
 Gift: Adventure  
 Shadow: Hunger  
-Manic  
-Hesitating
+- Manic  
+- Hesitating
 
 [Personality]12 Gene Key  
 Sidhi: Purity  
 Gift: Discrimimation  
 Shadow: Vanity  
-Malicious  
-Elitist
+- Malicious  
+- Elitist
 
 [Personality]10 Gene Key  
 Sidhi: Being  
 Gift: Naturalness  
 Shadow: Self Obsession  
-Narcissistic  
-Self-denying
+- Narcissistic  
+- Self-denying
 
 [Personality]60 Gene Key  
 Sidhi: Justice  
 Gift: Realism  
 Shadow: Limitation  
-Rigid  
-Unstructured
+- Rigid  
+- Unstructured
 
 [Personality]23 Gene Key  
 Sidhi: Quintessence  
 Gift: Simplicity  
 Shadow: Complexity  
-Inadequate  
-Mute
+- Inadequate  
+- Mute
 
 [Personality]7 Gene Key  
 Sidhi: Virtue  
 Gift: Guidance  
 Shadow: Division  
-Dictatorial  
-Non-public
+- Dictatorial  
+- Non-public
 
 [Personality]44 Gene Key  
 Sidhi: Synarchy  
 Gift: Teamwork  
 Shadow: Interference  
-Misjudging  
-Distrustful
+- Misjudging  
+- Distrustful
 
 [Personality]5 Gene Key
 Sidhi: Timelessness
 Gift: Patience
 Shadow: Impatience
-Insistent
-Pessimistic
+- Insistent
+- Pessimistic
 
 [Personality]48 Gene Key
 Sidhi: Wisdom
 Gift: Resourcefulness
 Shadow: Inadequacy
-Unprincipled
-Weak
+- Unprincipled
+- Weak
 
 # Gates of Fears
 Active Gates of Fear
@@ -1134,20 +1134,18 @@ Closer to the onset of old age, people increasingly feel the inner emptiness and
 
 ⭐️Dream Rave
 # Dream Chart
-Type in the Waking State
-Manifestor
-Type in the Dream State
-Reflector
-Active Centres in the Dream State
-Missing
-The Light Field Gates
+Type in the Waking State: Manifestor
+Type in the Dream State: Reflector
+Active Centres in the Dream State: Missing
+The Light Field Gates: 
 8-8.1
-The Earth Plane Gates
+The Earth Plane Gates: 
 27-27.2/27.1
 5-5.3/5.5/5.1/5.3
 12-12.4
-The Demon Realm Gates
+The Demon Realm Gates: 
 28-28.2/28.1
+
 The analysis of the DreamRave Chart is based on understanding the mechanics of how sleep determines your behaviour in the waking state. Using the dream matrix, you can see exactly what topics are programming you in this unconscious state and what impact this will have when you wake up. Your mind will try to interpret what you saw in your dream and thus make small adjustments to your daily behavior.
 [text](https://www.humdes.com/en/tools/svg/e79bed36c3662afeac51b76756e03cbe/dreamrave/male/)
 
@@ -1165,8 +1163,7 @@ Active Gates on the Earth Plane level
 The Earth Plan is connected with the fact that a part of the Earth's population is asleep, while the other part is awake. This dynamic occurs due to the rotation of planet Earth around its axis. When the neutrino streams pass through space, they transfer information from people who are awake to the bodies of those who are currently sleeping on the other side of the globe. If you have at least one active gate of the Earth Plan, then you have come to this world to receive information during your sleep about what is happening on the planet. In dreams received through this gate, you can see the problems of everyday life that you have now, have had in the past or will have in the future.
 Active in your Dream Chart 3 from 5 Gates from this Area of Programming
 
-5
-Time
+5-Time
 Measurement distortion
 Dreams in which events pass through the time distortion to be projected into the future in an already updated scenario.
 5.3 — Turmoil (The need to develop under all conditions, to move, to avoid stagnation.)
@@ -1174,11 +1171,16 @@ Dreams in which events pass through the time distortion to be projected into the
 5.1 — Secrets (Exploring the hidden essence of something that is already present in your real life.)
 5.3 — Turmoil (The need to develop under all conditions, to move, to avoid stagnation.)
 
-12
-Mutation
+12-Mutation
 A Portal Gate. Evolution of cultural values
 Dreams that adapt your consciousness to new information and program it to take life-changing actions.
 12.4 — Obsession (Seeking opportunities to prove oneself through social networking.)
+
+27-Yearning
+Material benefits
+Dreams that program you to cling to the values of the material world as one of the elements of comfortable survival.
+27.2 — Possession (Focusing on cherishing (preserving) what has already been achieved in life.)
+27.1 — Secrets (Exploring the hidden essence of something that is already present in your real life.)
 
 # The Demon Realm
 Active Gates on the Demon Realm Level
@@ -1186,8 +1188,7 @@ The gates associated with this plane reflect all the associations related to the
 
 Active in your Dream Chart 1 from 5 Gates from this Area of Programming
 
-28
-Fear
+28-Fear
 Error correction programme
 Dreams that reflect your fears associated with experiencing unpleasant situations and the consequences of mistakes made as a result of wrong choices.
 28.2 — Possession (Focusing on cherishing (preserving) what has already been achieved in life.)
