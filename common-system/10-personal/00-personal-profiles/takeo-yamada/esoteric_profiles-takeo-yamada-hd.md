@@ -646,70 +646,70 @@ These energies control the scenario of your personal evolution, and their freque
 ![alt text](https://cdn.humdes.com/images/what.genekeys.en.png)
 
 # Design Gene Keys
-[Design] 47 Gene Key
+47 Gene Key
 Sidhi: Transfiguration
 Gift: Transmutation
 Shadow: Oppression
 - Dogmatic
 - Oppressed
 
-[Design] 22 Gene Key  
+22 Gene Key  
 Sidhi: Grace  
 Gift: Graciousness  
 Shadow: Dishonour  
 - Immoral  
 - False
 
-[Design] 28 Gene Key  
+[Vocation] 28 Gene Key  
 Sidhi: Immortality  
 Gift: Totality  
 Shadow: Purposelessness  
 - Gambling  
 - Hollow
 
-[Design] 27 Gene Key  
+27 Gene Key  
 Sidhi: Selflessness  
 Gift: Altruism  
 Shadow: Selfishness  
 - Self-interested  
 - Sacrificial
 
-[Design] 17 Gene Key  
+17 Gene Key  
 Sidhi: Omniscience  
 Gift: Far-Sightedness  
 Shadow: Opinion  
 - Opinionated  
 - Self-critical
 
-[Design] 18 Gene Key  
+18 Gene Key  
 Sidhi: Perfection  
 Gift: Integrity  
 Shadow: Judgement  
 - Superior  
 - Inferior
 
-[Design] 48 Gene Key  
+48 Gene Key  
 Sidhi: Wisdom  
 Gift: Resourcefulness  
 Shadow: Inadequacy  
 - Unprincipled  
 - Weak
 
-[Design] 20 Gene Key  
+20 Gene Key  
 Sidhi: Presence  
 Gift: Self Assurance  
 Shadow: Superficiality  
 - Superficial  
 - Absent
 
-[Design] 33 Gene Key  
+33 Gene Key  
 Sidhi: Revelation  
 Gift: Mindfullness  
 Shadow: Forgetting  
 - Censorious  
 - Reserved
 
-[Design] 9 Gene Key  
+9 Gene Key  
 Sidhi: Invincibility  
 Gift: Determination  
 Shadow: Inertia  
@@ -718,70 +718,70 @@ Shadow: Inertia
 
 #  Personality Gene Keys
 
-[Personality] 5 Gene Key  
+[SQ] 5 Gene Key  
 Sidhi: Timelessness  
 Gift: Patience  
 Shadow: Impatience  
 - Insistent  
 - Pessimistic
 
-[Personality]35 Gene Key  
+[Core Wound]35 Gene Key  
 Sidhi: Boundlessness  
 Gift: Adventure  
 Shadow: Hunger  
 - Manic  
 - Hesitating
 
-[Personality]12 Gene Key  
+12 Gene Key  
 Sidhi: Purity  
 Gift: Discrimimation  
 Shadow: Vanity  
 - Malicious  
 - Elitist
 
-[Personality]10 Gene Key  
+10 Gene Key  
 Sidhi: Being  
 Gift: Naturalness  
 Shadow: Self Obsession  
 - Narcissistic  
 - Self-denying
 
-[Personality]60 Gene Key  
+[EQ, Culture]60 Gene Key  
 Sidhi: Justice  
 Gift: Realism  
 Shadow: Limitation  
 - Rigid  
 - Unstructured
 
-[Personality]23 Gene Key  
+[Pearl]23 Gene Key  
 Sidhi: Quintessence  
 Gift: Simplicity  
 Shadow: Complexity  
 - Inadequate  
 - Mute
 
-[Personality]7 Gene Key  
+7 Gene Key  
 Sidhi: Virtue  
 Gift: Guidance  
 Shadow: Division  
 - Dictatorial  
 - Non-public
 
-[Personality]44 Gene Key  
+[Attraction]44 Gene Key  
 Sidhi: Synarchy  
 Gift: Teamwork  
 Shadow: Interference  
 - Misjudging  
 - Distrustful
 
-[Personality]5 Gene Key
+[SQ, Brand]5 Gene Key
 Sidhi: Timelessness
 Gift: Patience
 Shadow: Impatience
 - Insistent
 - Pessimistic
 
-[Personality]48 Gene Key
+48 Gene Key
 Sidhi: Wisdom
 Gift: Resourcefulness
 Shadow: Inadequacy
@@ -866,6 +866,15 @@ The Pathways provide an opportunity to move to the next Sphere, using the energy
 
 As soon as you begin to work through the first Sequence, you will take the first step towards positive changes in your life. The intention expressed in this way attracts the right people for you into your life, gives you the necessary lessons and maintains the necessary dynamics for learning and growth.
 [text](https://www.humdes.com/en/tools/svg/e79bed36c3662afeac51b76756e03cbe/hologenetic/)
+
+# Venus Sequence（関係性）
+スフィア（領域）	Gene Key	Line	テキスト出典
+Purpose（対人目的）	22	1	“Purpose: 22.1” & “LINE 1. PHYSICALITY / THE LONER / ANCHOR”
+Attraction	17	5	“Attraction: 17.5” & “LINE 5. ENTRAPMENT / SENSUALITY”
+IQ（思考発達）	60	2	“IQ: 60.2” & “LINE 2. PROVOCATIVE / BRILLIANT (MIND)”
+EQ（感情発達）	5	1	“EQ: 5.1” & “LINE 1. SELF-SABOTAGE / SELF-ESTEEM”
+SQ（魂の発達）	48	2	“SQ: 48.2” & “LINE 2. INNER FREEDOM”
+Core（聖なる傷）	48	2	“Core: 48.2” & “LINE 2. TRAUMA OF DENIAL”
 
 # What is the AS
 The Activation Sequence
