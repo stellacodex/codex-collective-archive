@@ -12,7 +12,7 @@ metaphysical-profile-takeo-yamada
 Human Design:
 ⭐️Rave Chart
 
-✅Rave Chart
+# Rave Chart
 Personality Type: Manifestor
 Profile: 5/1 (Heretic / Investigator)
 Strategy:Inform about your intensions
@@ -41,7 +41,7 @@ Timezone: Asia/Tokyo (+09:00)
 Place of Birth: Kushiro, Hokkaido, Japan
 [text](https://www.humdes.com/en/tools/svg/e79bed36c3662afeac51b76756e03cbe/bodygraph/male/)
 
-✅Personality
+# Personality
 Your Personality
 Conscious Manifestations of your psyche
 On the right side of the Rave Chart are 13 Hexagrams (Gene Keys, Gates) whose energies influence your conscious behaviour. This is a psychological self-portrait of your Personality from the point of view of your mind.
@@ -59,7 +59,7 @@ To correctly use this knowledge in practice - do not forget about the strategy o
 [text](https://www.humdes.com/en/tools/svg/e79bed36c3662afeac51b76756e03cbe/bodygraph/male/person/)
 
 
-✅Design
+# Design
 Your Design
 Unconscious manifestations of your psyche
 On the left side of the Rave Chart are 13 Hexagrams (Gene Keys, Gates) that form the basis of your unconscious behaviour. As you do not always realize that you have these qualities, they are often simply ignored by you.
@@ -76,7 +76,7 @@ When evaluating the actions, situations or deeds of those people with whom you i
 Observe other people's reactions when you are around them and compare this to your knowledge of your Design. You will surely derive a lot of useful and valuable knowledge from this observation.
 [text](https://www.humdes.com/en/tools/svg/e79bed36c3662afeac51b76756e03cbe/bodygraph/male/design/)
 
-✅Not-Self
+# Not-Self
 Your openness. "Not Self"
 Places where your mind leans on stereotypes and beliefs
 Your Opennesses are your Undefined Centres and the Gates and Channels missing from your Rave Chart. Here you are energetically vulnerable and open to conditioning. This is a chart of those places where you do not have your own fixed energy - they are highlighted in colour on the chart. In fact, this is a mirror inversion of your personal Rave Chart. Everything that is present in your Design / Personality, on the contrary, is not reflected here.
@@ -94,7 +94,7 @@ In fact, a lot here depends on your perception. You can consider your Undefined 
 [text](https://www.humdes.com/en/tools/svg/e79bed36c3662afeac51b76756e03cbe/bodygraph/male/falseself/)
 
 ⭐️ Mechanics
-✅Type Mechanics
+# Type Mechanics
 -----Who is the Manifestor?-----
 9% of the Earth's total population
 The Sacral Centre in the Manifestor’s Rave Chart is not defined, but one of the three remaining Motors centres - the Heart, Root or Solar Plexus - is defined and connected to the Throat by an active channel. This configuration of Centres and Channels in the Rave Chart makes your aura structure dense, repulsive and closed to others. It enhances your natural ability to influence others energetically through words or actions.
@@ -141,7 +141,7 @@ By following your Strategy, you learn about yourself and get a powerful boost of
 Courtesy is the path to social freedom and greater influence
 Courtesy – as an experience derived from one's own negative emotions resulting from an irresponsible attitude to the interests and energy of other people.
 
-✅Inner Authority
+# Inner Authority
 Your Inner Authority is Emotional
 Solar Plexus Centre Defined
 The Inner Authority for the Manifestor, coupled with their Type Strategy, is the only correct way for them to make decisions about which processes to initiate and when to act. The Manifestor can have one of two kinds of Inner Authority – Emotional or Sacral.
@@ -171,7 +171,7 @@ Possible Questions to Ask:
 
 6. Do I have any final expectations of the process?
 
-✅Profile
+# Profile
 Your Profile 5/1 (Heretic / Investigator)
 People with this Profile - 14.27% of the population
 Your Profile is the most transpersonal of all. This means that the focus of your attention is not on your own inner world, but on the growth and development of those around you. Your life mission is more about transforming the lives of others, and you can only fulfil yourself through correctly influencing them.
@@ -188,7 +188,7 @@ Learn to build personal boundaries and negotiate them - after all, others see yo
 
 It is very important for you to stand firmly on your feet and be fully confident in what you need to deal with - it could be people, projects, relationships. To gain this confidence, you need to "dig" the issue you are interested in down to the ground. To do this, you need time and privacy. By nature, you are a researcher. By getting to the bottom of things, you defeat your insecurity. The knowledge you gain helps you to gain strength and resilience.
 
-✅Definition
+# Definition
 Single Definition
 People with such Definition - 39%
 People with a single Definition have a holistic energy mechanics, because in their rave chart all defined Centers are interconnected into a single system. There is no gap between them - they are connected by at least one channel.
@@ -199,7 +199,7 @@ Although you follow public opinion, you have your own point of view on everythin
 
 You are characterized by non-conformity - you boldly say what you think, and are not afraid of condemnation from others. In the worst case, a person with integral Determination can become an egoist who is indifferent to the interests of other people. But don't take it too negatively, it's your way of maintaining your identity.
 
-✅What are Centers
+# What are Centers
 What are Energy Centres?
 The personal Rave Chart consists of several information layers, one of which is the layer of Energy Centres. An Energy Centre is a group of Gene Keys (Gates) whose energies have related properties and biologically correspond to a group of internal organs with similar functions in your body.
 
@@ -221,7 +221,7 @@ Undefined are Centres that are not connected to each other by an energy channel,
 Such Centres in the Rave Chart are not shaded and represent areas of your receptivity to the world.
 It is here that the potential is laid for you to gain wisdom by being energetically conditioned and thereby learning something from other people.
 
-✅Defined Centers
+# Defined Centers
 Your Defined Centres
 
 Throat Centre
@@ -236,7 +236,7 @@ Solar Plexus Centre
 Emotional awareness. The depth of the feelings experienced.
 You are constantly experiencing the full range of feelings and emotional experiences in the form of repeated waves and cycles. This can make it difficult for you to remain objective and in a stable mood for long periods of time. Try to control your emotions – especially in situations of acute conflict or crisis, so that you do not have to regret anything later.
 
-✅Undefined Centers
+# Undefined Centers
 Your undefined Centres
 
 Head Centre
@@ -263,7 +263,7 @@ Root Centre
 Pressure to act. Tolerance to stress and physical activity.
 You do not tend to be physically active without an urgent need. But thinking about getting to work can make you feel a little nervous, even stressed. Try not to be overly relaxed, but do not panic if you are pressed for time. Learn to proceed at your own pace. Break up a large amount of work into several separate tasks. Then it will not seem so huge and depressing to you, allowing you to get out of procrastination.
 
-✅ActiveChannels
+# ActiveChannels
 
 12-22
 The Channel of Openness
@@ -277,7 +277,7 @@ When the energy of Self-Love (10) combines with the gift of Contemplation (20), 
 
 ⭐️ Variables and PHS
 
-✅Variables
+# Variables
 PRR-DRR
 Mind - Right, contemplative. Waiting for opportunities.
 Your mind is a bottomless well of knowledge that can only be accessed by external enquiry. Self-motivation is not your strongest suit. External factors and other people motivate you much better.
@@ -300,7 +300,7 @@ The right brain is also receptive and passive. It is oriented at storing informa
 
 For holders of these Variables, the correct environment is one where they can feel comfortable, when they are relaxed. If they are in a place where they are constantly stimulated to be active or engaged in some physical activity, they may feel exhausted and lack energy.
 
-✅Mind and Motivation
+# Mind and Motivation
 Personalities Sun/Earth
 
 Right Mind
@@ -329,7 +329,7 @@ False Motivation:
 Fear
 When Need is replaced by Fear, one lives in opposition to one's nature. One acts not out of need to get something, but out of Fear of NOT getting it. In fact, it is impossible to even imagine how many Fears a person with the fourth Personality colour can live with when they are living life from the “Not-Self”. Influenced by distorted motivation, one seeks out new contacts and connections not out of a need to pass on a useful resource to them or receive it from them, but out of fear of being left alone.
 
-✅Perspective on Life
+# Perspective on Life
 Outlook on Life
 Personalities Lunar Nodes
 
@@ -350,7 +350,7 @@ Aloof observing
 Feeling drawn to a meditative state, working with the inner world.
 [text](https://www.humdes.com/en/tools/svg/e79bed36c3662afeac51b76756e03cbe/variables/vision/)
 
-✅Body and Diet
+# Body and Diet
 Body and Nutrition
 Design Sun/Earth
 
@@ -390,7 +390,7 @@ It is important for you to "hear" your body and its reaction to food, to hear wh
 
 The most beneficial effect on your nervous system will be those emotions and feelings that have a smooth structure. Optimal saturation of your body comes from the steady but powerful flow of the emotional current around you.
 
-✅Environment
+# Environment
 Design Lunar Nodes
 
 Right Environment
@@ -424,7 +424,7 @@ Dry "kitchens" imply low humidity and low electrical conductivity of the environ
 On a mental level, it is the expression of formulas and patterns that are relevant to future times (plans, forecasts). Emotionally, these are "dry" or formal emotions that are purely positive, but more businesslike.
 
 ⭐️ Gates and Lines
-✅Lines in the Chart
+# Lines in the Chart
 Each Hexagram consists of six lines. The line in the chart reflects the energy maturation stage of the hexagram (Gene Key/Gate). Each subsequent line carries the experience of the previous one. The lines are shown as behavioural aspects of the personality. The main ones are those that form the profile (the lines of the Sun and the Earth of the Personality-Design). The rest of the lines are a minor aspect of the character, but they also add a special colour to the overall picture. The number of certain lines determines the predisposition to the corresponding type of behaviour.
 
 (Upper Trigram)
@@ -472,7 +472,7 @@ Lays the foundation of the hexagram. The instinct of self-preservation. Uncertai
 3
 The foundation must be secure. The need for security. Sees only his own process, which allows for a deep exploration. Introspection. First line knowledge can be invaluable to others. Feels confident only after having thoroughly studied the process/object/person.
 
-✅ Design Gates (The Unconscious)
+#  Design Gates (The Unconscious)
 R→
 color:5
 tone:4
@@ -511,7 +511,7 @@ It is the energy and power to stay focused on an action or process.
 Tendency to analyse things in great depth. You look at the size and scope of this with great detail.
 [text](https://www.humdes.com/en/tools/svg/e79bed36c3662afeac51b76756e03cbe/bodygraph/male/design/)
 
-✅Personality Gates (The Conscious)
+# Personality Gates (The Conscious)
 →R
 color:4
 tone:5
@@ -550,7 +550,7 @@ The energy of habits. The mechanical need of the body and mind for a fixed rhyth
 Tendency to analyse things in great depth. You look at the size and scope of this with great detail.
 [text](https://www.humdes.com/en/tools/svg/e79bed36c3662afeac51b76756e03cbe/bodygraph/male/person/)
 
-✅Gates by Quarters
+# Gates by Quarters
 1. Quarter of Initiation: 15.38%
 Fulfilled through the Mind
 
@@ -598,9 +598,8 @@ The Gates of the Quarter of Mutation have a strong influence on the consciousnes
 5
 
 
-✅Gates by Circuits
-38%
-The Individual Circuit
+# Gates by Circuits
+38%-The Individual Circuit
 7 Active Gates from 22
 2 Channels from 15
 Self-centredness, originality of behaviour, initiating and empowering others with one's knowledge, self-empowerment, importance of individual differences, detachment from the collective patterns of humanity, chaoticness.
@@ -624,7 +623,7 @@ The Centering Circuit
 Unique behaviour, outsiderism, self-love, competitiveness, strength, excitement, self-empowerment, influence, creativity.
 10
 
-✅What are Gene Keys
+# What are Gene Keys
 The Gene Keys represent a living energy field. By receiving and comprehending information about them, step by step you will begin to be transformed through the chemistry of your thoughts.
 
 And the more you fully you give yourself to it, the deeper knowledge will penetrate you.
@@ -646,149 +645,150 @@ Each Gene Key carries a specific energy that nurtures your individual abilities 
 These energies control the scenario of your personal evolution, and their frequency spectrum allows you to assess your degree of awareness and potential for growth.
 ![alt text](https://cdn.humdes.com/images/what.genekeys.en.png)
 
-✅Design Gene Keys
-47 Gene Key
+# Design Gene Keys
+[Design] 47 Gene Key
 Sidhi: Transfiguration
 Gift: Transmutation
 Shadow: Oppression
 Dogmatic
 Oppressed
-22 Gene Key  
+
+[Design] 22 Gene Key  
 Sidhi: Grace  
 Gift: Graciousness  
 Shadow: Dishonour  
 Immoral  
 False
 
-28 Gene Key  
+[Design] 28 Gene Key  
 Sidhi: Immortality  
 Gift: Totality  
 Shadow: Purposelessness  
 Gambling  
 Hollow
 
-27 Gene Key  
+[Design] 27 Gene Key  
 Sidhi: Selflessness  
 Gift: Altruism  
 Shadow: Selfishness  
 Self-interested  
 Sacrificial
 
-17 Gene Key  
+[Design] 17 Gene Key  
 Sidhi: Omniscience  
 Gift: Far-Sightedness  
 Shadow: Opinion  
 Opinionated  
 Self-critical
 
-18 Gene Key  
+[Design] 18 Gene Key  
 Sidhi: Perfection  
 Gift: Integrity  
 Shadow: Judgement  
 Superior  
 Inferior
 
-48 Gene Key  
+[Design] 48 Gene Key  
 Sidhi: Wisdom  
 Gift: Resourcefulness  
 Shadow: Inadequacy  
 Unprincipled  
 Weak
 
-20 Gene Key  
+[Design] 20 Gene Key  
 Sidhi: Presence  
 Gift: Self Assurance  
 Shadow: Superficiality  
 Superficial  
 Absent
 
-33 Gene Key  
+[Design] 33 Gene Key  
 Sidhi: Revelation  
 Gift: Mindfullness  
 Shadow: Forgetting  
 Censorious  
 Reserved
 
-9 Gene Key  
+[Design] 9 Gene Key  
 Sidhi: Invincibility  
 Gift: Determination  
 Shadow: Inertia  
 Diverted  
 Reluctant
 
-✅ Personality Gene Keys
+#  Personality Gene Keys
 
-5 Gene Key  
+[Personality] 5 Gene Key  
 Sidhi: Timelessness  
 Gift: Patience  
 Shadow: Impatience  
 Insistent  
 Pessimistic
 
-35 Gene Key  
+[Personality]35 Gene Key  
 Sidhi: Boundlessness  
 Gift: Adventure  
 Shadow: Hunger  
 Manic  
 Hesitating
 
-12 Gene Key  
+[Personality]12 Gene Key  
 Sidhi: Purity  
 Gift: Discrimimation  
 Shadow: Vanity  
 Malicious  
 Elitist
 
-10 Gene Key  
+[Personality]10 Gene Key  
 Sidhi: Being  
 Gift: Naturalness  
 Shadow: Self Obsession  
 Narcissistic  
 Self-denying
 
-60 Gene Key  
+[Personality]60 Gene Key  
 Sidhi: Justice  
 Gift: Realism  
 Shadow: Limitation  
 Rigid  
 Unstructured
 
-23 Gene Key  
+[Personality]23 Gene Key  
 Sidhi: Quintessence  
 Gift: Simplicity  
 Shadow: Complexity  
 Inadequate  
 Mute
 
-7 Gene Key  
+[Personality]7 Gene Key  
 Sidhi: Virtue  
 Gift: Guidance  
 Shadow: Division  
 Dictatorial  
 Non-public
 
-44 Gene Key  
+[Personality]44 Gene Key  
 Sidhi: Synarchy  
 Gift: Teamwork  
 Shadow: Interference  
 Misjudging  
 Distrustful
 
-5 Gene Key
+[Personality]5 Gene Key
 Sidhi: Timelessness
 Gift: Patience
 Shadow: Impatience
 Insistent
 Pessimistic
 
-48 Gene Key
+[Personality]48 Gene Key
 Sidhi: Wisdom
 Gift: Resourcefulness
 Shadow: Inadequacy
 Unprincipled
 Weak
 
-✅Gates of Fears
+# Gates of Fears
 Active Gates of Fear
 Actively 7 Gates from 20
 Our Physical fears related to survival, the World around, the forces of nature are so unpredictable, powerful! This disturbs our deepest fears that appeared and took hold at the genetic level in the most ancient times. All fears belong to the Energy Centres of Awareness, because they contain the potential to become aware of fear, thus transform it through acceptance. Initially, there is nothing wrong with being afraid. The only way to overcome your fear is that you have to go into it and find that its eyes are not that big!
@@ -804,7 +804,7 @@ The Splenic system is about our rationality to be afraid. Fear of survival creat
 48-Fear of one's own or everyone's inadequacy that causes paranoia.
 
 ⭐️Wounds
-✅Genetic Wound
+# Genetic Wound
 Your Genetic Wound
 ❤️48.2-The Wound of Denial
 The Wound of Denial is one of the most powerful. People with this Wound seem angry and aggressive, but in reality, they are very vulnerable. They are just afraid that others will not recognise their talents and thus hurt them. Often, they blatantly state that they do not care about other people's problems. And they hold this behaviour up as an example to others.
@@ -828,7 +828,7 @@ At high frequencies, it turns into a Gift: Sustained Self-Esteem. Self-love comb
 Practical Guidelines for Working through Wound
 Pay attention to why you are angry at other people. By observing your denial, you will begin to experience ease. When the Wound of Denial is transformed, you will be able to discover your talent for «heart marketing». It is an opportunity to reach out to the hearts of those your message, product or service is addressed to.
 
-✅ Sexual Wound
+#  Sexual Wound
 Your Sexual Wound
 🌙17.5　Fifth Line
 Sexuality that attracts with its charm and allure
@@ -851,7 +851,7 @@ The sexual wound is a way of getting to know a person in the context of an estab
 In order to live in harmony with one's nature, one should not avoid the Shadows or get rid of them, but try to realise and accept them. Then they will strengthen your Gifts and take your life to a whole new level. It is the Shadows that point us in the direction of growth and help us learn from the past. They also teach us that real intimacy in a relationship occurs not between ideal people, but between those who have accepted the imperfection of themselves and their partner. Recognise your fears with your mind, accept them with your heart and be open to the other person - this is a simple algorithm for challenging work with truly worthwhile rewards.
 
 ⭐️ Hologenetics
-✅Hologenetic Profile
+# Hologenetic Profile
 What is a Hologenetic Profile?
 The Hologenetic Profile is a chain of 11 Spheres that are divided into three Sequences and interconnected by Pathways. Each Sphere contains one Gene Key from your Rave Chart, activated by a specific celestial body.
 
@@ -867,7 +867,7 @@ The Pathways provide an opportunity to move to the next Sphere, using the energy
 As soon as you begin to work through the first Sequence, you will take the first step towards positive changes in your life. The intention expressed in this way attracts the right people for you into your life, gives you the necessary lessons and maintains the necessary dynamics for learning and growth.
 [text](https://www.humdes.com/en/tools/svg/e79bed36c3662afeac51b76756e03cbe/hologenetic/)
 
-✅What is the AS
+# What is the AS
 The Activation Sequence
 Relationship with Yourself
 Working through this Sequence will help you fully fulfil your Purpose in Life. The main task of working with this Sequence is to lay a solid foundation for self-improvement of your Personality.
@@ -881,7 +881,7 @@ All the four Spheres of the Activation Sequence are activated by pairs of Gene K
 As you pass through each Sphere, you will have a growing sense of self-confidence and the correctness of the changes that are happening to you. The results of passing through the rest of the Sequences will depend on the quality of the work done at this stage.
 [text](https://www.humdes.com/en/tools/svg/e79bed36c3662afeac51b76756e03cbe/hologenetic/activation/)
 
-✅Your AS
+# Your AS
 -The Sphere of your Life's Work
 Becoming the basis of your favorite pastime, the energy of the Gene Key in the Sphere of your Life's Work will unlock your inner potential. Hobby, work, business. This is the area in which you can become a real Master of your craft.
 
@@ -932,7 +932,7 @@ Dishonour
 The Line of the Gene Key in the Sphere of Purpose reflects the area of your body that stabilises the energies within you and "grounds" your body on a physical level.
 LINE 1. PHYSICALITY. Skeleton, muscles, musculoskeletal system.
 
-✅What is the VS
+# What is the VS
 Venus Sequence
 Relationships with the Loved Ones
 The Venus Sequence aims to harmonise personal relationships through a willingness to open one's heart to Love. It consists of six Spheres and five Pathways.
@@ -946,7 +946,7 @@ Old traumas will no longer interfere with your life, and relationships with the 
 Going through this Sequence will help you deal with your set of illusions, projections, and expectations about other people. It is important to remember that negative aspects in a relationship require special attention from you.
 [text](https://www.humdes.com/en/tools/svg/e79bed36c3662afeac51b76756e03cbe/hologenetic/venus/)
 
-✅Your VS
+# Your VS
 The Sphere of the Relationship Purpose
 The Sphere of the Relationship Purpose is responsible for the quality of your interactions with your loved ones and determines the vector of development of these relationships. The Purpose of true intimacy is to reflect your deep Shadows so that they can be seen and transformed into a higher frequency. It is this Purpose that determines to a large extent how these relationships will develop, how long they will last, and how happy you will be in them.
 
@@ -1015,7 +1015,7 @@ Shadow: Inadequacy
 The Gene Key line in the Core Sphere represents one of the six possible archetypes of the collective Sacred Wound. The method of healing each of these Traumas is embedded in the programme of awakening the higher nature of all mankind.
 LINE 2. TRAUMA OF DENIAL / Method of healing - RELAXATION (EASYNESS).
 
-✅What is the PS
+# What is the PS
 The Pearl Sequence
 Relations with the material world.
 This Sequence completes your Golden Path journey and puts your gains in self-understanding into practice. It harmonises your relationship with the world of material values.
@@ -1029,7 +1029,7 @@ The goal of going through the Pearl Sequence is not to start making more money. 
 When working with the Pearl Sequence, like-minded people and allies will be attracted into your life, ready for effective cooperation. You will feel as if the whole world is trying to help you along the way.
 [text](https://www.humdes.com/en/tools/svg/e79bed36c3662afeac51b76756e03cbe/hologenetic/pearl/)
 
-✅Your PS
+# Your PS
 The Sphere of Vocation
 The Sphere of Vocation unlocks your inner talent that requires manifestation and implementation in the material world. The sphere of Vocation is the source of our strength and stability, and it is directly related to the spine. It is the internal support of our body, regulates our movements and connects us to the outside world. The energy of the Gene Key in this Sphere carries a powerful creative potential and gives you the greatest opportunities for personal growth.
 
@@ -1087,7 +1087,7 @@ Fulfilling your Vocation and talent in the right format and with the right motto
 The Pearl turns your awareness inwards and "crystallises" the very idea of Prosperity in your mind. It is only your willingness, with a truly open heart, to consciously direct this Growth to the Service of Society that will help you make the coveted “Quantum Leap”…
 
 ⭐️Planets Returns
-✅Solar Return 07.12.2024 (48 years)
+# Solar Return 07.12.2024 (48 years)
 Solar Return
 Annual Solar Return
 07.12.2024 08:13
@@ -1097,35 +1097,35 @@ Your Rave Chart
 Bodygraph
 Save to PNG
 
-✅Solar Return 07.12.2025 (49 years)
+# Solar Return 07.12.2025 (49 years)
 Solar Return
 Annual Solar Return
 07.12.2025 14:01
 49 years
 The Solar Return sets up the script for your personal Transit program for the coming year. The programme begins to work on the Unconscious level as early as 3 months before your date of birth. You will notice this impact in the form of small changes in your habits and outlook on life. Understanding the activations in your Solar Return also gives you a glimpse into the future - to see the potential and opportunities of the next year for your Personality.
 
-✅Saturn Return I 22.08.2006 (30 years)
+# Saturn Return I 22.08.2006 (30 years)
 Saturn Return I
 The first point of correction of the life path
 22.08.2006 15:57
 30 years
 Near to the age of 30, the first stage of rethinking one's own life experience is launched. When Saturn makes its first revolution relative to the Earth and returns to its starting point, your life can take a very sharp turn. At the specified time, an event will occur that will show how much you have deviated from your Design. The less you respected the Law of Jupiter, the more painful your lesson will be.
 
-✅Uranus Opposition 27.06.2020 (44 years)
+# Uranus Opposition 27.06.2020 (44 years)
 Uranus Opposition
 Point of revision of the outlook on life
 27.06.2020 16:44
 44 years
 This date marks the beginning of major changes in your life. The Uranus opposition conventionally divides your life into inhalation and exhalation. The programme that it carries for your Personality mirror inverts your values and outlook on life. Your perspective of seeing things and processes is changing, there is a change in your world view. At this age we begin to serve the world and embody your Incarnation Cross.
 
-✅Chiron Return 05.05.2026 (50 years)
+# Chiron Return 05.05.2026 (50 years)
 Chiron Return
 The point of maximum fulfilment of personal potential
 05.05.2026 00:04
 49 years
 The Chiron Return is the time of maturity and manifestation of life wisdom. This is the best and last opportunity for you to unleash your full inner potential. From that moment on, your Incarnation Cross begins to carry you. This is the time of dawn and the beginning of a new wave of life. Chiron takes the life of those who are not engaged in their own business, did not take responsibility for the tasks that they must perform.
 
-✅Saturn Return II 08.10.2035 (59 years)
+# Saturn Return II 08.10.2035 (59 years)
 Saturn Return II
 The second point of correction of the life path
 08.10.2035 11:51
@@ -1133,7 +1133,7 @@ The second point of correction of the life path
 Closer to the onset of old age, people increasingly feel the inner emptiness and value of life. When Saturn makes a second revolution relative to the Earth and returns to its starting point again, your life can take another very sharp turn. An event will happen that can start the process of your physical extinction or extend your life exactly as much as you have lived your Design correctly all these years.
 
 ⭐️Dream Rave
-✅Dream Chart
+# Dream Chart
 Type in the Waking State
 Manifestor
 Type in the Dream State
@@ -1151,7 +1151,7 @@ The Demon Realm Gates
 The analysis of the DreamRave Chart is based on understanding the mechanics of how sleep determines your behaviour in the waking state. Using the dream matrix, you can see exactly what topics are programming you in this unconscious state and what impact this will have when you wake up. Your mind will try to interpret what you saw in your dream and thus make small adjustments to your daily behavior.
 [text](https://www.humdes.com/en/tools/svg/e79bed36c3662afeac51b76756e03cbe/dreamrave/male/)
 
-✅Light Field
+# Light Field
 Active Gates in the Field of Light
 Here you are in a direct connection of the energy field of consciousness with the Upper Worlds, where your Consciousness connects with the source of True, Universal love. In the Field of Light, various perspectives of the Personality's spiritual development are presented. When you wake up, these themes will show up in your thoughts as ideas, intuitive insights, or creative inspiration. But this does not mean at all that the dreams that you experience in this Field will be lightful. They can carry a lot of darkness and be quite destructive for your Consciousness, appearing at low (shadow) frequencies.
 8
@@ -1160,7 +1160,7 @@ Emotions of sadness
 Dreams that program the development of your Consciousness and your Spirit through patterns of dark energies and negative emotions.
 8.1 — Secrets (Exploring the hidden essence of something that is already present in your real life.)
 
-✅The Earth Plane
+# The Earth Plane
 Active Gates on the Earth Plane level
 The Earth Plan is connected with the fact that a part of the Earth's population is asleep, while the other part is awake. This dynamic occurs due to the rotation of planet Earth around its axis. When the neutrino streams pass through space, they transfer information from people who are awake to the bodies of those who are currently sleeping on the other side of the globe. If you have at least one active gate of the Earth Plan, then you have come to this world to receive information during your sleep about what is happening on the planet. In dreams received through this gate, you can see the problems of everyday life that you have now, have had in the past or will have in the future.
 Active in your Dream Chart 3 from 5 Gates from this Area of Programming
@@ -1180,7 +1180,7 @@ A Portal Gate. Evolution of cultural values
 Dreams that adapt your consciousness to new information and program it to take life-changing actions.
 12.4 — Obsession (Seeking opportunities to prove oneself through social networking.)
 
-✅The Demon Realm
+# The Demon Realm
 Active Gates on the Demon Realm Level
 The gates associated with this plane reflect all the associations related to the dark side of your consciousness. This area of dreams reflects people's ideas about what the demonic world is. The mechanics with Gate activations in the Demon Realm is deeply vulnerable to fears. You may experience deeply disturbing dreams that may be associated with depressive states and inner feelings. If your DreamRave Chart has Demon Realm gate activations, then proper nutrition is very important for you, because food will directly condition your sleep.
 
