@@ -1,7 +1,7 @@
-Human Design - Database 01
+Human Design - Database 01 - Fandamentals
 
 
-レイヴチャート：
+# レイヴチャート：
 太陽 - 活力、パワー、意志、自己、リーダーシップ（Vitality, Power,Will, The ego, Leadership）
 地球 - 肥沃、進化、デザイン、根（Fertility、 Evolution、Design、The Root）
 ノースノード - あなたが向かう場所 (the line of Geometry: Where you are going)
@@ -47,48 +47,7 @@ Human Design - Database 01
 冥王星 - 変形・エゴの変形
 
 
-***
-
-マニフェスター
-自ら行動できる人です。
-何をすればいいか既にわかっていて、自分で物事を決めて行動できます。その行動を成功させるポイントは、「あらかじめ周りに知らせること」です。知らせることでサポートを得られますが、知らせないとうまくいきません。
-
-シグネチャー（自分らしいときの状態）：平和
-Not self（自分らしくないときの状態）怒り
-ストラテジー（行動のカギ）：行動する前に周りに知らせる
-
-ジェネレーター
-行動的になるとパワフルです。
-自分の仙骨にスイッチが入る（自分が前のめりになれる）と行動的になります。仙骨の反応（自分が前のめりになれる）に従って行動することが大切です。これをないがしろにして、頭だけで考えて行動すると、物事がうまく進まず欲求不満に陥ってしまいます。サッカーに例えると相手の攻撃に反応して、その攻撃を防ぐディフェンスの役割です。
-
-ジェネレーターはさらに「ピュア・ジェネレーター」と「マニフェスティング・ジェネレーター」に分かれます。この2つの違いは、「マニフェスティング・ジェネレーター」のほうが、より行動が速いことです。
-
-シグネチャー（自分らしいときの状態）：満足
-Not self（自分らしくないとさの状態）：欲求不満
-ストラテジー（行動のカギ）：気持ちが前のめりになるのを待つ
-
-プロジェクター
-自分から行動するより、自分の能力や才能を必要されたときに行動するのが、うまくいくポイントです。よりよい状況で自分の能力を活かすために、日ごろから能力を適切に表現することと、自分らしくいられる状況を知っておくことが大切です。
-
-人のエネルギーを感じることができるので、人をまとめるのが上手です。サッカーに例えると攻撃と守備をつなげるミッドフィルダーの役割です。
-
-シグネチャー（自分らしいときの状態）：成功
-Not self（自分らしくないときの状態）：苦い思い
-ストラテジー（行動のカギ）：自分らしさを必要とされ、ステージを用意されるまで待つ
-
-リフレクター
-非常に稀なタイプで、その日によって違うタイプになります。
-この特性から、あらゆることにオープンで、様々な人を受け入れることができます。
-大切なことを決めるときは、月の周期（約1ヶ月）で見極めていきます。
-
-この特性を本人が知っているとうれしい驚きに満ちた日々になりますが、知らないと他の人との違いに失望してしまいがちです。サッカーで例えると、まさにゴールキーパー。とても重要なポジションでありながら他の人とは異なるルールで動きます。
-
-シグネチャー（自分らしいときの状態）：サプライズ（驚き）
-Not set（自分らしくないときの状態）：失望
-ストラテジー（行動のカギ）：重要なことは、月の周期（約1ヶ月）を待って決断する
-
-***
-
+# 4つのタイプ 〜行動基準～
 ヒューマンデザインでは４つのタイプがあり、それぞれのタイプには「シグネチャ―」と呼ばれる本来の自分を生きられている時に得られる感覚があります。
 マニフェスターは「平和」ジェネレーターは「満足」プロジェクターは「成功」リフレクターは「驚き」
 
@@ -99,12 +58,44 @@ Not set（自分らしくないときの状態）：失望
 プロジェクターであれば、成功をイメージして、「すべては上手くいっているなぁ〜」と感じてみたり。
 本来であれば、ストラテジーと呼ばれる行動指針に従って生きていけば、自然にそういう気持ちになっていくものなのですが、逆に、まず自分のシグネチャーを意識してみることも毎日いろいろなことが起こる人生では有効だったりします。
 
-￼
-￼
+- マニフェスター
+自ら行動できる人です。
+何をすればいいか既にわかっていて、自分で物事を決めて行動できます。その行動を成功させるポイントは、「あらかじめ周りに知らせること」です。知らせることでサポートを得られますが、知らせないとうまくいきません。こういったことから、行動力はありますが、実はもっとも消極的になりがちです。幼いころに行動を抑圧された経験があると、その傾向が強くなります。
+サッカーに例えると攻撃を担うフォワードです。積極的に行動するのがこのタイプの役割です。
 
-プロファイル（普段のライフスタイル）
+シグネチャー（自分らしいときの状態）：平和
+Not self（自分らしくないときの状態）怒り
+ストラテジー（行動のカギ）：行動する前に周りに知らせる
 
-***
+- ジェネレーター
+行動的になるとパワフルです。
+自分の仙骨にスイッチが入る（自分が前のめりになれる）と行動的になります。仙骨の反応（自分が前のめりになれる）に従って行動することが大切です。これをないがしろにして、頭だけで考えて行動すると、物事がうまく進まず欲求不満に陥ってしまいます。
+サッカーに例えると相手の攻撃に反応して、その攻撃を防ぐディフェンスの役割です。
+ジェネレーターはさらに「ピュア・ジェネレーター」と「マニフェスティング・ジェネレーター」に分かれます。この2つの違いは、「マニフェスティング・ジェネレーター」のほうが、より行動が速いことです。
+
+シグネチャー（自分らしいときの状態）：満足
+Not self（自分らしくないとさの状態）：欲求不満
+ストラテジー（行動のカギ）：気持ちが前のめりになるのを待つ
+
+- プロジェクター
+自分から行動するより、自分の能力や才能を必要されたときに行動するのが、うまくいくポイントです。よりよい状況で自分の能力を活かすために、日ごろから能力を適切に表現することと、自分らしくいられる状況を知っておくことが大切です。人のエネルギーを感じることができるので、人をまとめるのが上手です。
+サッカーに例えると攻撃と守備をつなげるミッドフィルダーの役割です。
+
+シグネチャー（自分らしいときの状態）：成功
+Not self（自分らしくないときの状態）：苦い思い
+ストラテジー（行動のカギ）：自分らしさを必要とされ、ステージを用意されるまで待つ
+
+- リフレクター
+非常に稀なタイプで、その日によって違うタイプになります。この特性から、あらゆることにオープンで、様々な人を受け入れることができます。大切なことを決めるときは、月の周期（約1ヶ月）で見極めていきます。
+この特性を本人が知っているとうれしい驚きに満ちた日々になりますが、知らないと他の人との違いに失望してしまいがちです。
+サッカーで例えると、まさにゴールキーパー。とても重要なポジションでありながら他の人とは異なるルールで動きます。
+
+シグネチャー（自分らしいときの状態）：サプライズ（驚き）
+Not set（自分らしくないときの状態）：失望
+ストラテジー（行動のカギ）：重要なことは、月の周期（約1ヶ月）を待って決断する
+
+# プロファイル（普段のライフスタイル）
+12のプロファイル - プロファイルでは、職場や友人関係、家族関係など、あなたの特性を活かした、人とのかかわり方や、人間関係において、あなたが求められている役割がわかります。
 意識/無意識
 
 1 研究
@@ -204,7 +195,7 @@ Not set（自分らしくないときの状態）：失望
 
 
 
-時代を乗り継げるのは、プロファイル1/3と4/6
+# 時代を乗り継げるのは、プロファイル1/3と4/6
 ￼
 1960年からずっと１番ライン(と４番ライン)の時代が続いてきました。それが2027年以降は、６番ライン(と３番ライン)の時代に入ります。そうするとプロファイル1/3は、今までの時代とは１番ラインで共鳴していましたし、これから先の時代も３番ラインとして調和できるでしょう。今までの時代的には基盤や権威者として合致し、これからの時代は試行錯誤や挑戦することで適応していくと。1/3は、時代が変わっても主流派になれるでしょう。
 
@@ -213,7 +204,7 @@ Not set（自分らしくないときの状態）：失望
 しかし無意識の肉体＝デザインは、３番ラインとして絆を断ち、６番ラインとしてよそよそしい距離感を保つことで心地良さを感じているはずです。プロファイル1/3と4/6の方は、是非その、意識的なマインドと、無意識の肉体のちぐはぐさを観察していただければと思います。
 
 
-定義
+# 定義
 定義型について
 ￼
 ヒューマンデザインでは、その人個人のエネルギーのまとまり方を「定義型(Difiniton)」という用語で表しています。「定義型」もその人の個性であり、場合によっては、自分の中に欠けている部分があると感じたり、それを必死に求めて不健康(Not Self)になる可能性もあります。また、人間関係にも大きく作用する可能性があります。ここでは「The Difinitive Book」の図例から、それぞれの「定義型」の特徴をご説明していきます。
@@ -252,7 +243,7 @@ Not set（自分らしくないときの状態）：失望
 このように定義型も、決断の早さ・遅さ、Not Selfのなりやすさ、ミッシングゲートへの執着度や、相手への執着度に表れます。特にシングル定義以外の皆さんには、意識していただきたい側面です。
 
 
-ストラテジーと権威
+# ストラテジーと権威
 【ヒューマンデザイン】ストラテジーと権威 - NO PLAN NOTE　
 ￼
 ヒューマンデザインでは、個人個人によって決断方法が違うとしています。仕事にしろ人間関係にしろ、迷った時に自分はどうやって決めれば良いのか、それを知っているだけで、人生の迷いが減りますし、生きるのが楽になるでしょう。
@@ -308,14 +299,14 @@ Not set（自分らしくないときの状態）：失望
 しかし「ストラテジーと権威」は、まだおおざっぱな分類に過ぎません。より細かく、あなた自身が正しく決断する時には、何を観点として、何を動機(モチベーション)として決断するのかも、ヒューマンデザインのレイヴ心理学では分析できます。たとえ感情の波がアップダウンしても、あなた個人の「観点と動機」はずっと固定されているので、結局そこへ戻ってくるはずなのです。そしてその「観点と動機」を生み出す脳機能を養うためには、その人に合った「食事と環境」が大事だと言われています。こういった詳細な知識は日本では公式に提供されていませんが、ご興味のある方は調べてみるのも面白いですよ。
 
 
-回路、チャネル、ゲート
+# 回路、チャネル、ゲート
 36のチャネルと回路
 ￼
 
 チャネルとは、９つのセンターを結ぶ、36種類のエネルギーの道です。２つのゲートがつながることで量子的飛躍が生み出され、ゲート２つを足したエネルギーよりも、圧倒的に強力なエネルギーが生まれます。チャネルとは、あなたの中にある安定した力であり、他人に対して押しつけている力です。
 また36のチャネルは、超個人的なインテグレーション、個人性(知識とセンタリング)、集合体(論理性と抽象性)、部族性(エゴとディフェンス)という回路群ごとにグループ化され、それぞれ共通するテーマを持っています。
  
-★★★インテグレーション★★★
+- インテグレーション
 　これに属する４つのチャネルは、自分を優先して生き延びるための個性です。
 34/20  カリスマ Charisma：仙骨反応を引き出してもらって発揮する
 　本当に自分のやりたいことで忙しくしている時、カリスマのように魅力的に見えます。働き者ほど魅力的に見えるということです。しかし忙しさのあまり、仙骨反応を確かめずに行動すると、どうでもいいことで忙しくなってしまいます。いずれにしろ、常に目の前のことで忙しく、外部のことに関わることができません。
@@ -327,7 +318,7 @@ Not set（自分らしくないときの状態）：失望
 　相手から招待された上で、自分のことを話すと、相手が感銘を受けて目を見開きます(覚醒する)。しかし招待されてもいないのに、自分のことばかりべらべら話すと、相手が退屈して眠ってしまいます(覚醒しない)。非常に印象的な話をするか、どうでもいい退屈な話をするかです。
  
  
-★★★個人性回路群★★★
+- 個人性回路群
 ★知識回路★
 　これに属する９本のチャネルは、周囲の人々の自立を促進します(エンパワー)。
 3-60 突然変異 Mutation：仙骨反応を引き出してもらって発揮する
@@ -358,7 +349,7 @@ Not set（自分らしくないときの状態）：失望
 　良くも悪くも『どうして自分だけこんな目に遭うんだろう？』という、幸運・不運な出来事を呼び下ろす、シャーマンや巫女のような力です。一番最初に精神世界に飛び込んで行こうとする、通過儀礼(イニシエーション)に立ち向かう勇気です。苦行のような人生を歩む勇気が、他のチャネルにも波及し、流れ込んでいきます。
  
  
-★★★集合体回路群★★★
+- 集合体回路群
 ★論理性回路★
 　これに属する７本のチャネルは、社会全体に対して、未来に向けた論理的なパターンを共有(シェア)します。
 9-52 集中力 Concentration：仙骨反応を引き出してもらって発揮する
@@ -392,8 +383,8 @@ Not set（自分らしくないときの状態）：失望
 　人生経験から得たアイデアや人生哲学や思想を、面白おかしく話して、他人を刺激します。素晴らしい人生の語り手であり、神話や民話の語り部、落語などもこの部類に入ります。また哲学家、思想家として、その信者を集めるとも言われています。しかし人生経験を集める上で、さまざまな苦労をする場合もあります。
 64-47 抽象 Abstraction：招待されてから発揮する
 　頭の中に、たくさんの過去の動画や画像が詰まっており、それを繋ぎ合わせることで、過去の人生経験の意味を理解します。また他人に対しても、過去の経験について考えるよう、プレッシャーを与えます。しかし過去の断片はどれも抽象的なため、いつも考えるのに忙しく、混乱することもあります。
- 
-★★★部族性回路群★★★
+
+- 部族性回路群
 ★エゴ回路★
 　これに属する５本のチャネルは、家族や仲間と支え合います(サポート)。
 19-49 総合体 Synthesis：招待されてから発揮する
@@ -415,14 +406,15 @@ Not set（自分らしくないときの状態）：失望
 　警官や弁護士、法律家のように、家族や仲間を保護し、存続させていく力です。子孫や弟子を育み、家族や仲間の生活水準を保つためのルールを持っています。また、59-6「交配」で結婚した相手との絆を、その先どうやって「保存」していくのか、直観的に相手を気遣うチャネルでもあります。
 
 
-インカーネーションクロス
-インカネーションクロス(転生の運命)：４つのクォーターについて
+# インカーネーションクロス
+- インカネーションクロス(転生の運命)：４つのクォーターについて
 
 インカネーションクロスは、あなたがこの世に転生してきた人生の目的です。と言っても、意識的にそれをやろうとするのではなく、自分らしく生きていると自然にそうなるものです。そして本来のクロスの上に、29歳前後のサターン・リターン(土星回帰・あなたを成熟させるプロセス)、42歳前後のウラヌス・オポジション(天王星半回帰・あなたを取り戻すプロセス)、50歳前後のキロン・リターン(小惑星キロン回帰・開花プロセス)で、その時期のクロスが重なり、それが組み合わさって、あなたの人生の物語となり、あなたの人生の神話となります。
 しかし、本人のマインド(思考)は、自分のインカネーションクロスに興味がありません。そのためリーディングでインカネーションクロスをお伝えすると『えっ、そんなことやりたくないんですけど？』とか『そんなことは無理です』と言われることも多いです。しかし嫌がっているのはマインドであって、実際そのテーマに取り組んでみると、満足や、成功や、平和や、驚きを感じられるでしょう。
 
 インカネーションクロスは、大きく４つの種類に分かれます。ホイール＝ホロスコープを４分割した「４つのクォーター」と呼ばれる領域に生まれることで、その人の大枠の目的が定まります。しかし人類の大半は、マインドによって『私は自分のクロスが好きじゃない、他のクロスをやりたい』と思い込み、本来の目的から外れて生きています。つまりインカネーションクロス的なNot Self(不健康)もあるのです。
 
+【ヒューマンデザイン】ライトアングルとレフトアングルの絆 https://takeoichikawa.hatenablog.com/entry/2020/11/18/200031
 ￼
 まず立春から始まる13番ゲート(水瓶座中盤生まれ)～24番ゲート(牡牛座中盤)生まれの人は、第１クォーター＝目に見えない精神世界が人生の大テーマとなります。この第１クォーター生まれの人たちは、精神、思考、感情、霊魂といった、目に見えない世界に関わることで人生の目的が果たされるでしょう。
 特に第１クォーター前半(13番～36番ゲート)生まれの人は「精神世界の抽象的な方向性」がテーマとなり、後半(25番～24番ゲート)生まれの人は「邪気を持たずに、無垢に精神世界に入る」ことがテーマとなります。
@@ -535,12 +527,8 @@ If your Incarnation Cross is a Juxtaposition Cross, you have a “Fixed” Life 
 
 Here is how to find which variation of your Incarnation Cross is the right one for your chart: 
 * The automated way. My chart calculator does differentiate between the four variations of Incarnation Crosses that have them.
-
-￼
-
 * Using your chart. You can calculate your chart on my website. Open your chart, and look for the Mind/Personality Sun symbol. It will be in the top right-hand corner: 
 
-￼
 
 The number there is the Gate number for the Incarnation Cross. For me, the Gate is 46. 
 Now that I know this, if I have a book that lists the Incarnation Crosses that lists them by Gate, I will look for Gate 46. Gate 46 will have multiple crosses, however it will only have one Right Angle Cross. In this case, it shows me the Right Angle Cross of the Vessel of Love 3, which is the correct one! 
@@ -597,7 +585,7 @@ First of all, always double-check your birthdate, time, and place on your chart 
 Secondly, it isn’t really fulfilled until you go through the de-conditioning process. Many of us have to heal our self-worth and release any old stories where we’ve internalized the message that it’s not okay for us to be who we are or how we are before we can connect with the true purpose of our Incarnation Cross.  
 To start reconnecting with the meaning of your Incarnation Cross, begin by living your life true to your Human Design Type.
 
-Quarters in the Incarnation Crosses 
+# Quarters in the Incarnation Crosses 
 The concept of quarters in Human Design’s Incarnation Crosses is rooted in the system’s underlying philosophy and structure. Here’s a more detailed explanation of why quarters exist and their significance:
 1. Hexagram Structure: The Human Design system is based on the I Ching, which consists of 64 hexagrams. These hexagrams are divided into four groups of 16, forming the basis for the four quarters.
 2. Evolutionary Cycle: The quarters represent a cyclical progression of human experience and evolution. They symbolize different stages of development, both for individuals and for humanity as a whole.
@@ -612,7 +600,7 @@ The quarters in Human Design crosses serve to organize and contextualize the com
 Incarnation Cross Names and Descriptions
 Once you’ve found your Incarnation Cross, it is worthwhile to learn more about the details of your specific cross. To help you do that, here are links to descriptions for each of the named right-angle, left-angle, and juxtaposition crosses (all 192 of them!)
 
-The Quarter of Initiation (Gates 1-8): 
+- The Quarter of Initiation (Gates 1-8): 
 This quarter is about beginnings, creativity, and identity. It deals with the spark of creation, self-expression, and the individual’s role in starting new cycles. People with crosses in this quarter often have a strong sense of self and a drive to initiate new projects or ideas.
 Right Angle Cross of The Sphinx 1 (13/7 | 1/2)
 Right Angle Cross of Explanation 1 (49/4 | 43/23)
@@ -663,7 +651,7 @@ Juxtaposition Cross of Mutation (3/50 | 41/31)
 Juxtaposition Cross of Caring (27/28 | 19/33)
 Juxtaposition Cross of Rationalization (24/44 | 13/7)
 
-The Quarter of Civilization (Gates 9-16): 
+- The Quarter of Civilization (Gates 9-16): 
 This quarter focuses on structure, organization, and the building of systems. It’s about how individuals interact with and contribute to society. Crosses here often relate to leadership, management, and the creation or maintenance of societal structures.
 Right Angle Cross of The Sphinx 2 (2/1 | 13/7)
 Right Angle Cross of Explanation 2 (23/43 | 49/4)
@@ -714,7 +702,7 @@ Juxtaposition Cross of Stimulation (56/60 | 27/28)
 Juxtaposition Cross of Influence (31/41 | 24/44)
 Juxtaposition Cross of Retreat (33/19 | 2/1)
 
-The Quarter of Duality (Gates 17-24): 
+- The Quarter of Duality (Gates 17-24): 
 This quarter deals with relationships, partnerships, and the interplay between opposing forces. It explores themes of love, intimacy, and how we relate to others. Crosses in this quarter often involve navigating personal relationships and finding balance between self and others.
 Right Angle Cross of The Sphinx 3 (7/13 | 2/1)
 Right Angle Cross of Explanation 3 (4/49 | 23/43)
@@ -765,7 +753,7 @@ Juxtaposition Cross of Values (50/3 | 31/41)
 Juxtaposition Cross of Risks (28/27 | 33/19)
 Juxtaposition Cross of Alertness (44/24 | 7/13)
 
-The Quarter of Mutation (Gates 25-32): 
+- The Quarter of Mutation (Gates 25-32): 
 This quarter is about transformation, evolution, and the unknown. It deals with pushing boundaries, exploring new territories (both literal and metaphorical), and facilitating change. Crosses here often involve themes of revolution, innovation, and spiritual evolution.
 Right Angle Cross of The Sphinx 4 (1/2 | 7/13)
 Right Angle Cross of Explanation 4 (43/23 | 4/49)
@@ -818,7 +806,7 @@ Juxtaposition Cross of Need (19/33 | 1/2)
 
 
 
-Right Angle Cross in Human Design
+- Right Angle Cross in Human Design
 Get Your Free Human Design Chart
 Quantum Human Design™ Workbook
 Professional Certification Training
@@ -1103,7 +1091,7 @@ To explore, learn, and teach about the power and importance of narrative and sto
 To use your natural sensitivity and intuition to be aware of where others may be settling and rationalize settling for less than what they want. To see the potential in others and to know how to change stories and narratives to support the fulfillment of potential. To help people stop playing small. To help others release the patterns and the pain of the past so they can better claim their true value and worth.
 
 
-Left Angle Cross in Human Design
+- Left Angle Cross in Human Design
 Human Design Chart
 Did you know that each of us has something called an Incarnation Cross in our Human Design chart? It’s like a special guiding light that illuminates our true life path. Exciting, right? But what exactly is it, and how can knowing about it help you right now? Well, let’s dive in and explore!
 Here’s the thing: there’s not a ton of information out there about Incarnation Crosses, even though they’re pretty significant. But don’t worry! This article is here to give you the basics and help you understand their power and importance.
@@ -1328,11 +1316,9 @@ To lead, teach, and inspire others to rewrite old narratives and reframe past ex
 
 Left Angle Cross of Incarnation 2 (44/24 | 7/13)
 To lead, teach, and inspire others to heal their self-worth and value story. To help others understand how to rewrite their personal narrative to reflect their true value, purpose, and worth. To help people break free from the patterns of the past that keep them stuck in old protective stories rooted in trauma. To help heal any trauma or trauma patterns that keep people settling and rationalizing receiving less than what they want and need. To support others in taking leadership in manifesting their dreams and cultivating a personal narrative that encompasses their true value and purpose. To help people change the direction of their lives by assisting them to heal their past and their old stories of limitation.
-
-Left Angle Cross of Individualism 
 ￼
 
-What is the Quarter of Mutation?
+# What is the Quarter of Mutation?
 If you were born in the Quarter of Mutation, your life has a special theme: ‘Purpose fulfilled through Transformation.’ It means that you will witness changes in your consciousness over time as you experience life from different perspectives as you grow older.
 Your journey is about exploring what truly matters to you without allowing interference from others. By fully committing yourself to whatever you do, you undergo personal transformation and discover your true spirit through dedicated pursuits. You have the opportunity to make the most of your life, and you may often contemplate the brevity of our human existence.
 
@@ -1394,7 +1380,7 @@ Left Angle Cross of Refinement 2 (19/33 | 1/2)
 To lead, teach, and inspire others to be relentlessly authentic with their self-expression. To help others realize that the path to true intimacy and sustainable partnership and community can only be achieved when all parties are being authentic and on purpose. To help people realize their true potential for support and community by helping them rewrite their old relationship stories and expectations so that their new personal narrative and expectations about relationships reflect their value and their values. To redefine old perspectives on compromise, community, and relationships by demonstrating that there is always a win-win solution.
 
 
-Channels
+# Channels
 Channels In Human Design – An Overview
 In Human Design, a “channel” connects two centers within your bodygraph, a visual representation used in this system. There are 36 different channels, each with a specific meaning and significance. In this article, we will explain how channels work and the different types of channels, and we will discuss each of the different channels and how they tend to influence your life.
 
@@ -1446,7 +1432,7 @@ To find your Human Design Gates you will need to have a copy of your Human Desi
 
 ヒューマンデザインゲートを見つけるには、ここで無料で入手できるヒューマンデザインチャートのコピーが必要です。チャートを実行するには、場所、出生日、時刻など、いくつかの基本的な情報が必要です。チャートを受け取ると、ボディグラフが表示されます。ボディグラフは、あなたが持っているチャンネルを示します。
 
-Circuits in Human Design 
+# Circuits in Human Design 
 It is easy to get overwhelmed with all of the information in our BodyGraphs. First and foremost, always refer back to your Human Design type and profile. After you consider your type, and profile, look at your centers because the centers themselves form your individual life force energy. 
 Centers and gates create your channels which route the energy from your centers like an electrical circuit. 
 There are three main circuits: Individual, Tribal, and Collective. These three circuits contain several sub-circuits: Integration, Centering, Knowing, Defense, Ego, Logic, and Sensing. 
@@ -1454,16 +1440,14 @@ There are three main circuits: Individual, Tribal, and Collective. These three c
 ボディグラフのあらゆる情報に圧倒されてしまうのは簡単です。まず第一に、ヒューマン デザインのタイプとプロファイルを常に参照してください。タイプとプロファイルを検討した後、センターに注目してください。センター自体が個人の生命力エネルギーを形成するからです。センターとゲートは、電気回路のようにセンターからエネルギーをルーティングするチャネルを作成します。メイン回路は、個人、部族、集合の 3 つです。これらの 3 つの回路には、統合、センタリング、認識、防御、自我、論理、感知といういくつかのサブ回路が含まれています。
 
 
-Individual Circuitry (The Transformation Circuit)
+- Individual Circuitry (The Transformation Circuit)
 If you have Individual Circuitry, you are here to metamorphosis and develop the world around you. This energy was the first to develop in human evolution because it ensures survival. You are here to be unique which will lead you to a life as a lone wolf. Being an outsider allows you to see what the group needs in order to survive and thrive. Your community will utilize your innovative and unique ideas, but you will not be the one to implement them- leave the doing to those with the Tribal Circuit.
 個人回路 (変容回路)
 個人回路を持っている場合、あなたは変身し、周囲の世界を発展させるためにここにいます。このエネルギーは、生存を保証するため、人類の進化において最初に発達しました。あなたはユニークになるためにここにおり、それがあなたを一匹狼としての人生へと導きます。部外者であることで、グループが生き残り、繁栄するために何が必要かがわかります。あなたのコミュニティはあなたの革新的でユニークなアイデアを活用しますが、それを実行するのはあなたではありません。実行は部族回路を持つ人々に任せてください。
 ￼
-
-
 Individual Circuitry contains two sub-circuits. The Knowing Circuit holds a deep all-knowing truth. This knowledge is not based on perception, but on universal truths. The Centering Circuit is all about self-love and individuality. 
 
-Tribal Circuitry (The Sustainability Circuit)
+- Tribal Circuitry (The Sustainability Circuit)
 Those with Tribal Circuitry are here for the people of the world. This Circuit places the needs of the many over their own needs. You are emotional, caring, and nurturing. If you are considered touchy-feely you probably have the Tribal Circuit and you need to physically engage with others. 
 部族的回路 (持続可能性回路)
 部族的回路を持つ人は、世界の人々のためにここにいます。この回路は、多くの人々のニーズを自分のニーズよりも優先します。あなたは感情的で、思いやりがあり、養育的です。あなたが感情的だと考えられるなら、あなたはおそらく部族的回路を持っており、他の人と物理的にかかわる必要があります。
@@ -1478,10 +1462,8 @@ If Darwinism had a Circuit it would be the Collective Circuit. This circuit prot
 集合回路 (シナジー回路)
 ダーウィニズムに回路があるとすれば、それは集合回路でしょう。この回路は、集合回路を持つ者がパターンを感知できるようにする論理と感覚を含んでいるため、人類を保護します。太陽や星の動きについて考え、それが天然資源の可用性にどのような影響を与えるかを考えてみましょう。理解のサブ回路は、論理的思考、仮説のテスト、パターンの識別を可能にします。感知回路は、その論理的思考を抽象化し、歴史から学ぶことを可能にします。
 
-￼
 
-
-The Integration Circuit Channels (The Unifying Circuit)
+- The Integration Circuit Channels (The Unifying Circuit)
 Integration is a very complex and difficult circuit in that it truly embodies the energy of the soul of humanity. It is a deeply esoteric circuit and one of the more difficult ones to understand. Integration is intuitive, powered by life force, and driven by identity. When hominids first came into form, they expressed only with the Integration Circuit. The theme of Integration is the phrase “I Am.” The job of the Integration Circuit is to develop awareness of the self as differentiated from others and conscious in our form.
 
 When we are not in our bodily form, we exist as formless, undifferentiated unity. It is in human form that we experience the illusion of being separate and define ourselves by our uniqueness. We perceive ourselves to be separate human beings– not a unified whole. This is the power of the human experience. Through perceiving ourselves as separate, we are separate not only from each other, but from God. We seek enlightenment, and it is through the Integration circuitry that we are simultaneously separated and awakened to unity.
@@ -1538,7 +1520,7 @@ Channel 20/10, the channel of awakening, is the last channel to evolve in the ev
 
 
 
-Centering Circuit Channels (The Calibration Circuit)
+- Centering Circuit Channels (The Calibration Circuit)
 The Centering Circuit is considered a minor circuit. It has only two channels, but they are very compelling. Two of its three centers are motors, the Sacral Center and the Will Center. The Centering Circuit acts as a vortex. People who are drawn into the energy vortex of the Centering Circuit are influenced to act more individually, regardless of their own definition. The Centering Circuit is a mutative force, ultimately designed to initiate others in the love of self and Spirit, and it will use life force energy (Sacral energy) to make it happen.
 
 センタリング サーキット チャネル (キャリブレーション サーキット)
@@ -1559,7 +1541,7 @@ Channel 25/51 is mystical. Notice that this is a totally projected channel. You 
 チャネル 25/51 は神秘的です。これは完全に投影されたチャネルであることに注意してください。イニシエーションを受けるために何かをする必要はありません。人生があなたをイニシエートします。このチャネルでのイニシエーションは意志に基づいています。25/51 の意志力は、従来の意味での意志力ではなく、イニシエーションを生き残る意志を持つことに関するものです。イニシエーションは衝撃的で、人生を劇的に変えるものであり、もちろん予期せぬものになることがあります。しかし、ここでのイニシエーションは常に個人をスピリットに近づけることに関するものです。
 
 
-Knowing Circuit Channels (The Gnostic Circuit)
+- Knowing Circuit Channels (The Gnostic Circuit)
 The Knowing Circuit is the last of the Individual Circuits. It is the only Individual Circuit that is designed for transmission and implementation rather than experiencing, as we saw with the Integration and Centering Circuits. The Knowing Circuit mutates the tribe and the collective when the timing is right. Timing is everything in the Knowing Circuit. In this circuit we see both centers for time: the Spleen, which is about the now and right action when the timing is right, and the Emotional Solar Plexus, which is about the energy for expression after taking time for clarity.
 
 The Knowing Circuit also contains struggle. Mutation has to struggle to take hold in the tribe or the collective. Think about this, without the struggle to create meaning, we would be riddled with useless and possibly dangerous mutations that don’t serve people. A worthwhile mutation has to struggle against the status quo to prove its effectiveness.
@@ -1691,7 +1673,7 @@ If the mood is right, then this energy is heard and can be quite transformative.
 気分が良ければ、このエネルギーは聞き入れられ、かなり変革をもたらすことができます。しかし、このエネルギーを持つ人が気分が良くないときにコミュニケーションを取ろうとすると、怒っているように聞こえることがよくあります。ここには怒りの可能性があります。また、優美さと魅力もあります。12/22 は、適切な気分になるまで待つように設計されており、その後、情熱、美しさ、優美さなどを表現し、周囲の人々に深く影響を与えます。個人プロセスのテーマは表現です。個人は、自分について新しくてユニークな点を表現するのに苦労します。議論の対象となるパラダイムがなければ、変化をもたらすのは困難です。
 
 
-Defense Circuit Channels (The Nurture Circuit)
+- Defense Circuit Channels (The Nurture Circuit)
 The Defense Circuit is the energy that sustains life on this planet. Rooted in this circuitry is the actual act of sex, sexuality, bonding, raising children, fighting, and, of course, defending. Providing resources for the tribe, as well as values, rules, laws, responsibility, and cooking are also attributed to this circuit.
 
 The Defense Circuit is the glue that binds the family and the tribe together. It is one of the seats of love in the chart. The love of the defense circuit is wild and powerful, the kind of love that gives mothers superhuman strength and that makes men go to war.
@@ -1741,7 +1723,7 @@ This is also the energy of the court system, fairness, and rules. It is not emot
 
 
 
-Ego Circuit Channels (The Economic Circuit)
+- Ego Circuit Channels (The Economic Circuit)
 The Ego Circuit contains the Emotional Solar Plexus, the Will Center, and the Root. It is creativity and bringing forth agreement into material form when the timing is correct. The Ego Circuit, like the Defense Circuit, has specific aspects that require time for clarity. Tribal circuitry is all about maintaining and sustaining the tribe for generations, and the Ego Circuit provides the resources and agreements that create the foundation of the tribe.
 
 In the Ego Circuit, we find the energy for ambition, business, sales, money, and resource allocation and management, as well as the energy for marriage, social contracts, and bargains. The parts of the Ego Circuit that have to do with ambition, initiation of business ideas, sales, and resource management are not emotional. But the parts of the Ego Circuit that are about tribal agreements, such as marriages and business deals, are emotional. Again, don’t jump into anything related to relationships, especially a potentially long-term one, without waiting for clarity. Otherwise, you have the potential for revolution and war.
@@ -1815,7 +1797,7 @@ A treasurer (Gate 21) without a king or queen (Gate 45) is a control freak, and 
 王または女王 (ゲート 45) のいない財務官 (ゲート 21) はコントロール フリークであり、財務官のいない王または女王は単に美しい名目上の人物です。このエネルギーが人間関係で一緒になる場合、お金をどのように、いつ使うかなど、リソースをめぐる争いが頻繁に発生します。ゲート 45 とゲート 21 がお互いを認識している場合、このチャネルのエネルギーは強力になります。
 
 
-Logic Circuit Channels (The Pattern Circuit)
+- Logic Circuit Channels (The Pattern Circuit)
 The Logic Circuit contains two motors, the Root Center and the Sacral. It is a Generator circuit, so we see within it the theme of mastery. Mastery only happens over time with repetition and correction.
 
 The Logic Circuit starts with suspicion and doubt (“Can this be true?”), followed by inspired ideas and a hypothesis that, throughout the course of the circuitry, must be proven to be correct and patterned over time. Once the hypothesis is proven to be correct, it is shared with the Collective through leadership in the Alpha channel (7/31).
@@ -1936,7 +1918,7 @@ The ultimate expression of humanity in groups is democracy, and the 7/31 will be
 グループにおける人間性の究極の表現は民主主義であり、7/31 は他の人から呼び出されます。これは、グループの人々が自分たちで統治することに同意した結果生じるリーダーシップのエネルギーです。もし7月31日を掲げる誰かがリーダーシップを強制しようとすれば、それは論理的でない革命と新体制をもたらすことになる。それは時の試練に耐えられず、結果的に論理からやり直し、自らが効果的であることを「証明」しなければならない。さもなければ、打倒されることになるだろう。
 
 
-Sensing Circuit Channels (The Miracle Circuit)
+- Sensing Circuit Channels (The Miracle Circuit)
 The Sensing Circuit is the second part of the Collective circuitry. The Sensing Circuit gets its energy from the Root, the Sacral, and the Emotional Solar Plexus. This circuit is all about telling stories about the past and incorporating new experiences into the bigger story of humanity.
 
 The Sensing Circuit is holistic, right-brained, sensual, and experiential. Epiphanies, great understanding, aha moments, and curiosity are contained here. Because most of this circuit is about new experiences, and curiosity, there is potential for “unrooted” daydreaming and chaos if you don’t follow your strategy with this circuit. Luckily, there are other circuits to ground the daydreams of the Sensing Circuit and bring the ideas generated here into form.
@@ -2076,7 +2058,7 @@ But there is also impulsive and crazy energy living in this channel. Desires tha
 しかし、このチャネルには衝動的でクレイジーなエネルギーも存在します。適切なタイミングを待たずに表現された欲望は、時には人を傷つけ、危険で、破壊的なものになることがあります。もちろん、このエネルギーの暗い側面からも物語が語られます。このエネルギーを持つ人が退屈したり、うんざりしたりすると、物事に飛び込んだり、思い切って新しいライフスタイルに飛び込んだりして、混乱を引き起こすことがあります。これは、新しいものに飽きるまで常に次の新しいものを求める落ち着きのなさです。
 
 
-Putting It All Together
+- Putting It All Together
 Human Design is a complex system, filled with all kinds of details and information. It’s easy to be seduced by all the intricate elements of your chart and to miss the bigger message hidden in that amazing triangle.
 
 While each piece of Human Design is fascinating, powerful, and intriguing, just like each one of you. The real beauty of the system lies in its simplicity. Be yourself. Follow your decision-making strategy according to your type, and you will not only discover who you truly are but you will be perfectly aligned with a life that is an authentic manifestation of your soul’s purpose in this incarnation.
@@ -2499,88 +2481,55 @@ Last Modified: 2024-10-05 03:45:25
 
 2. ラインの基本説明
 
-2.1. 1ライン
+- Line 1 
 1ラインは主役の6本のラインで一番下にあるラインだ。
-
 主役の一番下線にあるだけに、基礎、基盤を固めようとし安全を追求するラインだ。
-
 安全を追求し、基礎基盤を固めようとすると、勉強や研究をたくさんするラインでもあります。
-
 だから1行が多いかPsun[1] 値が1行の人またはDsun[2] この1ラインの人々は他人たちが見るに彼らは完全に一生懸命勉強し、知ることが多いと思うが。 いざ本人はあまり知らず、まだもっと発展しなければならないと思うことが多い。
-
 ゲートでこのライン値を持っていれば、このラインの基礎を固めることを意識または無意識的にしている。
 
-2.2. 2ライン
+- Line 2 
 2行はそのゲートの値を本人も知らずに知っているという意味だ。
-
 1ラインで勉強と研究を終えたが、彼らは1ラインとは違って人々に本人が知っている理論を 説明するために勉強を熱心にする人々だ。
-
 だから2ラインはああ、間違っているのに..ああそれを言葉で説明できないだろう..なんだ..こんな場合にかなりたくさん向き合うことになる。
-
 彼らは基本的に隠者の気質を持っていますが、他人のオーラに入ることを不快にし、世界から出ることをあまり好きではありません。
-
 彼らの天才的な才能が書かれるには、本人が直接出て行なうよりも、本人の目的に合ったどんなものに招待を受けていくのが、彼らにとってはもう少し有利である。
-
 2ラインがゲート値にあると、このライン値について既に知っており、このライン値に対して天才的な才能が明らかになる。
 
-2.3. 3ライン
+- Line 3 
 ３ラインはこれまで磨き上げた理論を試行錯誤するラインだ。
-
 彼らは失敗が日常的であり、しばしばウダン糖湯をかける。
-
 だから他の人が彼らをよく間違える人のように見えるかもしれませんが、彼らは間違いと失敗をすることで経験値を積んで発展する人々なのです。
-
 だから3行が多いか、3行がメインな人は。 本人がミスと試行錯誤をたくさんするからといってジュンクドゥル必要はない。
-
 これらはミスと試行錯誤をすることで成長するからだ。
-
 ３番ラインがゲート値にあれば、そのライン値に対してあれこれ試行錯誤を経験しながら経験値を積んでいる。
 
-2.4. 4ライン
+- Line 4 
 4ラインは人々とコミュニケーションしながら関係網を作るのに先天的な才能を持っている。
-
 彼らが本人の戦略と決定権に合うようによく生きているなら、本人が特に努力しなくても、本人に合う人ネットワークがよく形成されているだろう。
-
 4ラインがメインの人々は、見知らぬ人よりも本人でおなじみの人々にもっと影響力を及ぼすことができる。
-
 そのため、見知らぬ人は、できるだけ軽い出会いを持って、本人の関係網に形成された人々に自分をアピールするのが良い。
-
 4ラインがゲートにいると、このゲートのテーマを人々と共有しながら生きていくことになる。
 
-2.5. 5ライン
+- Line 5 
 5行はソルバーです。 1ラインで研究し、3ラインで試行錯誤を経験したので、5ラインで人々に本人の知恵を踏み出して知恵と知識を伝達してくれる。
-
 ５ラインは、本人が知る知識で人々に知識を伝えたり統治することもできる。
-
 5ラインがメインの人々は人々の期待を一身に受けることが多い。
 それで、私は何もせずに静かにいましたが、人々が期待し、人々が失望する現象を経験するでしょう。
 このような現象のため、本人ができることをよく把握し、提供できるものだけを提供しなければならない。
-
 5ラインは人々が本人の実際の状態より過大評価することが多いので、見知らぬ人に本人をアピールするのが良い。
-
 5ラインがゲートにあると、そのゲートの問題をうまく解決しようとする傾向がある。
 
-2.6. 6ライン
+- Line 6 
 6ラインは一番上ですべての経験を体験し、初めて屋根の上に上がってすべてを観察するラインだ。
-
 30歳以前までは3ラインで暮らし、経験値を積み重ね、30～50歳の期間には屋根に上がり、すべてを観調して50歳になると屋根から降りてくる。
-
 若干これらは新鮮な感じで、幼い頃に多くの試行錯誤を経験して屋根の上に上がって人々を見物するそのようなポジションであるラインだ。
-
 ゲートがこのラインであれば、30歳以前まではそのゲートに対して試行錯誤を経て、後には管轄することができる。
 
 3. プロフィール
 プロファイルはPSunのライン値/ DSunのライン値です。
-
-簡単に説明すると、
-
-もし本人が黒い太陽が58.1で、赤い太陽が18.3だとしましょう。
-
-それで私のプロフィールは3分の1になります。
-
-人によって体感程度が違うが、それでもチャートで多くの部分を占めるから
-
-ヒューディを勉強するには、プロファイルを知っておくことをお勧めします。
+簡単に説明すると、もし本人が黒い太陽が58.1で、赤い太陽が18.3だとすると、プロフィールは1/3になります。
+人によって体感程度が違うが、それでもチャートで多くの部分を占めるからHDを勉強するには、プロファイルを知っておくことをお勧めします。
 
 3.1. 1/3
 意識が1ラインで無意識が3ラインだ。
@@ -5527,7 +5476,7 @@ Gate 64
 [1] https://www.jovianarchive.com/Special_Offers/404/Incarnation_Crosses_by_Profile
 
 
-ヒューマンデザイン/PHS
+# ヒューマンデザイン/PHS
 Last Modified: 2024-11-21 10:44:59
 
   親文書：ヒューマンデザイン
@@ -5584,30 +5533,21 @@ Primary Health System
 このチャートのデザインサンアスのColorは5、Toneの値は4です。
 このチャートのデザインノードのColorは1で、Tone値は6になります。
 
-2. 食事法
+# Body and Nutrition - 食事法
 ￼
-Tone 1,2,3	Left	
-Tone 4,5,6	Right	
-デザインサンアスカラー				
-Left	color		Right	
-direct 
-(直接)	6 ライト(Light)		indirect 
-(間接)	
-high 
-(高)	5 音(Sound)		low 
-(低)	
-calm 
-(静かな)	4タッチ（タッチ）		Nervers 
-（気を散らす）	
-Hot 
-(暑さ)	3 喉の渇き		Cold 
-(冷たい)	
-Open 
-(オープン)	2 味覚(Taste)		Closed 
-(閉じた)	
-Consecutive 
-(連続)	1 食欲(Appetite)		Alternating 
-(シフト)	
+Tone 1,2,3 = Left	
+Tone 4,5,6 = Right	
+
+- デザインサンアスカラー				
+|Left |	color |		Right	|
+|------|----------|----------|
+|direct	|	6 (Light)	|	indirect	|
+|high	|	5 (Sound)	|	low	|
+|calm	|	4（Touch）	|	Nervers	|
+|Hot	|	3 (Thurst)	|	Cold |
+|Open	|	2 (Taste)	|	Closed 	|
+|Consecutive	|	1 食欲(Appetite)	|	Alternating |
+
 あなたがデザインサンアスのカラー値が6で、デザインサンアストーンの値が2であれば
 私の食事はLight - directです。
 ところが会話してみると、減ってdirectと呼びますし、あえてlightという言葉をつけないことも多いです。
@@ -5717,7 +5657,7 @@ Tasteの食事法を持っている人は、さまざまな食べ物を食べる
 一部の人々は夜食が悪いと言いますが、彼らにとっては例外です。 彼らにとって夜食はとても良いです。
 彼らが実験するとき、夜食を食べてすぐに寝ても大丈夫か、自然光と人工光がどの程度ある状態で食事をすれば大丈夫か、などを実験してみることをお勧めします。
 
-3. 環境
+# Environment - 環境
 
 Tone 1,2,3	Left	
 Tone 4,5,6	Right	
