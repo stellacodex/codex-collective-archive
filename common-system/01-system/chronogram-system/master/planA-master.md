@@ -30,16 +30,16 @@
 ---
 
 ## リンク構造
-- [HD Core 構造基礎](./database/hd-core.md)
-- [HD プロファイル詳細](./database/hd-profile-deep.md)
-- [HD 4変数と環境](./database/hd-variable.md)
-- [Gene Keys mapping](./database/hd-gene-keys.md)
-- [性的傷と関係性構造](./database/hd-sexual-wound.md)
-- [HD 全体構造（01基礎）](./database/database-hd-01-fandamentals.md)
-- [HD 発展構造（02変数・PHS）](./database/database-hd-02-compatibility.md)
-- [HD オーソリティ解説](./database/hd-authority.md)
-- [HD チャンネル一覧](./database/hd-channels.md)
-- [HD 定義タイプと解釈](./database/hd-definition.md)
+- [HD 全体構造（01基礎）](https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/database/database-hd-01-fandamentals.md)
+- [HD 発展構造（02変数・PHS）](https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/database/database-hd-02-compatibility.md)
+- [HD Core 構造基礎](https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/database/hd-authority.md)
+- [HD プロファイル詳細](https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/database/hd-profile-deep.md)
+- [HD 4変数と環境](https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/database/hd-variable.md)
+- [Gene Keys mapping](https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/database/hd-gene-keys.md)
+- [性的傷と関係性構造](https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/database/hd-sexual-wound.md)
+- [HD オーソリティ解説](https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/database/hd-authority.md)
+- [HD チャンネル一覧](https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/database/hd-channels.md)
+- [HD 定義タイプと解釈](https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/database/hd-definition.md)
 
 
 ## 使用条件
