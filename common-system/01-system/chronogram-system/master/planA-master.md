@@ -32,14 +32,14 @@
 ## リンク構造
 - [HD 全体構造（01基礎）](https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/database/database-hd-01-fandamentals.md)
 - [HD 発展構造（02変数・PHS）](https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/database/database-hd-02-compatibility.md)
-- [HD Core 構造基礎](https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/database/hd-authority.md)
-- [HD プロファイル詳細](https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/database/hd-profile-deep.md)
-- [HD 4変数と環境](https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/database/hd-variable.md)
-- [Gene Keys mapping](https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/database/hd-gene-keys.md)
-- [性的傷と関係性構造](https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/database/hd-sexual-wound.md)
-- [HD オーソリティ解説](https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/database/hd-authority.md)
-- [HD チャンネル一覧](https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/database/hd-channels.md)
-- [HD 定義タイプと解釈](https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/database/hd-definition.md)
+- [HD Core 構造基礎](https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/database/hd-01-core.md)
+- [HD プロファイル詳細](https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/database/hd-02-profile-deep.md)
+- [HD 4変数と環境](https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/database/hd-03-variable.md)
+- [Gene Keys mapping](https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/database/hd-04-gene-keys.md)
+- [性的傷と関係性構造](https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/database/hd-05-sexual-wound.md)
+- [HD オーソリティ解説](https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/database/hd-06-authority.md)
+- [HD チャンネル一覧](https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/database/hd-07-channels.md)
+- [HD 定義タイプと解釈](https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/database/hd-08-definition.md)
 
 
 ## 使用条件
