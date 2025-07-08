@@ -35,6 +35,12 @@
 - [HD 4変数と環境](./database/hd-variable.md)
 - [Gene Keys mapping](./database/hd-gene-keys.md)
 - [性的傷と関係性構造](./database/hd-sexual-wound.md)
+- [HD 全体構造（01基礎）](./database/database-humandesign-01.md)
+- [HD 発展構造（02変数・PHS）](./database/database-humandesign-02.md)
+- [HD オーソリティ解説](./database/hd-authority.md)
+- [HD チャンネル一覧](./database/hd-channels.md)
+- [HD 定義タイプと解釈](./database/hd-definition.md)
+
 
 ## 使用条件
 - 本Planでは記載された定義に**忠実な読み取りのみ許可**され、創作や直感的な補完は不可。
