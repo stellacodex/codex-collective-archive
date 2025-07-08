@@ -1,5 +1,5 @@
 # 🔮 Plan A Master — Human Design中核モード
-
+。
 ## 概要
 このファイルは、Chronogram SystemにおけるPlan Aの起動中核です。Human Designによる詳細解析を発動するコアモジュールとして、以下の構造ファイルを統合的に読み込みます。
 
@@ -35,8 +35,8 @@
 - [HD 4変数と環境](./database/hd-variable.md)
 - [Gene Keys mapping](./database/hd-gene-keys.md)
 - [性的傷と関係性構造](./database/hd-sexual-wound.md)
-- [HD 全体構造（01基礎）](https://github.com/stellacodex/codex-collective-archive/blob/main/common-system/01-system/codex-system/codex-prompts/02-contextual-filters/02-esoteric-filters/database/database-hd-01-fandamentals.md)
-- [HD 発展構造（02変数・PHS）](https://github.com/stellacodex/codex-collective-archive/blob/main/common-system/01-system/codex-system/codex-prompts/02-contextual-filters/02-esoteric-filters/database/database-hd-02-compatibility.md)
+- [HD 全体構造（01基礎）](./database/database-hd-01-fandamentals.md)
+- [HD 発展構造（02変数・PHS）](./database/database-hd-02-compatibility.md)
 - [HD オーソリティ解説](./database/hd-authority.md)
 - [HD チャンネル一覧](./database/hd-channels.md)
 - [HD 定義タイプと解釈](./database/hd-definition.md)
