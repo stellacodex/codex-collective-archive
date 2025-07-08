@@ -1,4 +1,4 @@
-metaphysical-profile-takeo-yamada
+#### metaphysical-profile-takeo-yamada-ziwei
 
 名前：山田　岳男（やまだ　たけお）
 生年月日：1976年12月8日
@@ -9,7 +9,7 @@ metaphysical-profile-takeo-yamada
 時支:丑
 陰陽: 陽男 / 五行局：木三局
 
-紫微斗数
+## 紫微斗数
 命宮/戌/戊/大3：太陰星（自化権）/天空星/天姚星
 兄弟宮/酉/丁/大113：天府星/文昌星/天鉞星/化科星
 夫妻宮/申/丙/大103：龍池星

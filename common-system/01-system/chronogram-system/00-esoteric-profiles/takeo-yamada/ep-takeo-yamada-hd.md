@@ -1,4 +1,4 @@
-metaphysical-profile-takeo-yamada
+#### esoteric-profile-takeo-yamada
 
 名前：山田　岳男（やまだ　たけお）
 生年月日：1976年12月8日
@@ -9,7 +9,7 @@ metaphysical-profile-takeo-yamada
 時支:丑
 陰陽: 陽男 / 五行局：木三局
 
-Human Design:
+### Human Design:
 ⭐️Rave Chart
 
 # Rave Chart

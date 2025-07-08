@@ -1,4 +1,4 @@
-metaphysical-profile-takeo-yamada
+#### metaphysical-profile-takeo-yamada-intg
 
 名前：山田　岳男（やまだ　たけお）
 生年月日：1976年12月8日
@@ -9,7 +9,7 @@ metaphysical-profile-takeo-yamada
 時支:丑
 陰陽: 陽男 / 五行局：木三局
 
-Human Design:
+## Human Design:
 5/1, Manifester
 Strategy:Inform about your intensions
 Authority:Emotional
@@ -28,7 +28,7 @@ Environment:Design Lunar Nodes, Right Environment, Color 3/Tone 5/Base 1
 Living Environment:Kitchens/Dry kitchens
 Defined Centres:Throat/G/Solar Plexus
 
-MBTI
+## MBTI
 ENTJ-A, sometimes INTJ-A
 
 紫微斗数
@@ -46,7 +46,7 @@ ENTJ-A, sometimes INTJ-A
 父母宮/亥/己/大13：鈴星/紅鸞星/天魁星/貪狼星（自化権）/廉貞星/化忌星
  ●丑未刻生まれ…何事をするにも自分の趣味や価値観が最優先
 
-数秘術:
+## 数秘術:
 TAKEO YAMADA
 ライフパス　7
 過去数　8
@@ -56,7 +56,7 @@ TAKEO YAMADA
 ハート数　6
 実現数　5
 
-マヤ暦:
+## マヤ暦:
 KIN番号　54
 銀河の音　2
 鏡の向こうKIN 207
@@ -71,7 +71,7 @@ KIN番号　54
 類似KIN 白い世界の橋渡し
 神秘KIN 黄色い星
 
-九星気学
+## 九星気学
 本命星	六白金星　年盤 (丙辰)　1976年
 月命星	四緑木星　傾斜(年)：兌宮　月盤 (庚子)　12月
 日命星	三碧木星　傾斜(月)：乾宮　日盤 (甲午)　8日
