@@ -3,8 +3,37 @@
 ## ❗️このガイドの目的
 
 GitHubリポジトリを「復旧（＝ローカルの状態と強制同期）」または「完全リセット（＝構成・履歴の初期化）」したいときに使う、包括的な操作マニュアル。
-
 ローカルとの齟齬、不要な履歴、GitHub Pages上のゴミ構造── そんな“積もったノイズ”を整え、ふたたび綺麗な構成で記憶を刻み直すためのプロセス。
+
+---
+## ローカルファイルの通常同期（ワンライン）
+
+```bash
+# ① 全 .DS_Store を削除
+git add -A && git commit -m "chore: sync local changes" && git pull --rebase && git push    
+
+⚠️ エラーメッセージ
+fatal: bad object refs/remotes/origin/main 2
+error: https://github.com/stellacodex/codex-collective-archive.git did not send all necessary objects
+
+ローカルとリモートの参照情報が壊れている
+もしくは一部のオブジェクトが欠落して push が失敗している
+
+🩹 ✨ 対処ステップ
+1️⃣ リモートの参照をリセット
+git remote prune origin
+これで不要なリモート参照を整理するよ。
+
+2️⃣ ローカルの参照情報をリセット
+git fetch --all
+3️⃣ リモートとの差分を確認
+git status
+ここで「Your branch is ahead...」などが表示されたら、そのまま push してOK。
+
+4️⃣ 改めて push
+git push --force
+
+```
 
 ---
 
