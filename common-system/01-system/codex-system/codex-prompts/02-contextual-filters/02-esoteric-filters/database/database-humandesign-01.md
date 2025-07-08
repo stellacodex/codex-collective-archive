@@ -2124,7 +2124,7 @@ Category
 5.7. メンタルプロジェクター（権限なし）
 5.8. 月の権威（権威なし）
 6. 9センター
-7. プロフィール
+7. プロファイル
 8. チャンネル＆ゲート
 9. 回路
 10. クォーター
@@ -2431,7 +2431,7 @@ Gセンターに接続されているエゴセンターは、セルフプロジ�
   サブドキュメント:ヒューマンデザイン/9センター
 ヒューマンデザイン/9センター文書を参照。
 
-7. プロフィール
+7. プロファイル
   サブドキュメント:ヒューマンデザイン/プロファイル
 ヒューマンデザイン/プロファイル文書を参照してください。
 
@@ -2458,7 +2458,7 @@ Gセンターに接続されているエゴセンターは、セルフプロジ�
 
 1. 概要2. ラインの基本説明
 2.1. 1ライン2.2. 2ライン2.3. 3ライン2.4. 4ライン2.5. 5ライン2.6. 6ライン
-3. プロフィール
+3. プロファイル
 3.1. 1/33.2. 1/43.3. 2/43.4. 2/53.5. 3/53.6. 3/63.7. 4/63.8. 4/13.9. 5/13.10. 5/23.11. 6/23.12. 6/3
 
 
@@ -2471,7 +2471,7 @@ Last Modified: 2024-10-05 03:45:25
 だから表現方式も主役して全く同じで、64괘の意味も似ている。
 
 象牙は上にある罫を意味し、4,5,6ラインを言うもので、ハグは下にある罫を意味し、1,2,3ラインを言うのだ。
-プロフィール	
+プロファイル	
 右側角	1/3,1/4,2/4,2/5,3/5,3/6,4/6
 並歯角	4/1
 左角	5/1,5/2,6/2,6/3
@@ -2526,9 +2526,9 @@ Last Modified: 2024-10-05 03:45:25
 若干これらは新鮮な感じで、幼い頃に多くの試行錯誤を経験して屋根の上に上がって人々を見物するそのようなポジションであるラインだ。
 ゲートがこのラインであれば、30歳以前まではそのゲートに対して試行錯誤を経て、後には管轄することができる。
 
-3. プロフィール
+3. プロファイル
 プロファイルはPSunのライン値/ DSunのライン値です。
-簡単に説明すると、もし本人が黒い太陽が58.1で、赤い太陽が18.3だとすると、プロフィールは1/3になります。
+簡単に説明すると、もし本人が黒い太陽が58.1で、赤い太陽が18.3だとすると、プロファイルは1/3になります。
 人によって体感程度が違うが、それでもチャートで多くの部分を占めるからHDを勉強するには、プロファイルを知っておくことをお勧めします。
 
 3.1. 1/3
@@ -2561,7 +2561,7 @@ Last Modified: 2024-10-05 03:45:25
 
 彼らの無意識は現実的な問題を解決し、権力と名声を追求することができる。
 
-本人が一人で磨いた才能を見慣れて、初めて見る人にアピールするのが良いプロフィールだ。
+本人が一人で磨いた才能を見慣れて、初めて見る人にアピールするのが良いプロファイルだ。
 
 知る人より知らない人にアピールすることが彼らに有利であり、知る人に本人の2ラインの才能をアピールすると不利になることがある。
 
@@ -5476,31 +5476,31 @@ Gate 64
 [1] https://www.jovianarchive.com/Special_Offers/404/Incarnation_Crosses_by_Profile
 
 
-# ヒューマンデザイン/PHS
-Last Modified: 2024-11-21 10:44:59
+# Human Design/PHS
+Last Modified: 2025-04-09 05:09:56
 
   親文書：ヒューマンデザイン
 このページはヒューマンデザインの概念のうちPHS部分だけを扱っているページです。
 ヒューマンデザインの他の部分を確認したい場合は、ヒューマンデザイン文書を参照してください。
 
-1. 概要
-2. 食事法
-2.1. 食欲(Appetite)
-2.2. 味覚
-2.3. 喉の渇き
-2.4. タッチ(Touch)
-2.5. サウンド
-2.6. ライト(Light)
-3. 環境
-3.1. 洞窟(Cave)
-3.2. 市場(Market)
-3.3. キッチン (Kitchen)
-3.4. 山 (Mountain)
-3.5. 谷(Valleys)
-3.6. 海岸沿い（ショア）
+1. outline 概要
+2. how to eat - Body and Nutrition - 食事法
+2.1. Appetite 食欲
+2.2. Taste 味覚
+2.3. Thirst 喉の渇き
+2.4. Touch タッチ
+2.5. Sound サウンド
+2.6. Light ライト
+3. environment 環境
+3.1. Cave 洞窟
+3.2. Market 市場
+3.3. Kitchen キッチン
+3.4. Mountain 山
+3.5. Valleys 谷
+3.6. Shores 海岸沿い
 
 
-1. 概要
+# 1.outline 概要
 Primary Health System 
 2023年12月22日現在、Color Tone Base情報を無料で提供するサイトをご参照の上、ご自身のPHSをご確認ください。
 
@@ -5525,34 +5525,32 @@ Primary Health System
 
 だから簡単にまとめてみると
 
-食事法：デザインサンアスのカラー、トーン値
-環境：デザインノードのColor、Tone値
-￼
-このチャートを例に挙げると、
+食事法：Design Sun Earthのカラー、トーン値
+環境：design nodesのColor、Tone値
 
-このチャートのデザインサンアスのColorは5、Toneの値は4です。
-このチャートのデザインノードのColorは1で、Tone値は6になります。
+Determination: Color and tone values ​​of Design Sun Earth
+Environment: Color and Tone values ​​of design nodes
 
-# Body and Nutrition - 食事法
+# 2. how to eat - Body and Nutrition - 食事法
 ￼
 Tone 1,2,3 = Left	
 Tone 4,5,6 = Right	
 
-- デザインサンアスカラー				
-|Left |	color |		Right	|
+- Design Sun Earth Color				
+| Tone 1,2,3 | color | Tone 4,5,6 |
 |------|----------|----------|
 |direct	|	6 (Light)	|	indirect	|
 |high	|	5 (Sound)	|	low	|
 |calm	|	4（Touch）	|	Nervers	|
-|Hot	|	3 (Thurst)	|	Cold |
+|Hot	|	3 (Thirst)	|	Cold |
 |Open	|	2 (Taste)	|	Closed 	|
-|Consecutive	|	1 食欲(Appetite)	|	Alternating |
+|Consecutive	|	1 (Appetite)	|	Alternating |
 
 あなたがデザインサンアスのカラー値が6で、デザインサンアストーンの値が2であれば
 私の食事はLight - directです。
 ところが会話してみると、減ってdirectと呼びますし、あえてlightという言葉をつけないことも多いです。
 
-2.1. 食欲(Appetite)
+- 2.1. 食欲(Appetite)
 
 連続(Consecutive)
 一食に一つ一つの食べ物だけ食べるのが良い。
@@ -5565,7 +5563,7 @@ Tone 4,5,6 = Right
 ex）一食にご飯を食べるだけで、朝にはたんぱく質だけ、昼食には炭水化物だけ、夕方には野菜だけ
 
 交代(Alternating)
-一味にいろいろな食べ物は食べてもいいけど、複数の食べ物を一度に食べない方がいい
+一味にいろいろな食べ物は食べてもいいけど、複数の食べ物を一度に食べない方がいい。
 野菜の果物など、非常に簡単な食べ物と非常に簡単に調理された食べ物を食べることが重要な食事法です。
 これらはConsecutiveとは異なり、ビュッフェのように様々な食べ物を選んで食べることを好みます。
 しかし、ビビンバのように食べ物を混ぜて食べるという意味ではなく、食料品をできるだけ混ぜないで、一つ一つ別々に食べることをお勧めします。
@@ -5574,7 +5572,7 @@ ex）一食にご飯を食べるだけで、朝にはたんぱく質だけ、昼
 この部分は人ごとに現れる方法が異なりますので、本人がもしこの食事法なら、上記の内容を覚えたまま、様々に実験してみることをお勧めします。
 ex）リンゴを食べてバナナを食べる、ナッツパックを食べる
 
-2.2. 味覚
+- 2.2. 味覚
 オープン(オープン)
 食べ物を食べた後、その食べ物が味がないか、本人に合わない場合は食べない方が良い。
 Tasteの食事法を持っている人は、さまざまな食べ物を食べるよりも、自分の好みに合った食べ物を食べることをお勧めします。
@@ -5589,7 +5587,7 @@ Tasteの食事法を持っている人は、さまざまな食べ物を食べる
 本能的に、自分がどんな食べ物にも合わない食べ物を知っています。 それで、この食事法を持った赤ちゃんは、お母さんが自分に合わない食べ物を食べようとすると本能的に拒否します。
 それで、この食事法の子供を育てるとき、彼らに偏食すると混乱させるよりも、この子供を信頼することがより重要です。
 
-2.3. 喉の渇き
+- 2.3. 喉の渇き
 ホット（ホット）
 暖かい、または熱い食べ物を食べるのが良いです。
 ぬるま湯や熱い食べ物を食べることが重要なタイプです。
@@ -5606,7 +5604,7 @@ Tasteの食事法を持っている人は、さまざまな食べ物を食べる
 涼しさと寒さの目安は、本人の体温です。 あなたの体温より低い場合は、それは涼しくて冷たいものと見なすことができます。
 だから、彼らは彼らの体温よりも低い温度の食べ物を食べることをお勧めします。
 
-2.4. タッチ(Touch)
+- 2.4. タッチ(Touch)
 静かな（カルム）
 本人が落ち着いて穏やかな場所で食べ物を食べるのが良い。
 食事をするときに多くの刺激がある環境ではなく、快適で穏やかな環境で食べ物を食べることが重要です。
@@ -5623,7 +5621,7 @@ Tasteの食事法を持っている人は、さまざまな食べ物を食べる
 他人が見たときにはあまりにも思い出された状態なので、あなたはこのように思い出した状態でご飯食べればふりかけるかもしれないという声を聞くことができますが、彼らには食べ物を消化する最も最高の状態だと心配しないで食事してください。
 本人が実験をするとき、本人がどのような環境で退屈、静かで刺激がないことを確認し、本人に刺激が来る環境で食事をする実験と試みが必要なタイプです。
 
-2.5. サウンド
+- 2.5. サウンド
 高い(High)
 騒音のあるところや会話をしながら食べ物を食べるのが良い。
 ここで言う音は内側の音ではありません。
@@ -5640,7 +5638,7 @@ Tasteの食事法を持っている人は、さまざまな食べ物を食べる
 音が出なくて静かなほど良いですし、音楽を入れても本物の穏やかな音楽を小さくしてしまうのではなく、騒音遮断の耳栓を使って周囲の騒音を遮断した後にご飯を食べるのが彼らに良いです。
 自分がこの食事法で実験をするとき、自分がどうすればできるだけ静かな環境で食事ができるかをチェックしながら実験をすることをお勧めします。
 
-2.6. ライト(Light)
+- 2.6. ライト(Light)
 ダイレクト(Direct)
 光のあるところや昼間に食べ物を食べるのが良い。
 彼らは光のある環境で食事をすることが重要です。
@@ -5657,129 +5655,120 @@ Tasteの食事法を持っている人は、さまざまな食べ物を食べる
 一部の人々は夜食が悪いと言いますが、彼らにとっては例外です。 彼らにとって夜食はとても良いです。
 彼らが実験するとき、夜食を食べてすぐに寝ても大丈夫か、自然光と人工光がどの程度ある状態で食事をすれば大丈夫か、などを実験してみることをお勧めします。
 
-# Environment - 環境
+# 3. environment 環境
 
 Tone 1,2,3	Left	
 Tone 4,5,6	Right	
-デザインノード Color				
-Left	color		Right	
-Natural 
-(自然)	6 海岸沿い (ショーズ)		Artificial 
-(人工)	
-Narrow 
-(狭い)	5渓谷 (Valleys)		Wide 
-(広い)	
-Active 
-(アクティブ)	4山（山）		Passive 
-(静的)	
-Wet 
-(湿った)	3 キッチン (Kitchen)		Dry 
-(乾燥した)	
-Internal 
-(内部)	2 マーケット(Market)		External 
-(外部)	
-Selective 
-(選択)	1 洞窟(Cave)		Blending 
-(調和)	
+
+- Design Node Color				
+| Tone 1,2,3 | color | Tone 4,5,6 |
+|------|----------|----------|
+|Natural (nature)	|	6 Shores	|	Artificial (art)	|
+|Narrow (small)	|	5 Valleys	|	Wide (large)	|
+|Active (active)	|	4 Mountain	|	Passive (silence)	|
+|Wet (humid)	|	3 Kitchen	|	Dry (dried) |
+|Internal (interior)	|	2 Market	|	External (Out) 	|
+|Selective (select)	|	1 Cave	|	Blending (harmony) |
+
 あなたがデザインノードのカラー値が6で、デザインサンアストーン値が5の場合
 私の環境は Shores - Artificial です。
 
-3.1. 洞窟(Cave)
-
+- 3.1. 洞窟(Cave)
 選択(Selective)
-本人が快適で居心地が良いと思うところに一人でいればいい。
-この環境は、実際の洞窟を意味するのではなく、出入口があり、その出入口を閉じることができる空間であれば良いです。
-Cave環境を持っている人に最適な場所の1つが「自動車」です。
-少しずつ感じるのが違いますが、それほど広くもなく、出入口があり、その出入口を閉じることができるからです。
-安全性を感じ、居心地の良い環境がこれらに適しています。
-そして、複数の人がいる場所よりも、少数の人員や一人だけができる空間にいる方が、これらの方が良いです。
-実験するときは、自分が安全だと感じ、自分がこの環境を制御できるかどうかをチェックしながら実験することをお勧めします。
+It's good to be alone in a place where you feel comfortable and cozy.
+This environment does not mean an actual cave, but it is good if it is a space that has an entrance and can be closed.
+One of the places that best suits people with a cave environment is the “car”.
+It may feel slightly different, but it is not that wide, and there is an entrance and the entrance can be closed.
+An environment where they feel safe and comfortable is suitable for them, and they are able to perform more efficiently when working in such an environment.
+And it is better for them to be in a place with a small number of people or in a space where they can be alone rather than in a place with many people.
+When conducting an experiment, it is best to check whether you feel safe and can control the environment.
 
-ブレンド
-他人でも楽に交流できる居心地の良いところにあればいい。
-この環境は、実際の洞窟を意味するのではなく、出入口があり、その出入口を閉じることができる空間であれば良いです。
-Cave環境を持っている人に最適な場所の1つが「自動車」です。
-少しずつ感じるのが違いますが、それほど広くもなく、出入口があり、その出入口を閉じることができるからです。
-安全性を感じ、居心地の良い環境がこれらに適しています。
-そして映画館のように多数の人がいて、出入り口が閉鎖される空間で快適さを感じます。
-実験するときは、自分が安全だと感じ、自分がこの環境を制御できるかどうかをチェックしながら実験することをお勧めします。
+ブレンド(Blending)
+It's good to be in a cozy place where you can interact comfortably with others.
+This environment does not mean an actual cave, but it is good if it is a space that has an entrance and can be closed.
+One of the places that best suits people with a cave environment is the “car”.
+It may feel slightly different, but it is not that wide, and there is an entrance and the entrance can be closed.
+An environment where they feel safe and comfortable is suitable for them, and when they relax in this environment, their relaxation efficiency can increase.
+And I feel comfortable in spaces like movie theaters where there are a lot of people and the entrances can be closed.
+When conducting an experiment, it is best to check whether you feel safe and can control the environment.
 
-3.2. 市場(Market)
+
+- 3.2. 市場(Market)
 内部(Internal)
-多くの人に会って複作複作の通りにあるのが良いし、室内で働くのが良い。
-家で仕事や事業をして人を家に呼び込み、仕事や事業を進めます。
-室内の環境がどうであれ、この環境が本人のビジネスや、仕事に関わる環境なのが本人に良いです。
-在宅勤務もよく、インターネットとするビジネス事業が行われる空間でも良いです。 もちろん、室内でできることや事業であれば、すべて大丈夫です。
-このような空間に人々を招待しているのが本人に合います。
-実験をするときは、どのビジネス環境やどの職場が私に合っているかを確認しながら実験してみるのも大丈夫です。
+It's better to meet a lot of people and be in crowded places, and it's better to work indoors.
+You conduct work or business at home and invite people into your home to conduct work or business.
+No matter what the indoor environment is, it is better for you if this environment is related to your business or work.
+It's good for working from home, and it's also good for a space where business operations can be conducted over the Internet. Of course, any work or business that can be done indoors is okay.
+It is right for me to invite people to these spaces.
+When conducting an experiment, it would be a good idea to experiment while checking which business environment or workplace is right for you.
 
 外部(External)
-多くの人に会って複作複作の通りにあるのが良いし、外に出て働くのが良い。
-文字通り市場で人々にたくさん会いながら仕事をしたり、ビジネスをすることが彼らに良いです。
-在来市場とか貿易する場所とかなど、他人にたくさん会える環境で交流が起こる環境が彼らに良いです。
-このような環境で人々にたくさん会いながらエネルギーを充電することも、彼らの生活に役立ちます。
-実験をするときは、どのようなビジネス環境とどのような交流環境が自分に合うかを確認しながら実験するのも役に立つようです。
+It's good to meet a lot of people and be in a crowded place, and it's good to go outside and work.
+It is good for them to literally work or do business while meeting many people in the market.
+An environment where exchanges occur in an environment where they can meet many other people, such as a traditional market or a trading place, is good for them.
+Recharging energy by meeting many people in this environment also helps their lives.
+When conducting an experiment, it may be helpful to experiment while checking what kind of business environment and exchange environment suits you.
 
-3.3. キッチン (Kitchen)
+- 3.3. キッチン (Kitchen)
 湿った(Wet)
-いろいろなものを作れるところになければならず、湿度が高いといい。
-台所は工場である場合もあります。 台所は製造が進むどこにでもできます。 つまりキッチンだけでなく、何かを作って製造できる環境ならどこでも大丈夫です。
-工場もKitchen環境の一部です。 何かを作って製造する環境だからです。
-この環境が自然に湿った環境の場合、それらは正しい環境にあります。
-あまりにも乾燥した環境ですが、加湿器で湿らせるのはむしろ彼らにとって有害で す。 自然に湿った環境が彼らにとってより良いです。
+It should be in a place where you can make a variety of things, and it would be good if the humidity was high.
+Your kitchen can be a factory. A kitchen can be any place where manufacturing takes place. In other words, it is okay not only in the kitchen, but any environment where something can be made and manufactured.
+The factory is also part of the Kitchen environment. This is because it is an environment where things are made and manufactured.
+They are in the right environment when this environment is naturally humid.
+The environment is too dry, and moistening it with a humidifier can actually be harmful to them. A naturally humid environment is better for them.
 
-乾燥(dry)
-いろいろなものを作れるところになければならず、その空間が乾燥すればいい。
-台所は工場である場合もあります。 台所は製造が進むどこにでもできます。 つまりキッチンだけでなく、何かを作って製造できる環境ならどこでも大丈夫です。
-工場もKitchen環境の一部です。 何かを作って製造する環境だからです。
-この環境が自然に乾燥した環境である場合、それらは正しい環境にあります。
-あまりにも湿った環境ですが、除湿器で乾燥させたものはむしろ彼らにとって有害で す。 自然に乾燥した環境が彼らにとってより良いです。
+乾燥(Dry)
+You need to be in a place where you can make various things, and it's good if the space is dry.
+Your kitchen can be a factory. A kitchen can be any place where manufacturing takes place. In other words, it is okay not only in the kitchen, but any environment where something can be made and manufactured.
+The factory is also part of the Kitchen environment. This is because it is an environment where things are made and manufactured.
+They are in the right environment when this environment is naturally dry.
+If the environment is too humid, using a dehumidifier to dry it out can actually be harmful to them. A naturally dry environment is better for them.
 
-3.4. 山 (Mountain)
-アクティブ（アクティブ）
-山のように高度が高いか、酸素が希薄な場所で活動的に生活するのが良い。
-山といって本物の山湾を意味するのではなく、山のように高度が高く、酸素不足の環境を意味します。
-酸素不足の環境で過ごすことが重要です。 これらには多くの酸素は必要ありません。
-もしあなたが街に住んでいるなら、あなたが住んでいる場所が高層であるかどうかをチェックしてください。 高層の場合は本人によく合うことができます。
-この高いところがあえて…物理的に高い必要はありません。 哲学や議論をするときに高い拠点にいると、彼らにとって正しい環境になる可能性があります。
-高い高度で活動的に活動することは、これらのために良いです。 活発で活性化された環境では、これらはエネルギーを獲得します。
+- 3.4. 山 (Mountain)
+アクティブ（Active）
+It is best to live actively at high altitudes such as mountains or in places where oxygen is scarce.
+A mountain does not mean a true mountain, but rather a high-altitude, oxygen-poor environment like a mountain.
+The key is to live in an oxygen-poor environment. They don't need much oxygen.
+If you live in a city, check if the place you live is a high rise. If you live on a high floor, it may suit you well.
+This high place doesn't have to be physically high. Being on a high ground when it comes to philosophy or debate may be the right environment for them.
+Being active at high altitudes is good for them. They gain energy from a lively and active environment.
 
-静的(Passive)
-山のように高度が高いか、酸素が希薄な場所で静的に生活するのが良い。
-山といって本物の山湾を意味するのではなく、山のように高度が高く、酸素不足の環境を意味します。
-酸素不足の環境で過ごすことが重要です。 これらには多くの酸素は必要ありません。
-もしあなたが街に住んでいるなら、あなたが住んでいる場所が高層であるかどうかをチェックしてください。 高層の場合は本人によく合うことができます。
-この高いところがあえて…物理的に高い必要はありません。 哲学や議論をするときに高い拠点にいると、彼らにとって正しい環境になる可能性があります。
-高い高度で静的に活動することは、これらのために良いです。 静的で受動的な環境では、これらはエネルギーを満たします。
+静的(Static)
+It is best to live sedentary at high altitudes such as mountains or in places where oxygen is scarce.
+A mountain does not mean a true mountain, but rather a high-altitude, oxygen-poor environment like a mountain.
+The key is to live in an oxygen-poor environment. They don't need much oxygen.
+If you live in a city, check if the place you live is a high rise. If you live on a high floor, it may suit you well.
+This high place doesn't have to be physically high. Being on a high ground when it comes to philosophy or debate may be the right environment for them.
+Being sedentary at high altitudes is good for them. In a static and passive environment, they fill themselves with energy.
 
-3.5. 谷(Valleys)
-ナロー（ナロー）
-高度が低く、文明が発達したところに文明の真ん中で生活するのが良い。
-これらは山の人々とは異なり、酸素が豊富で、多くの場所で生活することをお勧めします。
-高度が低いところであることがよく、渓谷が必ずしも渓谷でなくても川があるところ、船が通る場所など交流でき、交換できる場所で生活することをお勧めします。
-つまり、彼らは他人と交流しやすい環境にあるのが良いです。
-狭い空間や廊下や路地、鉄道近くなどの狭い空間ですが、他人と交流しやすい空間であるところで、これらは活力を得ます。
-通常、このような環境は都市に存在するので、都市でこれらの環境を探すのも悪くないようです。
+- 3.5. 谷(Valleys)
+ナロー（Narrow）
+It is better to live in the middle of civilization at a low altitude and in a place where civilization is developed.
+Unlike mountain people, they like to live in places with plenty of oxygen.
+It is good to be a low altitude, and even if the valley is not necessarily the valley, it is a good idea to live in a place where the river is where the river and the boat passes.
+In other words, it is better for them to be in an environment where it is easy to interact with others, and it is better to be in a low altitude, oxygen-rich place, such as the downstairs of a house or a basement.
+They gain vitality in narrow spaces, such as hallways, alleys, or near railways, where it is easy to interact with others.
+This type of environment usually exists in cities, so it might not be a bad idea to look for this kind of environment in the city.
 
-ワイド(ワイド)
-高度が低く、文明が発達したところの近くで生活するのが良い。
-これらは山の人々とは異なり、酸素が豊富で、多くの場所で生活することをお勧めします。
-高度が低いところであることがよく、渓谷が必ずしも渓谷でなくても川があるところ、船が通る場所など交流でき、交換できる場所で生活することをお勧めします。
-つまり、彼らは他人と交流しやすい環境にあるのが良いです。
-広いスペースや実際の谷、田舎や農村のようなオープンな環境では、これらはリラックスすることをお勧めします。
-通常、このような環境は田舎近郊や、田舎に存在するので、このような環境を探してみるのも悪くないようです。
+ワイド(Wide)
+It is better to live at a low altitude and near a place with developed civilization.
+Unlike mountain people, they like to live in places with plenty of oxygen.
+It is good to be a low altitude, and even if the valley is not necessarily the valley, it is a good idea to live in a place where the river is where the river and the boat passes.
+In other words, it is better for them to be in an environment where it is easy to interact with others, and it is better to be in a low altitude, oxygen-rich place, such as the downstairs of a house or a basement.
+It is best for them to relax in open environments such as large spaces, actual valleys, or rural and rural areas.
+Usually, such environments exist in suburban areas or rural areas, so it might not be a bad idea to look for such environments.
 
-3.6. 海岸沿い（ショア）
-自然(自然)
-自然に形成された境界の近くで生活するのが良いです。 代表的に海や物価がある。
-平野のような平らな環境を考えると理解しやすいでしょう。
-境界地域に住むことが彼らにとって重要であり、自然が作った境界面どこにも関係ありません。
-強度境界線となり、山脈も境界線となります。 もちろん海や物価も境界線なので構いません。
-自然が作った境界線の近くで活動的に暮らすことは、これらにとって重要です。
+- 3.6. 海岸沿い（Shores）
+自然(Nature)
+It is better to live near naturally formed boundaries. Representative examples include the sea or waterfront.
+It will be easier to understand if you think of a flat environment such as a plain.
+Living in border areas is important to them, and any natural border will do.
+Rivers become boundaries, and mountain ranges also become boundaries. Of course, the sea and waterfront are boundaries, so it doesn't matter.
+It is important for them to stay active near nature's boundaries.
 
 人工(Artificial)
-人工的に形成された境界の近くで生活するのが良いです。 代表的に国境地域、港がある。
-平野のような平らな環境を考えると理解しやすいでしょう。
-境界地域に住むことが彼らにとって重要であり、人工的に作られた境界面どこにも関係ありません。
-鉄道も境界線となり、高速道路も境界線となります。 もちろん国境地域の近くや港も境界線なので構いません。
-人工的に作られた境界線の近くでリラックスすることは彼らにとって重要です。
+It is better to live near artificially formed boundaries. Representative examples include border areas and ports.
+It will be easier to understand if you think of a flat environment such as a plain.
+Living in border areas is important to them, and any artificial border is fine.
+Railroads also become boundaries, and highways also become boundaries. Of course, it doesn't matter because areas near border areas or ports are also borderlines.
+It is important for them to be comfortable near artificial boundaries.
