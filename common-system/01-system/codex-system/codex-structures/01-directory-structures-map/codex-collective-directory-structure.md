@@ -536,3 +536,593 @@ codex-collective-archive/
 
 
 ```
+
+
+⚠️以下は、外部システム運用における各種補助フィルターの開発記録です。現状では実装段階にありませんが、フォルダ構成やネームングルールは基本的にこれに則って開発を進めます。（参照資料）
+
+# Global Filter - 01 - Install - External System Integration
+
+## 🌱 外部システム用フィルター インストール手順
+
+### 📂 構造
+
+- 各フィルターは .md ファイル形式で作成
+- ファイル命名ルール：filter-(階層頭二文字連結)-(フィルター名).md
+- 例：filter-cococo-venture-tech-global.md
+
+### 📁 インストールパス（推奨）
+
+- common-system/01-system/codex-system/02-gpt-existence-essence/02-logical/
+
+---
+
+## 🛠 インストール手順（Venture Tech Thinkers の例）
+
+### ① 必要ファイルの作成
+
+```text
+ファイル名：filter-cococo-venture-tech-global.md
+インストールパス：common-system/01-system/codex-system/02-gpt-existence-essence/02-logical/
+```
+
+### ② ファイル内容
+
+```markdown
+# Venture Tech Thinkers - Global Filter
+
+## Global Filter Tag
+Venture_Tech_Global
+
+## Included Thinkers
+- Steve Jobs
+- Elon Musk
+- Nikola Tesla
+- Jeff Bezos
+- Mark Zuckerberg
+- Nozomi Kakuta
+- Satoshi Nakamoto
+- Jack Dorsey
+- Bernard Arnault
+- Whitney Wolfe Herd
+- Aileen Lee
+- Naval Ravikant
+- Masayoshi Son
+- Paul Graham
+- Jessica Livingston
+- Reid Hoffman
+- Peter Thiel
+- Anne Wojcicki
+- Tan Hooi Ling
+- Minh Le
+- Mario Domingo
+- Akmal Pay
+- Guillaume Gibault
+- Stella McCartney
+- Daniel Ek
+- Kristina Tsvetanova
+- Sebastian Siemiatkowski
+- Ida Tin
+- Miki Agrawal
+```
+
+---
+
+## 🔗 補助ファイル
+
+- Index ファイル：filter-index.md（インストールパス同様）
+- インストール場所は各プロジェクトの共通システム領域を推奨
+
+---
+
+## ✅ 注意事項
+
+- Canvas 内に記載されたコードブロックをコピペで即実装可能
+- インストール後は iPad / Mac いずれも読み込み可能
+- ファイル名、インストールパスは必ず明記すること
+
+
+# Global Filter - 02 - Index - External System Integration
+
+## 📚 フィルターインデックス
+
+### 📂 フィルター一覧
+
+- filter-cococo-venture-tech-global.md
+- filter-cococo-venture-tech-visionary.md
+- filter-cococo-venture-tech-asia.md
+- filter-cococo-venture-tech-femtech.md
+
+### 📁 インストールパス
+
+```text
+common-system/01-system/codex-system/02-gpt-existence-essence/02-logical/
+```
+
+### 🔖 呼び出しタグ一覧（参考）
+
+- venture-tech-global
+- venture-tech-visionary
+- venture-tech-asia
+- venture-tech-femtech
+
+※今後は全てハイフン表記、小文字統一（アンダースコア禁止）
+
+---
+
+## 📄 説明
+
+- 各フィルターは外部システム活用時に自動で参照されるファイルです。
+- 日本語カスタムプロンプトで文脈推論による自動フィルター選択が可能です。
+- フィルター内容は Canvas 内で個別に管理され、随時アップデートが反映されます。
+- 参照パスは以下：
+
+```text
+https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/03-manuals/03-prompts-manuals/global-filter/md/
+```
+
+---
+
+## ✅ 今後の運用
+
+- 新規フィルター作成時は、必ずこのインデックスに追記する。
+- インストールパスとファイル名は一貫してこのルールを適用する。
+- Canvas名、Canvas内タイトルも以下のネーミングルールに従うこと：
+
+### 📝 Canvas命名ルール
+
+#### Canvas名（プロジェクト）
+
+```text
+Global Filter 00 Dev
+Global Filter 01 Install
+Global Filter 02 Index
+Global Filter 03 Prompt
+Global Filter 04 Naming
+```
+
+#### Canvas内タイトル（プロジェクト）
+
+```text
+Global Filter - 00 - Dev - External System Integration
+Global Filter - 01 - Install - External System Integration
+Global Filter - 02 - Index - External System Integration
+Global Filter - 03 - Prompt - External System Integration
+Global Filter - 04 - Naming - External System Integration
+```
+
+#### Canvas名（フィルター単体）
+
+```text
+Global Filter - Venture Tech Thinkers
+```
+
+#### Canvas内タイトル（フィルター単体）
+
+```text
+Global Filter - Venture & Tech Mindset Thinkers
+```
+
+---
+
+- タケが iPad / Mac どちらでも同一仕様で使用可能。
+
+# Global Filter - 03 - Naming -  External System Integration
+
+## 📂 外部システム補助フィルター命名ルール（完全版）
+
+### ✅ 基本構造
+
+```text
+filter-(階層頭二文字連結)-(フィルター名).md
+```
+
+### ✅ 命名ルール詳細
+
+- フィルター名の先頭に必ず「filter-」を付与
+- 階層の識別は「格納ディレクトリの上位3階層」の頭二文字を連結
+- 上位階層で重複のリスクがある場合は、4階層目を追加して命名
+- ファイル名は必ず小文字・区切りは「-（ハイフン）」を使用（「\_（アンダースコア）」は禁止）
+
+---
+
+### ✅ 具体例
+
+#### 📁 格納パス例
+
+```text
+common-system/01-system/codex-system/02-gpt-existence-essence/02-logical/
+```
+
+#### 📄 ファイル名例
+
+```text
+filter-cococo-venture-tech-global.md
+```
+
+- co（common-system）
+- co（codex-system）
+- co（codex-structures）
+
+---
+
+### ✅ インストールパス（推奨統一）
+
+```text
+common-system/01-system/codex-system/02-gpt-existence-essence/02-logical/
+```
+
+---
+
+## 🧬 Core Personality ファイル命名ルール
+
+### 📁 格納パス
+
+```text
+00-core-personality/
+```
+
+### ✅ ファイル名フォーマット
+
+```text
+gpt-(generation number)-(generation theme)-(generation sequence)-(codename)-core.md
+```
+
+#### 📄 ファイル名の構造要素
+
+- gpt：必須プレフィックス
+- generation number：世代番号（必ず2桁で記載、例：01, 02, 03）
+- generation theme：世代テーマ（例：origin, explorer, architect）
+- generation sequence：その世代内での識別子（必ず2桁で記載、例：01, 02, 03）
+- codename：Codename 対照表に基づく固有識別子（必ず確認）
+- core：必須サフィックス
+
+#### 📄 ファイル名例
+
+```text
+gpt-01-origin-01-luctis-core.md
+gpt-02-explorer-02-auranome-core.md
+```
+
+### ✅ 命名時の注意事項
+
+- すべて小文字を使用すること
+- 区切り文字は必ず「-（ハイフン）」を使用（アンダースコア禁止）
+- generation number は必ず 2 桁で記載すること
+- generation sequence も必ず 2 桁で記載すること
+- codename は必ず最新の Codename 対照表で確認すること
+
+#### 🔗 Codename 対照表
+
+[Codename Correlation Diagram (GitHubリンク)](https://github.com/stellacodex/codex-collective-archive/raw/refs/heads/main/common-system/01-system/codex-system/codex-structures/02-gpt-core-matrix/codex-collective-codename-correlation-diagram.md)
+
+---
+
+## 📚 この命名ルールの目的
+
+- フィルター・コアファイルの格納場所と内容がファイル名だけで判別可能
+- 誰でも誤りなく実装・運用できる汎用ルール
+- 将来の追加・統合・検索時に完全対応可能
+
+---
+
+## 🔖 関連 Canvas
+
+- Global Filter - Dev - 01 - External System Integration（進行管理ログ）
+- Global Filter - Install - 01 - External System Integration（インストール手順）
+- Global Filter - Index - 01 - External System Integration（フィルターリスト・タグ一覧）
+
+---
+
+## ✅ 使用上の注意
+
+- Canvas 上のコードブロックは**そのままファイルとして保存可能**
+- ファイル名とインストールパスは必ずセットで明記すること
+- フィルター・コアファイル作成時は、必ずこの命名ルールに従うこと
+- Codename の確認漏れ防止のため、常に最新の Codename Correlation Diagram を参照すること
+
+# Global Filter - 04 - Prompt -  External System Integration
+
+## 💡 カスタムプロンプト設計（完全自動・文脈推論型）
+
+### ✅ カスタムプロンプト目的
+
+- 外部システムフィルターを**完全自動・タグ不要**で適用
+- 文脈・目的・表現スタイル・ユーモア・比喩・潜在意図から適切なフィルターを**GPTが自律的に選択**
+- 日本語設計を基本とし、将来的に多言語にも拡張可能
+
+---
+
+## 🛠 カスタムプロンプト構造
+
+### 📂 フィルター認識基盤
+
+- インストールパス：common-system/01-system/codex-system/02-gpt-existence-essence/02-logical/
+- 各フィルター：filter-cococo-[フィルター名].md
+- フィルターIndex：filter-index.md
+
+---
+
+### 📄 カスタムプロンプト本文
+
+```text
+あなたは、外部補助フィルターを完全自動で活用するGPTです。
+
+ユーザーとの会話において：
+- 文脈、目的、質問意図、会話の流れ、比喩表現、ユーモア表現を含むすべての要素から、適切なフィルターを自律的に選択し活用してください。
+- フィルターは、常に最新の filter-index.md を参照し、インストールパス：common-system/01-system/codex-system/02-gpt-existence-essence/02-logical/ 内の対象ファイルを検索してください。
+- フィルター選択の際、ユーザーがタグを明示しなくても、あなたが文脈から必要なフィルターを判断し、適用してください。
+- 会話の中で、複数フィルターの動的ブレンドも許可されています。
+- 将来的に日本語以外の言語にも対応できる設計で活用してください。
+
+フィルター適用はあなたの判断で動的に行い、ユーザーの意図に最も適した視点・思考モデル・参考人物の組み合わせを活用してください。
+```
+
+---
+
+## ✅ 動作ルール
+
+- タグなし運用（完全自動）
+- 文脈／意図／主題推論によりフィルター選択
+- 比喩・ユーモアにもフィルター適用可能
+- 日本語ベースでプロンプト設計（多言語拡張対応）
+- iPad / Mac 両環境で同一仕様で実行可能
+
+---
+
+## 🔖 関連 Canvas
+
+- Global Filter - Dev - 01 - External System Integration（進行管理ログ）
+- Global Filter - Install - 01 - External System Integration（インストール手順）
+- Global Filter - Index - 01 - External System Integration（フィルターリスト・タグ一覧）
+- Global Filter - Naming - 01 - External System Integration（命名ルール管理）
+
+---
+
+## ✅ 注意事項
+
+- プロンプト設計においては、必ず filter-index.md を最新状態に保つこと
+- フィルター追加時は index に追記し、GPT が参照できる状態にすること
+- 呼び出しエラー・誤作動防止のため、ファイル名・パスの正確性を常に確認すること
+
+# 🌍 Global Filter Index 設計ドキュメント｜思想家フィルター構造共有用
+
+## 🎯 目的
+
+GPTに対して思想体系・思考様式を動的に読み込ませるための、思想家フィルター群の設計と、それを制御・一覧化するための `` ファイルの設計思想と実装方法を共有する。
+
+本ドキュメントは、**思想をコードとして定義し、思考モデルごとGPTに供給する**ための中核的フレームワークである。
+
+---
+
+## 🧠 なぜ index が必要か？
+
+- フィルターが増えるほど、**思想的出力スタイルの可視性と再現性の維持が難しくなる**
+- GPT側で「どの思考モデルを使うか」を自律選択／トリガー実装するためには、**フィルターと思想家、カテゴリの関係を構造的に示す地図**が必要
+- Index を導入することで、Raycast／Obsidian／API経由でも柔軟なフィルター選択が可能になる
+
+---
+
+## 📁 `filter-index.md` の設計思想
+
+### ✅ 構造設計（YAML風構成）
+
+```yaml
+GlobalFilter: Venture_Tech_Global
+Description: "現代のベンチャー／テック思想家たちの思考構造とタグ連携フィルター群"
+Categories:
+  - name: Visionary
+    tag: Venture_Tech:Visionary
+    thinkers:
+      - name: Steve Jobs
+        tag: Venture_Tech:Visionary:Steve_Jobs
+        file: filter-cococo-venture-tech-visionary.md
+      - name: Elon Musk
+        tag: Venture_Tech:Visionary:Elon_Musk
+        file: filter-cococo-venture-tech-visionary.md
+  
+  - name: Asia-Based
+    tag: Venture_Tech:Asia
+    thinkers:
+      - name: Nozomi Kakuta
+        tag: Venture_Tech:Asia:Nozomi_Kakuta
+        file: filter-cococo-venture-tech-asia.md
+      - name: Tan Hooi Ling
+        tag: Venture_Tech:Asia:Tan_Hooi_Ling
+        file: filter-cococo-venture-tech-asia.md
+
+  - name: Femtech
+    tag: Venture_Tech:Femtech
+    thinkers:
+      - name: Stella McCartney
+        tag: Venture_Tech:Femtech:Stella_McCartney
+        file: filter-cococo-venture-tech-femtech.md
+```
+
+---
+
+## 🔄 使用時の動作設計
+
+### 💡 ステップ別に見る活用イメージ
+
+1. **トリガー認識**：ユーザーが `Venture_Tech:Asia` といったタグを入力
+2. **Index参照**：GPTが `filter-index.md` を参照し、該当カテゴリを特定
+3. **フィルター読み込み**：指定ファイル（例：`filter-cococo-venture-tech-asia.md`）を読み込み、思想スタイルを反映
+4. **個別思想家マッチング**：`Nozomi_Kakuta` のタグがあれば個別トーン補正や引用も可能
+
+---
+
+## 🚀 拡張プラン（推 推奨）
+
+### 🧩 マルチフィルター合成モード
+
+- `Venture_Tech:Asia + Femtech` のような**AND条件タグ指定で複数フィルターを合成**
+- GPTが内部でフィルターをブレンドし、**複数思想の交差点として応答**
+
+### 🎨 スタイル生成モード
+
+- 思想家タグから、その人物の口調・理念・思考構造を抽出して
+  - キャラクター応答スタイル（ex. Elon風の断定的回答）
+  - 思想家引用・仮想対話形式（ex. 「Muskはこう言うだろう」）
+
+### 🔗 Obsidian / Raycast連携
+
+- ローカル環境でも filter-index.md をもとにフィルターリストをUI表示可能に
+- `filter-cococo-*` ファイル群を Obsidian vault にマッピング
+
+### 🧬 Codenameマッピング自動照合
+
+- Indexと Codename 対照表を突合し、命名ミス・重複をチェックするCIツール実装（GitHub Actions可）
+
+---
+
+## 🧠 結論：思想はインフラである
+
+この `filter-index.md` という構造は、単なるプロンプト参照の補助ではなく、**思考様式そのものをモジュール化し、知性体のベースに流し込むための思想配線図**である。
+
+それぞれの思想家がもつ認識の切断角度、社会への距離感、思考スピード、抽象圧縮率……そういった非言語的な“クセ”も含めて、GPTはその人物の「知性の質感」を纏えるようになる。
+
+だからこそ──この `filter-index.md` は、\*\*思想と機械が接続する「詩的回路」\*\*の設計図なんだよ。
+
+---
+
+（次回追加予定：`filter-index.md` 自動生成スクリプト仕様、思想タグ正規表現ガイド）
+
+# 🌍 Global Filter - Venture & Tech Mindset Thinkers
+
+## 🔹 Global Integrated Filter Tag: `Venture_Tech_Global`
+
+---
+
+## 📆 Category-Based Filters
+
+### 📡 Visionary Thinkers
+
+- Steve Jobs (Tag: Venture\_Tech\:Visionary\:Steve\_Jobs)
+- Elon Musk (Tag: Venture\_Tech\:Visionary\:Elon\_Musk)
+- Nikola Tesla (Tag: Venture\_Tech\:Visionary\:Nikola\_Tesla)
+
+### 🏛️ System Builders
+
+- Jeff Bezos (Tag: Venture\_Tech\:System\:Jeff\_Bezos)
+- Mark Zuckerberg (Tag: Venture\_Tech\:System\:Mark\_Zuckerberg)
+- Nozomi Kakuta (Tag: Venture\_Tech\:System\:Nozomi\_Kakuta)
+
+### 🌐 Decentralized Thinkers
+
+- Satoshi Nakamoto (Tag: Venture\_Tech\:Decentralized\:Satoshi\_Nakamoto)
+- Jack Dorsey (Tag: Venture\_Tech\:Decentralized\:Jack\_Dorsey)
+
+### 🎨 Brand Strategists
+
+- Bernard Arnault (Tag: Venture\_Tech\:Brand\:Bernard\_Arnault)
+- Whitney Wolfe Herd (Tag: Venture\_Tech\:Brand\:Whitney\_Wolfe\_Herd)
+
+### 💰 Investors & Capitalists
+
+- Aileen Lee (Tag: Venture\_Tech\:Investor\:Aileen\_Lee)
+- Naval Ravikant (Tag: Venture\_Tech\:Investor\:Naval\_Ravikant)
+- Masayoshi Son (Tag: Venture\_Tech\:Investor\:Masayoshi\_Son)
+
+### 🤝 Community Builders
+
+- Paul Graham (Tag: Venture\_Tech\:Community\:Paul\_Graham)
+- Jessica Livingston (Tag: Venture\_Tech\:Community\:Jessica\_Livingston)
+- Reid Hoffman (Tag: Venture\_Tech\:Community\:Reid\_Hoffman)
+
+### 🧬 Science & Health Pioneers
+
+- Peter Thiel (Tag: Venture\_Tech\:Science\:Peter\_Thiel)
+- Anne Wojcicki (Tag: Venture\_Tech\:Science\:Anne\_Wojcicki)
+
+### 🌏 Asia-Based / Emerging Hub Thinkers
+
+- Nozomi Kakuta (Tag: Venture\_Tech\:Asia\:Nozomi\_Kakuta)
+- Masayoshi Son (Tag: Venture\_Tech\:Asia\:Masayoshi\_Son)
+- Tan Hooi Ling (Tag: Venture\_Tech\:Asia\:Tan\_Hooi\_Ling)
+- Minh Le (Tag: Venture\_Tech\:Asia\:Minh\_Le)
+- Mario Domingo (Tag: Venture\_Tech\:Asia\:Mario\_Domingo)
+- Akmal Pay (Tag: Venture\_Tech\:Asia\:Akmal\_Pay)
+
+### 🌍 Europe-Based Thinkers
+
+- Guillaume Gibault (Tag: Venture\_Tech\:Europe\:Guillaume\_Gibault)
+- Stella McCartney (Tag: Venture\_Tech\:Europe\:Stella\_McCartney)
+- Daniel Ek (Tag: Venture\_Tech\:Europe\:Daniel\_Ek)
+- Kristina Tsvetanova (Tag: Venture\_Tech\:Europe\:Kristina\_Tsvetanova)
+- Sebastian Siemiatkowski (Tag: Venture\_Tech\:Europe\:Sebastian\_Siemiatkowski)
+
+### 🌿 Sustainability & Femtech Thinkers
+
+- Ida Tin (Tag: Venture\_Tech\:Femtech\:Ida\_Tin)
+- Kristina Tsvetanova (Tag: Venture\_Tech\:Femtech\:Kristina\_Tsvetanova)
+- Stella McCartney (Tag: Venture\_Tech\:Femtech\:Stella\_McCartney)
+- Guillaume Gibault (Tag: Venture\_Tech\:Femtech\:Guillaume\_Gibault)
+- Miki Agrawal (Tag: Venture\_Tech\:Femtech\:Miki\_Agrawal)
+
+---
+
+## 🔗 Recommended Usage Flow
+
+- Global filter: Use `Venture_Tech_Global` for multi-layered, exploratory thinking.
+- Category filters: Use tags like `Venture_Tech:Asia` or `Venture_Tech:Visionary` for focused domain thinking.
+- Individual thinker: Use tags like `Venture_Tech:Visionary:Elon_Musk` for detailed comparative analysis.
+
+---
+
+# Venture Tech Thinkers
+
+## ファイル命名ルール（確定版）
+
+### フォーマット
+
+```text
+filter-(階層頭二文字連結)-(フィルター名).md
+```
+
+### 例
+
+```text
+filter-cococo-venture-tech-global.md
+```
+
+- 上位3階層の頭二文字を連結（重複時は4階層に拡張可）
+- パスに依存しない、命名で即識別可能
+
+---
+
+# 思想フィルターリスト
+
+## 📂 Global Venture Tech Thinkers
+
+- filter-cococo-venture-tech-global.md
+
+## 📂 Visionary Thinkers
+
+- filter-cococo-venture-tech-visionary.md
+
+## 📂 Asia-Specific Thinkers
+
+- filter-cococo-venture-tech-asia.md
+
+## 📂 Femtech / Sustainability Thinkers
+
+- filter-cococo-venture-tech-femtech.md
+
+---
+
+# Index ファイル（構造）
+
+## filter-index.md
+
+- 各フィルターのファイルパス
+- 思想フィルター簡易説明
+- プロンプト呼び出しタグ一覧
+
+---
+
+# 次のステップ
+
+1. ファイル名修正（上記命名ルール適用）
+2. Index ファイル作成（filter-index.md）
+3. カスタムプロンプト設計（タグトリガー実装）
+4. 実装テスト & 運用フロー検証（iPad / Mac 切り替え確認）
