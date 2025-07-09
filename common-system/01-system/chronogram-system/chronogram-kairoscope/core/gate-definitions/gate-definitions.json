@@ -1,0 +1,642 @@
+{
+  "1": {
+    "name": "The Creative",
+    "channel": "1-8",
+    "circuit": "個人性回路｜知識回路",
+    "activation": "招待されてから発揮する",
+    "theme": "創造性、自己表現の起源",
+    "description": "個人性のリーダーシップ・チャネルです。独特な自分の生き方を表現できる、気難しいセルフ・プロデューサーであり、群衆の中から目立つ存在です。自分のあり方そのもので周囲をインスパイアします。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "2": {
+    "name": "The Receptive",
+    "channel": "2-14",
+    "circuit": "個人性回路｜知識回路",
+    "activation": "仙骨反応を引き出してもらって発揮する",
+    "theme": "受容性、人生の方向性",
+    "description": "人生のカギの管理人であり、他人に人生のカギを与え、方向性を変える。自分のエネルギーやお金を正しく循環させることで思わぬ形で豊かさが返ってくる。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "3": {
+    "name": "Ordering",
+    "channel": "3-60",
+    "circuit": "個人性回路｜知識回路",
+    "activation": "仙骨反応を引き出してもらって発揮する",
+    "theme": "混沌から秩序、革新的変化への衝動",
+    "description": "個人性回路全体の基盤であり、状況を突然変異的に変化させる力。変化が起きない期間には哀愁や憂鬱が現れることも。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "4": {
+    "name": "Formulization",
+    "channel": "4-63",
+    "circuit": "集合体回路｜論理性回路",
+    "activation": "招待されてから発揮する",
+    "theme": "答えを求める思考、合理的構造の探求",
+    "description": "論理的な疑問に答えを見出そうとする力であり、思考のパターンを構築し他者と共有することで問題解決を促します。頭脳の整理整頓のチャネルとも言えます。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "5": {
+    "name": "Fixed Rhythms",
+    "channel": "5-15",
+    "circuit": "集合体回路｜論理性回路",
+    "activation": "仙骨反応を引き出してもらって発揮する",
+    "theme": "リズムの保持、秩序ある繰り返し",
+    "description": "自然のリズムに従い、日常生活に秩序をもたらします。自身のリズムを周囲に伝える力があり、社会やグループに安定感を与える役割を持ちます。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "6": {
+    "name": "Conflict",
+    "channel": "6-59",
+    "circuit": "部族回路｜ディフェンス回路",
+    "activation": "招待されてから発揮する",
+    "theme": "親密さと境界のダンス、感情の門",
+    "description": "親密さを築くための境界線を描くチャネルです。情緒的な開放と防衛のバランスを取り、深い関係を築くための課題に向き合います。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "7": {
+    "name": "The Role of the Self",
+    "channel": "7-31",
+    "circuit": "集合体回路｜論理性回路",
+    "activation": "招待されてから発揮する",
+    "theme": "導く力、方向性を示すカリスマ",
+    "description": "ビジョンを共有し、集団を導くカリスマ的な力。未来の方向性を示すリーダーシップのチャネルです。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "8": {
+    "name": "Contribution",
+    "channel": "1-8",
+    "circuit": "個人性回路｜知識回路",
+    "activation": "招待されてから発揮する",
+    "theme": "独自性の表現、他者への影響",
+    "description": "自己の独自性を際立たせ、社会へ影響を与える表現力。個性を強調し周囲にインスピレーションを与えます。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "9": {
+    "name": "Focus",
+    "channel": "9-52",
+    "circuit": "集合体回路｜論理性回路",
+    "activation": "仙骨反応を引き出してもらって発揮する",
+    "theme": "集中力、小さなディテールへの没入",
+    "description": "一点集中の力を持ち、細かい作業や持続的な努力に優れています。論理性回路の基盤とも言えます。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "10": {
+    "name": "Behavior of the Self",
+    "channel": "10-20",
+    "circuit": "個人性回路｜センタリング回路",
+    "activation": "招待されてから発揮する",
+    "theme": "自己愛、自分らしさの実践",
+    "description": "自己の行動や振る舞いを通して、自分自身を表現し他者に影響を与える力。生きる姿勢を示すチャネルです。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "11": {
+    "name": "Ideas",
+    "channel": "11-56",
+    "circuit": "集合体回路｜抽象性回路",
+    "activation": "発揮する前にあらかじめ知らせる",
+    "theme": "ビジョンとアイデアの創出、内なる啓示",
+    "description": "内なるビジョンを共有し、物語を通じて人々にインスピレーションを与える力。抽象性のチャネルです。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "12": {
+    "name": "Caution",
+    "channel": "12-22",
+    "circuit": "個人性回路｜知識回路",
+    "activation": "発揮する前にあらかじめ知らせる",
+    "theme": "洗練された自己表現、言葉のタイミング",
+    "description": "感情の波に従った繊細な自己表現を担います。タイミングと優雅さを大切にし、魅力を生み出すチャネルです。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "13": {
+    "name": "The Listener",
+    "channel": "13-33",
+    "circuit": "集合体回路｜抽象性回路",
+    "activation": "発揮する前にあらかじめ知らせる",
+    "theme": "物語を聴く者、過去から学ぶ力",
+    "description": "人々のストーリーを聞き取り、集団の記憶を保存・共有する力。過去の経験から意味を見いだします。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "14": {
+    "name": "Power Skills",
+    "channel": "2-14",
+    "circuit": "個人性回路｜知識回路",
+    "activation": "仙骨反応を引き出してもらって発揮する",
+    "theme": "資源の流れ、エネルギーの方向性",
+    "description": "エネルギーや資源を動かす力。正しい方向に力を注ぐことで大きな成功を収めます。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "15": {
+    "name": "Extremes",
+    "channel": "5-15",
+    "circuit": "集合体回路｜論理性回路",
+    "activation": "仙骨反応を引き出してもらって発揮する",
+    "theme": "ダイナミズムとバランス、自然のリズムとの調和",
+    "description": "極端さと柔軟さを行き来しながら、自然界のリズムと共振する力。社会やコミュニティに調和をもたらします。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "16": {
+    "name": "Skills",
+    "channel": "16-48",
+    "circuit": "集合体回路｜論理性回路",
+    "activation": "仙骨反応を引き出してもらって発揮する",
+    "theme": "才能と技術、繰り返しによる熟達",
+    "description": "特定のスキルを洗練し、繰り返しの練習で熟練度を高める力。社会に価値をもたらす実践的才能を示します。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "17": {
+    "name": "Opinions",
+    "channel": "17-62",
+    "circuit": "集合体回路｜論理性回路",
+    "activation": "招待されてから発揮する",
+    "theme": "意見の形成、論理構築",
+    "description": "明晰な論理と意見を持ち、それを他者に伝える力。論理的枠組みを社会に提供します。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "18": {
+    "name": "Correction",
+    "channel": "18-58",
+    "circuit": "集合体回路｜論理性回路",
+    "activation": "仙骨反応を引き出してもらって発揮する",
+    "theme": "完全性への渇望、パターンの改善",
+    "description": "パターンを見抜き、改善することに喜びを見出します。社会や個人の成長に貢献する修正力のチャネルです。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "19": {
+    "name": "Wanting",
+    "channel": "19-49",
+    "circuit": "部族回路｜ディフェンス回路",
+    "activation": "招待されてから発揮する",
+    "theme": "需要と繋がりへの感受性、スピリチュアルな依存関係",
+    "description": "ニーズを察知し、コミュニティやパートナーとの深い絆を築く力。相互扶助やサポートの基盤です。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "20": {
+    "name": "The Now",
+    "channel": "10-20",
+    "circuit": "個人性回路｜センタリング回路",
+    "activation": "招待されてから発揮する",
+    "theme": "今ここでの自己表現、直観的存在",
+    "description": "現在に根ざした自己表現。瞬間に生きる純粋なエネルギーを象徴します。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "21": {
+    "name": "Control",
+    "channel": "45-21",
+    "circuit": "部族回路｜エゴ回路",
+    "activation": "招待されてから発揮する",
+    "theme": "資源と秩序の管理者、意志のチャネル",
+    "description": "集団の資源を管理し、秩序を守る力。物質的責任を担うリーダー的存在です。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "22": {
+    "name": "Grace",
+    "channel": "12-22",
+    "circuit": "個人性回路｜知識回路",
+    "activation": "発揮する前にあらかじめ知らせる",
+    "theme": "優雅さと情緒の洗練、感情の変容",
+    "description": "感情の美しさを洗練させ、周囲に魅力を広げる。感情の波を乗りこなす優雅さを示します。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "23": {
+    "name": "Assimilation",
+    "channel": "43-23",
+    "circuit": "個人性回路｜知識回路",
+    "activation": "発揮する前にあらかじめ知らせる",
+    "theme": "単純化された表現、内なる洞察の具現",
+    "description": "深い洞察を分かりやすく表現し、革新的な知識を社会に届けます。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "24": {
+    "name": "Rationalization",
+    "channel": "24-61",
+    "circuit": "個人性回路｜知識回路",
+    "activation": "発揮する前にあらかじめ知らせる",
+    "theme": "思考の内省、精神的リセット",
+    "description": "繰り返し思考を内省し、最終的に新しい洞察を得る力。精神的な再構築を支えます。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "25": {
+    "name": "The Spirit of the Self",
+    "channel": "25-51",
+    "circuit": "個人性回路｜センタリング回路",
+    "activation": "招待されてから発揮する",
+    "theme": "無条件の愛、純粋意識への帰還",
+    "description": "無条件の愛と純粋な存在感を通じて、他者に癒しと啓発を与えるチャネルです。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "26": {
+    "name": "The Trickster",
+    "channel": "26-44",
+    "circuit": "部族回路｜エゴ回路",
+    "activation": "招待されてから発揮する",
+    "theme": "説得と影響の技術、巧みな演出",
+    "description": "巧みな表現力と交渉術で周囲を惹きつける力。商売やプロジェクトの推進に寄与します。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "27": {
+    "name": "Caring",
+    "channel": "27-50",
+    "circuit": "部族回路｜ディフェンス回路",
+    "activation": "招待されてから発揮する",
+    "theme": "世話と栄養、献身的サポート",
+    "description": "他者のニーズを支え、保護する力。家族や共同体を守る本能的役割を果たします。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "28": {
+    "name": "The Game Player",
+    "channel": "28-38",
+    "circuit": "個人性回路｜知識回路",
+    "activation": "仙骨反応を引き出してもらって発揮する",
+    "theme": "死と意味に向き合う勇気、挑戦の門",
+    "description": "困難に意味を見出し、人生に挑む勇気を持つ力。自分自身の運命を深く探求します。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "29": {
+    "name": "Saying Yes",
+    "channel": "29-46",
+    "circuit": "個人性回路｜知識回路",
+    "activation": "仙骨反応を引き出してもらって発揮する",
+    "theme": "人生へのコミットメント、同意の力",
+    "description": "繰り返し「イエス」と言うことで、人生の深い体験を招き入れるチャネルです。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "30": {
+    "name": "Feelings",
+    "channel": "30-41",
+    "circuit": "個人性回路｜知識回路",
+    "activation": "仙骨反応を引き出してもらって発揮する",
+    "theme": "情熱と欲望、感情の波",
+    "description": "欲望と感情のエネルギーを通じて人生の体験を深める力。感情的成長を支えるチャネルです。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "31": {
+    "name": "Influence",
+    "channel": "7-31",
+    "circuit": "集合体回路｜論理性回路",
+    "activation": "招待されてから発揮する",
+    "theme": "リーダーとしての発言、影響の力",
+    "description": "言葉や方向性を通じて集団を導く影響力。リーダーシップの表現として重要です。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "32": {
+    "name": "Continuity",
+    "channel": "32-54",
+    "circuit": "部族回路｜エゴ回路",
+    "activation": "仙骨反応を引き出してもらって発揮する",
+    "theme": "生き残りの本能、継続する力",
+    "description": "社会的存続や家系の持続に貢献する力。伝統を守り抜く本能的役割を果たします。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "33": {
+    "name": "Privacy",
+    "channel": "13-33",
+    "circuit": "集合体回路｜抽象性回路",
+    "activation": "招待されてから発揮する",
+    "theme": "秘密と回想、時間を持つことで意味化",
+    "description": "過去の経験を静かに内省し、物語として共有する力。時間をおいて振り返ることで知恵を伝えます。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "34": {
+    "name": "Power",
+    "channel": "10-34",
+    "circuit": "個人性回路｜センタリング回路",
+    "activation": "仙骨反応を引き出してもらって発揮する",
+    "theme": "生の力、純粋なエネルギー表現",
+    "description": "強力な生命エネルギーを瞬時に発揮する力。圧倒的な存在感を持つチャネルです。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "35": {
+    "name": "Change",
+    "channel": "35-36",
+    "circuit": "集合体回路｜抽象性回路",
+    "activation": "招待されてから発揮する",
+    "theme": "経験の探求、変化への欲望",
+    "description": "多様な経験を追い求め、変化を通じて進化する力。冒険心を表すチャネルです。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "36": {
+    "name": "Crisis",
+    "channel": "35-36",
+    "circuit": "集合体回路｜抽象性回路",
+    "activation": "仙骨反応を引き出してもらって発揮する",
+    "theme": "感情的チャレンジ、混乱からの成長",
+    "description": "感情の高まりや混乱を通じて成長する力。困難な状況を乗り越える勇気を示します。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "37": {
+    "name": "Friendship",
+    "channel": "37-40",
+    "circuit": "部族回路｜エゴ回路",
+    "activation": "招待されてから発揮する",
+    "theme": "家族と共同体、温かい繋がり",
+    "description": "家族や共同体を結びつけ、調和を保つ力。信頼関係の構築を支えます。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "38": {
+    "name": "The Fighter",
+    "channel": "28-38",
+    "circuit": "個人性回路｜知識回路",
+    "activation": "仙骨反応を引き出してもらって発揮する",
+    "theme": "生きる意味への闘志、目的の探求",
+    "description": "困難に立ち向かい、意義を見出す力。生存本能と自己実現の融合を象徴します。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "39": {
+    "name": "Provocation",
+    "channel": "39-55",
+    "circuit": "個人性回路｜知識回路",
+    "activation": "仙骨反応を引き出してもらって発揮する",
+    "theme": "挑発と突破、内なる限界への働きかけ",
+    "description": "感情や状況を揺さぶり、深い変容を引き起こす力。内なる目覚めの触媒です。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "40": {
+    "name": "Aloneness",
+    "channel": "37-40",
+    "circuit": "部族回路｜エゴ回路",
+    "activation": "仙骨反応を引き出してもらって発揮する",
+    "theme": "独立と休息、与えることと引くことのバランス",
+    "description": "奉仕と自立の間でバランスを取る力。健全な関係性を保つための休息を象徴します。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "41": {
+    "name": "Contraction",
+    "channel": "30-41",
+    "circuit": "個人性回路｜知識回路",
+    "activation": "仙骨反応を引き出してもらって発揮する",
+    "theme": "夢の種、幻想から始まる欲望",
+    "description": "新たな経験を生むスタートのエネルギー。夢や願望の種を発芽させる力です。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "42": {
+    "name": "Growth",
+    "channel": "42-53",
+    "circuit": "集合体回路｜抽象性回路",
+    "activation": "仙骨反応を引き出してもらって発揮する",
+    "theme": "経験の完了、プロセスの一貫性",
+    "description": "物事を最後まで完結させるエネルギー。プロセスをやり遂げる強さを持ちます。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "43": {
+    "name": "Insight",
+    "channel": "43-23",
+    "circuit": "個人性回路｜知識回路",
+    "activation": "発揮する前にあらかじめ知らせる",
+    "theme": "内なる真実の閃き、異端の知性",
+    "description": "内なる洞察を革新的に表現する力。独自の知性で周囲に影響を与えます。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "44": {
+    "name": "Alertness",
+    "channel": "26-44",
+    "circuit": "部族回路｜エゴ回路",
+    "activation": "招待されてから発揮する",
+    "theme": "過去からのパターン認識、直感的予知",
+    "description": "無意識に埋め込まれたパターンを察知し、未来の動きを予知する力。安全確保に貢献します。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "45": {
+    "name": "The Gatherer",
+    "channel": "45-21",
+    "circuit": "部族回路｜エゴ回路",
+    "activation": "招待されてから発揮する",
+    "theme": "リーダーとしての集約力、共同体の声",
+    "description": "資源をまとめ、共同体を率いる力。統治と分配を司る役割です。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "46": {
+    "name": "Determination of the Self",
+    "channel": "29-46",
+    "circuit": "個人性回路｜知識回路",
+    "activation": "仙骨反応を引き出してもらって発揮する",
+    "theme": "肉体への愛、運命へのオープンネス",
+    "description": "肉体体験を愛し、運命にオープンであることを通じて自己を深めます。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "47": {
+    "name": "Realization",
+    "channel": "47-64",
+    "circuit": "集合体回路｜抽象性回路",
+    "activation": "発揮する前にあらかじめ知らせる",
+    "theme": "抑圧からの気づき、意味の錬金術",
+    "description": "混乱や苦悩を内省し、そこから新しい意味を見出す力。変容を支えます。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "48": {
+    "name": "Depth",
+    "channel": "16-48",
+    "circuit": "集合体回路｜論理性回路",
+    "activation": "仙骨反応を引き出してもらって発揮する",
+    "theme": "深い直観、内なる知の井戸",
+    "description": "深い洞察を支える直観の力。問題解決に活用されます。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "49": {
+    "name": "Principles",
+    "channel": "19-49",
+    "circuit": "部族回路｜ディフェンス回路",
+    "activation": "招待されてから発揮する",
+    "theme": "原則への忠誠、社会的変革",
+    "description": "原則を守り、集団や社会に変革をもたらす力。新しい秩序の創造を示します。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "50": {
+    "name": "Values",
+    "channel": "27-50",
+    "circuit": "部族回路｜ディフェンス回路",
+    "activation": "招待されてから発揮する",
+    "theme": "社会的責任、価値と規範の守護",
+    "description": "社会の価値観と規範を守り育てる力。倫理観と保護の役割を担います。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "51": {
+    "name": "Shock",
+    "channel": "25-51",
+    "circuit": "個人性回路｜センタリング回路",
+    "activation": "招待されてから発揮する",
+    "theme": "魂の覚醒、挑戦の門",
+    "description": "衝撃や挑戦を通じて魂を覚醒させる力。大きな変革のきっかけとなります。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "52": {
+    "name": "Stillness",
+    "channel": "9-52",
+    "circuit": "集合体回路｜論理性回路",
+    "activation": "仙骨反応を引き出してもらって発揮する",
+    "theme": "静けさの中の集中、山のような安定性",
+    "description": "静止状態での集中力と持続性を表す力。根気強く物事に取り組むサポートをします。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "53": {
+    "name": "Beginnings",
+    "channel": "42-53",
+    "circuit": "集合体回路｜抽象性回路",
+    "activation": "仙骨反応を引き出してもらって発揮する",
+    "theme": "新しい始まり、プロセスの起動",
+    "description": "新たなスタートを切り、プロセスを進めるエネルギー。始める勇気を象徴します。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "54": {
+    "name": "Ambition",
+    "channel": "32-54",
+    "circuit": "部族回路｜エゴ回路",
+    "activation": "仙骨反応を引き出してもらって発揮する",
+    "theme": "上昇志向、スピリチュアルな変革",
+    "description": "社会的地位や物質的成功を求めるエネルギー。精神的成長を伴います。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "55": {
+    "name": "Spirit",
+    "channel": "39-55",
+    "circuit": "個人性回路｜知識回路",
+    "activation": "仙骨反応を引き出してもらって発揮する",
+    "theme": "精神的自由、感情の波に乗る力",
+    "description": "感情的開放と精神の自由を表す力。人生の変容を促します。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "56": {
+    "name": "Stimulation",
+    "channel": "11-56",
+    "circuit": "集合体回路｜抽象性回路",
+    "activation": "招待されてから発揮する",
+    "theme": "ストーリーテリング、刺激と表現",
+    "description": "経験を物語として表現する力。人々に刺激とインスピレーションを与えます。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "57": {
+    "name": "Intuition",
+    "channel": "",
+    "circuit": "個人性回路｜知識回路",
+    "activation": "仙骨反応を引き出してもらって発揮する",
+    "theme": "サバイバルの直感、危険察知",
+    "description": "本能的な危険察知力と鋭い直観の力。生存と進化を支えます。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "58": {
+    "name": "Joy",
+    "channel": "18-58",
+    "circuit": "集合体回路｜論理性回路",
+    "activation": "仙骨反応を引き出してもらって発揮する",
+    "theme": "喜びのエネルギー、改善への情熱",
+    "description": "人生に喜びと改善の意欲をもたらす力。成長と向上心を後押しします。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "59": {
+    "name": "Intimacy",
+    "channel": "6-59",
+    "circuit": "部族回路｜ディフェンス回路",
+    "activation": "仙骨反応を引き出してもらって発揮する",
+    "theme": "親密さの創造、生殖と結合の力",
+    "description": "深い結びつきを作り出すエネルギー。親密さを通じて共同体を築きます。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "60": {
+    "name": "Limitation",
+    "channel": "3-60",
+    "circuit": "集合体回路｜論理性回路",
+    "activation": "仙骨反応を引き出してもらって発揮する",
+    "theme": "制限からの創造、進化の土台",
+    "description": "制限を通じて新たな進化を生む力。変革の基盤を支えます。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "61": {
+    "name": "Mystery",
+    "channel": "24-61",
+    "circuit": "個人性回路｜知識回路",
+    "activation": "発揮する前にあらかじめ知らせる",
+    "theme": "神秘と真理への渇望、内なる問い",
+    "description": "真理を追い求める精神的探求の力。内面の深い問いに導かれます。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "62": {
+    "name": "Details",
+    "channel": "17-62",
+    "circuit": "集合体回路｜論理性回路",
+    "activation": "招待されてから発揮する",
+    "theme": "明晰さと事実、論理的整理",
+    "description": "複雑な情報を整理し、明晰に伝える力。知識の土台を築きます。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "63": {
+    "name": "Doubt",
+    "channel": "4-63",
+    "circuit": "集合体回路｜論理性回路",
+    "activation": "招待されてから発揮する",
+    "theme": "疑念と問いかけ、信念への突破口",
+    "description": "疑問を投げかけ、論理や信念を磨く力。知性の深化を支えます。",
+    "gene_key": "",
+    "planet": ""
+  },
+  "64": {
+    "name": "Confusion",
+    "channel": "47-64",
+    "circuit": "集合体回路｜抽象性回路",
+    "activation": "発揮する前にあらかじめ知らせる",
+    "theme": "混沌からの解釈、啓示の源",
+    "description": "混乱や曖昧さを経て、新たな洞察と啓示を得る力。精神的飛躍を促します。",
+    "gene_key": "",
+    "planet": ""
+  }
+}

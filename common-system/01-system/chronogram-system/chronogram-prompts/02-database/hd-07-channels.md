@@ -1,4 +1,3 @@
-hd-channels
 # HD Channel Architecture
 
 ## 1. チャネルとは？
