@@ -1,5 +1,765 @@
 TYH | Human Design - Circuity / Channels
+
+#### Human Design Official Definitions
+
+### Human Design Circuitry - List
+## Individual Circuitry
+- The Centering Circuit
+- The Knowing Circuit
+- The Integration Circuit
+
+"group_attributes_en": "Individual Circuitry",
+"circuit_en": "Centering Circuit",
+"circuit_en": "Knowing Circuit",
+"circuit_en": "Integration Circuit",
+
+"group_attributes_jp": "個人性回路群",
+"circuit_jp": "センタリング回路",
+"circuit_jp": "知識回路",
+"circuit_jp": "インテグレーション回路",
+
+## The Collective Circuitry
+- The Understanding Circuit
+- The Sensing Circuit
+
+"group_attributes_en": "Collective Circuitry",
+"circuit_en": "Understanding Circuit",
+"circuit_en": "Sensing Circuit",
+
+"group_attributes_jp": "集合体回路群",
+"circuit_jp": "論理性回路",
+"circuit_jp": "抽象性回路",
+
+## The Tribal Circuitry
+- The Protection Circuit
+- The Ego Circuit
+
+"group_attributes_en": "Tribal Circuitry",
+"circuit_en": "Protection Circuit",
+"circuit_en": "Ego Circuit",
+
+"group_attributes_jp": "部族性回路群",
+"circuit_jp": "ディフェンス回路",
+"circuit_jp": "エゴ回路",
+
+### Human Design Circuitry and Channels - Details
+## Human Design Individual Circuitry and Channels
+People with Individual Channels are driven by the determination to follow the beat of their own drum and direction and bring change to the world.
+
+The Individual Circuit group consists of three sub-circuits: Centering Circuit, Knowing Circuit, and Integration Circuit.
+
+If you have a large number of gates and in particular channels, in the individual circuits, you may notice the following themes play out in your life:
+
+Capacity and responsibility to create change in the world
+Desire to bring transformation to the Tribe and Collective (without being rejected first)
+Drive for uniqueness – this inspires, empowers and/or awakens the potential in others
+Deep passion to be true to oneself
+Exploration of the creative and melancholic inner world
+Strong intuition
+
+"group_attributes_en": "Individual Circuitry",
+"circuit_en": "Centering Circuit",
+One of the Individual Circuits is the Centering Circuit. It consists of the following two channels:
+
+"channel_number": "34-10",
+"channel_name_en": "Channel of Exploration",
+
+"channel_number": "51-25",
+"channel_name_en": "Channel of Initiation",
+
+
+
+"group_attributes_jp": "個人性回路群",
+"circuit_jp": "センタリング回路",
+One of the Individual Circuits is the Centering Circuit. It consists of the following two channels:
+
+"channel_number": "34-10",
+"channel_name_jp": "探求",
+
+"channel_number": "51-25",
+"channel_name_jp": "イニシエーション",
+
+
+"group_attributes_en": "Individual Circuitry",
+"circuit_en": "Knowing Circuit",
+The second sub-circuit of the Individual Circuit is the Knowing Circuit. It consists of the following nine channels:
+
+"channel_number": "3-60",
+"channel_name_en": "Channel of Mutation",
+
+"channel_number": "14-2",
+"channel_name_en": "Channel of the Beat",
+
+"channel_number": "1-8",
+"channel_name_en": "Channel of Inspiration",
+
+"channel_number": "61-24",
+"channel_name_en": "Channel of Awareness",
+
+"channel_number": "43-23",
+"channel_name_en": "Channel of Structuring",
+
+"channel_number": "38-28",
+"channel_name_en": "Channel of Struggle",
+
+"channel_number": "57-20",
+"channel_name_en": "Channel of The Brain Wave",
+
+"channel_number": "39-55",
+"channel_name_en": "Channel of Emoting",
+
+"channel_number": "22-12",
+"channel_name_en": "Channel of Openness",
+
+
+"group_attributes_jp": "個人性回路群",
+"circuit_jp": "知識回路",
+The second sub-circuit of the Individual Circuit is the Knowing Circuit. It consists of the following nine channels:
+
+"channel_number": "3-60",
+"channel_name_jp": "突然変異",
+
+"channel_number": "14-2",
+"channel_name_jp": "鼓動",
+
+"channel_number": "1-8",
+"channel_name_jp": "インスピレーション",
+
+"channel_number": "61-24",
+"channel_name_jp": "気づき",
+
+"channel_number": "43-23",
+"channel_name_jp": "構築",
+
+"channel_number": "38-28",
+"channel_name_jp": "もがき",
+
+"channel_number": "57-20",
+"channel_name_jp": "脳波",
+
+"channel_number": "39-55",
+"channel_name_jp": "感情表現",
+
+"channel_number": "22-12",
+"channel_name_jp": "開放性",
+
+
+
+"group_attributes_en": "Individual Circuitry",
+"circuit_en": "Integration Circuit",
+The last sub-circuit of the Individual Circuit is the Integration Circuit or sometimes referred to as the Human Design Integration Channels. It consists of the following four channels:
+
+"channel_number": "34-57",
+"channel_name_en": "Channel of Power",
+
+"channel_number": "34-20",
+"channel_name_en": "Channel of Charisma",
+
+"channel_number": "57-10",
+"channel_name_en": "Channel of Perfected Form",
+
+"channel_number": "10-20",
+"channel_name_en": "Channel of Awakening",
+
+
+
+"group_attributes_jp": "個人性回路群",
+"circuit_jp": "インテグレーション回路",
+The last sub-circuit of the Individual Circuit is the Integration Circuit or sometimes referred to as the Human Design Integration Channels. It consists of the following four channels:
+
+"channel_number": "34-57",
+"channel_name_jp": "パワー",
+
+"channel_number": "34-20",
+"channel_name_jp": "カリスマ",
+
+"channel_number": "57-10",
+"channel_name_jp": "完成形 ",
+
+"channel_number": "10-20",
+"channel_name_jp": "覚醒",
+
+## Collective Circuitry and Channels
+People with Collective Channels are here to drive the collective forward by sharing the learnings from experimentation and experience.
+
+The Collective Circuit Group consists of two sub-circuits: Understanding (Logic) Circuit and Sensing (Abstract) Circuit.
+
+If you have a large number of "channel": "and in particular channels, in the collective circuitry, you may notice you are more interested in the following:
+
+Survival of humanity as a whole
+Creation of infrastructure (literal or metaphorical)
+Sharing opinions, dilemmas, solutions, expectations, fantasies, inventions
+Being more objective and impersonal
+
+"group_attributes_en": "Collective Circuitry",
+"circuit_en": "Understanding (Logic) Circuit",
+One of the Collective Sub-Circuits is the Understanding (Logic) Circuit. It consists of the following channels:
+
+"channel_number": "52-9",
+"channel_name_en": "Channel of Concentration",
+
+"channel_number": "5-15",
+"channel_name_en": "Channel of Rhythm",
+
+"channel_number": "7-31",
+"channel_name_en": "Channel of The Alpha",
+
+"channel_number": "58-18",
+"channel_name_en": "Channel of Judgement",
+
+"channel_number": "48-16",
+"channel_name_en": "Channel of the Wavelength",
+
+"channel_number": "63-4",
+"channel_name_en": "Channel of Logic",
+
+"channel_number": "17-62",
+"channel_name_en": "Channel of Acceptance",
+
+"group_attributes_jp": "集合体回路群",
+"circuit_jp": "論理性回路",
+One of the Collective Sub-Circuits is the Understanding (Logic) Circuit. It consists of the following channels:
+
+"channel_number": "52-9",
+"channel_name_jp": "集中力",
+
+"channel_number": "5-15",
+"channel_name_jp": "リズム",
+
+"channel_number": "7-31",
+"channel_name_jp": "アルファ",
+
+"channel_number": "58-18",
+"channel_name_jp": "判断",
+
+"channel_number": "48-16",
+"channel_name_jp": "波長",
+
+"channel_number": "63-4",
+"channel_name_jp": "論理",
+
+"channel_number": "17-62",
+"channel_name_jp": "受容",
+
+"group_attributes_en": "Collective Circuitry",
+"circuit_en": "Sensing (Abstract) Circuit",
+The second sub-circuit of the Collective Circuits is the Sensing (Abstract) Circuit. It consists of the following channels:
+
+"channel_number": "53-42",
+"channel_name_en": "Channel of Maturation",
+
+"channel_number": "29-46",
+"channel_name_en": "Channel of Discovery",
+
+"channel_number": "13-33",
+"channel_name_en": "Channel of The Prodigal",
+
+"channel_number": "41-30",
+"channel_name_en": "Channel of Recognition",
+
+"channel_number": "36-35",
+"channel_name_en": "Channel of Transitoriness",
+
+"channel_number": "64-47",
+"channel_name_en": "Channel of Abstraction",
+
+"channel_number": "11-56",
+"channel_name_en": "Channel of Curiousity",
+
+"group_attributes_jp": "集合体回路群",
+"circuit_jp": "抽象性回路",
+The second sub-circuit of the Collective Circuits is the Sensing (Abstract) Circuit. It consists of the following channels:
+
+"channel_number": "53-42",
+"channel_name_jp": "成熟",
+
+"channel_number": "29-46",
+"channel_name_jp": "発見",
+
+"channel_number": "13-33",
+"channel_name_jp": "放蕩息子",
+
+"channel_number": "41-30",
+"channel_name_jp": "認識",
+
+"channel_number": "36-35",
+"channel_name_jp": "推移",
+
+"channel_number": "64-47",
+"channel_name_jp": "抽象",
+
+"channel_number": "11-56",
+"channel_name_jp": "好奇心",
+
+
+## Human Design Tribal Circuitry and Channels - Details
+This Tribal circuit connects us to life and each other through the senses, bloodline and loyalty. The Tribal Circuit Group consists of two sub-circuits: Defense Circuit and Ego Circuit. 
+
+Key themes that play out in those who have a large number of "channel": "and in particular channels in the Tribal Circuit Group are:
+
+Part of something bigger than oneself
+Allocation and management of resources and agreements
+Deep desire for Tribe to survive and thrive – on all levels
+Energy for reproduction, child-raising, caring, nurturing and love.
+
+"group_attributes_en": "Tribal Circuitry",
+"circuit_en": "Defense Circuit",
+One of the Tribal Sub-Circuits is the Defense Circuit. It consists of the following channels:
+
+"channel_number": "59-6",
+"channel_name_en": "Channel of Mating",
+
+"channel_number": "27-50",
+"channel_name_en": "Channel of Preservation",
+
+"group_attributes_jp": "部族性回路群",
+"circuit_jp": "ディフェンス回路",
+One of the Tribal Sub-Circuits is the Defense Circuit. It consists of the following channels:
+
+"channel_number": "59-6",
+"channel_name_jp": "交配 ",
+
+"channel_number": "27-50",
+"channel_name_jp": "保存",
+
+
+"group_attributes_en": "Human Design Tribal Circuitry",
+"circuit_en": "Ego Circuit",
+The second Tribal Sub-Circuit is the Ego Circuit. It consists of the following five channels:
+
+"channel_number": "54-32",
+"channel_name_en": "Channel of Transformation",
+
+"channel_number": "44-26",
+"channel_name_en": "Channel of Surrender",
+
+"channel_number": "19-49",
+"channel_name_en": "Channel of Synthesis",
+
+"channel_number": "37-40",
+"channel_name_en": "Channel of Community",
+
+"channel_number": "21-45",
+"channel_name_en": "Channel of Money",
+
+"group_attributes_jp": "部族性回路群",
+"circuit_jp": "エゴ回路",
+The second Tribal Sub-Circuit is the Ego Circuit. It consists of the following five channels:
+
+"channel_number": "54-32",
+"channel_name_jp": "変容",
+
+"channel_number": "44-26",
+"channel_name_jp": "身をゆだねる",
+
+"channel_number": "19-49",
+"channel_name_jp": "総合体",
+
+"channel_number": "37-40",
+"channel_name_jp": "共同体",
+
+"channel_number": "21-45",
+"channel_name_jp": "マネー",
+
+
+How to read your Human Design Circuitry
+When learning to read your human design chart and you are looking at the circuitry component, you will want to see how many channels you have in each circuit, and if one more is dominant. Some people will have a relatively even spread across two or three circuits, others will be really high in one and low in the others. 
+
+Personally, I have very high Individual and Collective Circuitry – particularly the "channel": "associated with being self-absorbed. I know that being self-absorbed no longer needs to be a bad thing because I have seen evidence of how much my own self-reflection and self-work has had huge ripple effects on those around me.
+
+
+### Gates
+
+The 64 Gates by Numerical Order
+
+"gate_en": "[1] Gate of Self Expression",
+"gate_en": "[2] Gate of the Direction of Self",
+"gate_en": "[3] Gate of Ordering",
+"gate_en": "[4] Gate of Formulization",
+"gate_en": "[5] Gate of Fixed Rhythms",
+"gate_en": "[6] Gate of Friction",
+"gate_en": "[7] Gate of The Role of the Self",
+"gate_en": "[8] Gate of Contribution",
+"gate_en": "[9] Gate of Focus",
+"gate_en": "[10] Gate of Behavior of the Self",
+"gate_en": "[11] Gate of Ideas",
+"gate_en": "[12] Gate of Caution",
+"gate_en": "[13] Gate of the Listener",
+"gate_en": "[14] Gate of Power Skills",
+"gate_en": "[15] Gate of Extremes",
+"gate_en": "[16] Gate of Skills",
+"gate_en": "[17] Gate of Opinions",
+"gate_en": "[18] Gate of Correction",
+"gate_en": "[19] Gate of Wanting",
+"gate_en": "[20] Gate of The Now",
+"gate_en": "[21] Gate of The Hunter/Huntress",
+"gate_en": "[22] Gate of Openness",
+"gate_en": "[23] Gate of Assimilation",
+"gate_en": "[24] Gate of Rationalization",
+"gate_en": "[25] Gate of The Spirit of the Self",
+"gate_en": "[26] Gate of The Egoist",
+"gate_en": "[27] Gate of Caring",
+"gate_en": "[28] Gate of The Game Player",
+"gate_en": "[29] Gate of Perseverance",
+"gate_en": "[30] Gate of Feelings",
+"gate_en": "[31] Gate of Influence",
+"gate_en": "[32] Gate of Continuity",
+"gate_en": "[33] Gate of Privacy",
+"gate_en": "[34] Gate of Power",
+"gate_en": "[35] Gate of Change",
+"gate_en": "[36] Gate of Crisis",
+"gate_en": "[37] Gate of Friendship",
+"gate_en": "[38] Gate of The Fighter",
+"gate_en": "[39] Gate of Provocation",
+"gate_en": "[40] Gate of Aloneness",
+"gate_en": "[41] Gate of Contraction",
+"gate_en": "[42] Gate of Growth",
+"gate_en": "[43] Gate of Insight",
+"gate_en": "[44] Gate of Alertness",
+"gate_en": "[45] Gate of Gatherer",
+"gate_en": "[46] Gate of The Determination of the Self",
+"gate_en": "[47] Gate of Realization",
+"gate_en": "[48] Gate of Depth",
+"gate_en": "[49] Gate of Principles",
+"gate_en": "[50] Gate of Values",
+"gate_en": "[51] Gate of Shock",
+"gate_en": "[52] Gate of Stillness",
+"gate_en": "[53] Gate of Beginnings",
+"gate_en": "[54] Gate of Ambition",
+"gate_en": "[55] Gate of Spirit",
+"gate_en": "[56] Gate of Stimulation",
+"gate_en": "[57] Gate of Intuitive Clarity",
+"gate_en": "[58] Gate of Vitality",
+"gate_en": "[59] Gate of Sexuality",
+"gate_en": "[60] Gate of Acceptance",
+"gate_en": "[61] Gate of Mystery",
+"gate_en": "[62] Gate of Detail",
+"gate_en": "[63] Gate of Doubt",
+"gate_en": "[64] Gate of Confusion",
+
+"gate_jp": "[1]「自己表現・創造力」Self Expression/Creative",
+"gate_jp": "[2]「高次の智慧・包容力」Highter Knowing/Receptive",
+"gate_jp": "[3]「秩序・産みの苦しみ」Ordering/Difficulty at the Beginning",
+"gate_jp": "[4]「公式化・若気の至り」Formulization/Youthful Folly",
+"gate_jp": "[5]「固定リズム・待つ」Fixed Rhythm/Waiting",
+"gate_jp": "[6]「摩擦・対立」Friction/Conflict",
+"gate_jp": "[7]「自己の役割・軍隊」The Role of the Self/Army",
+"gate_jp": "[8]「貢献・人の和」Contribution/Holding Together",
+"gate_jp": "[9]「焦点・小さく制御する力」Focus/The Taming Power of the Small",
+"gate_jp": "[10]「自己の振る舞い・踏み進む」Behaviour of the Self/Treading",
+"gate_jp": "[11]「アイデア(思想)・平和安泰」Ideas/Peace",
+"gate_jp": "[12]「注意深さ・停止」Caution/Standstill",
+"gate_jp": "[13]「聞き手・同志」Listner/The Fellowship of Man",
+"gate_jp": "[14]「パワースキル・大量に所有する」",
+"gate_jp": "[15]「極端・謙遜」Extremes/Modesty",
+"gate_jp": "[16]「スキル・熱中」Skills/Enthusiasm",
+"gate_jp": "[17]「意見・従う」Opinion/Following",
+"gate_jp": "[18]「訂正・腐敗処理」Correction/Work on What has been Spoilt",
+"gate_jp": "[19]「要求・接近」Need/Approach",
+"gate_jp": "[20]「今この時・洞察」The Now/Contemplation",
+"gate_jp": "[21]「猟師/狩猟の女神・噛み切る」Hunter/Huntress/Biting Through",
+"gate_jp": "[22]「開放性・優雅」Openness/Grace",
+"gate_jp": "[23]「同化・解体」Assimilation/Splitting Apart",
+"gate_jp": "[24]「合理化・反復」Rationalisation/Return",
+"gate_jp": "[25]「自己のスピリット・無垢」The Spirit of the Self/Innocence",
+"gate_jp": "[26]「エゴイスト・大きく制御する力」",
+"gate_jp": "[27]「お世話・養育」Caring/Nourishment",
+"gate_jp": "[28]「ゲームプレイヤー・大きさの重要性」",
+"gate_jp": "[29]「はいと言う・深淵」Saying Yes/Abysmal",
+"gate_jp": "[30]「フィーリング・情熱の炎」Feelings/Clinging Fire",
+"gate_jp": "[31]「先導する・影響力」Leading/Influence",
+"gate_jp": "[32]「持続・継続」Continuity/Duration",
+"gate_jp": "[33]「プライバシー・隠遁」Privacy/Retreat",
+"gate_jp": "[34]「全力・壮大な力」Power/The Power of the Great",
+"gate_jp": "[35]「変化・発展」Change/Progress",
+"gate_jp": "[36]「危機・光が陰る」Crisis/Darkening of the Light",
+"gate_jp": "[37]「友情・家族」Friendship/Family",
+"gate_jp": "[38]「戦士・反目」Fighter/Opposition",
+"gate_jp": "[39]「誘発・障害物」Provocation/Obstruction",
+"gate_jp": "[40]「孤独・解放」Aloneness/Deliverance",
+"gate_jp": "[41]「収縮・減少」Contraction/Decrease",
+"gate_jp": "[42]「成熟・増益」Growth/Increase",
+"gate_jp": "[43]「自己洞察・打破」Insight/Breakthrough",
+"gate_jp": "[44]「警戒・偶然の出会い」Alertness/Coming to Meet",
+"gate_jp": "[45]「集める人・一緒に集める」Gatherer/Gathering Together",
+"gate_jp": "[46]「決心・着実な上昇」Determination/Pushing Upward",
+"gate_jp": "[47]「実感・抑圧」Realization/Oppression",
+"gate_jp": "[48]「深遠さ・井戸」Depth/Well",
+"gate_jp": "[49]「原理・革命」Principles/Revolution",
+"gate_jp": "[50]「価値観・大釜」Values/Cauldron",
+"gate_jp": "[51]「ショック・覚醒の喚起」Shock/Arousing",
+"gate_jp": "[52]「活動しない・不動」Stillness/Keeping Still Mountain",
+"gate_jp": "[53]「始まり・成長」Beginnings/Development",
+"gate_jp": "[54]「野心・乙女の結婚」Drive/Marrying Maiden",
+"gate_jp": "[55]「スピリット・豊かさ」Spirit/Abundance",
+"gate_jp": "[56]「刺激・放浪者」Stimulation/Wanderer",
+"gate_jp": "[57]「直観的な明晰さ・優しさ」Intuitive Clarity/Gentle",
+"gate_jp": "[58]「活力・悦び」Vitality/The Joyous",
+"gate_jp": "[59]「セクシャリティ・発散」Sexuality/Dispersion",
+"gate_jp": "[60]「受容・制限」Acceptance/Limitation",
+"gate_jp": "[61]「神秘・内なる真実」Mystery/Inner Truth",
+"gate_jp": "[62]「詳細・小ささの重要性」Details/The Preponderance of the Small",
+"gate_jp": "[63]「疑うこと・完成の後」Doubt/After Completion",
+"gate_jp": "[64]「混乱・完成の前」Confusion/Before Completion",
+
+
 #### My Dungeon Card - 必殺技カード一覧
+
+
+
+### MDC Circuitry - List
+## MDC 個人性回路群
+# "group_attributes_en": "Individual Circuitry",
+"mdc_group_attributes": "個人性回路群",
+
+- "circuit_en": "Centering Circuit",
+"mdc_group_attributes": "センタリング回路",
+"mdc_circuit_attributes_color": "Yellow"
+"mdc_circuit_function": "自分を優先して生き延びるための個性・原始生命力の反応"
+"mdc_circuit_function_method": "世界最強の自分が世界を救う"
+
+- "circuit_en": "Knowing Circuit",
+"mdc_group_attributes": "知識回路",
+"mdc_circuit_attributes_color": "Red"
+"mdc_circuit_function": "周囲の人々の自立を促進する(エンパワー)"
+"mdc_circuit_function_method": "自分らしくいることが世界を救う"
+
+- "circuit_en": "Integration Circuit",
+"mdc_group_attributes": "インテグレーション回路",
+"mdc_circuit_attributes_color": "Pink"
+"mdc_circuit_function": "他のチャネルにも大きく影響し、他のチャネルの中心軸となる。"
+"mdc_circuit_function_method": "自分大好きパワーが世界を救う"
+
+
+
+## MDC 集合体回路群
+# "group_attributes_en": "Collective Circuitry",
+"mdc_group_attributes": "集合体回路群",
+
+- "circuit_en": "Understanding Circuit",
+"mdc_group_attributes": "論理性回路",
+"mdc_circuit_attributes_color": "Blue"
+"mdc_circuit_function": "社会全体に対して、未来に向けた論理的なパターンを共有(シェア)する"
+"mdc_circuit_function_method": "社会にシェアすることで世界を救う"
+
+- "circuit_en": "Sensing Circuit",
+"mdc_group_attributes": "抽象性回路",
+"mdc_circuit_attributes_color": "Light-Blue"
+"mdc_circuit_function": "社会全体に対して、過去の人生経験を共有(シェア)する。"
+"mdc_circuit_function_method": "社会で遊ぶことが世界を救う"
+
+
+
+## MDC 部族性回路群
+# "group_attributes_en": "Tribal Circuitry",
+"mdc_group_attributes": "部族性回路群",
+
+- "circuit_en": "Protection Circuit",
+"circuit_jp": "ディフェンス回路",
+"mdc_circuit_attributes_color": "Light-Green"
+"mdc_circuit_function": "家族や仲間を守り、維持していく"
+"mdc_circuit_function_method": "仲間を守る本能が世界を救う"
+
+- "circuit_en": "Ego Circuit",
+"mdc_group_attributes": "エゴ回路",
+"mdc_circuit_attributes_color": "Green"
+"mdc_circuit_function": "家族や仲間と支え合う(サポート)"
+"mdc_circuit_function_method": "仲間と自分で世界を救う"
+
+
+### MDC Circuitry and Channels - Details
+
+
+
+## MDC Individual Circuitry and Channels
+
+
+## MDC Collective Circuitry and Channels
+
+
+## MDC Tribal Circuitry and Channels
+
+
+
+### MDC Gates
+
+例：
+# "mdc_gate": "[1] タレント",
+"mdc_gate_correlation": "[8] 演出家",
+"mdc_gate_attributes_color": "Red",
+
+# 'mdc_channel_number": "1-8",
+"mdc_channel_name": "天才クリエーター",
+"mdc_channel_sub_title": "無形から有形を創り出せる",
+"mdc_channel_discription": "誰も思いつかなかった方法で、新しいモノやシステムを作り出し、多くの人の見本となる結果を残す",
+"mdc_channel_attributes_color": "Red",
+"mdc_channel_attribute_1": "自分らしくいることが世界を救う",
+"mdc_channel_attribute_2": "周囲の人々の自立を促進する(エンパワー)",
+"mdc_channel_activation_key": "お願いされてからやる！",
+
+
+
+テンプレ：
+"mdc_gate": "[1]「自己表現・創造力」Self Expression/Creative",
+"mdc_gate": "[2]「高次の智慧・包容力」Highter Knowing/Receptive",
+"mdc_gate": "[3]「秩序・産みの苦しみ」Ordering/Difficulty at the Beginning",
+"mdc_gate": "[4]「公式化・若気の至り」Formulization/Youthful Folly",
+"mdc_gate": "[5]「固定リズム・待つ」Fixed Rhythm/Waiting",
+"mdc_gate": "[6]「摩擦・対立」Friction/Conflict",
+"mdc_gate": "[7]「自己の役割・軍隊」The Role of the Self/Army",
+"mdc_gate": "[8]「貢献・人の和」Contribution/Holding Together",
+"mdc_gate": "[9]「焦点・小さく制御する力」Focus/The Taming Power of the Small",
+"mdc_gate": "[10]「自己の振る舞い・踏み進む」Behaviour of the Self/Treading",
+"mdc_gate": "[11]「アイデア(思想)・平和安泰」Ideas/Peace",
+"mdc_gate": "[12]「注意深さ・停止」Caution/Standstill",
+"mdc_gate": "[13]「聞き手・同志」Listner/The Fellowship of Man",
+"mdc_gate": "[14]「パワースキル・大量に所有する」",
+"mdc_gate": "[15]「極端・謙遜」Extremes/Modesty",
+"mdc_gate": "[16]「スキル・熱中」Skills/Enthusiasm",
+"mdc_gate": "[17]「意見・従う」Opinion/Following",
+"mdc_gate": "[18]「訂正・腐敗処理」Correction/Work on What has been Spoilt",
+"mdc_gate": "[19]「要求・接近」Need/Approach",
+"mdc_gate": "[20]「今この時・洞察」The Now/Contemplation",
+"mdc_gate": "[21]「猟師/狩猟の女神・噛み切る」Hunter/Huntress/Biting Through",
+"mdc_gate": "[22]「開放性・優雅」Openness/Grace",
+"mdc_gate": "[23]「同化・解体」Assimilation/Splitting Apart",
+"mdc_gate": "[24]「合理化・反復」Rationalisation/Return",
+"mdc_gate": "[25]「自己のスピリット・無垢」The Spirit of the Self/Innocence",
+"mdc_gate": "[26]「エゴイスト・大きく制御する力」",
+"mdc_gate": "[27]「お世話・養育」Caring/Nourishment",
+"mdc_gate": "[28]「ゲームプレイヤー・大きさの重要性」",
+"mdc_gate": "[29]「はいと言う・深淵」Saying Yes/Abysmal",
+"mdc_gate": "[30]「フィーリング・情熱の炎」Feelings/Clinging Fire",
+"mdc_gate": "[31]「先導する・影響力」Leading/Influence",
+"mdc_gate": "[32]「持続・継続」Continuity/Duration",
+"mdc_gate": "[33]「プライバシー・隠遁」Privacy/Retreat",
+"mdc_gate": "[34]「全力・壮大な力」Power/The Power of the Great",
+"mdc_gate": "[35]「変化・発展」Change/Progress",
+"mdc_gate": "[36]「危機・光が陰る」Crisis/Darkening of the Light",
+"mdc_gate": "[37]「友情・家族」Friendship/Family",
+"mdc_gate": "[38]「戦士・反目」Fighter/Opposition",
+"mdc_gate": "[39]「誘発・障害物」Provocation/Obstruction",
+"mdc_gate": "[40]「孤独・解放」Aloneness/Deliverance",
+"mdc_gate": "[41]「収縮・減少」Contraction/Decrease",
+"mdc_gate": "[42]「成熟・増益」Growth/Increase",
+"mdc_gate": "[43]「自己洞察・打破」Insight/Breakthrough",
+"mdc_gate": "[44]「警戒・偶然の出会い」Alertness/Coming to Meet",
+"mdc_gate": "[45]「集める人・一緒に集める」Gatherer/Gathering Together",
+"mdc_gate": "[46]「決心・着実な上昇」Determination/Pushing Upward",
+"mdc_gate": "[47]「実感・抑圧」Realization/Oppression",
+"mdc_gate": "[48]「深遠さ・井戸」Depth/Well",
+"mdc_gate": "[49]「原理・革命」Principles/Revolution",
+"mdc_gate": "[50]「価値観・大釜」Values/Cauldron",
+"mdc_gate": "[51]「ショック・覚醒の喚起」Shock/Arousing",
+"mdc_gate": "[52]「活動しない・不動」Stillness/Keeping Still Mountain",
+"mdc_gate": "[53]「始まり・成長」Beginnings/Development",
+"mdc_gate": "[54]「野心・乙女の結婚」Drive/Marrying Maiden",
+"mdc_gate": "[55]「スピリット・豊かさ」Spirit/Abundance",
+"mdc_gate": "[56]「刺激・放浪者」Stimulation/Wanderer",
+"mdc_gate": "[57]「直観的な明晰さ・優しさ」Intuitive Clarity/Gentle",
+"mdc_gate": "[58]「活力・悦び」Vitality/The Joyous",
+"mdc_gate": "[59]「セクシャリティ・発散」Sexuality/Dispersion",
+"mdc_gate": "[60]「受容・制限」Acceptance/Limitation",
+"mdc_gate": "[61]「神秘・内なる真実」Mystery/Inner Truth",
+"mdc_gate": "[62]「詳細・小ささの重要性」Details/The Preponderance of the Small",
+"mdc_gate": "[63]「疑うこと・完成の後」Doubt/After Completion",
+"mdc_gate": "[64]「混乱・完成の前」Confusion/Before Completion",
+
+
+・１『タレント』　⇒　★１＋８＝必殺技『天才クリエーター』
+・２『スフィンクス』　⇒　★２＋１４＝必殺技『錬金術師』
+・３『生みの苦しみ』　⇒　★３＋６０＝必殺技『陰極まって陽になる』
+・４『答える人』　⇒　★４＋６３＝必殺技『未来思考派』
+・５『専門家』　⇒　★５＋１５＝必殺技『台風の目』
+・６『その気にさせる』　⇒　★６＋５９＝必殺技『エロ』
+・７『先見の明』　⇒　★７＋３１＝『ジャンヌダルク』
+・８『演出家』　⇒　★１＋８＝必殺技『天才クリエーター』
+・９『一点集中』　⇒　★９＋５２＝必殺技『美女と野獣のバラ』
+・１０『自分好き』　⇒　★１０＋２０＝必殺技『光よりも速く走れ』
+　　　　　　　　　　⇒　★１０＋５７＝必殺技『ミケランジェロ』
+　　　　　　　　　　⇒　★１０＋３４＝必殺技『俺好きの三乗』
+
+・１１『ネタ出し』　⇒　★１１＋５６＝『アイデアマン』
+・１２『人目が気になる』　⇒　★１２＋２２＝必殺技『マリーアントワネット』
+・１３『カウンセラー』　⇒　★１３＋３３＝必殺技『家政婦は見た』
+・１４『裏マネー』　⇒　★２＋１４＝必殺技『錬金術師』
+・１５『ピンキリ』　⇒　★５＋１５＝必殺技『台風の目』
+・１６『できる奴』　⇒　★１６＋４８＝必殺技『芸術家』
+・１７『組織のリーダー』　⇒　★１７＋６２＝『プロデューサー』
+・１８『排水溝の溝掃除（別名：ダメ出し）』　⇒　★１８＋５８＝必殺技『ダメ出し（別名：排水溝の溝掃除）』
+・１９『ちゃっかり者』　⇒　★１９＋４９＝必殺技『固めの盃』
+・２０『今この時の光』　⇒　★１０＋２０＝必殺技『光よりも速く走れ』
+　　　　　　　　　　　　⇒　★２０＋３４＝必殺技『カリスマ』
+　　　　　　　　　　　　⇒　★２０＋５７＝必殺技『火事場の馬鹿力』
+
+・２１『仕切り』　⇒　★２１＋４５＝必殺技『マネー』
+・２２『気まま』　⇒　★１２＋２２＝必殺技『マリーアントワネット』
+・２３『抽象表現の通訳』⇒　★２３＋４３＝必殺技『作家』
+・２４『説明したい』　⇒　★２４＋６１＝必殺技『星の王子様』
+・２５『シャーマン』　⇒　★２５＋５１＝必殺技『一等賞』
+・２６『支配者』　⇒　★２６＋４４＝必殺技『ビジネス』
+・２７『世話好き』　⇒　★２７＋５０＝必殺技『鎮守の森』
+・２８『リスクジャンキー』　⇒　★２８＋３８＝必殺技『ネバーギブアップ』
+・２９『はい』⇒　★２９＋４６『万馬券』
+・３０『ファンタジー』　⇒　★３０＋４１＝必殺技『夢と魔法の王国』
+
+
+・３１『馬に乗った武将』　⇒　★７＋３１＝『ジャンヌダルク』
+・３２『見極める』⇒　★３２＋５４＝必殺技『シンデレラ』
+・３３『秘密の鍵穴』　⇒　★１３＋３３＝必殺技『家政婦は見た』
+・３４『パワー全開』　⇒　★２０＋３４＝必殺技『カリスマ』
+　　　　　　　　　　　⇒　★３４＋５７＝必殺技『おらおら』
+　　　　　　　　　　　⇒　★１０＋３４＝必殺技『俺好きの三乗』
+・３５『行ってみよう』⇒　★３５＋３６＝必殺技『フーテンの寅さん』
+・３６『やってみよう』⇒　★３５＋３６＝必殺技『フーテンの寅さん』
+・３７『身びいき』　⇒　★３７＋４０＝必殺技『裏切者は許さん』
+・３８『アメリカンヒーロー』　⇒　★２８＋３８＝必殺技『ネバーギブアップ』
+・３９『マリリンモンロー』　⇒　★３９＋５５＝必殺技『俳優』
+・４０『タツノオトシゴ』　⇒　★３７＋４０＝必殺技『裏切者は許さん』
+
+
+・４１『ばね』　⇒　★３０＋４１＝必殺技『夢と魔法の王国』
+・４２『潮時』　⇒　★４２＋５３＝必殺技『らせん階段』
+・４３『言葉にならない聞こえない』⇒　★２３＋４３＝必殺技『作家』
+・４４『鼻が利く（気配）』⇒　★２６＋４４＝必殺技『ビジネス』
+・４５『山師』　⇒　★２１＋４５＝必殺技『マネー』
+・４６『魔法使い』⇒　★２９＋４６『万馬券』
+・４７『ディレクター』　⇒　★４７＋６４＝必殺技『編集室』
+・４８『方法論』　⇒　★１６＋４８＝必殺技『芸術家』
+・４９『ツンデレ』　⇒　★１９＋４９＝必殺技『固めの盃』
+・５０『体内酵素』　⇒　★２７＋５０＝必殺技『鎮守の森』
+
+
+・５１『ショック療法』　⇒　★２５＋５１＝必殺技『一等賞』
+・５２『ブッダ』　⇒　★９＋５２＝必殺技『美女と野獣のバラ』
+・５３『始めたがり』　⇒　★４２＋５３＝必殺技『らせん階段』
+・５４『野心家』⇒　★３２＋５４＝必殺技『シンデレラ』
+・５５『ベートーベン』　⇒　★３９＋５５＝必殺技『俳優』
+・５６『芸人』　⇒　★１１＋５６＝『アイデアマン』
+・５７『観音（音）』　⇒　★２０＋５７＝必殺技『火事場の馬鹿力』
+　　　　　　　　　　　⇒　★３４＋５７＝必殺技『おらおら』
+　　　　　　　　　　　⇒　★１０＋５７＝必殺技『ミケランジェロ』
+・５８『マラソン男』　⇒　★１８＋５８＝必殺技『ダメ出し（別名：排水溝の溝掃除）』
+・５９『誘惑』　⇒　★６＋５９＝必殺技『エロ』
+・６０『マグマ』　⇒　★３＋６０＝必殺技『陰極まって陽になる』
+
+
+・６１『ミステリー好き』　⇒　★２４＋６１＝必殺技『星の王子様』
+・６２『守り神』　⇒　★１７＋６２＝『プロデューサー』
+・６３『疑う人』　⇒　★４＋６３＝必殺技『未来思考派』
+・６４『素材集』　⇒　★４７＋６４＝必殺技『編集室』
+
+
+
+
+
+
+
+
+
+
+
+
 
 マイダンジョンカード　診断
 マイダンジョンカード 全アイテム＆必殺技一覧
@@ -558,7 +1318,7 @@ Channel 43/23: Structuring (Channel of Innovative Thinking)
 この言葉を、肝に命じておくがいい！！
 
 Channel 61/24: Awareness (Channel of Cosmic Perspective)
-The 61/24 is the initiating channel in the Knowing Circuit. The initiation energy for this circuit starts in the Head with inspiration. Gate 61 is considered one of the gates of madness (along with Gates 63 and 64). The “madness” of 61 comes from the perpetual question of “Why?” which leads to inspiration through “knowingness,” a sudden awareness of information that doesn’t have any proof or logic.
+The 61/24 is the initiating channel in the Knowing Circuit. The initiation energy for this circuit starts in the Head with inspiration. Gate 61 is considered one of the "channel": "of madness (along with "channel": "63 and 64). The “madness” of 61 comes from the perpetual question of “Why?” which leads to inspiration through “knowingness,” a sudden awareness of information that doesn’t have any proof or logic.
 
 チャネル 61/24: 認識 (宇宙観のチャネル)
 61/24 は、認識回路の開始チャネルです。この回路の開始エネルギーは、インスピレーションとともに頭の中で始まります。ゲート 61 は、ゲート 63 および 64 とともに、狂気のゲートの 1 つと考えられています。61 の「狂気」は、「なぜ?」という永遠の疑問から生じ、それが「認識」、つまり証拠や論理のない情報に対する突然の認識を通じてインスピレーションにつながります。
