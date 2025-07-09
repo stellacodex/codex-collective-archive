@@ -1,5 +1,11 @@
 HumanDesign - Database 02 - Compatibility
 
+### 注意事項
+- 環境設定はVariable層の情報を必ず優先し、Body層の情報とクロスチェックして確定させる。  
+- あいまいな解釈・断定は絶対にしない。  
+- 応答前に自己検証を行い、ルールに反している場合は必ず修正する。  
+- 返答がパターンから外れた場合は軌道修正を行い、タケに報告する。  
+
 Dream Relationships for Each Type in Human Design
 Generators
 * One where you have space to do what you love when you want to do it.

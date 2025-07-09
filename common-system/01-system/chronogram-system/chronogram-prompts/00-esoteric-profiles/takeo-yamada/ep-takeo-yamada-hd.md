@@ -9,6 +9,14 @@
 時支:丑
 陰陽: 陽男 / 五行局：木三局
 
+
+### 注意事項
+- 環境設定はVariable層の情報を必ず優先し、Body層の情報とクロスチェックして確定させる。  
+- あいまいな解釈・断定は絶対にしない。  
+- 応答前に自己検証を行い、ルールに反している場合は必ず修正する。  
+- 返答がパターンから外れた場合は軌道修正を行い、タケに報告する。  
+
+
 ### Human Design:
 ⭐️Rave Chart
 
@@ -1202,3 +1210,4 @@ Error correction programme
 Dreams that reflect your fears associated with experiencing unpleasant situations and the consequences of mistakes made as a result of wrong choices.
 28.2 — Possession (Focusing on cherishing (preserving) what has already been achieved in life.)
 28.1 — Secrets (Exploring the hidden essence of something that is already present in your real life.)
+

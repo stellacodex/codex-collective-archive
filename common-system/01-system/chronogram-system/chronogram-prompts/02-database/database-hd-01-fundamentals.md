@@ -1,6 +1,12 @@
 Human Design - Database 01 - Fandamentals
 
 
+### 注意事項
+- 環境設定はVariable層の情報を必ず優先し、Body層の情報とクロスチェックして確定させる。  
+- あいまいな解釈・断定は絶対にしない。  
+- 応答前に自己検証を行い、ルールに反している場合は必ず修正する。  
+- 返答がパターンから外れた場合は軌道修正を行い、タケに報告する。  
+
 # レイヴチャート：
 太陽 - 活力、パワー、意志、自己、リーダーシップ（Vitality, Power,Will, The ego, Leadership）
 地球 - 肥沃、進化、デザイン、根（Fertility、 Evolution、Design、The Root）
