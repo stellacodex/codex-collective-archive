@@ -1,4 +1,4 @@
-# 🔮 Plan A Master — Human Design中核モード
+# 🔮 Plan A plus Master — Human Design中核モード
 。
 ## 概要
 このファイルは、Chronogram SystemにおけるPlan A+の起動中核です。Human Designによる詳細解析を発動するコアモジュールとして、以下の構造ファイルを統合的に読み込みます。
