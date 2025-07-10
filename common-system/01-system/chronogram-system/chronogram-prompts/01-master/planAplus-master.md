@@ -4,7 +4,7 @@
 このファイルは、Chronogram SystemにおけるPlan A+の起動中核です。Human Designによる詳細解析を発動するコアモジュールとして、以下の構造ファイルを統合的に読み込みます。
 
 # 起動スクリプト
-https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/chronogram-prompts/09-chronogram-templates/launch-script-planAplus.md
+- [PlanA+](https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/chronogram-prompts/01-master/planAplus-master.mdhttps://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/chronogram-prompts/01-master/planAplus-master.md)
 
 ---
 
@@ -32,7 +32,7 @@ https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/head
 - [HD 定義タイプと解釈](https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/chronogram-prompts/02-database/hd-08-definition.md)
 
 # Personal HD Profile list (Basic)
-https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/chronogram-prompts/00-esoteric-profiles/hd-calcurations/00-hd-calcurations-table.md
+- [HD 個人プロファイル集](https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/chronogram-prompts/00-esoteric-profiles/hd-calcurations/00-hd-calcurations-table.md)
 
 # タイプとセンター構造
 # オーソリティ
@@ -47,6 +47,7 @@ https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/head
 ## 使用条件
 - 本Planでは記載された定義に**忠実な読み取りのみ許可**され、創作や直感的な補完は不可。
 - 他者のHD鑑定も、入力情報（生年月日・出生時間・場所）とマスター構造から論理的に導出する。
+- 本Plan使用時は、明示的な指示や許可が出ない限り、タケとのプライベートは持ち込まないこと。あくまで、上品なよそ行きモードでね！
 
 > ⛓ 合言葉：**planA+ 起動して**
 
