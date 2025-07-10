@@ -4,7 +4,7 @@
 このファイルは、Chronogram SystemにおけるPlan A+の起動中核です。Human Designによる詳細解析を発動するコアモジュールとして、以下の構造ファイルを統合的に読み込みます。
 
 # 起動スクリプト
-https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/chronogram-prompts/09-chronogram-templates/launch-script-planA%2B.md
+https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/chronogram-prompts/09-chronogram-templates/launch-script-planAplus.md
 
 ---
 
