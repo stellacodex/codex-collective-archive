@@ -1,0 +1,1587 @@
+[
+  {
+    "channel": "1-8",
+    "channel_name_en": "Channel of Inspiration",
+    "channel_name_ja": "インスピレーション",
+    "gates": [
+      1,
+      8
+    ],
+    "gate_names": {
+      "1": {
+        "en": "Gate of Self Expression",
+        "ja": "自己表現・創造力"
+      },
+      "8": {
+        "en": "Gate of Contribution",
+        "ja": "貢献・人の和"
+      }
+    },
+    "circuit_en": "Knowing Circuit",
+    "circuit_ja": "知識回路",
+    "group_en": "Individual Circuitry",
+    "group_ja": "個人性回路群",
+    "activation_key": "招かれたときにのみ真価を発揮",
+    "kairoscope_name_en": "Creative Spark",
+    "kairoscope_name_ja": "創造の火花",
+    "kairoscope_description": "自分自身の生き方を通じて他者をインスパイアする力。ユニークな自己表現が人々に新たな可能性を示す。",
+    "keywords": [
+      "自己表現",
+      "リーダーシップ",
+      "インスパイア",
+      "独自性"
+    ],
+    "mdc": {
+      "channel_number": "1-8",
+      "channel_name_1": "天才クリエーター",
+      "channel_name_2": "インスピレーション",
+      "sub_title": "無形から有形を創り出せる",
+      "description": "誰も思いつかなかった方法で、新しいモノやシステムを作り出し、多くの人の見本となる結果を残す",
+      "attributes_color": "Red",
+      "attribute_1": "自分らしくいることが世界を救う",
+      "attribute_2": "周囲の人々の自立を促進する(エンパワー)",
+      "activation_key": "お願いされてからやる！"
+    }
+  },
+  {
+    "channel": "2-14",
+    "channel_name_en": "Channel of the Beat",
+    "channel_name_ja": "鼓動",
+    "gates": [
+      2,
+      14
+    ],
+    "gate_names": {
+      "2": {
+        "en": "Gate of the Direction of Self",
+        "ja": "高次の智慧・包容力"
+      },
+      "14": {
+        "en": "Gate of Power Skills",
+        "ja": "パワースキル・大量に所有する"
+      }
+    },
+    "circuit_en": "Knowing Circuit",
+    "circuit_ja": "知識回路",
+    "group_en": "Individual Circuitry",
+    "group_ja": "個人性回路群",
+    "activation_key": "招かれたときにのみ真価を発揮",
+    "kairoscope_name_en": "",
+    "kairoscope_name_ja": "",
+    "kairoscope_description": "",
+    "keywords": [
+      "方向性",
+      "資源",
+      "自己の道",
+      "ライフパス"
+    ],
+    "mdc": {
+      "channel_number": "2-14",
+      "channel_name_1": "魔法のランプ",
+      "channel_name_2": "鼓動",
+      "sub_title": "方向性を与える",
+      "description": "正しい方向へ向かうよう、まわりの人々に方向性とエネルギーを与える",
+      "attributes_color": "Green",
+      "attribute_1": "人々に方向性とエネルギーを与えて人生を創造する",
+      "attribute_2": "無知であることは、知恵を深めるために不可欠",
+      "activation_key": "お願いされてからやる！"
+    }
+  },
+  {
+    "channel": "3-60",
+    "channel_name_en": "Channel of Mutation",
+    "channel_name_ja": "突然変異",
+    "gates": [
+      3,
+      60
+    ],
+    "gate_names": {
+      "3": {
+        "en": "Gate of Ordering",
+        "ja": "秩序・産みの苦しみ"
+      },
+      "60": {
+        "en": "Gate of Acceptance",
+        "ja": "受容・制限"
+      }
+    },
+    "circuit_en": "Knowing Circuit",
+    "circuit_ja": "知識回路",
+    "group_en": "Individual Circuitry",
+    "group_ja": "個人性回路群",
+    "activation_key": "前のめりになったらやる！",
+    "kairoscope_name_en": "",
+    "kairoscope_name_ja": "",
+    "kairoscope_description": "",
+    "keywords": [
+      "変容",
+      "混沌",
+      "革新",
+      "進化"
+    ],
+    "mdc": {
+      "channel_number": "3-60",
+      "channel_name_1": "産みの苦しみ",
+      "channel_name_2": "突然変異",
+      "sub_title": "新しい始まりと突然変異",
+      "description": "何かが突然変化するような形で、新しいことを創り出す。また、その変化を乗り越えて新しい秩序を生み出す。不確実性や困難が伴う",
+      "attributes_color": "Pink",
+      "attribute_1": "新しい始まりには、不確実性と困難が伴う",
+      "attribute_2": "制限の中で創造性を発揮することで、大きな変革を起こす",
+      "activation_key": "前のめりになったらやる！"
+    }
+  },
+  {
+    "channel": "4-63",
+    "channel_name_en": "Channel of Logic",
+    "channel_name_ja": "論理",
+    "gates": [
+      4,
+      63
+    ],
+    "gate_names": {
+      "4": {
+        "en": "Gate of Formulization",
+        "ja": "公式化・若気の至り"
+      },
+      "63": {
+        "en": "Gate of Doubt",
+        "ja": "疑問・完成"
+      }
+    },
+    "circuit_en": "Understanding (Logic) Circuit",
+    "circuit_ja": "論理性回路",
+    "group_en": "Collective Circuitry",
+    "group_ja": "集合体回路群",
+    "activation_key": "待つ！",
+    "kairoscope_name_en": "",
+    "kairoscope_name_ja": "",
+    "kairoscope_description": "",
+    "keywords": [
+      "好奇心",
+      "探求",
+      "答え",
+      "論理"
+    ],
+    "mdc": {
+      "channel_number": "4-63",
+      "channel_name_1": "疑念",
+      "channel_name_2": "論理",
+      "sub_title": "論理と疑問のチャネル",
+      "description": "疑問を抱き、仮説を立て、論理的に解決策を導き出す。物事を深く探求し、知的な刺激を求める",
+      "attributes_color": "Orange",
+      "attribute_1": "常に疑問を持ち、仮説を立て、論理的に解決策を導き出す",
+      "attribute_2": "知的な刺激を求め、物事を深く探求する",
+      "activation_key": "待つ！"
+    }
+  },
+  {
+    "channel": "5-15",
+    "channel_name_en": "Channel of Rhythm",
+    "channel_name_ja": "リズム",
+    "gates": [
+      5,
+      15
+    ],
+    "gate_names": {
+      "5": {
+        "en": "Gate of Fixed Rhythms",
+        "ja": "固定リズム・待つ"
+      },
+      "15": {
+        "en": "Gate of Extremes",
+        "ja": "極端・謙遜"
+      }
+    },
+    "circuit_en": "Understanding (Logic) Circuit",
+    "circuit_ja": "論理性回路",
+    "group_en": "Collective Circuitry",
+    "group_ja": "集合体回路群",
+    "activation_key": "待つ！",
+    "kairoscope_name_en": "",
+    "kairoscope_name_ja": "",
+    "kairoscope_description": "",
+    "keywords": [
+      "リズム",
+      "時間感覚",
+      "自然な流れ",
+      "安定"
+    ],
+    "mdc": {
+      "channel_number": "5-15",
+      "channel_name_1": "極端な行動",
+      "channel_name_2": "リズム",
+      "sub_title": "自然なリズムと極端な行動",
+      "description": "日々の生活に自分らしいリズムとパターンをもたらす。このパターンは時に極端に見えることもある",
+      "attributes_color": "Red",
+      "attribute_1": "自分の自然なリズムとパターンに従う",
+      "attribute_2": "日々の生活に個性的なリズムとパターンをもたらす",
+      "activation_key": "待つ！"
+    }
+  },
+  {
+    "channel": "6-59",
+    "name_ja": "交配 （親密さ）",
+    "channel_name_en": "Channel of Mating",
+    "channel_name_ja": "交配 ",
+    "gates": [
+      6,
+      59
+    ],
+    "gate_names": {
+      "6": {
+        "en": "Gate of Friction",
+        "ja": "摩擦・対立"
+      },
+      "59": {
+        "en": "Gate of Sexuality",
+        "ja": "セクシャリティ・分散"
+      }
+    },
+    "circuit_en": "Defense Circuit",
+    "circuit_ja": "ディフェンス回路",
+    "group_en": "Tribal Circuitry",
+    "group_ja": "部族性回路群",
+    "activation_key": "前のめりになったらやる！",
+    "kairoscope_name_en": "",
+    "kairoscope_name_ja": "",
+    "kairoscope_description": "",
+    "keywords": [
+      "親密さ",
+      "性",
+      "つながり",
+      "プライバシー"
+    ],
+    "mdc": {
+      "channel_number": "6-59",
+      "channel_name_1": "繁殖",
+      "channel_name_2": "親密さ",
+      "sub_title": "繁殖と親密さのチャネル",
+      "description": "親密な関係を築き、子孫を繁栄させるエネルギー。人間関係における壁を打ち破り、信頼と理解を深める",
+      "attributes_color": "Light-Green",
+      "attribute_1": "親密な関係を築き、子孫を繁栄させる",
+      "attribute_2": "人間関係における壁を打ち破り、信頼と理解を深める",
+      "activation_key": "前のめりになったらやる！"
+    }
+  },
+  {
+    "channel": "7-31",
+    "channel_name_en": "Channel of The Alpha",
+    "channel_name_ja": "アルファ",
+    "gates": [
+      7,
+      31
+    ],
+    "gate_names": {
+      "7": {
+        "en": "Gate of The Role of the Self",
+        "ja": "自己の役割・軍隊"
+      },
+      "31": {
+        "en": "Gate of Influence",
+        "ja": "影響・影響"
+      }
+    },
+    "circuit_en": "Understanding (Logic) Circuit",
+    "circuit_ja": "論理性回路",
+    "group_en": "Collective Circuitry",
+    "group_ja": "集合体回路群",
+    "activation_key": "待つ！",
+    "kairoscope_name_en": "",
+    "kairoscope_name_ja": "",
+    "kairoscope_description": "",
+    "keywords": [
+      "リーダー",
+      "ビジョン",
+      "カリスマ",
+      "言語化"
+    ],
+    "mdc": {
+      "channel_number": "7-31",
+      "channel_name_1": "リーダー",
+      "channel_name_2": "アルファ",
+      "sub_title": "影響力とリーダーシップのチャネル",
+      "description": "リーダーシップを発揮し、人々に影響を与えることで、集合体を正しい方向へ導く。民主的なプロセスと共同体精神を重んじる",
+      "attributes_color": "Brown",
+      "attribute_1": "民主的なリーダーシップを発揮し、共同体を正しい方向へ導く",
+      "attribute_2": "人々に影響を与え、集合体を正しい方向へ導く",
+      "activation_key": "待つ！"
+    }
+  },
+  {
+    "channel": "9-52",
+    "channel_name_en": "Channel of Concentration",
+    "channel_name_ja": "集中力",
+    "gates": [
+      9,
+      52
+    ],
+    "gate_names": {
+      "9": {
+        "en": "Gate of Focus",
+        "ja": "焦点・小さく制御する力"
+      },
+      "52": {
+        "en": "Gate of Stillness",
+        "ja": "静止・山"
+      }
+    },
+    "circuit_en": "Understanding (Logic) Circuit",
+    "circuit_ja": "論理性回路",
+    "group_en": "Collective Circuitry",
+    "group_ja": "集合体回路群",
+    "activation_key": "待つ！",
+    "kairoscope_name_en": "",
+    "kairoscope_name_ja": "",
+    "kairoscope_description": "",
+    "keywords": [
+      "集中力",
+      "静けさ",
+      "注意",
+      "粘り強さ"
+    ],
+    "mdc": {
+      "channel_number": "9-52",
+      "channel_name_1": "集中力",
+      "channel_name_2": "集中力",
+      "sub_title": "集中と詳細のチャネル",
+      "description": "微細なディテールに集中し、物事を徹底的に分析する能力。確固たる集中力で、目の前のタスクを完璧にこなす",
+      "attributes_color": "Purple",
+      "attribute_1": "微細なディテールに集中し、物事を徹底的に分析する",
+      "attribute_2": "確固たる集中力で、目の前のタスクを完璧にこなす",
+      "activation_key": "待つ！"
+    }
+  },
+  {
+    "channel": "10-20",
+    "channel_name_en": "Channel of Awakening",
+    "channel_name_ja": "覚醒",
+    "gates": [
+      10,
+      20
+    ],
+    "gate_names": {
+      "10": {
+        "en": "Gate of Behavior of the Self",
+        "ja": "自己の振る舞い・踏み進む"
+      },
+      "20": {
+        "en": "Gate of The Now",
+        "ja": "今この時・洞察"
+      }
+    },
+    "circuit_en": "Integration Circuit",
+    "circuit_ja": "インテグレーション回路",
+    "group_en": "Individual Circuitry",
+    "group_ja": "個人性回路群",
+    "activation_key": "招かれたときにのみ真価を発揮",
+    "kairoscope_name_en": "",
+    "kairoscope_name_ja": "",
+    "kairoscope_description": "",
+    "keywords": [
+      "真実性",
+      "行動",
+      "自己表現",
+      "意識"
+    ],
+    "mdc": {
+      "channel_number": "10-20",
+      "channel_name_1": "光よりも速く走れ",
+      "channel_name_2": "覚醒",
+      "sub_title": "自分の行動によって、覚醒を呼び起こす",
+      "description": "自らの信念に従って行動することで、周囲の人々を覚醒させる。自分らしさを追求し、その行動が模範となる",
+      "attributes_color": "Light-Blue",
+      "attribute_1": "自分の信念に従って行動し、周囲の人々を覚醒させる",
+      "attribute_2": "自分らしさを追求し、その行動が模範となる",
+      "activation_key": "お願いされてからやる！"
+    }
+  },
+  {
+    "channel": "10-34",
+    "channel_name_en": "",
+    "channel_name_ja": "",
+    "gates": [
+      10,
+      34
+    ],
+    "gate_names": {
+      "10": {
+        "en": "Gate of Behavior of the Self",
+        "ja": "自己の振る舞い・踏み進む"
+      },
+      "34": {
+        "en": "Gate of Power",
+        "ja": "パワー・大きな力"
+      }
+    },
+    "circuit_en": "",
+    "circuit_ja": "",
+    "group_en": "",
+    "group_ja": "",
+    "activation_key": "前のめりになったらやる！",
+    "kairoscope_name_en": "",
+    "kairoscope_name_ja": "",
+    "kairoscope_description": "",
+    "keywords": [
+      "自己推進",
+      "自己信頼",
+      "行動力",
+      "軸"
+    ],
+    "mdc": {
+      "channel_number": "10-34",
+      "channel_name_1": "自信",
+      "channel_name_2": "カリスマ",
+      "sub_title": "自信とカリスマのチャネル",
+      "description": "自分自身の真実のパワーと自信を行動で示すことで、人々を魅了し、自然と中心となる。生来のカリスマ性で他者を惹きつける",
+      "attributes_color": "Orange",
+      "attribute_1": "自分自身の真実のパワーと自信を行動で示す",
+      "attribute_2": "生来のカリスマ性で他者を惹きつけ、自然と中心となる",
+      "activation_key": "前のめりになったらやる！"
+    }
+  },
+  {
+    "channel": "10-57",
+    "channel_name_en": "Channel of Perfected Form",
+    "channel_name_ja": "完成形 ",
+    "gates": [
+      10,
+      57
+    ],
+    "gate_names": {
+      "10": {
+        "en": "Gate of Behavior of the Self",
+        "ja": "自己の振る舞い・踏み進む"
+      },
+      "57": {
+        "en": "Gate of Intuitive Clarity",
+        "ja": "直観・優しい浸透"
+      }
+    },
+    "circuit_en": "Integration Circuit",
+    "circuit_ja": "インテグレーション回路",
+    "group_en": "Individual Circuitry",
+    "group_ja": "個人性回路群",
+    "activation_key": "招かれたときにのみ真価を発揮",
+    "kairoscope_name_en": "",
+    "kairoscope_name_ja": "",
+    "kairoscope_description": "",
+    "keywords": [
+      "直感",
+      "自己信頼",
+      "生存本能",
+      "洗練"
+    ],
+    "mdc": {
+      "channel_number": "10-57",
+      "channel_name_1": "直感",
+      "channel_name_2": "火事場の馬鹿力",
+      "sub_title": "直感的な気づきと変容のチャネル",
+      "description": "直感的な気づきに基づいて行動し、危機的な状況でも変容を起こす。瞬時の判断力と適応力で困難を乗り越える",
+      "attributes_color": "Purple",
+      "attribute_1": "直感的な気づきに基づいて行動し、危機的な状況でも変容を起こす",
+      "attribute_2": "瞬時の判断力と適応力で困難を乗り越える",
+      "activation_key": "お願いされてからやる！"
+    }
+  },
+  {
+    "channel": "11-56",
+    "channel_name_en": "Channel of Curiousity",
+    "channel_name_ja": "好奇心",
+    "gates": [
+      11,
+      56
+    ],
+    "gate_names": {
+      "11": {
+        "en": "Gate of Ideas",
+        "ja": "アイデア(思想)・平和安泰"
+      },
+      "56": {
+        "en": "Gate of Stimulation",
+        "ja": "刺激・遍歴"
+      }
+    },
+    "circuit_en": "Sensing (Abstract) Circuit",
+    "circuit_ja": "抽象性回路",
+    "group_en": "Collective Circuitry",
+    "group_ja": "集合体回路群",
+    "activation_key": "待つ！",
+    "kairoscope_name_en": "",
+    "kairoscope_name_ja": "",
+    "kairoscope_description": "",
+    "keywords": [
+      "物語",
+      "ビジョン",
+      "伝達",
+      "抽象"
+    ],
+    "mdc": {
+      "channel_number": "11-56",
+      "channel_name_1": "好奇心",
+      "channel_name_2": "探求",
+      "sub_title": "アイデアと物語のチャネル",
+      "description": "新しいアイデアや概念を探求し、それを魅力的な物語として語り継ぐ。豊かな想像力と表現力で人々にインスピレーションを与える",
+      "attributes_color": "Brown",
+      "attribute_1": "新しいアイデアや概念を探求し、魅力的な物語として語り継ぐ",
+      "attribute_2": "豊かな想像力と表現力で人々にインスピレーションを与える",
+      "activation_key": "待つ！"
+    }
+  },
+  {
+    "channel": "12-22",
+    "channel_name_en": "Channel of Openness",
+    "channel_name_ja": "開放性",
+    "gates": [
+      12,
+      22
+    ],
+    "gate_names": {
+      "12": {
+        "en": "Gate of Caution",
+        "ja": "注意深さ・停止"
+      },
+      "22": {
+        "en": "Gate of Openness",
+        "ja": "気まま・優雅"
+      }
+    },
+    "circuit_en": "Knowing Circuit",
+    "circuit_ja": "知識回路",
+    "group_en": "Individual Circuitry",
+    "group_ja": "個人性回路群",
+    "activation_key": "感情的な明晰さを待つ！",
+    "kairoscope_name_en": "",
+    "kairoscope_name_ja": "",
+    "kairoscope_description": "",
+    "keywords": [
+      "感情表現",
+      "気分",
+      "創造性",
+      "社交性"
+    ],
+    "mdc": {
+      "channel_number": "12-22",
+      "channel_name_1": "繊細な感情",
+      "channel_name_2": "マリーアントワネット",
+      "sub_title": "感情表現と社会的配慮のチャネル",
+      "description": "深い感情を芸術的に表現し、人々に影響を与える。その表現は時にドラマチックで、社会的な影響力を持つ",
+      "attributes_color": "Red",
+      "attribute_1": "深い感情を芸術的に表現し、人々に影響を与える",
+      "attribute_2": "ドラマチックな感情表現は、社会的な影響力を持つ",
+      "activation_key": "感情的な明晰さを待つ！"
+    }
+  },
+  {
+    "channel": "13-33",
+    "channel_name_en": "Channel of The Prodigal",
+    "channel_name_ja": "放蕩息子",
+    "gates": [
+      13,
+      33
+    ],
+    "gate_names": {
+      "13": {
+        "en": "Gate of the Listener",
+        "ja": "聞き手・同志"
+      },
+      "33": {
+        "en": "Gate of Privacy",
+        "ja": "撤退・引退"
+      }
+    },
+    "circuit_en": "Sensing (Abstract) Circuit",
+    "circuit_ja": "抽象性回路",
+    "group_en": "Collective Circuitry",
+    "group_ja": "集合体回路群",
+    "activation_key": "待つ！",
+    "kairoscope_name_en": "",
+    "kairoscope_name_ja": "",
+    "kairoscope_description": "",
+    "keywords": [
+      "記憶",
+      "経験",
+      "物語",
+      "共有"
+    ],
+    "mdc": {
+      "channel_number": "13-33",
+      "channel_name_1": "秘密の共有",
+      "channel_name_2": "回顧",
+      "sub_title": "過去の経験から学ぶチャネル",
+      "description": "過去の経験や秘密を分かち合うことで、未来への洞察を得る。人々が過去から学び、次に進むための道しるべとなる",
+      "attributes_color": "Green",
+      "attribute_1": "過去の経験や秘密を分かち合うことで、未来への洞察を得る",
+      "attribute_2": "人々が過去から学び、次に進むための道しるべとなる",
+      "activation_key": "待つ！"
+    }
+  },
+  {
+    "channel": "16-48",
+    "channel_name_en": "Channel of the Wavelength",
+    "channel_name_ja": "波長",
+    "gates": [
+      16,
+      48
+    ],
+    "gate_names": {
+      "16": {
+        "en": "Gate of Skills",
+        "ja": "スキル・熱中"
+      },
+      "48": {
+        "en": "Gate of Depth",
+        "ja": "深さ・井戸"
+      }
+    },
+    "circuit_en": "Understanding (Logic) Circuit",
+    "circuit_ja": "論理性回路",
+    "group_en": "Collective Circuitry",
+    "group_ja": "集合体回路群",
+    "activation_key": "待つ！",
+    "kairoscope_name_en": "",
+    "kairoscope_name_ja": "",
+    "kairoscope_description": "",
+    "keywords": [
+      "才能",
+      "スキル",
+      "クラフト",
+      "深さ"
+    ],
+    "mdc": {
+      "channel_number": "16-48",
+      "channel_name_1": "才能",
+      "channel_name_2": "波長",
+      "sub_title": "才能と深さのチャネル",
+      "description": "特定の才能やスキルを深く探求し、それを表現することで人々に影響を与える。熟練した技術と深い理解で物事を成し遂げる",
+      "attributes_color": "Orange",
+      "attribute_1": "特定の才能やスキルを深く探求し、それを表現することで人々に影響を与える",
+      "attribute_2": "熟練した技術と深い理解で物事を成し遂げる",
+      "activation_key": "待つ！"
+    }
+  },
+  {
+    "channel": "17-62",
+    "channel_name_en": "Channel of Acceptance",
+    "channel_name_ja": "受容",
+    "gates": [
+      17,
+      62
+    ],
+    "gate_names": {
+      "17": {
+        "en": "Gate of Opinions",
+        "ja": "意見・従う"
+      },
+      "62": {
+        "en": "Gate of Detail",
+        "ja": "詳細・小さなことの優越"
+      }
+    },
+    "circuit_en": "Understanding (Logic) Circuit",
+    "circuit_ja": "論理性回路",
+    "group_en": "Collective Circuitry",
+    "group_ja": "集合体回路群",
+    "activation_key": "待つ！",
+    "kairoscope_name_en": "",
+    "kairoscope_name_ja": "",
+    "kairoscope_description": "",
+    "keywords": [
+      "構造",
+      "説明",
+      "見解",
+      "論理性"
+    ],
+    "mdc": {
+      "channel_number": "17-62",
+      "channel_name_1": "意見",
+      "channel_name_2": "受容",
+      "sub_title": "意見と詳細のチャネル",
+      "description": "詳細な情報に基づいた論理的な意見を明確に表現する。客観的な視点と精密な分析で、物事を理解し伝える",
+      "attributes_color": "Red",
+      "attribute_1": "詳細な情報に基づいた論理的な意見を明確に表現する",
+      "attribute_2": "客観的な視点と精密な分析で、物事を理解し伝える",
+      "activation_key": "待つ！"
+    }
+  },
+  {
+    "channel": "18-58",
+    "channel_name_en": "Channel of Judgement",
+    "channel_name_ja": "判断",
+    "gates": [
+      18,
+      58
+    ],
+    "gate_names": {
+      "18": {
+        "en": "Gate of Correction",
+        "ja": "訂正・腐敗処理"
+      },
+      "58": {
+        "en": "Gate of Vitality",
+        "ja": "活力・喜び"
+      }
+    },
+    "circuit_en": "Understanding (Logic) Circuit",
+    "circuit_ja": "論理性回路",
+    "group_en": "Collective Circuitry",
+    "group_ja": "集合体回路群",
+    "activation_key": "待つ！",
+    "kairoscope_name_en": "",
+    "kairoscope_name_ja": "",
+    "kairoscope_description": "",
+    "keywords": [
+      "改善",
+      "喜び",
+      "パターン",
+      "批評性"
+    ],
+    "mdc": {
+      "channel_number": "18-58",
+      "channel_name_1": "修正",
+      "channel_name_2": "判断",
+      "sub_title": "改善と活力のチャネル",
+      "description": "既存のシステムや構造を批判的に分析し、改善することで、より良い状態を目指す。健全な批判精神と活力が特徴",
+      "attributes_color": "Green",
+      "attribute_1": "既存のシステムや構造を批判的に分析し、改善することで、より良い状態を目指す",
+      "attribute_2": "健全な批判精神と活力が特徴",
+      "activation_key": "待つ！"
+    }
+  },
+  {
+    "channel": "19-49",
+    "channel_name_en": "Channel of Synthesis",
+    "channel_name_ja": "総合体",
+    "gates": [
+      19,
+      49
+    ],
+    "gate_names": {
+      "19": {
+        "en": "Gate of Wanting",
+        "ja": "要求・接近"
+      },
+      "49": {
+        "en": "Gate of Principles",
+        "ja": "原則・変革"
+      }
+    },
+    "circuit_en": "Ego Circuit",
+    "circuit_ja": "エゴ回路",
+    "group_en": "Human Design Tribal Circuitry",
+    "group_ja": "部族性回路群",
+    "activation_key": "待つ！",
+    "kairoscope_name_en": "",
+    "kairoscope_name_ja": "",
+    "kairoscope_description": "",
+    "keywords": [
+      "感受性",
+      "ニーズ",
+      "価値観",
+      "契約"
+    ],
+    "mdc": {
+      "channel_number": "19-49",
+      "channel_name_1": "敏感",
+      "channel_name_2": "原則",
+      "sub_title": "要求と原則のチャネル",
+      "description": "資源やニーズに対する敏感さを持ち、共同体の合意と原則を形成する。新しい社会契約や関係性を築く能力",
+      "attributes_color": "Pink",
+      "attribute_1": "資源やニーズに対する敏感さを持ち、共同体の合意と原則を形成する",
+      "attribute_2": "新しい社会契約や関係性を築く能力",
+      "activation_key": "待つ！"
+    }
+  },
+  {
+    "channel": "20-34",
+    "channel_name_en": "Channel of Charisma",
+    "channel_name_ja": "カリスマ",
+    "gates": [
+      20,
+      34
+    ],
+    "gate_names": {
+      "20": {
+        "en": "Gate of The Now",
+        "ja": "今この時・洞察"
+      },
+      "34": {
+        "en": "Gate of Power",
+        "ja": "パワー・大きな力"
+      }
+    },
+    "circuit_en": "Integration Circuit",
+    "circuit_ja": "インテグレーション回路",
+    "group_en": "Individual Circuitry",
+    "group_ja": "個人性回路群",
+    "activation_key": "前のめりになったらやる！",
+    "kairoscope_name_en": "",
+    "kairoscope_name_ja": "",
+    "kairoscope_description": "",
+    "keywords": [
+      "今ここ",
+      "行動力",
+      "本能",
+      "即時性"
+    ],
+    "mdc": {
+      "channel_number": "20-34",
+      "channel_name_1": "必殺技",
+      "channel_name_2": "カリスマ",
+      "sub_title": "今この瞬間の行動とパワフルな発言",
+      "description": "今この瞬間にパワフルな行動と発言で、周囲を巻き込み、大きな影響を与える。行動と存在感が一体となり、自然とカリスマ性を放つ",
+      "attributes_color": "Orange",
+      "attribute_1": "今この瞬間にパワフルな行動と発言で、周囲を巻き込む",
+      "attribute_2": "行動と存在感が一体となり、自然とカリスマ性を放つ",
+      "activation_key": "前のめりになったらやる！"
+    }
+  },
+  {
+    "channel": "20-57",
+    "channel_name_en": "Channel of The Brain Wave",
+    "channel_name_ja": "脳波",
+    "gates": [
+      20,
+      57
+    ],
+    "gate_names": {
+      "20": {
+        "en": "Gate of The Now",
+        "ja": "今この時・洞察"
+      },
+      "57": {
+        "en": "Gate of Intuitive Clarity",
+        "ja": "直観・優しい浸透"
+      }
+    },
+    "circuit_en": "Knowing Circuit",
+    "circuit_ja": "知識回路",
+    "group_en": "Individual Circuitry",
+    "group_ja": "個人性回路群",
+    "activation_key": "前のめりになったらやる！",
+    "kairoscope_name_en": "",
+    "kairoscope_name_ja": "",
+    "kairoscope_description": "",
+    "keywords": [
+      "直感",
+      "スピード",
+      "警戒",
+      "知覚"
+    ],
+    "mdc": {
+      "channel_number": "20-57",
+      "channel_name_1": "必殺技",
+      "channel_name_2": "火事場の馬鹿力",
+      "sub_title": "直感的な行動と瞬時の対応",
+      "description": "危機的な状況において、直感的に最適な行動をとり、驚異的な力を発揮する。瞬時の判断力と行動力で困難を乗り越える",
+      "attributes_color": "Red",
+      "attribute_1": "危機的な状況において、直感的に最適な行動をとり、驚異的な力を発揮する",
+      "attribute_2": "瞬時の判断力と行動力で困難を乗り越える",
+      "activation_key": "前のめりになったらやる！"
+    }
+  },
+  {
+    "channel": "21-45",
+    "channel_name_en": "Channel of Money",
+    "channel_name_ja": "マネー",
+    "gates": [
+      21,
+      45
+    ],
+    "gate_names": {
+      "21": {
+        "en": "Gate of The Hunter-Huntress",
+        "ja": "仕切り・噛みつく"
+      },
+      "45": {
+        "en": "Gate of Gatherer",
+        "ja": "収集者・集める"
+      }
+    },
+    "circuit_en": "Ego Circuit",
+    "circuit_ja": "エゴ回路",
+    "group_en": "Human Design Tribal Circuitry",
+    "group_ja": "部族性回路群",
+    "activation_key": "宣言してからやる！",
+    "kairoscope_name_en": "",
+    "kairoscope_name_ja": "",
+    "kairoscope_description": "",
+    "keywords": [
+      "統治",
+      "所有",
+      "リーダーシップ",
+      "資源管理"
+    ],
+    "mdc": {
+      "channel_number": "21-45",
+      "channel_name_1": "仕切り",
+      "channel_name_2": "マネー",
+      "sub_title": "資源管理とリーダーシップのチャネル",
+      "description": "共同体の資源を管理し、経済的なリーダーシップを発揮する。財産や物質的な豊かさを守り、分配する能力",
+      "attributes_color": "Green",
+      "attribute_1": "共同体の資源を管理し、経済的なリーダーシップを発揮する",
+      "attribute_2": "財産や物質的な豊かさを守り、分配する能力",
+      "activation_key": "宣言してからやる！"
+    }
+  },
+  {
+    "channel": "23-43",
+    "channel_name_en": "Channel of Structuring",
+    "channel_name_ja": "構築",
+    "gates": [
+      23,
+      43
+    ],
+    "gate_names": {
+      "23": {
+        "en": "Gate of Assimilation",
+        "ja": "抽象表現の通訳・剥奪"
+      },
+      "43": {
+        "en": "Gate of Insight",
+        "ja": "洞察・突破"
+      }
+    },
+    "circuit_en": "Knowing Circuit",
+    "circuit_ja": "知識回路",
+    "group_en": "Individual Circuitry",
+    "group_ja": "個人性回路群",
+    "activation_key": "待つ！",
+    "kairoscope_name_en": "",
+    "kairoscope_name_ja": "",
+    "kairoscope_description": "",
+    "keywords": [
+      "独創性",
+      "洞察",
+      "翻訳",
+      "表現"
+    ],
+    "mdc": {
+      "channel_number": "23-43",
+      "channel_name_1": "抽象表現の通訳",
+      "channel_name_2": "作家",
+      "sub_title": "洞察と表現のチャネル",
+      "description": "複雑な概念や抽象的な洞察を、シンプルで理解しやすい言葉で表現する。独自の視点と表現力で人々に新しい視点をもたらす",
+      "attributes_color": "Orange",
+      "attribute_1": "複雑な概念や抽象的な洞察を、シンプルで理解しやすい言葉で表現する",
+      "attribute_2": "独自の視点と表現力で人々に新しい視点をもたらす",
+      "activation_key": "待つ！"
+    }
+  },
+  {
+    "channel": "24-61",
+    "channel_name_en": "Channel of Awareness",
+    "channel_name_ja": "気づき",
+    "gates": [
+      24,
+      61
+    ],
+    "gate_names": {
+      "24": {
+        "en": "Gate of Rationalization",
+        "ja": "説明したい・帰還"
+      },
+      "61": {
+        "en": "Gate of Mystery",
+        "ja": "神秘・内なる真実"
+      }
+    },
+    "circuit_en": "Knowing Circuit",
+    "circuit_ja": "知識回路",
+    "group_en": "Individual Circuitry",
+    "group_ja": "個人性回路群",
+    "activation_key": "待つ！",
+    "kairoscope_name_en": "",
+    "kairoscope_name_ja": "",
+    "kairoscope_description": "",
+    "keywords": [
+      "思索",
+      "内省",
+      "神秘",
+      "インスピレーション"
+    ],
+    "mdc": {
+      "channel_number": "24-61",
+      "channel_name_1": "説明したい",
+      "channel_name_2": "星の王子様",
+      "sub_title": "内なる真実と合理化のチャネル",
+      "description": "内なる真実や神秘を探求し、それを論理的に合理化して他者に伝える。思考のサイクルを繰り返し、新しい理解に到達する",
+      "attributes_color": "Red",
+      "attribute_1": "内なる真実や神秘を探求し、それを論理的に合理化して他者に伝える",
+      "attribute_2": "思考のサイクルを繰り返し、新しい理解に到達する",
+      "activation_key": "待つ！"
+    }
+  },
+  {
+    "channel": "25-51",
+    "channel_name_en": "Channel of Initiation",
+    "channel_name_ja": "イニシエーション",
+    "gates": [
+      25,
+      51
+    ],
+    "gate_names": {
+      "25": {
+        "en": "Gate of The Spirit of the Self",
+        "ja": "シャーマン・無垢"
+      },
+      "51": {
+        "en": "Gate of Shock",
+        "ja": "ショック・衝撃"
+      }
+    },
+    "circuit_en": "Centering Circuit",
+    "circuit_ja": "センタリング回路",
+    "group_en": "Individual Circuitry",
+    "group_ja": "個人性回路群",
+    "activation_key": "招かれたときにのみ真価を発揮",
+    "kairoscope_name_en": "",
+    "kairoscope_name_ja": "",
+    "kairoscope_description": "",
+    "keywords": [
+      "衝動",
+      "ショック",
+      "自己超越",
+      "勇気"
+    ],
+    "mdc": {
+      "channel_number": "25-51",
+      "channel_name_1": "シャーマン",
+      "channel_name_2": "一等賞",
+      "sub_title": "競争と無垢のチャネル",
+      "description": "競争を恐れず、常に一番を目指す精神力。ショックや困難を乗り越え、無垢な心で人生に挑む。真の競争心は他者への愛から生まれる",
+      "attributes_color": "Green",
+      "attribute_1": "競争を恐れず、常に一番を目指す精神力",
+      "attribute_2": "ショックや困難を乗り越え、無垢な心で人生に挑む",
+      "activation_key": "お願いされてからやる！"
+    }
+  },
+  {
+    "channel": "26-44",
+    "channel_name_en": "Channel of Surrender",
+    "channel_name_ja": "身をゆだねる",
+    "gates": [
+      26,
+      44
+    ],
+    "gate_names": {
+      "26": {
+        "en": "Gate of The Egoist",
+        "ja": "支配者・家畜を飼いならす"
+      },
+      "44": {
+        "en": "Gate of Alertness",
+        "ja": "注意深さ・出会う"
+      }
+    },
+    "circuit_en": "Ego Circuit",
+    "circuit_ja": "エゴ回路",
+    "group_en": "Human Design Tribal Circuitry",
+    "group_ja": "部族性回路群",
+    "activation_key": "待つ！",
+    "kairoscope_name_en": "",
+    "kairoscope_name_ja": "",
+    "kairoscope_description": "",
+    "keywords": [
+      "記憶",
+      "販売",
+      "影響力",
+      "整理"
+    ],
+    "mdc": {
+      "channel_number": "26-44",
+      "channel_name_1": "支配者",
+      "channel_name_2": "ビジネス",
+      "sub_title": "記憶と影響力のチャネル",
+      "description": "過去の経験や記憶を活かし、他者に影響を与え、ビジネスや共同体を成功に導く。強力な交渉力と適応力を持つ",
+      "attributes_color": "Pink",
+      "attribute_1": "過去の経験や記憶を活かし、他者に影響を与え、ビジネスや共同体を成功に導く",
+      "attribute_2": "強力な交渉力と適応力を持つ",
+      "activation_key": "待つ！"
+    }
+  },
+  {
+    "channel": "27-50",
+    "channel_name_en": "Channel of Preservation",
+    "channel_name_ja": "保存",
+    "gates": [
+      27,
+      50
+    ],
+    "gate_names": {
+      "27": {
+        "en": "Gate of Caring",
+        "ja": "世話好き・養育"
+      },
+      "50": {
+        "en": "Gate of Values",
+        "ja": "価値観・鼎"
+      }
+    },
+    "circuit_en": "Defense Circuit",
+    "circuit_ja": "ディフェンス回路",
+    "group_en": "Tribal Circuitry",
+    "group_ja": "部族性回路群",
+    "activation_key": "待つ！",
+    "kairoscope_name_en": "",
+    "kairoscope_name_ja": "",
+    "kairoscope_description": "",
+    "keywords": [
+      "ケア",
+      "教育",
+      "責任",
+      "倫理"
+    ],
+    "mdc": {
+      "channel_number": "27-50",
+      "channel_name_1": "世話好き",
+      "channel_name_2": "鎮守の森",
+      "sub_title": "世話と価値観のチャネル",
+      "description": "他者のニーズを深く理解し、世話をすることで、共同体の価値観と安定を守る。養育と保護のエネルギーに満ちている",
+      "attributes_color": "Orange",
+      "attribute_1": "他者のニーズを深く理解し、世話をすることで、共同体の価値観と安定を守る",
+      "attribute_2": "養育と保護のエネルギーに満ちている",
+      "activation_key": "待つ！"
+    }
+  },
+  {
+    "channel": "28-38",
+    "channel_name_en": "Channel of Struggle",
+    "channel_name_ja": "もがき",
+    "gates": [
+      28,
+      38
+    ],
+    "gate_names": {
+      "28": {
+        "en": "Gate of The Game Player",
+        "ja": "リスクジャンキー・卓越"
+      },
+      "38": {
+        "en": "Gate of The Fighter",
+        "ja": "反骨精神・対立"
+      }
+    },
+    "circuit_en": "Knowing Circuit",
+    "circuit_ja": "知識回路",
+    "group_en": "Individual Circuitry",
+    "group_ja": "個人性回路群",
+    "activation_key": "待つ！",
+    "kairoscope_name_en": "",
+    "kairoscope_name_ja": "",
+    "kairoscope_description": "",
+    "keywords": [
+      "闘争",
+      "意味探求",
+      "逆境",
+      "不屈"
+    ],
+    "mdc": {
+      "channel_number": "28-38",
+      "channel_name_1": "リスクジャンキー",
+      "channel_name_2": "ネバーギブアップ",
+      "sub_title": "挑戦と闘争のチャネル",
+      "description": "人生の意味を求めてリスクを恐れず挑戦し続ける。困難に直面しても諦めない強い精神力と、目的を達成するまで戦い抜く意志を持つ",
+      "attributes_color": "Red",
+      "attribute_1": "人生の意味を求めてリスクを恐れず挑戦し続ける",
+      "attribute_2": "困難に直面しても諦めない強い精神力と、目的を達成するまで戦い抜く意志を持つ",
+      "activation_key": "待つ！"
+    }
+  },
+  {
+    "channel": "29-46",
+    "channel_name_en": "Channel of Discovery",
+    "channel_name_ja": "発見",
+    "gates": [
+      29,
+      46
+    ],
+    "gate_names": {
+      "29": {
+        "en": "Gate of Perseverance",
+        "ja": "はい・深淵"
+      },
+      "46": {
+        "en": "Gate of The Determination of the Self",
+        "ja": "献身・高揚"
+      }
+    },
+    "circuit_en": "Sensing (Abstract) Circuit",
+    "circuit_ja": "抽象性回路",
+    "group_en": "Collective Circuitry",
+    "group_ja": "集合体回路群",
+    "activation_key": "招かれたときにのみ真価を発揮",
+    "kairoscope_name_en": "",
+    "kairoscope_name_ja": "",
+    "kairoscope_description": "",
+    "keywords": [
+      "コミット",
+      "経験",
+      "身体性",
+      "享受"
+    ],
+    "mdc": {
+      "channel_number": "29-46",
+      "channel_name_1": "はい",
+      "channel_name_2": "万馬券",
+      "sub_title": "奉仕と発見のチャネル",
+      "description": "自身の感情的なコミットメントを通じて、大きな発見や成功を引き寄せる。未知の領域に足を踏み入れ、予期せぬ成果を得る",
+      "attributes_color": "Green",
+      "attribute_1": "自身の感情的なコミットメントを通じて、大きな発見や成功を引き寄せる",
+      "attribute_2": "未知の領域に足を踏み入れ、予期せぬ成果を得る",
+      "activation_key": "お願いされてからやる！"
+    }
+  },
+  {
+    "channel": "30-41",
+    "channel_name_en": "Channel of Recognition",
+    "channel_name_ja": "認識",
+    "gates": [
+      30,
+      41
+    ],
+    "gate_names": {
+      "30": {
+        "en": "Gate of Feelings",
+        "ja": "感情・炎"
+      },
+      "41": {
+        "en": "Gate of Contraction",
+        "ja": "収縮・減少"
+      }
+    },
+    "circuit_en": "",
+    "circuit_ja": "",
+    "group_en": "",
+    "group_ja": "",
+    "activation_key": "感情的な明晰さを待つ！",
+    "kairoscope_name_en": "",
+    "kairoscope_name_ja": "",
+    "kairoscope_description": "",
+    "keywords": [
+      "情熱",
+      "欲望",
+      "可能性",
+      "感情"
+    ],
+    "mdc": {
+      "channel_number": "30-41",
+      "channel_name_1": "願望",
+      "channel_name_2": "想像",
+      "sub_title": "願望と収縮のチャネル",
+      "description": "深い願望や欲求を抱き、それを現実化するために内的なエネルギーを集める。新しい経験や感情的な探求を求める",
+      "attributes_color": "Pink",
+      "attribute_1": "深い願望や欲求を抱き、それを現実化するために内的なエネルギーを集める",
+      "attribute_2": "新しい経験や感情的な探求を求める",
+      "activation_key": "感情的な明晰さを待つ！"
+    }
+  },
+  {
+    "channel": "32-54",
+    "channel_name_en": "Channel of Transformation",
+    "channel_name_ja": "変容",
+    "gates": [
+      32,
+      54
+    ],
+    "gate_names": {
+      "32": {
+        "en": "Gate of Continuity",
+        "ja": "持久力・恒久"
+      },
+      "54": {
+        "en": "Gate of Ambition",
+        "ja": "野心・嫁ぐ娘"
+      }
+    },
+    "circuit_en": "Ego Circuit",
+    "circuit_ja": "エゴ回路",
+    "group_en": "Human Design Tribal Circuitry",
+    "group_ja": "部族性回路群",
+    "activation_key": "待つ！",
+    "kairoscope_name_en": "",
+    "kairoscope_name_ja": "",
+    "kairoscope_description": "",
+    "keywords": [
+      "変容",
+      "野心",
+      "継承",
+      "パターン"
+    ],
+    "mdc": {
+      "channel_number": "32-54",
+      "channel_name_1": "変容",
+      "channel_name_2": "野心",
+      "sub_title": "変容と野心のチャネル",
+      "description": "野心と持続力によって自己変革を促し、共同体の進化に貢献する。深い理解と現実的な視点で成功を追求する",
+      "attributes_color": "Red",
+      "attribute_1": "野心と持続力によって自己変革を促し、共同体の進化に貢献する",
+      "attribute_2": "深い理解と現実的な視点で成功を追求する",
+      "activation_key": "待つ！"
+    }
+  },
+  {
+    "channel": "34-57",
+    "channel_name_en": "Channel of Power",
+    "channel_name_ja": "パワー",
+    "gates": [
+      34,
+      57
+    ],
+    "gate_names": {
+      "34": {
+        "en": "Gate of Power",
+        "ja": "パワー・大きな力"
+      },
+      "57": {
+        "en": "Gate of Intuitive Clarity",
+        "ja": "直観・優しい浸透"
+      }
+    },
+    "circuit_en": "Integration Circuit",
+    "circuit_ja": "インテグレーション回路",
+    "group_en": "Individual Circuitry",
+    "group_ja": "個人性回路群",
+    "activation_key": "前のめりになったらやる！",
+    "kairoscope_name_en": "",
+    "kairoscope_name_ja": "",
+    "kairoscope_description": "",
+    "keywords": [
+      "パワー",
+      "直感",
+      "反応",
+      "瞬発力"
+    ],
+    "mdc": {
+      "channel_number": "34-57",
+      "channel_name_1": "必殺技",
+      "channel_name_2": "パワー",
+      "sub_title": "直感的な力と瞬時の行動",
+      "description": "直感的な洞察に基づいて即座に行動し、大きな力を発揮する。瞬時の判断力と行動力で困難を乗り越える",
+      "attributes_color": "Orange",
+      "attribute_1": "直感的な洞察に基づいて即座に行動し、大きな力を発揮する",
+      "attribute_2": "瞬時の判断力と行動力で困難を乗り越える",
+      "activation_key": "前のめりになったらやる！"
+    }
+  },
+  {
+    "channel": "35-36",
+    "channel_name_en": "Channel of Transitoriness",
+    "channel_name_ja": "推移",
+    "gates": [
+      35,
+      36
+    ],
+    "gate_names": {
+      "35": {
+        "en": "Gate of Change",
+        "ja": "変化・進歩"
+      },
+      "36": {
+        "en": "Gate of Crisis",
+        "ja": "危機・暗闇の光"
+      }
+    },
+    "circuit_en": "Sensing (Abstract) Circuit",
+    "circuit_ja": "抽象性回路",
+    "group_en": "Collective Circuitry",
+    "group_ja": "集合体回路群",
+    "activation_key": "感情的な明晰さを待つ！",
+    "kairoscope_name_en": "",
+    "kairoscope_name_ja": "",
+    "kairoscope_description": "",
+    "keywords": [
+      "経験",
+      "冒険",
+      "感情的成熟",
+      "変化"
+    ],
+    "mdc": {
+      "channel_number": "35-36",
+      "channel_name_1": "変化",
+      "channel_name_2": "人間関係",
+      "sub_title": "経験と危機のチャネル",
+      "description": "多様な経験を通じて感情的な成長を遂げ、人々と深い関係を築く。変化を恐れず、新しい冒険に挑む",
+      "attributes_color": "Red",
+      "attribute_1": "多様な経験を通じて感情的な成長を遂げ、人々と深い関係を築く",
+      "attribute_2": "変化を恐れず、新しい冒険に挑む",
+      "activation_key": "感情的な明晰さを待つ！"
+    }
+  },
+  {
+    "channel": "37-40",
+    "channel_name_en": "Channel of Community",
+    "channel_name_ja": "共同体",
+    "gates": [
+      37,
+      40
+    ],
+    "gate_names": {
+      "37": {
+        "en": "Gate of Friendship",
+        "ja": "友情・家族"
+      },
+      "40": {
+        "en": "Gate of Aloneness",
+        "ja": "孤独・解放"
+      }
+    },
+    "circuit_en": "Ego Circuit",
+    "circuit_ja": "エゴ回路",
+    "group_en": "Human Design Tribal Circuitry",
+    "group_ja": "部族性回路群",
+    "activation_key": "待つ！",
+    "kairoscope_name_en": "",
+    "kairoscope_name_ja": "",
+    "kairoscope_description": "",
+    "keywords": [
+      "家族",
+      "交渉",
+      "協力",
+      "契約"
+    ],
+    "mdc": {
+      "channel_number": "37-40",
+      "channel_name_1": "友情",
+      "channel_name_2": "契約",
+      "sub_title": "共同体と約束のチャネル",
+      "description": "家族や共同体との絆を重視し、信頼と忠誠心に基づいて関係を築く。約束を守り、人々との合意を尊重する",
+      "attributes_color": "Green",
+      "attribute_1": "家族や共同体との絆を重視し、信頼と忠誠心に基づいて関係を築く",
+      "attribute_2": "約束を守り、人々との合意を尊重する",
+      "activation_key": "待つ！"
+    }
+  },
+  {
+    "channel": "39-55",
+    "channel_name_en": "Channel of Emoting",
+    "channel_name_ja": "感情表現",
+    "gates": [
+      39,
+      55
+    ],
+    "gate_names": {
+      "39": {
+        "en": "Gate of Provocation",
+        "ja": "挑発・障害"
+      },
+      "55": {
+        "en": "Gate of Spirit",
+        "ja": "精神・豊かさ"
+      }
+    },
+    "circuit_en": "Knowing Circuit",
+    "circuit_ja": "知識回路",
+    "group_en": "Individual Circuitry",
+    "group_ja": "個人性回路群",
+    "activation_key": "感情的な明晰さを待つ！",
+    "kairoscope_name_en": "",
+    "kairoscope_name_ja": "",
+    "kairoscope_description": "",
+    "keywords": [
+      "感情",
+      "スピリチュアリティ",
+      "挑発",
+      "深み"
+    ],
+    "mdc": {
+      "channel_number": "39-55",
+      "channel_name_1": "挑発",
+      "channel_name_2": "スピリット",
+      "sub_title": "感情的な目覚めとスピリットのチャネル",
+      "description": "感情的な深さと豊かさで、他者のスピリットを刺激し、目覚めさせる。感情的な波に乗ることで、新しい創造性や豊かさを引き出す",
+      "attributes_color": "Orange",
+      "attribute_1": "感情的な深さと豊かさで、他者のスピリットを刺激し、目覚めさせる",
+      "attribute_2": "感情的な波に乗ることで、新しい創造性や豊かさを引き出す",
+      "activation_key": "感情的な明晰さを待つ！"
+    }
+  },
+  {
+    "channel": "42-53",
+    "channel_name_en": "Channel of Maturation",
+    "channel_name_ja": "成熟",
+    "gates": [
+      42,
+      53
+    ],
+    "gate_names": {
+      "42": {
+        "en": "Gate of Growth",
+        "ja": "成長・増益"
+      },
+      "53": {
+        "en": "Gate of Beginnings",
+        "ja": "始まり・発展"
+      }
+    },
+    "circuit_en": "Sensing (Abstract) Circuit",
+    "circuit_ja": "抽象性回路",
+    "group_en": "Collective Circuitry",
+    "group_ja": "集合体回路群",
+    "activation_key": "待つ！",
+    "kairoscope_name_en": "",
+    "kairoscope_name_ja": "",
+    "kairoscope_description": "",
+    "keywords": [
+      "開始",
+      "成長",
+      "プロセス",
+      "完了"
+    ],
+    "mdc": {
+      "channel_number": "42-53",
+      "channel_name_1": "成長",
+      "channel_name_2": "成熟",
+      "sub_title": "成長とサイクルのチャネル",
+      "description": "人生のサイクルを完了させ、新しい始まりへと向かうエネルギー。経験から学び、成長を促すことで、共同体に貢献する",
+      "attributes_color": "Pink",
+      "attribute_1": "人生のサイクルを完了させ、新しい始まりへと向かうエネルギー",
+      "attribute_2": "経験から学び、成長を促すことで、共同体に貢献する",
+      "activation_key": "待つ！"
+    }
+  },
+  {
+    "channel": "47-64",
+    "channel_name_en": "Channel of Abstraction",
+    "channel_name_ja": "抽象",
+    "gates": [
+      47,
+      64
+    ],
+    "gate_names": {
+      "47": {
+        "en": "Gate of Realization",
+        "ja": "実現・困窮"
+      },
+      "64": {
+        "en": "Gate of Confusion",
+        "ja": "混乱・未完"
+      }
+    },
+    "circuit_en": "Sensing (Abstract) Circuit",
+    "circuit_ja": "抽象性回路",
+    "group_en": "Collective Circuitry",
+    "group_ja": "集合体回路群",
+    "activation_key": "待つ！",
+    "kairoscope_name_en": "",
+    "kairoscope_name_ja": "",
+    "kairoscope_description": "",
+    "keywords": [
+      "気づき",
+      "インスピレーション",
+      "思考",
+      "抽象"
+    ],
+    "mdc": {
+      "channel_number": "47-64",
+      "channel_name_1": "実現",
+      "channel_name_2": "抽象",
+      "sub_title": "抽象的な思考と実現のチャネル",
+      "description": "過去の経験から得た抽象的な概念を整理し、新しい理解や実現へと導く。思考のプロセスと、それを具体的な形にする能力",
+      "attributes_color": "Orange",
+      "attribute_1": "過去の経験から得た抽象的な概念を整理し、新しい理解や実現へと導く",
+      "attribute_2": "思考のプロセスと、それを具体的な形にする能力",
+      "activation_key": "待つ！"
+    }
+  },
+]
