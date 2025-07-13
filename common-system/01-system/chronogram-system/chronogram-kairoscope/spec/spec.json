@@ -1,0 +1,109 @@
+{
+   "rave_chart": {
+      "type": "Projector",
+      "authority": "Emotional",
+      "strategy": "Wait for the Invitation",
+      "not_self_theme": "Bitterness",
+      "profile": "5/1",
+      "definition": "Single"
+   },
+   "mechanics": {
+      "defined_centers": [
+         "Ajna",
+         "Throat",
+         "Spleen"
+      ],
+      "undefined_centers": [
+         "G",
+         "Ego"
+      ],
+      "channels": [
+         "1-8",
+         "20-57"
+      ],
+      "active_gates": [
+         {
+            "gate": 1,
+            "line": 3
+         },
+         {
+            "gate": 20,
+            "line": 6
+         }
+      ]
+   },
+   "variables_and_phs": {
+      "variable": "PRR-DRL",
+      "mind": "Need",
+      "motivation": "Hope",
+      "perspective": "Observer",
+      "environment": "Markets",
+      "diet": "Cold Foods"
+   },
+   "gates_and_lines": {
+      "design_gates": [
+         "1",
+         "2",
+         "3"
+      ],
+      "personality_gates": [
+         "20",
+         "57"
+      ],
+      "design_gene_keys": [
+         "1",
+         "2",
+         "3"
+      ],
+      "personality_gene_keys": [
+         "20",
+         "57"
+      ],
+      "gates_of_fears": [
+         "28",
+         "44"
+      ]
+   },
+   "wounds": {
+      "genetic_wound": "Gate 18",
+      "sexual_wound": "Gate 59"
+   },
+   "hologenetics": {
+      "hologenetic_profile": {
+         "AS": "Gene Key 20",
+         "VS": "Gene Key 34",
+         "PS": "Gene Key 10"
+      }
+   },
+   "planets_returns": {
+      "solar_return": [
+         "2024-07-12",
+         "2025-07-12"
+      ],
+      "saturn_return_1": "2006-08-22",
+      "uranus_opposition": "2020-06-27",
+      "chiron_return": "2026-05-05",
+      "saturn_return_2": "2035-10-08"
+   },
+   "transit": {
+      "transit_overlay": true
+   },
+   "dream_rave": {
+      "dream_chart_type": "Projector",
+      "light_field": "Defined",
+      "earth_plane": "Partial",
+      "demon_realm": "Yes"
+   },
+   "meta": {
+      "kairoscope_version": "v1.0.0",
+      "chronogram_target": "Takeo Yamada",
+      "timestamp": "2025-07-12T20:45:00+09:00"
+   },
+   "extensions": {
+      "mbti": "ENTP",
+      "nine_star_ki": "一白水星",
+      "kabbalah_path": "8番",
+      "ziwei_chart": "天同星命宮",
+      "mayan_kin": "KIN 134"
+   }
+}

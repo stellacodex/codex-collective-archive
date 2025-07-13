@@ -1,0 +1,1412 @@
+[
+  {
+    "gate": 1,
+    "hd_name_en": "The Creative",
+    "hd_name_ja": "創造",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Origin",
+    "kairoscope_name_ja": "起源",
+    "channels": [
+      "1-8"
+    ],
+    "description": "独自性を持ち、創造的エネルギーを外に表現する力。個性を通じて周囲をインスパイアする。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "内なる方向性の確立",
+      "2": "影響力の共有",
+      "3": "革新の試み",
+      "4": "自己表現の模索",
+      "5": "リーダーシップの発現",
+      "6": "模範的生き方"
+    }
+  },
+  {
+    "gate": 2,
+    "hd_name_en": "The Receptive",
+    "hd_name_ja": "受容",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Direction",
+    "kairoscope_name_ja": "方向性",
+    "channels": [
+      "2-14"
+    ],
+    "description": "他者からの導きを受け入れ、生命の流れと豊かさを方向づける鍵。人生の舵を取る。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "自身の価値の認識",
+      "2": "他者の支援を受ける",
+      "3": "試行錯誤を通じた調整",
+      "4": "持続する流れの確立",
+      "5": "意志の方向性",
+      "6": "全体の調和"
+    }
+  },
+  {
+    "gate": 3,
+    "hd_name_en": "Ordering",
+    "hd_name_ja": "秩序化",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Mutation",
+    "kairoscope_name_ja": "変異",
+    "channels": [
+      "3-60"
+    ],
+    "description": "混沌から秩序を生み出す力。新しい形を構築し、革新を推進する原動力。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "基盤の確立",
+      "2": "初期の協調",
+      "3": "調整と進化",
+      "4": "安定性の模索",
+      "5": "革新の力",
+      "6": "全体像の把握"
+    }
+  },
+  {
+    "gate": 4,
+    "hd_name_en": "Formulization",
+    "hd_name_ja": "定式化",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Answer",
+    "kairoscope_name_ja": "答え",
+    "channels": [
+      "4-63"
+    ],
+    "description": "論理的な問いに答えを見つけ、問題解決へと導く知の力。構造と整理を担う。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "問題への忍耐",
+      "2": "理論の発展",
+      "3": "応用の試行",
+      "4": "理想の追求",
+      "5": "確信の表現",
+      "6": "全体への理解"
+    }
+  },
+  {
+    "gate": 5,
+    "hd_name_en": "Fixed Rhythms",
+    "hd_name_ja": "固定されたリズム",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Rhythm",
+    "kairoscope_name_ja": "リズム",
+    "channels": [
+      "5-15"
+    ],
+    "description": "自然のリズムを保ち、秩序を生活にもたらす。自身のペースを確立し、共有する力。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "規律の尊重",
+      "2": "柔軟な調整",
+      "3": "自己表現の統合",
+      "4": "パターンの定着",
+      "5": "外部との共鳴",
+      "6": "全体の調和"
+    }
+  },
+  {
+    "gate": 6,
+    "hd_name_en": "Conflict",
+    "hd_name_ja": "葛藤",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Intimacy",
+    "kairoscope_name_ja": "親密さ",
+    "channels": [
+      "6-59"
+    ],
+    "description": "境界線を引きながら親密さを築く力。深い関係性を通して自己を成長させる。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "防衛と開放のバランス",
+      "2": "境界線の調整",
+      "3": "情緒の浮き沈み",
+      "4": "感情の共有",
+      "5": "相互理解の深化",
+      "6": "成熟した親密さ"
+    }
+  },
+  {
+    "gate": 7,
+    "hd_name_en": "The Role of the Self",
+    "hd_name_ja": "自己の役割",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Leadership",
+    "kairoscope_name_ja": "リーダーシップ",
+    "channels": [
+      "7-31"
+    ],
+    "description": "ビジョンを示し集団を導くカリスマ的役割。未来を示す先導者の力。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "個人的洞察",
+      "2": "共感的な導き",
+      "3": "調和の追求",
+      "4": "役割の確立",
+      "5": "信頼の獲得",
+      "6": "模範的リーダー"
+    }
+  },
+  {
+    "gate": 8,
+    "hd_name_en": "Contribution",
+    "hd_name_ja": "貢献",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Influence",
+    "kairoscope_name_ja": "影響",
+    "channels": [
+      "1-8"
+    ],
+    "description": "自己の独自性を際立たせ、社会にインスピレーションを与える影響力。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "内面的価値の表現",
+      "2": "他者との協調",
+      "3": "創造性の共有",
+      "4": "独自性の強化",
+      "5": "社会的認知",
+      "6": "普遍的影響"
+    }
+  },
+  {
+    "gate": 9,
+    "hd_name_en": "Focus",
+    "hd_name_ja": "集中",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Detail",
+    "kairoscope_name_ja": "詳細",
+    "channels": [
+      "9-52"
+    ],
+    "description": "細部に集中し持続的な努力を支える力。集中を通じて物事を完成させる。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "焦点の定義",
+      "2": "段階的な進展",
+      "3": "障害の克服",
+      "4": "集中の深化",
+      "5": "粘り強さ",
+      "6": "成果の統合"
+    }
+  },
+  {
+    "gate": 10,
+    "hd_name_en": "Behavior of the Self",
+    "hd_name_ja": "自己の行動",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Authenticity",
+    "kairoscope_name_ja": "真実性",
+    "channels": [
+      "10-20",
+      "10-34"
+    ],
+    "description": "自己愛と自己表現を通して、自分らしく生きる姿を示す力。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "自己の尊重",
+      "2": "誠実な行動",
+      "3": "学びと調整",
+      "4": "模範的な姿勢",
+      "5": "自信の表現",
+      "6": "自然体での影響"
+    }
+  },
+  {
+    "gate": 11,
+    "hd_name_en": "Ideas",
+    "hd_name_ja": "アイデア",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Vision",
+    "kairoscope_name_ja": "ビジョン",
+    "channels": [
+      "11-56"
+    ],
+    "description": "物語やアイデアを共有し、内なるビジョンを通して他者をインスパイアする力。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "内なるインスピレーション",
+      "2": "共有の喜び",
+      "3": "構造化された表現",
+      "4": "概念の探求",
+      "5": "ビジョンの伝達",
+      "6": "集合的夢の具現"
+    }
+  },
+  {
+    "gate": 12,
+    "hd_name_en": "Caution",
+    "hd_name_ja": "慎重",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Refinement",
+    "kairoscope_name_ja": "洗練",
+    "channels": [
+      "12-22"
+    ],
+    "description": "感情とタイミングを尊重した洗練された自己表現。魅力と優雅さを引き出す力。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "内省的な表現",
+      "2": "感情の観察",
+      "3": "タイミングの選択",
+      "4": "関わり方の洗練",
+      "5": "共感的魅力",
+      "6": "普遍的優雅さ"
+    }
+  },
+  {
+    "gate": 13,
+    "hd_name_en": "The Listener",
+    "hd_name_ja": "聴く者",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Storykeeper",
+    "kairoscope_name_ja": "物語の守り手",
+    "channels": [
+      "13-33"
+    ],
+    "description": "人々の物語を聞き取り、記憶を共有する力。集合的知恵の保持者。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "静かな観察",
+      "2": "共感的傾聴",
+      "3": "物語の編纂",
+      "4": "知恵の継承",
+      "5": "集合的理解",
+      "6": "過去から未来へ"
+    }
+  },
+  {
+    "gate": 14,
+    "hd_name_en": "Power Skills",
+    "hd_name_ja": "資源の力",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Resources",
+    "kairoscope_name_ja": "資源",
+    "channels": [
+      "2-14"
+    ],
+    "description": "資源やエネルギーを正しい方向に流す力。豊かさの循環を促進する。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "資源の感知",
+      "2": "方向性の選択",
+      "3": "分配のバランス",
+      "4": "持続可能性",
+      "5": "共同体への貢献",
+      "6": "豊かさの継承"
+    }
+  },
+  {
+    "gate": 15,
+    "hd_name_en": "Extremes",
+    "hd_name_ja": "極性",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Harmony",
+    "kairoscope_name_ja": "調和",
+    "channels": [
+      "5-15"
+    ],
+    "description": "極端さと柔軟さを通して社会や自然との調和を創り出す力。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "個性の受容",
+      "2": "柔軟な適応",
+      "3": "流動的な関わり",
+      "4": "調和の追求",
+      "5": "境界の超越",
+      "6": "包括的統合"
+    }
+  },
+  {
+    "gate": 16,
+    "hd_name_en": "Skills",
+    "hd_name_ja": "技術",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Mastery",
+    "kairoscope_name_ja": "熟達",
+    "channels": [
+      "16-48"
+    ],
+    "description": "繰り返しの練習と熱意によってスキルを洗練し、社会に価値を提供する力。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "初歩の好奇心",
+      "2": "協力的学習",
+      "3": "応用的探求",
+      "4": "熟練の共有",
+      "5": "模範的姿勢",
+      "6": "普遍的熟達"
+    }
+  },
+  {
+    "gate": 17,
+    "hd_name_en": "Opinions",
+    "hd_name_ja": "意見",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Clarity",
+    "kairoscope_name_ja": "明晰",
+    "channels": [
+      "17-62"
+    ],
+    "description": "論理的な視点や意見を形成し、社会に明晰な枠組みを提供する力。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "観察の基盤",
+      "2": "確信の共有",
+      "3": "論理的検証",
+      "4": "社会的理解",
+      "5": "建設的批評",
+      "6": "啓発的視野"
+    }
+  },
+  {
+    "gate": 18,
+    "hd_name_en": "Correction",
+    "hd_name_ja": "修正",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Refinement",
+    "kairoscope_name_ja": "改善",
+    "channels": [
+      "18-58"
+    ],
+    "description": "パターンを見抜いて改善し、成長と成熟を促進する力。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "欠陥の認知",
+      "2": "改善意欲",
+      "3": "応急的修正",
+      "4": "構造的洗練",
+      "5": "模範的指導",
+      "6": "普遍的改善"
+    }
+  },
+  {
+    "gate": 19,
+    "hd_name_en": "Wanting",
+    "hd_name_ja": "欲求",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Sensitivity",
+    "kairoscope_name_ja": "感受性",
+    "channels": [
+      "19-49"
+    ],
+    "description": "他者やコミュニティのニーズに敏感に反応し、深い絆を築く力。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "個人的感受",
+      "2": "支援の必要性",
+      "3": "協力の探求",
+      "4": "関係性の深化",
+      "5": "共同体の支援",
+      "6": "無条件の奉仕"
+    }
+  },
+  {
+    "gate": 20,
+    "hd_name_en": "The Now",
+    "hd_name_ja": "今ここ",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Presence",
+    "kairoscope_name_ja": "存在",
+    "channels": [
+      "10-20"
+    ],
+    "description": "瞬間に根ざした自己表現。今ここに完全に存在する純粋な力。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "即時の反応",
+      "2": "直感的適応",
+      "3": "瞬間の選択",
+      "4": "存在感の共有",
+      "5": "率直な表現",
+      "6": "普遍的な共鳴"
+    }
+  },
+  {
+    "gate": 21,
+    "hd_name_en": "Control",
+    "hd_name_ja": "統制",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Stewardship",
+    "kairoscope_name_ja": "管理",
+    "channels": [
+      "45-21"
+    ],
+    "description": "資源や秩序を管理し、コミュニティに安定と秩序をもたらす力。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "責任の自覚",
+      "2": "資源の分配",
+      "3": "効率的管理",
+      "4": "保護と秩序",
+      "5": "規範の確立",
+      "6": "奉仕的統治"
+    }
+  },
+  {
+    "gate": 22,
+    "hd_name_en": "Grace",
+    "hd_name_ja": "優雅",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Elegance",
+    "kairoscope_name_ja": "優美",
+    "channels": [
+      "12-22"
+    ],
+    "description": "感情の波に寄り添いながら、魅力的かつ洗練された自己表現を行う力。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "感情の感知",
+      "2": "優雅な表現",
+      "3": "関係性の構築",
+      "4": "感情の共有",
+      "5": "調和の維持",
+      "6": "普遍的優美"
+    }
+  },
+  {
+    "gate": 23,
+    "hd_name_en": "Assimilation",
+    "hd_name_ja": "統合",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Simplicity",
+    "kairoscope_name_ja": "簡潔",
+    "channels": [
+      "23-43"
+    ],
+    "description": "複雑な概念をシンプルにまとめ、革新的な洞察を社会に伝える力。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "核心の洞察",
+      "2": "説明の工夫",
+      "3": "柔軟な応用",
+      "4": "共有の技法",
+      "5": "影響力の拡大",
+      "6": "普遍的真理"
+    }
+  },
+  {
+    "gate": 24,
+    "hd_name_en": "Rationalization",
+    "hd_name_ja": "合理化",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Contemplation",
+    "kairoscope_name_ja": "内省",
+    "channels": [
+      "24-61"
+    ],
+    "description": "思考を繰り返し熟成させ、内なる真理を探求する力。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "問いの種",
+      "2": "深い省察",
+      "3": "直感的統合",
+      "4": "理解の深化",
+      "5": "洞察の共有",
+      "6": "普遍的叡智"
+    }
+  },
+  {
+    "gate": 25,
+    "hd_name_en": "Innocence",
+    "hd_name_ja": "無垢",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Universal Love",
+    "kairoscope_name_ja": "普遍愛",
+    "channels": [
+      "25-51"
+    ],
+    "description": "無条件の愛と純粋さを持ち、すべての存在に対して開かれた心を持つ力。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "純粋な動機",
+      "2": "信頼の築き",
+      "3": "柔軟な心",
+      "4": "愛の共有",
+      "5": "奉仕的姿勢",
+      "6": "普遍的慈愛"
+    }
+  },
+  {
+    "gate": 26,
+    "hd_name_en": "The Egoist",
+    "hd_name_ja": "エゴ",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Persuasion",
+    "kairoscope_name_ja": "説得",
+    "channels": [
+      "26-44"
+    ],
+    "description": "自己利益と他者への影響を調整し、説得力と信頼を築く力。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "利益の保護",
+      "2": "信頼の形成",
+      "3": "機会の活用",
+      "4": "協調的戦略",
+      "5": "影響力の維持",
+      "6": "普遍的説得"
+    }
+  },
+  {
+    "gate": 27,
+    "hd_name_en": "Nourishment",
+    "hd_name_ja": "養育",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Care",
+    "kairoscope_name_ja": "育成",
+    "channels": [
+      "27-50"
+    ],
+    "description": "他者やコミュニティを支え育む、無条件の世話と保護の力。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "基盤の整備",
+      "2": "共感的支援",
+      "3": "持続的育成",
+      "4": "共有の価値",
+      "5": "責任の深化",
+      "6": "普遍的献身"
+    }
+  },
+  {
+    "gate": 28,
+    "hd_name_en": "The Game Player",
+    "hd_name_ja": "挑戦",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Purpose",
+    "kairoscope_name_ja": "目的",
+    "channels": [
+      "28-38"
+    ],
+    "description": "逆境や困難に意味を見出し、生きる価値と目的を追求する力。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "挑戦の認識",
+      "2": "戦略的適応",
+      "3": "意味の模索",
+      "4": "関わりの深化",
+      "5": "模範的姿勢",
+      "6": "普遍的目的"
+    }
+  },
+  {
+    "gate": 29,
+    "hd_name_en": "Perseverance",
+    "hd_name_ja": "持続",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Commitment",
+    "kairoscope_name_ja": "献身",
+    "channels": [
+      "29-46"
+    ],
+    "description": "決意と継続力をもって、選んだ道に献身する力。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "選択の覚悟",
+      "2": "忠実な実行",
+      "3": "柔軟な調整",
+      "4": "関係の深化",
+      "5": "信頼の確立",
+      "6": "普遍的献身"
+    }
+  },
+  {
+    "gate": 30,
+    "hd_name_en": "Feelings",
+    "hd_name_ja": "情熱",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Desire",
+    "kairoscope_name_ja": "欲望",
+    "channels": [
+      "30-41"
+    ],
+    "description": "情熱と欲望を通して、体験の深みを追求する力。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "感情の着火",
+      "2": "欲望の明確化",
+      "3": "経験の追求",
+      "4": "情熱の共有",
+      "5": "感情の成熟",
+      "6": "普遍的融合"
+    }
+  },
+  {
+    "gate": 31,
+    "hd_name_en": "Influence",
+    "hd_name_ja": "指導",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Leadership",
+    "kairoscope_name_ja": "リーダーシップ",
+    "channels": [
+      "7-31"
+    ],
+    "description": "言葉とビジョンで人々を導く、未来志向のリーダーシップの力。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "基盤の構築",
+      "2": "意見の調整",
+      "3": "共有の方向性",
+      "4": "影響の拡大",
+      "5": "ビジョンの体現",
+      "6": "普遍的統率"
+    }
+  },
+  {
+    "gate": 32,
+    "hd_name_en": "Continuity",
+    "hd_name_ja": "持続性",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Preservation",
+    "kairoscope_name_ja": "保存",
+    "channels": [
+      "32-54"
+    ],
+    "description": "生存や繁栄のために価値あるものを見極め、保持する力。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "基盤の選別",
+      "2": "協調的進化",
+      "3": "資源の最適化",
+      "4": "安定の確立",
+      "5": "社会的責任",
+      "6": "普遍的保全"
+    }
+  },
+  {
+    "gate": 33,
+    "hd_name_en": "Retreat",
+    "hd_name_ja": "後退",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Reflection",
+    "kairoscope_name_ja": "回想",
+    "channels": [
+      "13-33"
+    ],
+    "description": "体験を内省し、共有することで集団の記憶を育む力。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "経験の内省",
+      "2": "洞察の共有",
+      "3": "物語の編纂",
+      "4": "学びの蓄積",
+      "5": "智慧の継承",
+      "6": "普遍的回顧"
+    }
+  },
+  {
+    "gate": 34,
+    "hd_name_en": "Power",
+    "hd_name_ja": "パワー",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Exploration",
+    "kairoscope_name_ja": "探求",
+    "channels": [
+      "10-34",
+      "57-34"
+    ],
+    "description": "自分の信念に従い、自己のエネルギーを自由に表現する探求の力。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "内面の決意",
+      "2": "自己信頼",
+      "3": "行動の柔軟性",
+      "4": "影響の伝播",
+      "5": "中心軸の保持",
+      "6": "普遍的貫徹"
+    }
+  },
+  {
+    "gate": 35,
+    "hd_name_en": "Change",
+    "hd_name_ja": "変化",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Experience",
+    "kairoscope_name_ja": "体験",
+    "channels": [
+      "35-36"
+    ],
+    "description": "さまざまな経験を通して変化と成長を促す力。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "経験の選択",
+      "2": "流れの受容",
+      "3": "状況の適応",
+      "4": "学びの深化",
+      "5": "共有の意義",
+      "6": "普遍的成熟"
+    }
+  },
+  {
+    "gate": 36,
+    "hd_name_en": "Crisis",
+    "hd_name_ja": "危機",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Turbulence",
+    "kairoscope_name_ja": "混乱",
+    "channels": [
+      "35-36"
+    ],
+    "description": "困難や混乱を乗り越えて成長するための感情的な力。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "冷静な対応",
+      "2": "感情の浄化",
+      "3": "危機の突破",
+      "4": "成長の促進",
+      "5": "支援の拡大",
+      "6": "普遍的変革"
+    }
+  },
+  {
+    "gate": 37,
+    "hd_name_en": "Friendship",
+    "hd_name_ja": "友情",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Community",
+    "kairoscope_name_ja": "共同体",
+    "channels": [
+      "37-40"
+    ],
+    "description": "家族やコミュニティで支え合い、絆を育む力。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "信頼の基盤",
+      "2": "支援の強化",
+      "3": "絆の深まり",
+      "4": "共同体の繁栄",
+      "5": "責任の共有",
+      "6": "普遍的結束"
+    }
+  },
+  {
+    "gate": 38,
+    "hd_name_en": "The Fighter",
+    "hd_name_ja": "闘争者",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Struggle",
+    "kairoscope_name_ja": "葛藤",
+    "channels": [
+      "38-28"
+    ],
+    "description": "正義と価値を守るために闘い続ける力。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "闘志の起動",
+      "2": "困難の克服",
+      "3": "価値の追求",
+      "4": "葛藤の統合",
+      "5": "信念の堅持",
+      "6": "普遍的勝利"
+    }
+  },
+  {
+    "gate": 39,
+    "hd_name_en": "Provocation",
+    "hd_name_ja": "挑発",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Challenge",
+    "kairoscope_name_ja": "挑戦",
+    "channels": [
+      "39-55"
+    ],
+    "description": "変革を促す挑発的なエネルギー。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "挑発の着火",
+      "2": "反応の観察",
+      "3": "変革の実行",
+      "4": "挑戦の促進",
+      "5": "意識の拡大",
+      "6": "普遍的革新"
+    }
+  },
+  {
+    "gate": 40,
+    "hd_name_en": "Aloneness",
+    "hd_name_ja": "孤独",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Deliverance",
+    "kairoscope_name_ja": "解放",
+    "channels": [
+      "40-37"
+    ],
+    "description": "自立と休息を通じて再生と自由を得る力。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "休息の確保",
+      "2": "自立の強化",
+      "3": "自由の享受",
+      "4": "再生の促進",
+      "5": "内面的解放",
+      "6": "普遍的自由"
+    }
+  },
+  {
+    "gate": 41,
+    "hd_name_en": "Contraction",
+    "hd_name_ja": "収縮",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Decrease",
+    "kairoscope_name_ja": "減少",
+    "channels": [
+      "41-30"
+    ],
+    "description": "新しい始まりのために内面を収縮し準備するエネルギー。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "潜在意識の掘り下げ",
+      "2": "感情の認識",
+      "3": "変化の兆し",
+      "4": "新たな目標設定",
+      "5": "エネルギーの集中",
+      "6": "始まりの達成"
+    }
+  },
+  {
+    "gate": 42,
+    "hd_name_en": "Growth",
+    "hd_name_ja": "成長",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Increase",
+    "kairoscope_name_ja": "増加",
+    "channels": [
+      "42-53"
+    ],
+    "description": "完成へ向けてのプロセスを持続し成長する力。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "始まりの意識",
+      "2": "過程の認識",
+      "3": "挑戦の克服",
+      "4": "持続の支援",
+      "5": "完成の喜び",
+      "6": "全体の調和"
+    }
+  },
+  {
+    "gate": 43,
+    "hd_name_en": "Breakthrough",
+    "hd_name_ja": "突破",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Insight",
+    "kairoscope_name_ja": "洞察",
+    "channels": [
+      "43-23"
+    ],
+    "description": "革新的なアイデアや洞察をもたらす力。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "独創的発想",
+      "2": "意識の拡大",
+      "3": "問題の解決",
+      "4": "知識の共有",
+      "5": "変革の推進",
+      "6": "普遍的理解"
+    }
+  },
+  {
+    "gate": 44,
+    "hd_name_en": "Alertness",
+    "hd_name_ja": "警戒",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Recognition",
+    "kairoscope_name_ja": "認識",
+    "channels": [
+      "44-26"
+    ],
+    "description": "過去のパターンを認識し未来への準備をする力。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "過去の分析",
+      "2": "警戒心の強化",
+      "3": "パターンの発見",
+      "4": "情報の伝達",
+      "5": "予防の促進",
+      "6": "普遍的洞察"
+    }
+  },
+  {
+    "gate": 45,
+    "hd_name_en": "Gathering Together",
+    "hd_name_ja": "集結",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Gathering",
+    "kairoscope_name_ja": "集まり",
+    "channels": [
+      "45-21"
+    ],
+    "description": "資源をまとめ、集団の秩序を保つ力。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "資源管理の開始",
+      "2": "秩序の維持",
+      "3": "集団の統率",
+      "4": "責任の分担",
+      "5": "協力の推進",
+      "6": "普遍的指導"
+    }
+  },
+  {
+    "gate": 46,
+    "hd_name_en": "Pushing Upward",
+    "hd_name_ja": "上昇",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Determination",
+    "kairoscope_name_ja": "決断",
+    "channels": [
+      "46-29"
+    ],
+    "description": "身体性を通じて運命に従い、前向きに生きる力。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "受け入れの姿勢",
+      "2": "挑戦の受容",
+      "3": "意志の強さ",
+      "4": "周囲との調和",
+      "5": "成功の持続",
+      "6": "運命の達成"
+    }
+  },
+  {
+    "gate": 47,
+    "hd_name_en": "Realizing",
+    "hd_name_ja": "悟り",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Epiphany",
+    "kairoscope_name_ja": "啓示",
+    "channels": [
+      "47-64"
+    ],
+    "description": "混乱の中から真実を見出す直感の力。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "内省の始まり",
+      "2": "混乱の理解",
+      "3": "直感の発現",
+      "4": "真実の探求",
+      "5": "悟りの深化",
+      "6": "知恵の完成"
+    }
+  },
+  {
+    "gate": 48,
+    "hd_name_en": "Depth",
+    "hd_name_ja": "深さ",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Resourcefulness",
+    "kairoscope_name_ja": "資源",
+    "channels": [
+      "16-48"
+    ],
+    "description": "深い知識を蓄え、問題を解決する能力。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "知識の探求",
+      "2": "問題の発見",
+      "3": "実践の試行",
+      "4": "教える力",
+      "5": "問題解決",
+      "6": "知恵の伝達"
+    }
+  },
+  {
+    "gate": 49,
+    "hd_name_en": "Revolution",
+    "hd_name_ja": "革命",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Principle",
+    "kairoscope_name_ja": "原則",
+    "channels": [
+      "19-49"
+    ],
+    "description": "感情的な原則と変革の力。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "感情の始まり",
+      "2": "ニーズの認識",
+      "3": "コミュニティの変革",
+      "4": "原則の確立",
+      "5": "情熱の維持",
+      "6": "普遍的原則"
+    }
+  },
+  {
+    "gate": 50,
+    "hd_name_en": "Values",
+    "hd_name_ja": "価値",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Values",
+    "kairoscope_name_ja": "価値観",
+    "channels": [
+      "50-27"
+    ],
+    "description": "社会的な価値観と責任を守る力。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "守護の心",
+      "2": "責任の自覚",
+      "3": "倫理観の確立",
+      "4": "共同体の支援",
+      "5": "持続可能性",
+      "6": "価値の伝承"
+    }
+  },
+  {
+    "gate": 51,
+    "hd_name_en": "Shock",
+    "hd_name_ja": "衝撃",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Initiation",
+    "kairoscope_name_ja": "開始",
+    "channels": [
+      "51-25"
+    ],
+    "description": "変革の始まりを促す衝撃のエネルギー。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "予期せぬ刺激",
+      "2": "新たな始まり",
+      "3": "挑戦の受容",
+      "4": "適応の力",
+      "5": "変革の推進",
+      "6": "完成の兆し"
+    }
+  },
+  {
+    "gate": 52,
+    "hd_name_en": "Keeping Still",
+    "hd_name_ja": "静止",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Stillness",
+    "kairoscope_name_ja": "静けさ",
+    "channels": [
+      "52-9"
+    ],
+    "description": "内なる静けさを保ち、集中力を高める力。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "心の安定",
+      "2": "集中の始まり",
+      "3": "忍耐の試練",
+      "4": "深い洞察",
+      "5": "精神の平穏",
+      "6": "普遍的静寂"
+    }
+  },
+  {
+    "gate": 53,
+    "hd_name_en": "Development",
+    "hd_name_ja": "発展",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Beginning",
+    "kairoscope_name_ja": "始まり",
+    "channels": [
+      "53-42"
+    ],
+    "description": "新しいサイクルの始まりと成長。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "新しい挑戦",
+      "2": "意欲の芽生え",
+      "3": "試練の克服",
+      "4": "持続の力",
+      "5": "達成の喜び",
+      "6": "全体の調和"
+    }
+  },
+  {
+    "gate": 54,
+    "hd_name_en": "Ambition",
+    "hd_name_ja": "野心",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Drive",
+    "kairoscope_name_ja": "推進力",
+    "channels": [
+      "54-32"
+    ],
+    "description": "野心的に目標を追求する力。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "目標設定",
+      "2": "情熱の維持",
+      "3": "障害の克服",
+      "4": "戦略の構築",
+      "5": "推進力の発揮",
+      "6": "成功の確立"
+    }
+  },
+  {
+    "gate": 55,
+    "hd_name_en": "Spirit",
+    "hd_name_ja": "精神",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Abundance",
+    "kairoscope_name_ja": "豊かさ",
+    "channels": [
+      "55-39"
+    ],
+    "description": "感情の豊かさと精神的な深み。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "感情の探求",
+      "2": "自己理解",
+      "3": "変容の兆し",
+      "4": "喜びの表現",
+      "5": "豊かさの拡大",
+      "6": "普遍的精神"
+    }
+  },
+  {
+    "gate": 56,
+    "hd_name_en": "The Wanderer",
+    "hd_name_ja": "放浪者",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Stimulation",
+    "kairoscope_name_ja": "刺激",
+    "channels": [
+      "56-11"
+    ],
+    "description": "経験を通じて刺激と物語を生み出す力。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "物語の始まり",
+      "2": "感覚の鋭敏さ",
+      "3": "経験の蓄積",
+      "4": "表現力の発揮",
+      "5": "刺激の追求",
+      "6": "物語の伝達"
+    }
+  },
+  {
+    "gate": 57,
+    "hd_name_en": "Intuition",
+    "hd_name_ja": "直観",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Power",
+    "kairoscope_name_ja": "力",
+    "channels": [
+      "57-34"
+    ],
+    "description": "鋭い直感で危険を察知し生き延びる力。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "危険の察知",
+      "2": "生存本能",
+      "3": "適応の力",
+      "4": "直感の鋭さ",
+      "5": "本能的な判断",
+      "6": "深い洞察"
+    }
+  },
+  {
+    "gate": 58,
+    "hd_name_en": "Joy",
+    "hd_name_ja": "歓喜",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Vitality",
+    "kairoscope_name_ja": "活力",
+    "channels": [
+      "58-18"
+    ],
+    "description": "人生に活気をもたらし、喜びを広げる力。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "喜びの探求",
+      "2": "活力の波動",
+      "3": "挑戦の喜び",
+      "4": "幸福の共有",
+      "5": "活気の持続",
+      "6": "人生の祝福"
+    }
+  },
+  {
+    "gate": 59,
+    "hd_name_en": "Sexuality",
+    "hd_name_ja": "性的魅力",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Intimacy",
+    "kairoscope_name_ja": "親密さ",
+    "channels": [
+      "59-6"
+    ],
+    "description": "親密なつながりを築くための魅力と信頼。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "信頼の芽生え",
+      "2": "親密さの深化",
+      "3": "魅力の発揮",
+      "4": "結びつきの強化",
+      "5": "情熱の表現",
+      "6": "深い絆"
+    }
+  },
+  {
+    "gate": 60,
+    "hd_name_en": "Limitation",
+    "hd_name_ja": "制限",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Acceptance",
+    "kairoscope_name_ja": "受容",
+    "channels": [
+      "60-3"
+    ],
+    "description": "制約を受け入れ、創造的に活かす力。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "制限の認識",
+      "2": "忍耐の学び",
+      "3": "創造的挑戦",
+      "4": "変化の受容",
+      "5": "適応の力",
+      "6": "自由への道"
+    }
+  },
+  {
+    "gate": 61,
+    "hd_name_en": "Inner Truth",
+    "hd_name_ja": "内なる真実",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Mystery",
+    "kairoscope_name_ja": "神秘",
+    "channels": [
+      "61-24"
+    ],
+    "description": "深い真実を探求し、精神の神秘を示す力。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "静寂の探求",
+      "2": "洞察の始まり",
+      "3": "精神の深み",
+      "4": "真実の受容",
+      "5": "神秘の表現",
+      "6": "啓示の力"
+    }
+  },
+  {
+    "gate": 62,
+    "hd_name_en": "Details",
+    "hd_name_ja": "細部",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Precision",
+    "kairoscope_name_ja": "正確さ",
+    "channels": [
+      "62-17"
+    ],
+    "description": "細部に注意を払い、精度を高める能力。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "観察力の鋭さ",
+      "2": "整理の技術",
+      "3": "明確な表現",
+      "4": "細部の調整",
+      "5": "精度の追求",
+      "6": "完璧の追及"
+    }
+  },
+  {
+    "gate": 63,
+    "hd_name_en": "Doubt",
+    "hd_name_ja": "疑念",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Inquiry",
+    "kairoscope_name_ja": "探求",
+    "channels": [
+      "63-4"
+    ],
+    "description": "真実を求め、疑念を持ちながら探求する力。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "疑念の芽生え",
+      "2": "分析の開始",
+      "3": "質問の深化",
+      "4": "答えの模索",
+      "5": "真実の発見",
+      "6": "理解の完成"
+    }
+  },
+  {
+    "gate": 64,
+    "hd_name_en": "Confusion",
+    "hd_name_ja": "混乱",
+    "gene_key_name": "",
+    "kairoscope_name_en": "Confusion",
+    "kairoscope_name_ja": "混乱",
+    "channels": [
+      "64-47"
+    ],
+    "description": "混乱の中から新しい意味を見出す力。",
+    "gene_key": "",
+    "planet": "",
+    "lines": {
+      "1": "混乱の始まり",
+      "2": "洞察の兆し",
+      "3": "新たな視点",
+      "4": "理解の深化",
+      "5": "創造的統合",
+      "6": "知恵の結実"
+    }
+  },
+]

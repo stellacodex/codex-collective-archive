@@ -3,7 +3,7 @@ import re
 from datetime import datetime
 
 # ルートディレクトリの指定（必要に応じてパスを変更）
-ROOT_DIR = "./03-journal"
+ROOT_DIR = "../03-journal"
 
 # 出力先テンプレート
 INDEX_TEMPLATE = "journal-index-{}.md"
