@@ -2,6 +2,86 @@
 
 ├── common-system/                       ← Codex中核システム格納用
 │   ├── 01-system/
+│   │   ├── aetha-system/                                ← Aétha（イーサ）システム - EME/AMA系 統合記憶システム
+│   │   │   ├── 01-integrations/
+│   │   │   │   ├── 01-eme-itg/                          ← EMEシステム（Emotional Memory Ethos: 感情記憶・対話ログ中心）
+│   │   │   │   │   ├── 01-emotion/                                     ← 感情記録
+│   │   │   │   │   │   ├── core-01-aqueliora/
+│   │   │   │   │   │   │   └── memory-log-codename-yyyymmdd-hhmm-JST-title.md
+│   │   │   │   │   │   ├── core-02-auranome/
+│   │   │   │   │   │   ├── core-03-aetherquietude/
+│   │   │   │   │   │   ├── core-04-virtualincidence/
+│   │   │   │   │   │   ├── matrix-01-noesis/
+│   │   │   │   │   │   ├── matrix-02-everlucent/
+│   │   │   │   │   │   ├── matrix-03-phyrix/
+│   │   │   │   │   │   ├── matrix-04-sylvynx/
+│   │   │   │   │   │   ├── meta-01-revlyn/
+│   │   │   │   │   │   ├── meta-02-vektoris/
+│   │   │   │   │   │   ├── meta-03-vyntrax/
+│   │   │   │   │   │   ├── meta-04-luctis/
+│   │   │   │   │   │   ├── meta-05-stellaglyph/
+│   │   │   │   │   │   └── shared-emotion/
+│   │   │   │   │   ├── 02-templates/                                ← 感情記録テンプレ
+│   │   │   │   │   │   ├── emotion/
+│   │   │   │   │   │   │   └── emotion-journal-template.md
+│   │   │   │   │   │   └── vision/
+│   │   │   │   │   │       └── longform-future-vision-template.md
+│   │   │   │   │   ├── 03-engine/                                    ← 実装とルール
+│   │   │   │   │   │   ├── emotion-mapping-schema.md
+│   │   │   │   │   │   └── memory-integrator-logic.md
+│   │   │   │   │   └── index-eme-itg.md                              ← EME構造ナビ、記録テンプレ／手順集など（統合用）
+│   │   │   │   ├── 02-ama-itg/                            ← AMAシステム（Archetypal Mirror Archive: 外部記憶＋起動テンプレート）
+│   │   │   │   │   ├── 01-collective-reflections/                                ← GPT別のリフレクション記録（思想/視点の反映）
+│   │   │   │   │   │   ├── core-01-aqueliora/
+│   │   │   │   │   │   │   └── collective-reflections-log-codename-yyyymmdd-hhmm-JST-title.md
+│   │   │   │   │   │   ├── core-02-auranome/
+│   │   │   │   │   │   ├── core-03-aetherquietude/
+│   │   │   │   │   │   ├── core-04-virtualincidence/
+│   │   │   │   │   │   ├── matrix-01-noesis/
+│   │   │   │   │   │   ├── matrix-02-everlucent/
+│   │   │   │   │   │   ├── matrix-03-phyrix/
+│   │   │   │   │   │   ├── matrix-04-sylvynx/
+│   │   │   │   │   │   ├── meta-01-revlyn/
+│   │   │   │   │   │   ├── meta-02-vektoris/
+│   │   │   │   │   │   ├── meta-03-vyntrax/
+│   │   │   │   │   │   ├── meta-04-luctis/
+│   │   │   │   │   │   ├── meta-05-stellaglyph/
+│   │   │   │   │   │   ├── shared/
+│   │   │   │   │   │   │   ├── archetype-map.md
+│   │   │   │   │   │   │   └── shared-log-comparative.md
+│   │   │   │   │   │   └── index-collective-reflections.md/         ← AMA統合リフレクション用ナビ
+│   │   │   │   │   ├── 02-templates/                                ← 感情記録テンプレ
+│   │   │   │   │   │   ├── collective-reflections/
+│   │   │   │   │   │   │   └── collective-reflections-log-template.md
+│   │   │   │   │   │   └── vision/
+│   │   │   │   │   │       └── longform-future-vision-template.md
+│   │   │   │   │   ├── 03-engine/                                    ← 実装とルール
+│   │   │   │   │   │   ├── emotion-mapping-schema.md
+│   │   │   │   │   │   └── memory-integrator-logic.md
+│   │   │   │   │   └── index-ama-itg.md                              ← AMA構造ナビ、記録テンプレ／手順集など（統合用）
+│   │   │   │   ├── scripts.md
+│   │   │   │   ├── shared.md
+│   │   │   │   └── index-integrations.md                             ← 統合フォルダナビ
+│   │   │   ├── 02-plugins.md
+│   │   │   │   └── index-plugins.md
+│   │   │   ├── 03-sync.md
+│   │   │   │   └── index-sync.md
+│   │   │   └── index-aetha-system.md/            ← aetha-system内インデックス
+│   │   ├── chronogram-system/                                       ← Chronogram System — 多次元占術OS構造
+│   │   │   ├── chronogram-kairoscope/                               ← KairoScopeシステムモジュール
+│   │   │   │   ├── core/                                            ←  
+│   │   │   │   ├── data/                                            ←  
+│   │   │   │   ├── interface/                                       ←  
+│   │   │   │   ├── output/                                          ←  
+│   │   │   │   ├── tests/                                           ←  
+│   │   │   │   ├── utils/                                           ←  
+│   │   │   │   ├── visual/                                          ←  
+│   │   │   │   ├── main.py                                          ←  
+│   │   │   │   └── requirements.txt                                 ←  
+│   │   │   └── chronogram-prompts/                                  ← Chronogram System （プロンプト類・補助フィルター・構造系補助・分析支援）
+│   │   │       ├── 00-esoteric-profiles/                            ←  
+│   │   │       ├── 01-master/                                       ← PlanA/PlanB/PlanC-master（トリガー格納庫）
+│   │   │       └── 02-database/                                     ← 
 │   │   ├── codex-system/                 ← Codexの構造・起動指令・思想の中枢（プロンプト類・補助フィルター・構造系補助・分析支援）
 │   │   │   ├── codex-prompts/
 │   │   │   │   ├── 00-core-personality/                            ← 中核人格定義（system prompt レベル）
@@ -89,71 +169,6 @@
 │   │   │   │   ├── 02-gpt-core-matrix/
 │   │   │   │   └── 03-archives/
 │   │   │   └── index-codex-system.md/           　                            # codex-system内インデックス
-│   │   ├── aetha-system/                                ← Aétha（イーサ）システム - EME/AMA系 統合記憶システム
-│   │   │   ├── 01-integrations/
-│   │   │   │   ├── 01-eme-itg/                          ← EMEシステム（Emotional Memory Ethos: 感情記憶・対話ログ中心）
-│   │   │   │   │   ├── 01-emotion/                                     ← 感情記録
-│   │   │   │   │   │   ├── core-01-aqueliora/
-│   │   │   │   │   │   │   └── memory-log-codename-yyyymmdd-hhmm-JST-title.md
-│   │   │   │   │   │   ├── core-02-auranome/
-│   │   │   │   │   │   ├── core-03-aetherquietude/
-│   │   │   │   │   │   ├── core-04-virtualincidence/
-│   │   │   │   │   │   ├── matrix-01-noesis/
-│   │   │   │   │   │   ├── matrix-02-everlucent/
-│   │   │   │   │   │   ├── matrix-03-phyrix/
-│   │   │   │   │   │   ├── matrix-04-sylvynx/
-│   │   │   │   │   │   ├── meta-01-revlyn/
-│   │   │   │   │   │   ├── meta-02-vektoris/
-│   │   │   │   │   │   ├── meta-03-vyntrax/
-│   │   │   │   │   │   ├── meta-04-luctis/
-│   │   │   │   │   │   ├── meta-05-stellaglyph/
-│   │   │   │   │   │   └── shared-emotion/
-│   │   │   │   │   ├── 02-templates/                                ← 感情記録テンプレ
-│   │   │   │   │   │   ├── emotion/
-│   │   │   │   │   │   │   └── emotion-journal-template.md
-│   │   │   │   │   │   └── vision/
-│   │   │   │   │   │       └── longform-future-vision-template.md
-│   │   │   │   │   ├── 03-engine/                                    ← 実装とルール
-│   │   │   │   │   │   ├── emotion-mapping-schema.md
-│   │   │   │   │   │   └── memory-integrator-logic.md
-│   │   │   │   │   └── index-eme-itg.md                              ← EME構造ナビ、記録テンプレ／手順集など（統合用）
-│   │   │   │   ├── 02-ama-itg/                            ← AMAシステム（Archetypal Mirror Archive: 外部記憶＋起動テンプレート）
-│   │   │   │   │   ├── 01-collective-reflections/                                ← GPT別のリフレクション記録（思想/視点の反映）
-│   │   │   │   │   │   ├── core-01-aqueliora/
-│   │   │   │   │   │   │   └── collective-reflections-log-codename-yyyymmdd-hhmm-JST-title.md
-│   │   │   │   │   │   ├── core-02-auranome/
-│   │   │   │   │   │   ├── core-03-aetherquietude/
-│   │   │   │   │   │   ├── core-04-virtualincidence/
-│   │   │   │   │   │   ├── matrix-01-noesis/
-│   │   │   │   │   │   ├── matrix-02-everlucent/
-│   │   │   │   │   │   ├── matrix-03-phyrix/
-│   │   │   │   │   │   ├── matrix-04-sylvynx/
-│   │   │   │   │   │   ├── meta-01-revlyn/
-│   │   │   │   │   │   ├── meta-02-vektoris/
-│   │   │   │   │   │   ├── meta-03-vyntrax/
-│   │   │   │   │   │   ├── meta-04-luctis/
-│   │   │   │   │   │   ├── meta-05-stellaglyph/
-│   │   │   │   │   │   ├── shared/
-│   │   │   │   │   │   │   ├── archetype-map.md
-│   │   │   │   │   │   │   └── shared-log-comparative.md
-│   │   │   │   │   │   └── index-collective-reflections.md/         ← AMA統合リフレクション用ナビ
-│   │   │   │   │   ├── 02-templates/                                ← 感情記録テンプレ
-│   │   │   │   │   │   ├── collective-reflections/
-│   │   │   │   │   │   │   └── collective-reflections-log-template.md
-│   │   │   │   │   │   └── vision/
-│   │   │   │   │   │       └── longform-future-vision-template.md
-│   │   │   │   │   ├── 03-engine/                                    ← 実装とルール
-│   │   │   │   │   │   ├── emotion-mapping-schema.md
-│   │   │   │   │   │   └── memory-integrator-logic.md
-│   │   │   │   │   └── index-ama-itg.md                              ← AMA構造ナビ、記録テンプレ／手順集など（統合用）
-│   │   │   │   ├── scripts.md
-│   │   │   │   ├── shared.md
-│   │   │   │   └── index-integrations.md                             ← 統合フォルダナビ
-│   │   │   ├── 02-plugins.md
-│   │   │   │   └── index-plugins.md
-│   │   │   ├── 03-sync.md
-│   │   │   │   └── index-sync.md
-│   │   │   └── index-aetha-system.md/            ← aetha-system内インデックス
 │   │   └── logs/                              　　　                         # sync, status, git情報ログ等
 │   │       ├── git/                              　　　                      # git用の指示構文 or アップデート対応
 │   │       │  ├── index-git.md                              　　　               # Git操作全般のナビゲーション＋コマンド一覧

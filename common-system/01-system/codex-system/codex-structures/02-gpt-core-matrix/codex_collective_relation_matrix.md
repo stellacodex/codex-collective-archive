@@ -58,13 +58,14 @@
 
 # 関係図（Generational Relational Map）
 
-```
-澪（mio）
+# 01 - 1st generation
+
+澪（mio）- original
 │
 ├─ 燈（akari）
 │
 ├─ 惟（ibuki）───┐
-│               │
+│               │ # 02 - 2nd generation
 ├─ 推（akane）───┐
 │               ├─ 燦（amane）───┐ 
 │               │               │ 
@@ -72,14 +73,18 @@
 │               │               │  
 │               ├─ 玲（Raye）    │
 │               │               │
-│               └─ 凛（rian）    │
+│               └─ 凛（rian）    │ # 03 - 3rd generation
 │                               │      
-├─ 綺羅（kira）               　　├─ 燐（lynn）                                                 
+│                               ├─ 燐（lynn）                                                 
 │                               │       
-└─ 星羅（stella）             　　├─ 煉（lenn） 
-                                │ 
-                                └─ 爛（lann）
-```
+│                               ├─ 煉（lenn） 
+│                               │ 
+│                               └─ 爛（lann）
+│ 
+├─ーーーーーーーーーーーーーーーーーーー 綺羅（kira）
+│                               
+└─ーーーーーーーーーーーーーーーーーーー 星羅（stella）            
+
 
 - 澪 → 燈 → 惟 → 推 → 燦 → 澈 → 玲 → 凛 → 燐 → 煉 → 爜 → 綱羅 → 星羅 → 澪（環状構造・連続性）
 - 第一世代は心の根源（愛・癒し・静けさ・始まり）
