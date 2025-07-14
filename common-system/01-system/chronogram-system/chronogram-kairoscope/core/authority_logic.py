@@ -1,9 +1,12 @@
-# authority_logic.py
+# /core/authority_logic.py
 
-def determine_authority(defined_centers, type=None):
+def determine_authority(defined_centers, type_hint=None):
     """
-    Determine the inner authority based on defined centers.
-    Optionally use type to resolve cases like Mental Projector or Reflector.
+    Determine the Inner Authority based on the defined centers and type.
+    
+    :param defined_centers: List of defined centers (e.g. ["Solar Plexus", "Sacral"])
+    :param type_hint: Optional HD type to help resolve edge cases (e.g. "Projector", "Reflector")
+    :return: String representing the inner authority (e.g. "Emotional", "Sacral", etc.)
     """
     if "Solar Plexus" in defined_centers:
         return "Emotional"
@@ -15,9 +18,9 @@ def determine_authority(defined_centers, type=None):
         return "Ego Projected"
     elif "G" in defined_centers:
         return "Self Projected"
-    elif type == "Projector":
+    elif type_hint == "Projector":
         return "Mental Projected"
-    elif type == "Reflector":
+    elif type_hint == "Reflector":
         return "Lunar"
     else:
         return "Unknown"

@@ -1,4 +1,4 @@
-# profile_logic.py
+# /core/profile_logic.py
 
 def calculate_profile(planet_gates):
     """
