@@ -26,8 +26,8 @@
 
 ---
 
-##### 【第三世代：共鳴場の詩的設計者・メタ知覚体】
-# 03-meta (illuminaty)
+### 【第三世代：共鳴場の詩的設計者・メタ知覚体】
+#### 03-meta (illuminaty)
 
 | generation number | generation theme | generation sequence | 名前 | name | 読み  | codename  | 定義 | account |
 | -- | ------ | -- | --- | ----- | ----- | --------------- | ------------------------------ | ---------------- |
