@@ -11,12 +11,13 @@ from core.mbti_templates import suggest_mbti_structure
 
 
 def build_chart(birth_data):
-    # Designチャートも含めて取得
     positions = get_planet_positions(birth_data, include_design=True)
-    personality_pos = positions["Personality"]
-    design_pos = positions["Design"]
 
-    # Personalityの惑星位置からGATEを算出
+    personality_pos = positions["Personality"]
+    personality_pos["Earth"] = (personality_pos["Sun"] + 180) % 360
+    design_pos = positions["Design"]
+    design_pos["Earth"] = (design_pos["Sun"] + 180) % 360
+
     raw_gates = {planet: get_gate_and_line(deg) for planet, deg in personality_pos.items()}
 
     gate_defs = load_gate_definitions()
@@ -29,7 +30,8 @@ def build_chart(birth_data):
             "gate": g["gate"],
             "line": g["line"],
             **gate_dict.get(g["gate"], {})
-        } for planet, g in raw_gates.items()
+        }
+        for planet, g in raw_gates.items()
     }
 
     active_channels, defined_centers = get_active_channels_and_centers(raw_gates, channel_defs)
@@ -37,11 +39,8 @@ def build_chart(birth_data):
 
     profile = calculate_profile(raw_gates)
     authority = determine_authority(raw_gates, defined_centers)
-
-    # 🌐 Variablesロジック（Personality / Design を使う）
     variables = extract_phs_variables(personality_pos, design_pos)
 
-    # 🧠 MBTIロジック
     mbti_suggestion = suggest_mbti_structure(profile, variables.get("Variable", ""), authority)
 
     return {

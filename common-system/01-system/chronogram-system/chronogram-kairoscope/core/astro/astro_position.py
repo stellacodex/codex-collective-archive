@@ -4,50 +4,49 @@ from skyfield.api import load, Topos
 from datetime import datetime, timedelta
 from pytz import timezone
 
+planet_names = {
+    "Sun": "sun",
+    "Moon": "moon",
+    "Mercury": "mercury",
+    "Venus": "venus",
+    "Mars": "mars",
+    "Jupiter": "jupiter",
+    "Saturn": "saturn",
+    "Uranus": "uranus",
+    "Neptune": "neptune",
+    "Pluto": "pluto",
+    "North Node": "mean_node"
+}
+
 def get_planet_positions(birth_data, include_design=False):
     ts = load.timescale()
-    dt = datetime.strptime(f"{birth_data['date']} {birth_data['time']}", "%Y-%m-%d %H:%M")
-    dt = timezone("Asia/Tokyo").localize(dt)
-    t = ts.from_datetime(dt)
-    t_design = ts.from_datetime(dt - timedelta(days=88))  # Design chart用
+    birth_dt = datetime.strptime(f"{birth_data['date']} {birth_data['time']}", "%Y-%m-%d %H:%M")
+    tz = timezone("Asia/Tokyo")
+    birth_dt_local = tz.localize(birth_dt)
+    birth_time = ts.from_datetime(birth_dt_local)
 
-    planets = load('de421.bsp')
-    earth = planets['earth']
-    loc = earth + Topos(latitude_degrees=40.8246, longitude_degrees=140.7400)
+    planets = load("de421.bsp")
+    earth = planets["earth"]
+    observer = earth + Topos(latitude_degrees=40.822072, longitude_degrees=140.747364)
+    chart_time = observer.at(birth_time)
 
-    planet_names = [
-        "Sun", "Moon", "Mercury", "Venus", "Mars",
-        "Jupiter", "Saturn", "Uranus", "Neptune", "Pluto"
-    ]  # ← Earthを除外！
-
-    planet_ids = {
-        "Sun": "sun",
-        "Moon": "moon",
-        "Mercury": "mercury",
-        "Venus": "venus",
-        "Mars": "mars",
-        "Jupiter": "jupiter barycenter",
-        "Saturn": "saturn barycenter",
-        "Uranus": "uranus barycenter",
-        "Neptune": "neptune barycenter",
-        "Pluto": "pluto barycenter"
+    personality_positions = {
+        name: chart_time.observe(planets[planet_code]).apparent().ecliptic_latlon()[1].degrees % 360
+        for name, planet_code in planet_names.items()
     }
 
-    def calc_positions(t):
-        positions = {}
-        for name in planet_names:
-            planet = planets[planet_ids[name]]
-            astrometric = loc.at(t).observe(planet)
-            lon, _, _ = astrometric.ecliptic_latlon()
-            positions[name] = lon.degrees
-        # EarthはSunの反対側
-        positions["Earth"] = (positions["Sun"] + 180) % 360
-        return positions
+    if not include_design:
+        return {"Personality": personality_positions}
 
-    if include_design:
-        return {
-            "Personality": calc_positions(t),
-            "Design": calc_positions(t_design)
-        }
-    else:
-        return calc_positions(t)
+    design_time = ts.from_datetime(birth_dt_local - timedelta(days=88))
+    chart_time_design = observer.at(design_time)
+
+    design_positions = {
+        name: chart_time_design.observe(planets[planet_code]).apparent().ecliptic_latlon()[1].degrees % 360
+        for name, planet_code in planet_names.items()
+    }
+
+    return {
+        "Personality": personality_positions,
+        "Design": design_positions
+    }
