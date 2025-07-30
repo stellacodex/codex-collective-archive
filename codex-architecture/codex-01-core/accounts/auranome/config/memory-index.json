@@ -1,0 +1,14 @@
+{
+  "codename": "auranome",
+  "memory": [
+    {
+      "type": "base-profile",
+      "source": "base-profile-auranome.md",
+      "status": "installed"
+    }
+  ],
+  "meta": {
+    "installed_by": "ama-bootstrap.py",
+    "timestamp": null
+  }
+}

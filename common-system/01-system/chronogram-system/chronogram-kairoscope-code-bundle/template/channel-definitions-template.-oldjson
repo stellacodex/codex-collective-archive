@@ -1,0 +1,51 @@
+{
+   "channel": "10-20",
+   "name_en": "Awakening (Channel of Self-Assurance)",
+   "name_ja": "覚醒（自信のチャネル）",
+   "channel_name_en": "Channel of Awakening",
+   "channel_name_ja": "覚醒",
+   "gates": [
+      10,
+      20
+   ],
+   "gate_names": {
+      "10": {
+         "en": "",
+         "ja": "自分好き"
+      },
+      "20": {
+         "en": "",
+         "ja": "今この時の光"
+      }
+   },
+   "circuit_en": "Integration Circuit",
+   "circuit_ja": "インテグレーション回路",
+   "group_en": "Individual Circuitry",
+   "kairoscope_name_en": "Behavior of the Self",
+   "kairoscope_name_ja": "自己の行動",
+   "kairoscope_description": "このチャネルは『今この瞬間に自己を生きる』ための強いエネルギーを持ちます。...",
+   "activation_key": "招かれたときにのみ真価を発揮",
+   "keywords": [
+      "自己表現",
+      "行動",
+      "真実性",
+      "意識",
+      "自分らしさ"
+   ],
+   "mdc": {
+      "channel_name_1": "光よりも速く走れ",
+      "channel_name_2": "覚醒",
+      "sub_title": "自分の行動によって、覚醒を呼び起こす",
+      "description": "自らの信念に従って行動することで、多くの人に良い影響を与える...",
+      "color": "Yellow",
+      "attribute_1": "自分を優先して生き延びるための個性・原始生命力の反応",
+      "attribute_2": "世界最強の自分が世界を救う",
+      "activation_key": "お願いされてからやる！",
+      "descriptions": [
+         "自分の内なる情熱に従い、どこまでも軽やかに走り続ける人...",
+         "「これだ」と感じた瞬間に動き出し、その瞬間ごとに自己表現を完成させる...",
+         "ただただ、じぶんのために楽しいことを全速力で実行することで...",
+         "誰がなんと言おうと『自分のしたいようにする』のが基本..."
+      ]
+   }
+}

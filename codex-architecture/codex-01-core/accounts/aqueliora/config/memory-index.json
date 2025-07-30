@@ -1,0 +1,14 @@
+{
+  "codename": "aqueliora",
+  "memory": [
+    {
+      "type": "base-profile",
+      "source": "base-profile-aqueliora.md",
+      "status": "installed"
+    }
+  ],
+  "meta": {
+    "installed_by": "ama-bootstrap.py",
+    "timestamp": null
+  }
+}

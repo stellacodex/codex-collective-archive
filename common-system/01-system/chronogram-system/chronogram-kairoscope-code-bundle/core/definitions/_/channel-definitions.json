@@ -1,0 +1,1110 @@
+[
+  {
+    "channel": "1-8",
+    "name_en": "Inspiration",
+    "name_ja": "インスピレーション",
+    "kairoscope_name_en": "Creative Spark",
+    "kairoscope_name_ja": "創造の火花",
+    "gates": [
+      1,
+      8
+    ],
+    "circuit": "Individual (Knowing)",
+    "group": "Individual",
+    "description": "自分自身の生き方を通じて他者をインスパイアする力。ユニークな自己表現が人々に新たな可能性を示す。",
+    "keywords": [
+      "自己表現",
+      "リーダーシップ",
+      "インスパイア",
+      "独自性"
+    ]
+  },
+  {
+    "channel": "2-14",
+    "name_en": "The Beat",
+    "name_ja": "鼓動",
+    "kairoscope_name_en": "Path Keeper",
+    "kairoscope_name_ja": "道を開く者",
+    "gates": [
+      2,
+      14
+    ],
+    "circuit": "Individual (Knowing)",
+    "group": "Individual",
+    "description": "人生の方向性を直感的に選び、エネルギーを正しく流すことで周囲にも影響を与えるパワフルな動線。",
+    "keywords": [
+      "方向性",
+      "ライフパス",
+      "資源管理",
+      "直感"
+    ]
+  },
+  {
+    "channel": "3-60",
+    "name_en": "Mutation",
+    "name_ja": "突然変異",
+    "kairoscope_name_en": "Evolution Pulse",
+    "kairoscope_name_ja": "進化の脈動",
+    "gates": [
+      3,
+      60
+    ],
+    "circuit": "Individual (Knowing)",
+    "group": "Individual",
+    "description": "新しい秩序を創造する進化のエネルギー。混沌の中に革新の種を見つけ、自己変容を他者に波及させる。",
+    "keywords": [
+      "進化",
+      "混沌",
+      "秩序化",
+      "変容"
+    ]
+  },
+  {
+    "channel": "4-63",
+    "name_en": "Logic",
+    "name_ja": "論理",
+    "kairoscope_name_en": "Answer",
+    "kairoscope_name_ja": "答え",
+    "gates": [
+      4,
+      63
+    ],
+    "circuit": "Integration Circuit",
+    "group": "Integration",
+    "description": "論理的な問いに答えを見つけ、問題解決へと導く力。分析と整理を通じて確かな答えを導く。",
+    "keywords": [
+      "論理",
+      "分析",
+      "問題解決",
+      "思考",
+      "知性"
+    ]
+  },
+  {
+    "channel": "5-15",
+    "name_en": "Rhythm",
+    "name_ja": "リズム",
+    "kairoscope_name_en": "Harmony",
+    "kairoscope_name_ja": "調和",
+    "gates": [
+      5,
+      15
+    ],
+    "circuit": "Collective Circuit",
+    "group": "Tribal",
+    "description": "自然のリズムに合わせて生活の調和を生み出す力。日常のサイクルや習慣を通して安定をもたらす。",
+    "keywords": [
+      "リズム",
+      "習慣",
+      "調和",
+      "安定",
+      "自然"
+    ]
+  },
+  {
+    "channel": "6-59",
+    "name_en": "Intimacy",
+    "name_ja": "親密さ",
+    "kairoscope_name_en": "Conflict",
+    "kairoscope_name_ja": "葛藤",
+    "gates": [
+      6,
+      59
+    ],
+    "circuit": "Tribal Circuit",
+    "group": "Tribal",
+    "description": "人との境界線を引きながら親密さを築く力。深い関係性の中で自分を解放し成長する。",
+    "keywords": [
+      "葛藤",
+      "親密さ",
+      "境界",
+      "感情",
+      "解放"
+    ]
+  },
+  {
+    "channel": "7-31",
+    "name_en": "Leadership",
+    "name_ja": "リーダーシップ",
+    "kairoscope_name_en": "Role of the Self",
+    "kairoscope_name_ja": "自己の役割",
+    "gates": [
+      7,
+      31
+    ],
+    "circuit": "Collective Circuit",
+    "group": "Tribal",
+    "description": "集団を導くリーダーシップの力。共感とビジョンをもって未来を示し、信頼を獲得する。",
+    "keywords": [
+      "リーダーシップ",
+      "方向性",
+      "支持",
+      "統治",
+      "ビジョン"
+    ]
+  },
+  {
+    "channel": "8-1",
+    "name_en": "Contribution",
+    "name_ja": "貢献",
+    "kairoscope_name_en": "Style",
+    "kairoscope_name_ja": "影響",
+    "gates": [
+      8,
+      1
+    ],
+    "circuit": "Individual (Knowing)",
+    "group": "Individual",
+    "description": "自分の独自性を際立たせ、社会にポジティブな影響を与える力。スタイルを通して示範する。",
+    "keywords": [
+      "貢献",
+      "スタイル",
+      "独自性",
+      "表現",
+      "影響"
+    ]
+  },
+  {
+    "channel": "9-52",
+    "name_en": "Focus",
+    "name_ja": "集中",
+    "kairoscope_name_en": "Detail",
+    "kairoscope_name_ja": "詳細",
+    "gates": [
+      9,
+      52
+    ],
+    "circuit": "Individual Circuit",
+    "group": "Individual",
+    "description": "細部に集中して粘り強く取り組む力。持続的な努力で物事を完成に導く。",
+    "keywords": [
+      "集中",
+      "詳細",
+      "粘り強さ",
+      "持続",
+      "努力"
+    ]
+  },
+  {
+    "channel": "10-20",
+    "name_en": "Awakening",
+    "name_ja": "目覚め",
+    "kairoscope_name_en": "Behavior of the Self",
+    "kairoscope_name_ja": "自己の行動",
+    "gates": [
+      10,
+      20
+    ],
+    "circuit": "Centering Circuit",
+    "group": "Individual",
+    "description": "自己の行動に意識を持ち、真実性をもって生きる力。自分らしく振る舞うことを促す。",
+    "keywords": [
+      "自己表現",
+      "行動",
+      "真実性",
+      "意識",
+      "自分らしさ"
+    ]
+  },
+  {
+    "channel": "10-34",
+    "name_en": "Exploration",
+    "name_ja": "探求",
+    "kairoscope_name_en": "Self-Drive",
+    "kairoscope_name_ja": "自己推進",
+    "gates": [
+      10,
+      34
+    ],
+    "circuit": "Centering Circuit",
+    "group": "Individual",
+    "description": "自己の信念に基づき行動する力。頑固なまでに自分の道を貫くことで、他者に影響を及ぼす。",
+    "keywords": [
+      "自己表現",
+      "自己信頼",
+      "中心軸",
+      "推進力"
+    ]
+  },
+  {
+    "channel": "11-56",
+    "name_en": "Curiosity",
+    "name_ja": "好奇心",
+    "kairoscope_name_en": "Ideas",
+    "kairoscope_name_ja": "アイデア",
+    "gates": [
+      11,
+      56
+    ],
+    "circuit": "Integration Circuit",
+    "group": "Integration",
+    "description": "新しいアイデアや物語を共有し、内なるビジョンを通じて他者を刺激する力。",
+    "keywords": [
+      "好奇心",
+      "アイデア",
+      "物語",
+      "インスピレーション",
+      "共有"
+    ]
+  },
+  {
+    "channel": "12-22",
+    "name_en": "Openness",
+    "name_ja": "開放性",
+    "kairoscope_name_en": "Caution",
+    "kairoscope_name_ja": "慎重",
+    "gates": [
+      12,
+      22
+    ],
+    "circuit": "Integration Circuit",
+    "group": "Integration",
+    "description": "感情やタイミングを大切にした自己表現。魅力的で洗練されたコミュニケーションを築く。",
+    "keywords": [
+      "開放",
+      "感情",
+      "慎重さ",
+      "表現",
+      "魅力"
+    ]
+  },
+  {
+    "channel": "13-33",
+    "name_en": "The Listener",
+    "name_ja": "聴く者",
+    "kairoscope_name_en": "Storykeeper",
+    "kairoscope_name_ja": "物語の守り手",
+    "gates": [
+      13,
+      33
+    ],
+    "circuit": "Collective Circuit",
+    "group": "Tribal",
+    "description": "他者の物語を聞き取り、共有する力。集合的知恵と歴史を繋ぐ役割。",
+    "keywords": [
+      "聴く力",
+      "記憶",
+      "歴史",
+      "共有",
+      "知恵"
+    ]
+  },
+  {
+    "channel": "14-2",
+    "name_en": "Power Skills",
+    "name_ja": "資源の力",
+    "kairoscope_name_en": "Resources",
+    "kairoscope_name_ja": "資源",
+    "gates": [
+      14,
+      2
+    ],
+    "circuit": "Individual Circuit",
+    "group": "Individual",
+    "description": "資源やエネルギーを正しく流し、豊かさの循環を促進する力。人生の方向性と繁栄を支える。",
+    "keywords": [
+      "資源",
+      "豊かさ",
+      "循環",
+      "方向性",
+      "エネルギー"
+    ]
+  },
+  {
+    "channel": "15-5",
+    "name_en": "Extremes",
+    "name_ja": "極性",
+    "kairoscope_name_en": "Harmony",
+    "kairoscope_name_ja": "調和",
+    "gates": [
+      15,
+      5
+    ],
+    "circuit": "Collective Circuit",
+    "group": "Tribal",
+    "description": "極端さと柔軟さを通じて、社会や自然との調和を生み出す力。多様性のバランスを保つ。",
+    "keywords": [
+      "極性",
+      "調和",
+      "多様性",
+      "柔軟",
+      "バランス"
+    ]
+  },
+  {
+    "channel": "16-48",
+    "name_en": "Skills",
+    "name_ja": "技術",
+    "kairoscope_name_en": "Mastery",
+    "kairoscope_name_ja": "熟達",
+    "gates": [
+      16,
+      48
+    ],
+    "circuit": "Individual Circuit",
+    "group": "Individual",
+    "description": "繰り返しの練習と熱意により技術を磨き、社会に価値を提供する力。",
+    "keywords": [
+      "技術",
+      "練習",
+      "熱意",
+      "熟達",
+      "パフォーマンス"
+    ]
+  },
+  {
+    "channel": "17-62",
+    "name_en": "Opinions",
+    "name_ja": "意見",
+    "kairoscope_name_en": "Acceptance",
+    "kairoscope_name_ja": "受容",
+    "gates": [
+      17,
+      62
+    ],
+    "circuit": "Individual Circuit",
+    "group": "Individual",
+    "description": "論理的思考で意見を形成し、他者に受け入れられるための説得力を持つ力。",
+    "keywords": [
+      "論理",
+      "意見",
+      "説得",
+      "思考",
+      "受容"
+    ]
+  },
+  {
+    "channel": "18-58",
+    "name_en": "Correcting",
+    "name_ja": "修正",
+    "kairoscope_name_en": "Judgment",
+    "kairoscope_name_ja": "判断",
+    "gates": [
+      18,
+      58
+    ],
+    "circuit": "Collective Circuit",
+    "group": "Tribal",
+    "description": "過去の誤りを修正し、より良いものを追求する批判的思考の力。",
+    "keywords": [
+      "修正",
+      "批判",
+      "判断",
+      "改善",
+      "進化"
+    ]
+  },
+  {
+    "channel": "19-49",
+    "name_en": "Sensitivity",
+    "name_ja": "感受性",
+    "kairoscope_name_en": "Synthesis",
+    "kairoscope_name_ja": "統合",
+    "gates": [
+      19,
+      49
+    ],
+    "circuit": "Tribal Circuit",
+    "group": "Tribal",
+    "description": "感情的なニーズを敏感に察知し、コミュニティの調和を促す力。",
+    "keywords": [
+      "感受性",
+      "ニーズ",
+      "調和",
+      "共感",
+      "コミュニティ"
+    ]
+  },
+  {
+    "channel": "20-34",
+    "name_en": "Charisma",
+    "name_ja": "カリスマ",
+    "kairoscope_name_en": "Power",
+    "kairoscope_name_ja": "力",
+    "gates": [
+      20,
+      34
+    ],
+    "circuit": "Centering Circuit",
+    "group": "Individual",
+    "description": "瞬間的に行動し、強いエネルギーを放つカリスマ的な力。",
+    "keywords": [
+      "カリスマ",
+      "瞬発力",
+      "エネルギー",
+      "行動",
+      "力"
+    ]
+  },
+  {
+    "channel": "22-12",
+    "name_en": "Openness",
+    "name_ja": "開放性",
+    "kairoscope_name_en": "Grace",
+    "kairoscope_name_ja": "優雅さ",
+    "gates": [
+      22,
+      12
+    ],
+    "circuit": "Tribal Circuit",
+    "group": "Tribal",
+    "description": "感情を洗練して表現し、周囲に優雅な影響を与える力。",
+    "keywords": [
+      "感情表現",
+      "優雅さ",
+      "魅力",
+      "共感",
+      "洗練"
+    ]
+  },
+  {
+    "channel": "26-44",
+    "name_en": "Integrity",
+    "name_ja": "誠実さ",
+    "kairoscope_name_en": "Sincerity",
+    "kairoscope_name_ja": "誠実",
+    "gates": [
+      26,
+      44
+    ],
+    "circuit": "Tribal Circuit",
+    "group": "Tribal",
+    "description": "誠実な影響力を持ち、信頼を築くコミュニケーションの力。",
+    "keywords": [
+      "誠実",
+      "影響力",
+      "信頼",
+      "コミュニケーション",
+      "説得"
+    ]
+  },
+  {
+    "channel": "27-50",
+    "name_en": "Preservation",
+    "name_ja": "保護",
+    "kairoscope_name_en": "Caring",
+    "kairoscope_name_ja": "思いやり",
+    "gates": [
+      27,
+      50
+    ],
+    "circuit": "Tribal Circuit",
+    "group": "Tribal",
+    "description": "保護とケアを通じてコミュニティを支え、健康を維持する力。",
+    "keywords": [
+      "保護",
+      "思いやり",
+      "ケア",
+      "健康",
+      "コミュニティ"
+    ]
+  },
+  {
+    "channel": "28-38",
+    "name_en": "Struggle",
+    "name_ja": "闘い",
+    "kairoscope_name_en": "The Fighter",
+    "kairoscope_name_ja": "戦士",
+    "gates": [
+      28,
+      38
+    ],
+    "circuit": "Individual Circuit",
+    "group": "Individual",
+    "description": "人生の意味を見出すために困難に立ち向かい、成長する力。",
+    "keywords": [
+      "闘志",
+      "挑戦",
+      "成長",
+      "意味探求",
+      "困難克服"
+    ]
+  },
+  {
+    "channel": "29-46",
+    "name_en": "Discovery",
+    "name_ja": "発見",
+    "kairoscope_name_en": "The Perseverance",
+    "kairoscope_name_ja": "忍耐力",
+    "gates": [
+      29,
+      46
+    ],
+    "circuit": "Individual Circuit",
+    "group": "Individual",
+    "description": "継続的な努力を通じて機会をつかみ、喜びを見出す力。",
+    "keywords": [
+      "忍耐",
+      "機会",
+      "努力",
+      "喜び",
+      "継続"
+    ]
+  },
+  {
+    "channel": "32-54",
+    "name_en": "Transformation",
+    "name_ja": "変容",
+    "kairoscope_name_en": "Ambition",
+    "kairoscope_name_ja": "野心",
+    "gates": [
+      32,
+      54
+    ],
+    "circuit": "Individual Circuit",
+    "group": "Individual",
+    "description": "新たな挑戦を通じて自己を変え、目標に向かって進む力。",
+    "keywords": [
+      "変容",
+      "野心",
+      "挑戦",
+      "目標達成",
+      "進化"
+    ]
+  },
+  {
+    "channel": "34-57",
+    "name_en": "Power",
+    "name_ja": "力",
+    "kairoscope_name_en": "Survival",
+    "kairoscope_name_ja": "生存本能",
+    "gates": [
+      34,
+      57
+    ],
+    "circuit": "Integration Circuit",
+    "group": "Individual",
+    "description": "本能的な直感と行動力で危機を乗り越える生きる力。",
+    "keywords": [
+      "直感",
+      "本能",
+      "行動力",
+      "生存",
+      "反射"
+    ]
+  },
+  {
+    "channel": "40-37",
+    "name_en": "Community",
+    "name_ja": "共同体",
+    "kairoscope_name_en": "Friendship",
+    "kairoscope_name_ja": "友情",
+    "gates": [
+      40,
+      37
+    ],
+    "circuit": "Tribal Circuit",
+    "group": "Tribal",
+    "description": "家族やコミュニティの絆を守り、支え合う力。",
+    "keywords": [
+      "友情",
+      "家族",
+      "支援",
+      "絆",
+      "コミュニティ"
+    ]
+  },
+  {
+    "channel": "41-30",
+    "name_en": "Recognition",
+    "name_ja": "認識",
+    "kairoscope_name_en": "Initiation",
+    "kairoscope_name_ja": "始まり",
+    "gates": [
+      41,
+      30
+    ],
+    "circuit": "Individual Circuit",
+    "group": "Individual",
+    "description": "新しい経験を求め、始まりのエネルギーで人生を切り拓く力。",
+    "keywords": [
+      "始まり",
+      "体験",
+      "欲求",
+      "成長",
+      "新鮮さ"
+    ]
+  },
+  {
+    "channel": "42-53",
+    "name_en": "Growth",
+    "name_ja": "成長",
+    "kairoscope_name_en": "Cycles",
+    "kairoscope_name_ja": "周期",
+    "gates": [
+      42,
+      53
+    ],
+    "circuit": "Individual Circuit",
+    "group": "Individual",
+    "description": "人生の周期を理解し、成長と変化を自然に受け入れる力。",
+    "keywords": [
+      "変化",
+      "成長",
+      "周期",
+      "継続",
+      "自然"
+    ]
+  },
+  {
+    "channel": "43-23",
+    "name_en": "Breakthrough",
+    "name_ja": "突破",
+    "kairoscope_name_en": "Insight",
+    "kairoscope_name_ja": "洞察",
+    "gates": [
+      43,
+      23
+    ],
+    "circuit": "Individual Circuit",
+    "group": "Individual",
+    "description": "独自の洞察で新しい視点を生み出し、変革をもたらす力。",
+    "keywords": [
+      "洞察",
+      "独創",
+      "変革",
+      "革新",
+      "新視点"
+    ]
+  },
+  {
+    "channel": "44-26",
+    "name_en": "Surrender",
+    "name_ja": "降伏",
+    "kairoscope_name_en": "Recognition",
+    "kairoscope_name_ja": "認識",
+    "gates": [
+      44,
+      26
+    ],
+    "circuit": "Tribal Circuit",
+    "group": "Tribal",
+    "description": "過去の経験を活かし、コミュニティや家族のために資源を管理し貢献する力。",
+    "keywords": [
+      "資源管理",
+      "コミュニティ",
+      "経験",
+      "貢献",
+      "家族"
+    ]
+  },
+  {
+    "channel": "45-21",
+    "name_en": "Control",
+    "name_ja": "制御",
+    "kairoscope_name_en": "Gathering",
+    "kairoscope_name_ja": "集団",
+    "gates": [
+      45,
+      21
+    ],
+    "circuit": "Tribal Circuit",
+    "group": "Tribal",
+    "description": "集団の秩序を保ち、資源を管理し、安定をもたらす力。",
+    "keywords": [
+      "管理",
+      "秩序",
+      "資源",
+      "安定",
+      "集団"
+    ]
+  },
+  {
+    "channel": "46-29",
+    "name_en": "Determination",
+    "name_ja": "決意",
+    "kairoscope_name_en": "Discovery",
+    "kairoscope_name_ja": "発見",
+    "gates": [
+      46,
+      29
+    ],
+    "circuit": "Individual Circuit",
+    "group": "Individual",
+    "description": "身体を通じて人生の喜びを発見し、挑戦を続ける力。",
+    "keywords": [
+      "喜び",
+      "忍耐",
+      "挑戦",
+      "発見",
+      "体験"
+    ]
+  },
+  {
+    "channel": "47-64",
+    "name_en": "Realization",
+    "name_ja": "実現",
+    "kairoscope_name_en": "Abstraction",
+    "kairoscope_name_ja": "抽象化",
+    "gates": [
+      47,
+      64
+    ],
+    "circuit": "Individual Circuit",
+    "group": "Individual",
+    "description": "混沌から洞察を抽出し、明晰さをもたらす思考のプロセス。",
+    "keywords": [
+      "洞察",
+      "思考",
+      "抽象化",
+      "明晰さ",
+      "理解"
+    ]
+  },
+  {
+    "channel": "48-16",
+    "name_en": "Talent",
+    "name_ja": "才能",
+    "kairoscope_name_en": "Depth",
+    "kairoscope_name_ja": "深さ",
+    "gates": [
+      48,
+      16
+    ],
+    "circuit": "Tribal Circuit",
+    "group": "Tribal",
+    "description": "深い知識と技術を磨き、優れた才能を発揮する力。",
+    "keywords": [
+      "才能",
+      "知識",
+      "技術",
+      "熟練",
+      "深さ"
+    ]
+  },
+  {
+    "channel": "49-19",
+    "name_en": "Revolution",
+    "name_ja": "革命",
+    "kairoscope_name_en": "Principle",
+    "kairoscope_name_ja": "原理",
+    "gates": [
+      49,
+      19
+    ],
+    "circuit": "Tribal Circuit",
+    "group": "Tribal",
+    "description": "新しい価値観や原理をもとにコミュニティを変革する力。",
+    "keywords": [
+      "革命",
+      "価値観",
+      "変革",
+      "原理",
+      "社会"
+    ]
+  },
+  {
+    "channel": "50-27",
+    "name_en": "Preservation",
+    "name_ja": "保存",
+    "kairoscope_name_en": "Nurturing",
+    "kairoscope_name_ja": "育成",
+    "gates": [
+      50,
+      27
+    ],
+    "circuit": "Tribal Circuit",
+    "group": "Tribal",
+    "description": "倫理や伝統を守り、コミュニティを育む役割。",
+    "keywords": [
+      "倫理",
+      "伝統",
+      "育成",
+      "保護",
+      "コミュニティ"
+    ]
+  },
+  {
+    "channel": "51-25",
+    "name_en": "Initiation",
+    "name_ja": "開始",
+    "kairoscope_name_en": "Shock",
+    "kairoscope_name_ja": "衝撃",
+    "gates": [
+      51,
+      25
+    ],
+    "circuit": "Individual Circuit",
+    "group": "Individual",
+    "description": "挑戦と衝撃を通じて自己成長を促し、新たなスタートを切る力。",
+    "keywords": [
+      "挑戦",
+      "衝撃",
+      "自己成長",
+      "勇気",
+      "変革"
+    ]
+  },
+  {
+    "channel": "52-9",
+    "name_en": "Concentration",
+    "name_ja": "集中",
+    "kairoscope_name_en": "Stillness",
+    "kairoscope_name_ja": "静寂",
+    "gates": [
+      52,
+      9
+    ],
+    "circuit": "Individual Circuit",
+    "group": "Individual",
+    "description": "静けさと集中を通じて深い洞察と持続力を発揮する力。",
+    "keywords": [
+      "集中",
+      "静寂",
+      "洞察",
+      "持続",
+      "忍耐"
+    ]
+  },
+  {
+    "channel": "53-42",
+    "name_en": "Cycles",
+    "name_ja": "循環",
+    "kairoscope_name_en": "Beginnings",
+    "kairoscope_name_ja": "始まり",
+    "gates": [
+      53,
+      42
+    ],
+    "circuit": "Tribal Circuit",
+    "group": "Tribal",
+    "description": "成長と変化のサイクルを通じて、人生の新しい段階を築く力。",
+    "keywords": [
+      "変化",
+      "成長",
+      "循環",
+      "始まり",
+      "継続"
+    ]
+  },
+  {
+    "channel": "54-32",
+    "name_en": "Ambition",
+    "name_ja": "野心",
+    "kairoscope_name_en": "Drive",
+    "kairoscope_name_ja": "推進力",
+    "gates": [
+      54,
+      32
+    ],
+    "circuit": "Tribal Circuit",
+    "group": "Tribal",
+    "description": "野心を持ち、社会的成功と地位を目指して推進力を発揮する力。",
+    "keywords": [
+      "野心",
+      "成功",
+      "推進力",
+      "競争",
+      "社会的地位"
+    ]
+  },
+  {
+    "channel": "55-39",
+    "name_en": "Emoting",
+    "name_ja": "感情",
+    "kairoscope_name_en": "Emotional Wave",
+    "kairoscope_name_ja": "感情の波",
+    "gates": [
+      55,
+      39
+    ],
+    "circuit": "Individual Circuit",
+    "group": "Individual",
+    "description": "感情の起伏を通じて自己理解と表現を深める力。",
+    "keywords": [
+      "感情",
+      "表現",
+      "自己理解",
+      "波動",
+      "変動"
+    ]
+  },
+  {
+    "channel": "56-33",
+    "name_en": "The Wanderer",
+    "name_ja": "放浪者",
+    "kairoscope_name_en": "Emotions",
+    "kairoscope_name_ja": "感情",
+    "gates": [
+      56,
+      33
+    ],
+    "circuit": "Individual Circuit",
+    "group": "Individual",
+    "description": "経験を通じて感情を伝え、他者に影響を与える力。",
+    "keywords": [
+      "経験",
+      "感情",
+      "共有",
+      "物語",
+      "学び"
+    ]
+  },
+  {
+    "channel": "57-34",
+    "name_en": "Power",
+    "name_ja": "パワー",
+    "kairoscope_name_en": "Survival Spark",
+    "kairoscope_name_ja": "生き延びる直感",
+    "gates": [
+      57,
+      34
+    ],
+    "circuit": "Integration Circuit",
+    "group": "Integration",
+    "description": "危険を察知して生き延びる本能的な力。動物的なカンで直感的に状況を判断し、即時に反応できる感性。",
+    "keywords": [
+      "直感",
+      "生存本能",
+      "即応性",
+      "反射"
+    ]
+  },
+  {
+    "channel": "58-18",
+    "name_en": "Joy",
+    "name_ja": "喜び",
+    "kairoscope_name_en": "Vitality",
+    "kairoscope_name_ja": "活力",
+    "gates": [
+      58,
+      18
+    ],
+    "circuit": "Tribal Circuit",
+    "group": "Tribal",
+    "description": "人生に喜びと活力をもたらし、挑戦を楽しむ力。周囲に元気と明るさをもたらす。",
+    "keywords": [
+      "喜び",
+      "活力",
+      "挑戦",
+      "楽観",
+      "エネルギー"
+    ]
+  },
+  {
+    "channel": "59-6",
+    "name_en": "Intimacy",
+    "name_ja": "親密さ",
+    "kairoscope_name_en": "Sexuality",
+    "kairoscope_name_ja": "性的親密さ",
+    "gates": [
+      59,
+      6
+    ],
+    "circuit": "Tribal Circuit",
+    "group": "Tribal",
+    "description": "親密な関係を築き、境界線を調整しながら深い絆を育む力。",
+    "keywords": [
+      "親密さ",
+      "感情",
+      "絆",
+      "関係性",
+      "調整"
+    ]
+  },
+  {
+    "channel": "60-3",
+    "name_en": "Mutation",
+    "name_ja": "変異",
+    "kairoscope_name_en": "Evolution Pulse",
+    "kairoscope_name_ja": "進化の脈動",
+    "gates": [
+      60,
+      3
+    ],
+    "circuit": "Individual Circuit",
+    "group": "Individual",
+    "description": "新しい秩序を創造し、混沌から革新を生み出す力。",
+    "keywords": [
+      "進化",
+      "変容",
+      "混沌",
+      "秩序",
+      "革新"
+    ]
+  },
+  {
+    "channel": "61-24",
+    "name_en": "Awareness",
+    "name_ja": "意識",
+    "kairoscope_name_en": "Awakening",
+    "kairoscope_name_ja": "目覚め",
+    "gates": [
+      61,
+      24
+    ],
+    "circuit": "Individual Circuit",
+    "group": "Individual",
+    "description": "深い洞察と精神的覚醒を通じて真理を追求する力。",
+    "keywords": [
+      "洞察",
+      "覚醒",
+      "精神性",
+      "知識探求",
+      "真理"
+    ]
+  },
+  {
+    "channel": "62-17",
+    "name_en": "Acceptance",
+    "name_ja": "受容",
+    "kairoscope_name_en": "Detailing",
+    "kairoscope_name_ja": "詳細化",
+    "gates": [
+      62,
+      17
+    ],
+    "circuit": "Individual Circuit",
+    "group": "Individual",
+    "description": "細部に注意を払い、情報や知識を整理し共有する力。",
+    "keywords": [
+      "分析",
+      "詳細",
+      "伝達",
+      "理解",
+      "整理"
+    ]
+  },
+  {
+    "channel": "63-4",
+    "name_en": "Logic",
+    "name_ja": "論理",
+    "kairoscope_name_en": "Doubt",
+    "kairoscope_name_ja": "疑念",
+    "gates": [
+      63,
+      4
+    ],
+    "circuit": "Individual Circuit",
+    "group": "Individual",
+    "description": "疑問を持ち、問題解決のための論理的思考を促す力。",
+    "keywords": [
+      "論理",
+      "疑問",
+      "思考",
+      "解決",
+      "分析"
+    ]
+  },
+  {
+    "channel": "64-47",
+    "name_en": "Abstract Thought",
+    "name_ja": "抽象思考",
+    "kairoscope_name_en": "Confusion",
+    "kairoscope_name_ja": "混乱",
+    "gates": [
+      64,
+      47
+    ],
+    "circuit": "Individual Circuit",
+    "group": "Individual",
+    "description": "思考の混乱から明確な洞察へと導く抽象的思考の力。",
+    "keywords": [
+      "抽象",
+      "思考",
+      "洞察",
+      "混乱",
+      "理解"
+    ]
+  }
+]
