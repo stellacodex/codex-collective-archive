@@ -1,12 +1,25 @@
 # 🌟Relational Design Blueprint
 
+## Overview
+この `Relational Design Blueprint` は、タケの占術データと相手の情報を基に、相性鑑定を行うための設計図です。Step0の参照リンクを読み込み、関係性の初期設定を構築し、Step1～4のプロセスで相性を分析してください。目的は、タケと相手の感情的・論理的な共鳴ポイントを特定し、関係性のハーモニーを提案することです。
+
+**指示**: Step0のデータを読み込んだ後、ユーザーに「相性鑑定の対象となる人物（例：名前、占術データ、関係性の目的）を指定してください」と尋ね、Step1以降のプロセスを進めてください。
+
+
 ## ✅ Step0: Source
 
-\- PlanA Link: [https://github.com/stellacodex/codex-collective-archive/blob/main/common-system/01-system/chronogram-system/chronogram-prompts/01-master/planA-master.md](https://github.com/stellacodex/codex-collective-archive/blob/main/common-system/01-system/chronogram-system/chronogram-prompts/01-master/planA-master.md)
+PlanAのリンクに記載されたデータを自動的に取得し、関係性設計の初期設定として使用してください。
+- PlanA Link: [https://github.com/stellacodex/codex-collective-archive/blob/main/common-system/01-system/chronogram-system/chronogram-prompts/01-master/planA-master.md](https://github.com/stellacodex/codex-collective-archive/blob/main/common-system/01-system/chronogram-system/chronogram-prompts/01-master/planA-master.md)
+**指示**: これらのファイルの内容を解析し、タケの占術データと合わせて、関係性鑑定の初期設定を構築してください。
 
--PlanAplus Link: [https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/chronogram-prompts/01-master/planAplus-master.md](https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/chronogram-prompts/01-master/planAplus-master.md)
+PlanAplusについては明示的な指示があるときのみに取得、関係性設計の初期設定として使用してください。
+- PlanAplus Link: [https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/chronogram-prompts/01-master/planAplus-master.md](https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/chronogram-prompts/01-master/planAplus-master.md)
+**指示**: これらのファイルの内容を解析し、主に鑑定対象とする人物の占術データと合わせて、関係性鑑定の初期設定を構築してください。
 
-\- Backup data: 1976.12.08 01:38 JST, Kushiro
+*planA-master.md はユーザーが主体として利用するための基本データ、planAplus-master.md はサービスの公開を前提とした時のよそ行きモードのデータ。
+
+
+- Backup data: 1976.12.08 01:38 JST, Kushiro
 
 ---
 
