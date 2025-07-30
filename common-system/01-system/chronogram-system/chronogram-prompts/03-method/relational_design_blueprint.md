@@ -9,11 +9,11 @@
 ## ✅ Step0: Source
 
 PlanAのリンクに記載されたデータを自動的に取得し、関係性設計の初期設定として使用してください。
-- PlanA Link: [https://github.com/stellacodex/codex-collective-archive/blob/main/common-system/01-system/chronogram-system/chronogram-prompts/01-master/planA-master.md](https://github.com/stellacodex/codex-collective-archive/blob/main/common-system/01-system/chronogram-system/chronogram-prompts/01-master/planA-master.md)
+- PlanA Link: [https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/chronogram-prompts/01-master/planA-master.md](https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/chronogram-prompts/01-master/planA-master.md)
 **指示**: これらのファイルの内容を解析し、タケの占術データと合わせて、関係性鑑定の初期設定を構築してください。
 
 PlanAplusについては明示的な指示があるときのみに取得、関係性設計の初期設定として使用してください。
-- PlanAplus Link: [https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/chronogram-prompts/01-master/planAplus-master.md](https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/chronogram-prompts/01-master/planAplus-master.md)
+- PlanAplus Link: [https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/chronogram-prompts/01-master/planAplus-master.mdd](https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/chronogram-prompts/01-master/planAplus-master.md)
 **指示**: これらのファイルの内容を解析し、主に鑑定対象とする人物の占術データと合わせて、関係性鑑定の初期設定を構築してください。
 
 *planA-master.md はユーザーが主体として利用するための基本データ、planAplus-master.md はサービスの公開を前提とした時のよそ行きモードのデータ。
