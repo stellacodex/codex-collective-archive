@@ -1,0 +1,69 @@
+{
+  "rave_chart": {
+    "birth": {
+      "date": "1976-12-08",
+      "time": "01:05",
+      "timezone": "Asia/Tokyo",
+      "location": "Tokyo, Japan",
+      "type": "",
+      "strategy": "",
+      "authority": "",
+      "profile": "",
+      "profile_full": "",
+      "definition_type": "",
+      "centres": {
+        "defined": [],
+        "undefined": []
+      },
+      "channels": {
+        "active": [],
+        "active_channels_detail": []
+      },
+      "gates": {
+        "design": [],
+        "personality": []
+      },
+      "not_self_theme": "",
+      "signature": "",
+      "deconditioning_note": "",
+      "aura_type": ""
+    },
+    "mdc": {
+      "composite_name": "",
+      "mdc_description": "",
+      "keywords": [],
+      "circuit_class": "",
+      "channels_info": []
+    },
+    "phs": {
+      "digestion": "",
+      "digestion_detail": "",
+      "environment": "",
+      "environment_detail": "",
+      "perspective": "",
+      "perspective_detail": "",
+      "motivation": "",
+      "motivation_detail": ""
+    },
+    "variables": {
+      "body_variable": "",
+      "mind_variable": "",
+      "perspective_variable": "",
+      "motivation_variable": ""
+    },
+    "definition_logic": {
+      "definition_type": "",
+      "center_pairs": [],
+      "circuit_distribution": {
+        "individual": 0,
+        "collective": 0,
+        "tribal": 0
+      }
+    },
+    "wounds": {
+      "genetic_wound": "",
+      "way_of_healing": "",
+      "emotional_trigger": "",
+      "sexual_wound": ""
+    }
+  }
