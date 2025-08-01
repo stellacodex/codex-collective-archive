@@ -54,6 +54,9 @@ def generate_kairoscope_md(data):
     defined_centers, undefined_centers = get_defined_undefined_centers(defined_channels, channel_definitions)
     md.append("")
 
+    print("Defined channels in chart:", defined_channels)
+    print("→ Extracted center keys:", defined_centers)
+
     # Centers
     md.append("---\n\n#### 🌀 Centers")
     poetic = False  # True にすればKairoscope文体で出力可
@@ -123,6 +126,12 @@ def save_md(md_text, output_path):
     with open(output_path, 'w', encoding='utf-8') as f:
         f.write(md_text)
 
+def find_channel_definition(defs, ch_key):
+    for entry in defs:
+        if ch_key in entry["channel"]:
+            return entry
+    return None
+
 def get_defined_undefined_centers(defined_channels, channel_definitions):
     defined_centers = set()
 
@@ -134,10 +143,10 @@ def get_defined_undefined_centers(defined_channels, channel_definitions):
         else:
             continue  # 無効な形式はスキップ
 
-        if ch in channel_definitions:
-            centers = channel_definitions[ch].get("centers", [])
-            if centers:
-                defined_centers.update(centers)
+        info = find_channel_definition(channel_definitions.values(), ch)
+        if info:
+            centers = info.get("centers", [])
+            defined_centers.update(centers)
 
     undefined_centers = [c for c in ALL_CENTERS if c not in defined_centers]
     return sorted(list(defined_centers)), sorted(undefined_centers)
@@ -148,8 +157,8 @@ def generate_channel_section(defined_channels, channel_definitions):
     lines = []
     for ch_entry in defined_channels:
         ch_key = ch_entry if isinstance(ch_entry, str) else ch_entry.get('channel')
-        if ch_key in channel_definitions:
-            info = channel_definitions[ch_key]
+        info = find_channel_definition(channel_definitions.values(), ch_key)
+        if info:
             jp = info.get("japanese_name", "N/A")
             en = info.get("english_name", "N/A")
             kairo = info.get("kairoscope_name", "N/A")
@@ -191,6 +200,3 @@ if __name__ == '__main__':
     md_text = generate_kairoscope_md(data)
     save_md(md_text, output_md)
     print(f"✅ .mdファイルを生成しました → {output_md}")
-
-    print("Defined channels in chart:", defined_channels)
-    print("→ Extracted center keys:", defined_centers)
