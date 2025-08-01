@@ -1,4 +1,4 @@
-#### metaphysical-profile-takeo-yamada-intg
+#### metaphysical-profile-integrated-takeo-yamada
 
 名前：山田　岳男（やまだ　たけお）
 生年月日：1976年12月8日

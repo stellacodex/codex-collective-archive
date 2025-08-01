@@ -1,0 +1,191 @@
+{
+   "rave_chart": {
+      "birth": {
+         "date": "1989-01-11",
+         "time": "08:45",
+         "location": "Yokohama, Japan"
+      },
+      "type": "Projector",
+      "definition": "Single",
+      "authority": "Emotional",
+      "profile": "5/1",
+      "cross": "Right Angle Cross of the Clarion 1 (41/31 | 19/33)",
+      "defined_channels": [
+         {
+            "channel": "41-30",
+            "name": "Recognition",
+            "type": "Abstract"
+         },
+         {
+            "channel": "35-36",
+            "name": "Experience",
+            "type": "Abstract"
+         },
+         {
+            "channel": "22-12",
+            "name": "Openness",
+            "type": "Individual"
+         },
+         {
+            "channel": "19-49",
+            "name": "Sensitivity",
+            "type": "Tribal"
+         }
+      ]
+   },
+   "mechanics": {
+      "defined_centers": [
+         "Ajna",
+         "Throat",
+         "G Center",
+         "Solar Plexus",
+         "Root"
+      ],
+      "undefined_centers": [
+         "Head",
+         "Spleen",
+         "Sacral",
+         "Heart"
+      ],
+      "channels": [
+         {
+            "channel": "41-30",
+            "name": "Recognition",
+            "type": "Abstract"
+         },
+         {
+            "channel": "35-36",
+            "name": "Experience",
+            "type": "Abstract"
+         },
+         {
+            "channel": "22-12",
+            "name": "Openness",
+            "type": "Individual"
+         },
+         {
+            "channel": "19-49",
+            "name": "Sensitivity",
+            "type": "Tribal"
+         }
+      ],
+      "personality_gates": [
+         41,
+         35,
+         12,
+         19,
+         33,
+         49
+      ],
+      "design_gates": [
+         30,
+         36,
+         22,
+         55,
+         13,
+         46
+      ],
+      "not_self": [
+         "Sacral: 'I have to respond'",
+         "Spleen: 'I need to be secure'"
+      ]
+   },
+   "variables": {
+      "variable": "PRL-DRL",
+      "digestion": "Calm Tone / Consecutive Appetite",
+      "environment": "Markets",
+      "perspective": "Possibility",
+      "motivation": "Guilt"
+   },
+   "phs": {
+      "variable": "PRL-DRL",
+      "digestion": {
+         "tone": "Calm Tone",
+         "type": "Consecutive Appetite"
+      },
+      "environment": "Markets",
+      "perspective": "Possibility",
+      "motivation": "Guilt"
+   },
+   "wounds": {
+      "sexual_wound": "Gate 36.3",
+      "genetic_wound": "Gate 22.4"
+   },
+   "hologenetics": {
+      "activation_sequence": {
+         "life_work": {
+            "gate": 41,
+            "line": 3
+         },
+         "evolution": {
+            "gate": 31,
+            "line": 3
+         },
+         "radiance": {
+            "gate": 19,
+            "line": 6
+         },
+         "purpose": {
+            "gate": 33,
+            "line": 6
+         }
+      },
+      "venus_sequence": {
+         "attraction": {
+            "gate": 36,
+            "line": 3
+         },
+         "iq": {
+            "gate": 22,
+            "line": 4
+         },
+         "eq": {
+            "gate": 55,
+            "line": 4
+         },
+         "sq": {
+            "gate": 13,
+            "line": 4
+         },
+         "core_wound": {
+            "gate": 46,
+            "line": 1
+         }
+      }
+   },
+   "dream_rave": {
+      "light_field": "Gate 13",
+      "earth_plane": "Gate 22",
+      "demon_realm": "Gate 46"
+   },
+   "mdc": {
+      "type": "Emotional Projector",
+      "description": "A visionary guide with emotional depth and clarity.",
+      "keywords": [
+         "clarity",
+         "guidance",
+         "emotional depth",
+         "projector vision"
+      ]
+   },
+   "mdc": {
+      "composite_name": "Clarion of the Hidden Tide",
+      "kairoscope_name": "Echo 36.3",
+      "primary_element": "Liquid Light",
+      "shadow_element": "Residual Memory",
+      "essence_description": "Moves between emotional epochs, carrying the frequency of forgotten futures. Sensitive yet catalytic.",
+      "channels": [
+         "41-30",
+         "35-36",
+         "22-12",
+         "19-49"
+      ],
+      "keywords": [
+         "emotional clarity",
+         "initiation",
+         "memory loop",
+         "tidewalker"
+      ],
+      "design_language": "Tidewave Syntax / Emotional Echo Encoding"
+   }
+}
