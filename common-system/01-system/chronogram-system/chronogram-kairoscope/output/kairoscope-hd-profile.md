@@ -19,16 +19,24 @@
 ---
 
 #### 🔸 Defined Channels
-- **41-30**：❓ 未定義チャンネル
-- **35-36**：❓ 未定義チャンネル
-- **22-12**：❓ 未定義チャンネル
-- **19-49**：❓ 未定義チャンネル
+- **41-30｜N/A / N/A**｜Kairoscope名「Dream Catalyst」
+　　強烈な感情と欲望を起点にして、新たな体験や物語を生み出す起爆装置。｜🧩 Keywords: 欲望, 幻想, 夢の起点, ドラマ, 感情
+
+- **35-36｜N/A / N/A**｜Kairoscope名「Emotional Surge」
+　　感情の波を通じて新しい経験を求め、変化と冒険へと駆り立てられる。｜🧩 Keywords: 経験, 感情波, 変化, 冒険, 多様性
+
+- **22-12｜N/A / N/A**｜Kairoscope名「Emotional Voice」
+　　情緒が満ちたときにだけ表現される独自の声。感受性と創造性の解放。｜🧩 Keywords: 感情, ムード, 創造性, 静けさ, 開放
+
+- **19-49｜N/A / N/A**｜Kairoscope名「Tribal Sensitivity」
+　　部族的な絆や信頼を築くための感受性と感情の門。｜🧩 Keywords: ニーズ, 感情, 同盟, サポート, 拒絶／受容
+
 
 ---
 
 #### 🌀 Centers
-**Defined**: None
-**Undefined**: Ajna, G, Head, Heart, Root, Sacral, Solar Plexus, Spleen, Throat
+**Defined**: Root, Solar Plexus, Throat
+**Undefined**: Ajna, G, Head, Heart, Sacral, Spleen
 
 ---
 

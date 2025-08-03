@@ -9,6 +9,11 @@ from core.definitions.loader import load_gate_definitions, load_channel_definiti
 from core.variable_logic import extract_phs_variables
 from core.mbti_templates import suggest_mbti_structure
 
+import json
+import os
+
+
+# === 関数定義 ===
 
 def build_chart(birth_data):
     positions = get_planet_positions(birth_data, include_design=True)
@@ -55,14 +60,22 @@ def build_chart(birth_data):
     }
 
 
+# === 実行処理（任意テスト用）===
 if __name__ == "__main__":
     birth_data = {
-        "date": "1983-05-01",
-        "time": "14:35",
-        "location": "Aomori, Japan"
+        "year": 1983,
+        "month": 5,
+        "day": 1,
+        "hour": 12,
+        "minute": 0,
+        "timezone": "Asia/Tokyo",
+        "location": "Aomori"
     }
 
-    chart = build_chart(birth_data)
+    chart_data = build_chart(birth_data)
 
-    import json
-    print(json.dumps(chart, indent=2, ensure_ascii=False))
+    os.makedirs("output", exist_ok=True)
+    with open("output/data.json", "w") as f:
+        json.dump(chart_data, f, indent=2, ensure_ascii=False)
+
+    print("✅ data.json を output/ に保存したよ")
