@@ -48,16 +48,27 @@ def build_chart(birth_data):
 
     mbti_suggestion = suggest_mbti_structure(profile, variables.get("Variable", ""), authority)
 
+    # === 🔧 ここで返り値をラップ ===
     return {
-        "planet_positions": personality_pos,
-        "gates": gates,
-        "active_channels": enriched_channels,
-        "defined_centers": defined_centers,
-        "profile": profile,
-        "authority": authority,
-        "variables": variables,
-        "mbti_suggestion": mbti_suggestion
+        "chart": {
+            "planet_positions": personality_pos,
+            "gates": gates,
+            "active_channels": enriched_channels,
+            "defined_centers": defined_centers,
+            "profile": profile,
+            "authority": authority,
+            "variables": variables,
+            "mbti_suggestion": mbti_suggestion
+        },
+        "rave_chart": {
+            "birth": {
+                "date": f"{birth_data['year']:04d}-{birth_data['month']:02d}-{birth_data['day']:02d}",
+                "time": f"{birth_data['hour']:02d}:{birth_data['minute']:02d}",
+                "location": birth_data["location"]
+            }
+        }
     }
+
 
 
 # === 実行処理（任意テスト用）===

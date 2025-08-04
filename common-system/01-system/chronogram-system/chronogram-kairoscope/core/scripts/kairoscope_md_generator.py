@@ -263,6 +263,42 @@ def format_centers(defined, undefined, poetic=False):
 
     return f"**Defined**: {defined_formatted}\n**Undefined**: {undefined_formatted}"
 
+    # PersonalityとDesignのGatesを抽出
+    personality_gates = []
+    design_gates = []
+    for planet, g in raw_gates.items():
+        gl_str = f"{g['gate']}.{g['line']}"
+        if planet in personality_pos:
+            personality_gates.append(gl_str)
+        elif planet in design_pos:
+            design_gates.append(gl_str)
+
+    return {
+        "chart": {
+            "planet_positions": personality_pos,
+            "gates": gates,
+            "active_channels": enriched_channels,
+            "defined_centers": defined_centers,
+            "profile": profile,
+            "authority": authority,
+            "variables": variables,
+            "mbti_suggestion": mbti_suggestion,
+            "personality": {
+                "gates": personality_gates
+            },
+            "design": {
+                "gates": design_gates
+            }
+        },
+        "rave_chart": {
+            "birth": {
+                "date": f"{birth_data['year']:04d}-{birth_data['month']:02d}-{birth_data['day']:02d}",
+                "time": f"{birth_data['hour']:02d}:{birth_data['minute']:02d}",
+                "location": birth_data["location"]
+            }
+        }
+    }
+
 
 # Example usage
 if __name__ == '__main__':
@@ -293,9 +329,10 @@ with open("output/data.json", "w") as f:
     json.dump(chart_data, f, indent=2, ensure_ascii=False)
 
 # Markdown化処理（本体）
-md_text = generate_kairoscope_md({"chart": chart_data})
+md_text = generate_kairoscope_md(chart_data)
 with open("output/kairoscope_chart.md", "w") as f:
     f.write(md_text)
 
 print("✅ Kairoscope Markdown 出力完了！→ output/kairoscope_chart.md")
+print(chart_data.keys())  # → dict_keys(['chart', 'rave_chart'])
 
