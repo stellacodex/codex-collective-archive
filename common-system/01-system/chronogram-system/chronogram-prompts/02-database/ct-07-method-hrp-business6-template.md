@@ -1,6 +1,6 @@
-# constitutional theory 素質タイプ（詳細）
+# constitutional theory - Skill Set Diagnosis - Human Resource Profiling
 
-## CANCODE-BIZ HRプロファイリングテンプレート
+## Personal Wealth Strategy (PWS) - Human Resource Profiling (HRP) Template
 
 **フォーマット**：Markdownベース（Power BIやCanvaでのビジュアライズ推奨）\
 **デザインコンセプト**：シンプルかつエレガント。視覚言語を活かし、データが「物語の断片」として響くように。

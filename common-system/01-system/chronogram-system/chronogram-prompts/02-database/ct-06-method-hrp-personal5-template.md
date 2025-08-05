@@ -1,6 +1,6 @@
 # constitutional theory - Skill Set Diagnosis - Personal Sheet
 
-## Personal Wealth Strategy (PWS) - 5steps：戦略的アプローチ
+## Personal Wealth Strategy (PWS) - 5steps：Skill Set Diagnosis Template
 
 「視覚言語」や「関係性の構築」の視点を取り入れ、IT/Fintech業界での富の創造を、詩的かつ実践的に整理した５ステップ。CANCODE-BIZの文脈に合わせて、社員の力を最大化し、組織の成長を加速させるプロセス提案。余白を残しつつ、物語として響くように。
 
