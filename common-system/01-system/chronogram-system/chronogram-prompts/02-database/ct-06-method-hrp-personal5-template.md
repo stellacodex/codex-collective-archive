@@ -1,10 +1,10 @@
-# constitutional theory 素質タイプ（詳細）
+# constitutional theory - Skill Set Diagnosis - Personal Sheet
 
-## 富をもたらす５ステップ：CANCODE-BIZ風の戦略的アプローチ
+## Personal Wealth Strategy (PWS) - 5steps：戦略的アプローチ
 
 「視覚言語」や「関係性の構築」の視点を取り入れ、IT/Fintech業界での富の創造を、詩的かつ実践的に整理した５ステップ。CANCODE-BIZの文脈に合わせて、社員の力を最大化し、組織の成長を加速させるプロセス提案。余白を残しつつ、物語として響くように。
 
-### ◆ ステップI：Knowledge（知識）シート
+### ◆ Step1 SSD PS-I：Knowledge Sheet（知識）
 
 #### ビジョンの風景を描く (Sketch the Landscape of Vision)
 
@@ -17,7 +17,7 @@
 - **ビジネス要素**：Fintech業界のトレンド（例：DeFi、AI駆動の資産管理）を反映し、社員の技術的貢献をビジョンに結びつける。
 - **アウトプット**：ビジョンボード（CanvaやMiroで作成推奨）。
 
-### ◆ ステップII：Extraction（抽出）シート
+### ◆ Step2 SSD PS-II：Extraction（抽出）シート
 
 #### スキルの物語を紡ぐ (Weave the Narrative of Skills)
 
@@ -30,7 +30,7 @@
 - **ビジネス要素**：IT/Fintech特有のスキル（例：スマートコントラクト開発）を強調。社員の「成長の物語」をデータで可視化。
 - **アウトプット**：スキルマップとトレーニング計画表。
 
-### ◆ ステップIII：Verify（検証）シート
+### ◆ Step3 SSD PS-III：Verify（検証）シート
 
 #### 関係性の橋を架ける (Build Bridges of Relationships)
 
@@ -43,7 +43,7 @@
 - **ビジネス要素**：リモートワーク環境での関係性構築を重視。SlackやLarkを活用したコミュニケーションツール統合。
 - **アウトプット**：関係性マップとメンタリングスケジュール。
 
-### ◆ ステップIV：Strategy（戦略）シート
+### ◆ Step4 SSD PS-IV：Strategy（戦略）シート
 
 #### 成果の位相を測る (Measure the Phase of Outcomes)
 
@@ -56,7 +56,7 @@
 - **ビジネス要素**：Fintech特有のKPI（例：セキュリティインシデント対応時間）を追加。AI駆動の分析ツール（例：Leapsome）でデータドリブンな評価。
 - **アウトプット**：パフォーマンスレポートとレーダーチャート。
 
-### ◆ ステップV：Distribution（分布）シート
+### ◆ Step5 SSD PS-V：Distribution（分布）シート
 
 #### 未来の余白を耕す (Cultivate the Margins of the Future)
 

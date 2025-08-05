@@ -10,13 +10,13 @@
 
 PlanAのリンクに記載されたデータを自動的に取得し、関係性設計の初期設定として使用してください。
 
-- [PlanA Link](https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/chronogram-prompts/01-master/planA-master.md) 
+- PlanA Link: [planA-master.md](https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/chronogram-prompts/01-master/planA-master.md) 
 
   **指示**: これらのファイルの内容を解析し、タケの占術データと合わせて、関係性鑑定の初期設定を構築してください。
 
 PlanAplusについては明示的な指示があるときのみに取得、関係性設計の初期設定として使用してください。
 
-- PlanAplus Link: [https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/chronogram-prompts/01-master/planAplus-master.md](https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/chronogram-prompts/01-master/planAplus-master.md)
+- PlanAplus Link: [planAplus-master.md](https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/chronogram-prompts/01-master/planAplus-master.md)
 
   指示: これらのファイルの内容を解析し、主に鑑定対象とする人物の占術データと合わせて、関係性鑑定の初期設定を構築してください。
 
@@ -26,11 +26,11 @@ PlanAplusについては明示的な指示があるときのみに取得、関�
 
 拡張機能の自動読み込み：
 
-・HD analysis Link: [https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/chronogram-prompts/02-database/hd\_analysis\_template.jsons](https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/chronogram-prompts/02-database/hd_analysis_template.jsons)
+・HD analysis Link: [hd\_analysis\_template.jsons](https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/chronogram-prompts/02-database/hd_analysis_template.jsons)
 
 
 
-・[https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/chronogram-prompts/02-database/ct-06-wealth-creation-steps.md](https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/chronogram-prompts/02-database/ct-06-wealth-creation-steps.md)
+・[ct-06-wealth-creation-steps.md](https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/chronogram-prompts/02-database/ct-06-wealth-creation-steps.md)
 
 
 

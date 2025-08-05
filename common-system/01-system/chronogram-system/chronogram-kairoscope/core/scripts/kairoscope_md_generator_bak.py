@@ -1,12 +1,5 @@
 # kairoscope_md_generator.py
 
-import sys
-import os
-import json
-
-# このスクリプトのあるディレクトリ（core/scripts）から2階層上に移動し、ルートをpathに追加
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../..')))
-
 import json
 with open('core/definitions/channel-definitions.json', 'r') as f:
     channel_definitions = json.load(f)
@@ -20,6 +13,13 @@ with open('core/definitions/gate-definitions.json', 'r') as f:
 
 import json
 from datetime import datetime
+
+import sys
+import os
+import json
+
+# このスクリプトのあるディレクトリ（core/scripts）から2階層上に移動し、ルートをpathに追加
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../..')))
 
 # ローカルモジュールのインポート
 from core.builder.chart_builder import build_chart
@@ -299,31 +299,40 @@ def format_centers(defined, undefined, poetic=False):
         }
     }
 
-# from core.chart_builder import build_chart
-from core.builder.chart_builder import build_chart
-import json
 
 # Example usage
 if __name__ == '__main__':
-    birth_info = {
-        "year": 1983,
-        "month": 5,
-        "day": 1,
-        "hour": 12,
-        "minute": 0,
-        "timezone": "Asia/Tokyo",
-        "location": "Aomori"
-    }
+    input_json = "data/kairoscope-hd-profile.json"
+    output_md = 'output/kairoscope-hd-profile.md'
 
-    chart_data = build_chart(birth_info)
-    os.makedirs("output", exist_ok=True)
+    data = load_kairoscope_json(input_json)
+    md_text = generate_kairoscope_md(data)
+    save_md(md_text, output_md)
+    print(f"✅ .mdファイルを生成しました → {output_md}")
 
-    with open("output/data.json", "w", encoding="utf-8") as f:
-        json.dump(chart_data, f, indent=2, ensure_ascii=False)
 
-    md_text = generate_kairoscope_md(chart_data)
-    with open("output/kairoscope_chart.md", "w", encoding="utf-8") as f:
-        f.write(md_text)
+# 自動生成に必要な出生情報（ここ、後で引数化可）
+birth_info = {
+    "year": 1983,
+    "month": 5,
+    "day": 1,
+    "hour": 12,
+    "minute": 0,
+    "timezone": "Asia/Tokyo",
+    "location": "Aomori"
+}
 
-    print("✅ Kairoscope Markdown 出力完了！→ output/kairoscope_chart.md")
+# チャート生成して、data.json を output/ に書き出し
+chart_data = build_chart(birth_info)
+os.makedirs("output", exist_ok=True)
+with open("output/data.json", "w") as f:
+    json.dump(chart_data, f, indent=2, ensure_ascii=False)
+
+# Markdown化処理（本体）
+md_text = generate_kairoscope_md(chart_data)
+with open("output/kairoscope_chart.md", "w") as f:
+    f.write(md_text)
+
+print("✅ Kairoscope Markdown 出力完了！→ output/kairoscope_chart.md")
+print(chart_data.keys())  # → dict_keys(['chart', 'rave_chart'])
 
