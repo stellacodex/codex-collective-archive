@@ -1,4 +1,4 @@
-# constitutional theory ### 素質タイプ（詳細）
+# constitutional theory 素質タイプ（詳細）
 
 ## 富をもたらす５ステップ：CANCODE-BIZ風の戦略的アプローチ
 
