@@ -114,3 +114,16 @@ updated: 2025-08-06
 - 鑑定対象者の全体像を構造化された形で冒頭に提示する  
 - 複数名の関係性やチーム構造を視覚的に把握しやすくする  
 - 鑑定に先立っての「共通認識」としてのデータベース化を担う  
+
+---
+
+## 🔗参照リンク（診断ステップ用テンプレート）
+
+- 🧭 Step 1〜7 ベーシック診断テンプレート  
+  [rdb-01-basic-7steps-diagnosis-template.md](https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/chronogram-prompts/09-chronogram-templates/rdb-01-basic-7steps-diagnosis-template.md)
+
+- 🧬 Step 1〜7 アドバンスド診断テンプレート  
+  [rdb-02-advanced-7steps-diagnosis-template.md](https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/chronogram-prompts/09-chronogram-templates/rdb-02-advanced-7steps-diagnosis-template.md)
+
+- ✨ 出力サンプル（記述例）  
+  [rdb-03-output-sample.md](https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/chronogram-prompts/09-chronogram-templates/rdb-03-output-sample.md)
