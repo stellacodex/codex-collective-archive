@@ -1,0 +1,131 @@
+{
+  "hologonetics": {
+    "name": "Takeo Yamada",
+    "date_of_birth": "08.12.1976",
+    "lifes_work_brand": 5,
+    "evolution": 35,
+    "radiance": 47,
+    "purpose": 22,
+    "attraction": 17,
+    "iq": 60,
+    "eq": 5,
+    "sq": 48,
+    "core_talent": 48,
+    "culture": 20,
+    "pearl": 23,
+    "chronogram": {
+      "temporal_context": {
+        "date": "2025-08-05",
+        "transit_highlight": "Gate 48 emphasized",
+        "energy_rhythm": "Manifestor cycle: Action → Rest",
+        "m aya_kin": "KIN 54 (White Wizard)"
+      }
+    }
+  },
+  "compatibility": {
+    "pair": [
+      {
+        "name": "Takeo Yamada",
+        "type": "Manifestor",
+        "profile": "5/1",
+        "formula": 7,
+        "definition": "Split Definition",
+        "birthdate": "08.12.1976"
+      },
+      {
+        "name": "Harp Kaneko",
+        "type": "Generator",
+        "profile": "2/4",
+        "formula": 2,
+        "definition": "Split Definition",
+        "birthdate": "27.06.1999"
+      }
+    ],
+    "kairoscope": {
+      "shared_channel": "12/22 (Voice-Social)",
+      "resonance_timing": {
+        "date": "2025-08-05",
+        "highlight": "Gate 22 activation",
+        "effect": "Enhanced emotional connection"
+      },
+      "center_interaction": {
+        "throat": "Takeo defined vs Harp undefined",
+        "dynamic": "Leadership vs adaptability"
+      }
+    }
+  },
+  "business_penta": {
+    "team_name": "Team X",
+    "chart": "BG-5 Penta Chart",
+    "participants": [
+      {
+        "name": "Kazuhiro Yamada",
+        "type": "Manifesting Generator",
+        "gates": [8, 13, 31, 46]
+      },
+      {
+        "name": "Nana Sugimoto",
+        "type": "Generator",
+        "gates": [13, 29, 46]
+      },
+      {
+        "name": "Yumiko Yamada",
+        "type": "Manifesting Generator",
+        "gates": [5, 14, 31, 33]
+      }
+    ],
+    "chronogram": {
+      "temporal_strength": {
+        "date": "2025-08-05",
+        "transit": "Gate 31 emphasized",
+        "effect": "Leadership and influence amplified"
+      }
+    },
+    "kairoscope": {
+      "roles": {
+        "leader": "Kazuhiro Yamada (Gate 31)",
+        "visionary": "Yumiko Yamada (Gate 14)",
+        "strategist": "Nana Sugimoto (Gate 29)"
+      },
+      "defined_centers": ["Throat", "G Center"],
+      "dynamics": "Clear communication, directional strength"
+    }
+  },
+  "family_penta": {
+    "family_name": "Sugimoto Family",
+    "chart": "Sugimoto Family Penta Chart",
+    "members": [
+      {
+        "name": "Seiichi Sugimoto",
+        "type": "Projector",
+        "gates": [1, 13, 14, 29, 31]
+      },
+      {
+        "name": "Nana Sugimoto",
+        "type": "Generator",
+        "gates": [13, 29, 46]
+      },
+      {
+        "name": "Yoshie Sugimoto",
+        "type": "Manifesting Generator",
+        "gates": [7, 31]
+      }
+    ],
+    "chronogram": {
+      "temporal_context": {
+        "date": "2025-08-05",
+        "transit": "Gate 31 emphasized",
+        "effect": "Harmonious leadership within family"
+      }
+    },
+    "kairoscope": {
+      "roles": {
+        "caregiver": "Nana Sugimoto (Gate 29)",
+        "harmonizer": "Yoshie Sugimoto (Gate 7)",
+        "innovator": "Seiichi Sugimoto (Gate 1)"
+      },
+      "defined_centers": ["Heart", "G Center"],
+      "dynamics": "Warm bonding with intuitive guidance"
+    }
+  }
+}
