@@ -1,4 +1,4 @@
-# 🌟Relational Design Blueprint
+# Relational Design Blueprint rdb-01-basic-7steps-diagnosis-template
 
 ## **Overview**
 

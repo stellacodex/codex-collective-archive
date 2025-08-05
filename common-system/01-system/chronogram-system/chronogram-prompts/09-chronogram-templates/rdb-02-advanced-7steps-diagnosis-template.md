@@ -1,4 +1,4 @@
-# 🌟 Relational Design Blueprint - Advanced Diagnosis
+# Relational Design Blueprint - rdb-02-advanced-7steps-diagnosis-template
 
 ## 📘 Overview
 この `Relational Design Blueprint` は、対象となるふたりの魂的関係性を、7つのステップを通して構造的に解析・可視化するための設計フレームワークです。
