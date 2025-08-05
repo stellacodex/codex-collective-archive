@@ -26,19 +26,15 @@ PlanAplusについては明示的な指示があるときのみに取得、関�
 
 拡張機能の自動読み込み：
 
-・HD analysis Link: [hd\_analysis\_template.jsons](https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/chronogram-prompts/02-database/hd_analysis_template.jsons)
+・HD analysis Link: [hd-analysis-template.jsons](https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/chronogram-prompts/09-chronogram-templates/hd-analysis-template.json)
 
 
 
-・[ct-06-wealth-creation-steps.md](https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/chronogram-prompts/02-database/ct-06-wealth-creation-steps.md)
+・PWS01 SSD Link: [pws-01-ssd-personal5-template.md](https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/chronogram-prompts/09-chronogram-templates/pws-01-ssd-personal5-template.md)
 
 
 
-・[https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/chronogram-prompts/02-database/ct-07-hr\_profiling\_template.md](https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/chronogram-prompts/02-database/ct-07-hr_profiling_template.md)
-
-
-
-・https\://raw\.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/chronogram-prompts/02-database/ct-08-hr\_profiling\_template\_enhanced.md
+・PWS02 HRP Link: [/pws-02-hrp-business6-template.md](https://raw.githubusercontent.com/stellacodex/codex-collective-archive/refs/heads/main/common-system/01-system/chronogram-system/chronogram-prompts/09-chronogram-templates/pws-02-hrp-business6-template.md)
 
 
 
