@@ -36,6 +36,19 @@ ALL_CENTERS = [
     "Solar Plexus", "Spleen", "Root"
 ]
 
+def load_channel_definitions():
+    """全チャネル定義をJSONから読み込む"""
+    path = os.path.join("core", "definitions", "channel-definitions.json")
+    with open(path, "r", encoding="utf-8") as f:
+        return json.load(f)
+
+def load_gate_definitions():
+    """全ゲート定義をJSONから読み込む"""
+    path = os.path.join("core", "definitions", "gate-definitions.json")
+    with open(path, "r", encoding="utf-8") as f:
+        return json.load(f)
+
+
 def load_kairoscope_json(filepath):
     with open(filepath, 'r', encoding='utf-8') as f:
         return json.load(f)    
@@ -125,6 +138,9 @@ def generate_kairoscope_md(data):
     variables = chart["variables"]
     centers = chart["centers"]
 
+    from core.data_loader import load_gate_definitions, load_channel_definitions
+    
+    # 全定義をロード
     channel_definitions = load_channel_definitions()
     gate_definitions = load_gate_definitions()
 
@@ -187,8 +203,6 @@ def generate_kairoscope_md(data):
     md.append("\n")
     md.append(generate_gate_section("🔴 Design Gates", design["gates"], gate_definitions))
     md.append("\n")
-
-    return "\n".join(md)
 
     # Variables
     md.append("---\n\n#### 🧭 Variables")
@@ -327,3 +341,15 @@ if __name__ == '__main__':
 
     print("✅ Kairoscope Markdown 出力完了！→ output/kairoscope_chart.md")
 
+# === テスト実行部分 ===
+if __name__ == "__main__":
+    channels = load_channel_definitions()
+    gates = load_gate_definitions()
+
+    print("=== 全チャネル定義 ===")
+    for ch_id, ch_data in channels.items():
+        print(f"{ch_id}: {ch_data['name_en']} ({ch_data['name_jp']})")
+
+    print("\n=== 全ゲート定義 ===")
+    for gate_id, gate_data in gates.items():
+        print(f"Gate {gate_id}: {gate_data['name_en']} ({gate_data['name_jp']})")
