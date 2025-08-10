@@ -1,6 +1,6 @@
-# constitutional theory - Personal Wealth Strategy - Human Resource Profiling Template
+# constitutional theory - Individual Wealth Strategy - Human Resource Profiling Template
 
-## Personal Wealth Strategy (PWS) - 6steps：Human Resource Profiling (HRP)
+## Personal Wealth Strategy (IWS) - 6steps：Human Resource Profiling (HRP)
 
 **フォーマット**：Markdownベース（Power BIやCanvaでのビジュアライズ推奨）
 **デザインコンセプト**：シンプルかつエレガント。視覚言語を活かし、データが「物語の断片」として響くように。

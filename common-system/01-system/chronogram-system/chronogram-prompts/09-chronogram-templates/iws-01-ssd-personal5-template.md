@@ -1,6 +1,6 @@
-# constitutional theory - Personal Wealth Strategy - Skill Set Diagnosis Template
+# constitutional theory - Individual Wealth Strategy - Skill Set Diagnosis Template
 
-## Personal Wealth Strategy (PWS) - 5steps：Skill Set Diagnosis (SSD)
+## Individual Wealth Strategy (IWS) - 5steps：Skill Set Diagnosis (SSD)
 
 「視覚言語」や「関係性の構築」の視点を取り入れ、IT/Fintech業界での富の創造を、詩的かつ実践的に整理した５ステップ。
 個人の力を最大化し、組織の成長を加速させるプロセス提案。余白を残しつつ、物語として響くように。
